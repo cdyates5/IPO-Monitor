@@ -1,0 +1,89 @@
+name: Refresh IPO dashboard
+
+on:
+  schedule:
+    # 22:17 UTC Mon–Fri — after the US close (09:17 next morning in Melbourne/Sydney during AEDT).
+    - cron: "17 22 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      full_calendar:
+        description: "Re-download every Nasdaq calendar month (slow, rarely needed)"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - "data/manual.json"
+      - "scripts/**"
+      - ".github/workflows/refresh.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ipo-dashboard-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write   # commit refreshed data back to the repo
+      issues: write     # open/close alert issues
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch data (fails soft — build still runs from cache)
+        id: fetch
+        continue-on-error: true
+        run: python scripts/fetch_data.py ${{ inputs.full_calendar && '--full' || '' }}
+
+      - name: Build dashboard
+        id: build
+        run: python scripts/build.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Refresh IPO dashboard data ($(date -u +%Y-%m-%d))"
+            git pull --rebase --autostash origin main
+            git push origin HEAD:main
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Raise or close alert issues
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FAILED: ${{ steps.fetch.outputs.failed_sources }}
+          RITTER: ${{ steps.fetch.outputs.ritter_changed }}
+          WARN: ${{ steps.build.outputs.build_warnings }}
+        run: python scripts/raise_issues.py
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
