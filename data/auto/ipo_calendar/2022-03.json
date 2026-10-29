@@ -1,0 +1,132 @@
+{
+ "month": "2022-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "RVSN",
+   "name": "Rail Vision Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.13",
+   "shares": "3,787,241",
+   "priced_date": "2022-03-31",
+   "offer_usd": 15641305.0
+  },
+  {
+   "ticker": "RWODU",
+   "name": "Greenland Mines Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-03-31",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "ANTX",
+   "name": "AN2 Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "4,600,000",
+   "priced_date": "2022-03-25",
+   "offer_usd": 69000000.0
+  },
+  {
+   "ticker": "LCFY",
+   "name": "Locafy Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.125",
+   "shares": "1,454,546",
+   "priced_date": "2022-03-25",
+   "offer_usd": 6007275.0
+  },
+  {
+   "ticker": "RFACU",
+   "name": "RF Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-03-24",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "GDSTU",
+   "name": "Chi Special Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2022-03-17",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "AKAN",
+   "name": "AKANDA CORP.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "4,000,000",
+   "priced_date": "2022-03-15",
+   "offer_usd": 16000000.0
+  },
+  {
+   "ticker": "NUBIU",
+   "name": "Solidion Technology Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "11,000,000",
+   "priced_date": "2022-03-11",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "PLAOU",
+   "name": "Patria Latin American Opportunity Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-03-10",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "LBBBU",
+   "name": "Lakeshore Acquisition II Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2022-03-09",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "SHUAU",
+   "name": "SHUAA Partners Acquisition Corp I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-03-02",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "KCACU",
+   "name": "Amprius Technologies, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-03-02",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SPCMU",
+   "name": "Sound Point Acquisition Corp I, Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2022-03-02",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "VMCAU",
+   "name": "Valuence Merger Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-03-01",
+   "offer_usd": 200000000.0
+  }
+ ]
+}

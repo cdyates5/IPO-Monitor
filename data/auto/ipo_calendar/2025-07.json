@@ -1,0 +1,357 @@
+{
+ "month": "2025-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "SI",
+   "name": "SHOULDER INNOVATIONS, INC.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2025-07-31",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "BCARU",
+   "name": "EXASCALE LABS HOLDINGS INC.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2025-07-31",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "FIG",
+   "name": "Figma, Inc.",
+   "exchange": "NYSE",
+   "price": "33.00",
+   "shares": "36,937,080",
+   "priced_date": "2025-07-31",
+   "offer_usd": 1218923640.0
+  },
+  {
+   "ticker": "APADU",
+   "name": "Enhanced Group Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-07-30",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "AMBQ",
+   "name": "Ambiq Micro, Inc.",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "4,000,000",
+   "priced_date": "2025-07-30",
+   "offer_usd": 96000000.0
+  },
+  {
+   "ticker": "YMAT",
+   "name": "J-Star Holding Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-07-30",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "LHAI",
+   "name": "Linkhome Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-07-24",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "ARX",
+   "name": "Accelerant Holdings",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "34,461,152",
+   "priced_date": "2025-07-24",
+   "offer_usd": 723684192.0
+  },
+  {
+   "ticker": "MH",
+   "name": "McGraw Hill, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "24,390,000",
+   "priced_date": "2025-07-24",
+   "offer_usd": 414630000.0
+  },
+  {
+   "ticker": "NIQ",
+   "name": "NIQ Global Intelligence plc",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "50,000,000",
+   "priced_date": "2025-07-23",
+   "offer_usd": 1050000000.0
+  },
+  {
+   "ticker": "CRE",
+   "name": "Cre8 Enterprise Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,450,000",
+   "priced_date": "2025-07-23",
+   "offer_usd": 5800000.0
+  },
+  {
+   "ticker": "CARL",
+   "name": "CARLSMED, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "6,700,000",
+   "priced_date": "2025-07-23",
+   "offer_usd": 100500000.0
+  },
+  {
+   "ticker": "TDIC",
+   "name": "Dreamland Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-07-23",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "MJID",
+   "name": "Ping An Biomedical Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "2,500,000",
+   "priced_date": "2025-07-18",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "LAWR",
+   "name": "Robot Consulting Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-07-17",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "PAIIU",
+   "name": "Pyrophyte Acquisition Corp. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2025-07-17",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "KMRK",
+   "name": "K-TECH SOLUTIONS CO LTD",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,600,000",
+   "priced_date": "2025-07-16",
+   "offer_usd": 6400000.0
+  },
+  {
+   "ticker": "SOCAU",
+   "name": "Solarius Capital Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-07-16",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "AUGO",
+   "name": "Aura Minerals Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "24.25",
+   "shares": "8,100,510",
+   "priced_date": "2025-07-16",
+   "offer_usd": 196437368.0
+  },
+  {
+   "ticker": "MGRT",
+   "name": "Mega Fortune Co Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-07-16",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "SPEGU",
+   "name": "Silver Pegasus Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2025-07-15",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "BMHL",
+   "name": "Bluemount Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,375,000",
+   "priced_date": "2025-07-11",
+   "offer_usd": 5500000.0
+  },
+  {
+   "ticker": "GTERU",
+   "name": "Globa Terra Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,217,000",
+   "priced_date": "2025-07-09",
+   "offer_usd": 152170000.0
+  },
+  {
+   "ticker": "DLXY",
+   "name": "Delixy Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-07-09",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "ANPA",
+   "name": "Rich Sparkle Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-07-08",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "MSGY",
+   "name": "Masonglory Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-07-08",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "TLIH",
+   "name": "Ten-League International Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,240,000",
+   "priced_date": "2025-07-08",
+   "offer_usd": 8960000.0
+  },
+  {
+   "ticker": "MAMK",
+   "name": "MaxsMaking Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,625,000",
+   "priced_date": "2025-07-07",
+   "offer_usd": 6500000.0
+  },
+  {
+   "ticker": "EMPG",
+   "name": "Empro Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,375,000",
+   "priced_date": "2025-07-02",
+   "offer_usd": 5500000.0
+  },
+  {
+   "ticker": "VNMEU",
+   "name": "Vendome Acquisition Corp I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-07-02",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ORIQU",
+   "name": "Origin Investment Corp I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2025-07-02",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "EVACU",
+   "name": "EQV Ventures Acquisition Corp. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "42,000,000",
+   "priced_date": "2025-07-02",
+   "offer_usd": 420000000.0
+  },
+  {
+   "ticker": "ONCHU",
+   "name": "1RT Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-07-02",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "COSO",
+   "name": "CoastalSouth Bancshares, Inc.",
+   "exchange": "NYSE",
+   "price": "21.50",
+   "shares": "2,035,000",
+   "priced_date": "2025-07-02",
+   "offer_usd": 43752500.0
+  },
+  {
+   "ticker": "CV",
+   "name": "CapsoVision, Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "5,500,000",
+   "priced_date": "2025-07-02",
+   "offer_usd": 27500000.0
+  },
+  {
+   "ticker": "INACU",
+   "name": "Indigo Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2025-07-01",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "CCIIU",
+   "name": "Cohen Circle Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-07-01",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "NMPAU",
+   "name": "NMP Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2025-07-01",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "GRAN",
+   "name": "Grande Group Ltd/HK",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,875,000",
+   "priced_date": "2025-07-01",
+   "offer_usd": 9375000.0
+  }
+ ]
+}

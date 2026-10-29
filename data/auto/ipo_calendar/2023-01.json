@@ -1,0 +1,78 @@
+{
+ "month": "2023-01",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BREA",
+   "name": "Brera Holdings PLC",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,705,000",
+   "priced_date": "2023-01-27",
+   "offer_usd": 8525000.0
+  },
+  {
+   "ticker": "TXO",
+   "name": "TXO Partners, L.P.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "5,000,000",
+   "priced_date": "2023-01-27",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "GNLX",
+   "name": "GENELUX Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "2,500,000",
+   "priced_date": "2023-01-26",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "QSG",
+   "name": "Here Group Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "12.50",
+   "shares": "3,250,000",
+   "priced_date": "2023-01-25",
+   "offer_usd": 40625000.0
+  },
+  {
+   "ticker": "CVKD",
+   "name": "Cadrenal Therapeutics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,400,000",
+   "priced_date": "2023-01-20",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "SKWD",
+   "name": "Skyward Specialty Insurance Group, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "8,952,383",
+   "priced_date": "2023-01-13",
+   "offer_usd": 134285745.0
+  },
+  {
+   "ticker": "MGOL",
+   "name": "MGO Global Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,500,000",
+   "priced_date": "2023-01-13",
+   "offer_usd": 7500000.0
+  },
+  {
+   "ticker": "ISRLU",
+   "name": "Israel Acquisitions Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2023-01-13",
+   "offer_usd": 125000000.0
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "month": "2020-01",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ARQT",
+   "name": "Arcutis Biotherapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "9,375,000",
+   "priced_date": "2020-01-31",
+   "offer_usd": 159375000.0
+  },
+  {
+   "ticker": "REYN",
+   "name": "Reynolds Consumer Products Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "26.00",
+   "shares": "47,170,000",
+   "priced_date": "2020-01-31",
+   "offer_usd": 1226420000.0
+  },
+  {
+   "ticker": "ONEM",
+   "name": "1life Healthcare Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "17,500,000",
+   "priced_date": "2020-01-31",
+   "offer_usd": 245000000.0
+  },
+  {
+   "ticker": "ANPC",
+   "name": "Fresh2 Group Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "1,333,360",
+   "priced_date": "2020-01-30",
+   "offer_usd": 16000320.0
+  },
+  {
+   "ticker": "BDTX",
+   "name": "Black Diamond Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "10,586,316",
+   "priced_date": "2020-01-30",
+   "offer_usd": 201140004.0
+  },
+  {
+   "ticker": "ANVS",
+   "name": "Annovis Bio, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "6.00",
+   "shares": "2,000,000",
+   "priced_date": "2020-01-29",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "GHIVU",
+   "name": "UWM Holdings Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "40,000,000",
+   "priced_date": "2020-01-24",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "SCVXU",
+   "name": "SCVX Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-01-24",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "VEL",
+   "name": "Velocity Financial, Inc.",
+   "exchange": "NYSE",
+   "price": "13.00",
+   "shares": "7,250,000",
+   "priced_date": "2020-01-17",
+   "offer_usd": 94250000.0
+  },
+  {
+   "ticker": "LIZI",
+   "name": "Sound Group Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.00",
+   "shares": "4,100,000",
+   "priced_date": "2020-01-17",
+   "offer_usd": 45100000.0
+  },
+  {
+   "ticker": "DNK",
+   "name": "Phoenix Tree Holdings Ltd",
+   "exchange": "NYSE",
+   "price": "13.50",
+   "shares": "9,600,000",
+   "priced_date": "2020-01-17",
+   "offer_usd": 129600000.0
+  },
+  {
+   "ticker": "IMAB",
+   "name": "NovaBridge Biosciences",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "7,407,400",
+   "priced_date": "2020-01-17",
+   "offer_usd": 103703600.0
+  }
+ ]
+}

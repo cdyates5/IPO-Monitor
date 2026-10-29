@@ -1,0 +1,294 @@
+{
+ "month": "2025-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "APACU",
+   "name": "StoneBridge Acquisition II Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2025-09-30",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "BDCIU",
+   "name": "BTC Development Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-09-30",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "BCSSU",
+   "name": "Bain Capital GSS Investment Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "40,000,000",
+   "priced_date": "2025-09-30",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "KNRX",
+   "name": "KNOREX LTD.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,000,000",
+   "priced_date": "2025-09-29",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "MGN",
+   "name": "Megan Holdings Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-09-26",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "FCRSU",
+   "name": "FutureCrest Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2025-09-26",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "AEXA",
+   "name": "American Exceptionalism Acquisition Corp. A",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2025-09-26",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "EMISU",
+   "name": "Emmis Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2025-09-25",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "DMIIU",
+   "name": "Drugs Made In America Acquisition II Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "50,000,000",
+   "priced_date": "2025-09-25",
+   "offer_usd": 500000000.0
+  },
+  {
+   "ticker": "PLTS",
+   "name": "Platinum Analytics Cayman Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-09-19",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "PTRN",
+   "name": "Pattern Group Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "21,428,572",
+   "priced_date": "2025-09-19",
+   "offer_usd": 300000008.0
+  },
+  {
+   "ticker": "LATAU",
+   "name": "Galata Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-09-19",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "NTSK",
+   "name": "Netskope Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "47,800,000",
+   "priced_date": "2025-09-18",
+   "offer_usd": 908200000.0
+  },
+  {
+   "ticker": "WBI",
+   "name": "WaterBridge Infrastructure LLC",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "31,700,000",
+   "priced_date": "2025-09-17",
+   "offer_usd": 634000000.0
+  },
+  {
+   "ticker": "STUB",
+   "name": "StubHub Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "23.50",
+   "shares": "34,042,553",
+   "priced_date": "2025-09-17",
+   "offer_usd": 799999996.0
+  },
+  {
+   "ticker": "CHECU",
+   "name": "Chenghe Acquisition III Co.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "11,000,000",
+   "priced_date": "2025-09-16",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "CHOW",
+   "name": "ChowChow Cloud International Holdings Ltd",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "2,600,000",
+   "priced_date": "2025-09-16",
+   "offer_usd": 10400000.0
+  },
+  {
+   "ticker": "FOFO",
+   "name": "Hang Feng Technology Innovation Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,375,000",
+   "priced_date": "2025-09-12",
+   "offer_usd": 5500000.0
+  },
+  {
+   "ticker": "LGN",
+   "name": "Legence Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "28.00",
+   "shares": "26,000,000",
+   "priced_date": "2025-09-12",
+   "offer_usd": 728000000.0
+  },
+  {
+   "ticker": "GEMI",
+   "name": "Gemini Space Station, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "28.00",
+   "shares": "15,178,572",
+   "priced_date": "2025-09-12",
+   "offer_usd": 425000016.0
+  },
+  {
+   "ticker": "BRCB",
+   "name": "Black Rock Coffee Bar, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "20.00",
+   "shares": "14,705,882",
+   "priced_date": "2025-09-12",
+   "offer_usd": 294117640.0
+  },
+  {
+   "ticker": "OTGAU",
+   "name": "OTG Acquisition Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-09-12",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "VIA",
+   "name": "Via Transportation, Inc.",
+   "exchange": "NYSE",
+   "price": "46.00",
+   "shares": "10,714,285",
+   "priced_date": "2025-09-12",
+   "offer_usd": 492857110.0
+  },
+  {
+   "ticker": "FIGR",
+   "name": "Figure Technology Solutions, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "25.00",
+   "shares": "31,500,000",
+   "priced_date": "2025-09-11",
+   "offer_usd": 787500000.0
+  },
+  {
+   "ticker": "LBRX",
+   "name": "LB PHARMACEUTICALS INC",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "19,000,000",
+   "priced_date": "2025-09-11",
+   "offer_usd": 285000000.0
+  },
+  {
+   "ticker": "KLAR",
+   "name": "Klarna Group plc",
+   "exchange": "NYSE",
+   "price": "40.00",
+   "shares": "34,311,274",
+   "priced_date": "2025-09-10",
+   "offer_usd": 1372450960.0
+  },
+  {
+   "ticker": "BLZRU",
+   "name": "Trailblazer Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2025-09-10",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "TLNCU",
+   "name": "Talon Capital Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2025-09-09",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "ZGM",
+   "name": "Zenta Group Co Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-09-09",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "FCHL",
+   "name": "Fitness Champs Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-09-04",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "GSRFU",
+   "name": "GSR IV Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-09-04",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SVACU",
+   "name": "General Fusion Group Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-09-04",
+   "offer_usd": 200000000.0
+  }
+ ]
+}

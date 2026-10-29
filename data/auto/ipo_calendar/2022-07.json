@@ -1,0 +1,69 @@
+{
+ "month": "2022-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "MGAM",
+   "name": "Mobile Global Esports, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2022-07-29",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "ECBK",
+   "name": "ECB Bancorp, Inc. /MD/",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "8,915,247",
+   "priced_date": "2022-07-28",
+   "offer_usd": 89152470.0
+  },
+  {
+   "ticker": "MAIA",
+   "name": "MAIA Biotechnology, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "2,000,000",
+   "priced_date": "2022-07-28",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "VRAX",
+   "name": "Virax Biolabs Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,350,000",
+   "priced_date": "2022-07-21",
+   "offer_usd": 6750000.0
+  },
+  {
+   "ticker": "HKD",
+   "name": "AMTD Digital Inc.",
+   "exchange": "NYSE",
+   "price": "7.80",
+   "shares": "16,000,000",
+   "priced_date": "2022-07-15",
+   "offer_usd": 124800000.0
+  },
+  {
+   "ticker": "ILAG",
+   "name": "Intelligent Living Application Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "5,060,000",
+   "priced_date": "2022-07-13",
+   "offer_usd": 20240000.0
+  },
+  {
+   "ticker": "NA",
+   "name": "Nano Labs Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "11.50",
+   "shares": "1,770,000",
+   "priced_date": "2022-07-12",
+   "offer_usd": 20355000.0
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "month": "2022-01",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BWAQU",
+   "name": "Blue World Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "8,000,000",
+   "priced_date": "2022-01-31",
+   "offer_usd": 80000000.0
+  },
+  {
+   "ticker": "CRDO",
+   "name": "Credo Technology Group Holding Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-01-27",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "KSCP",
+   "name": "Knightscope, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "2,236,619",
+   "priced_date": "2022-01-27",
+   "offer_usd": 22366190.0
+  },
+  {
+   "ticker": "FGI",
+   "name": "FGI Industries Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "2,500,000",
+   "priced_date": "2022-01-25",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "LATGU",
+   "name": "Chenghe Acquisition I Co.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "13,000,000",
+   "priced_date": "2022-01-25",
+   "offer_usd": 130000000.0
+  },
+  {
+   "ticker": "KYCHU",
+   "name": "Keyarch Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-01-25",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "HMA'U",
+   "name": "Heartland Media Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2022-01-21",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "KNSWU",
+   "name": "KnightSwan Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-01-21",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "HCMAU",
+   "name": "HCM Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2022-01-21",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "BYN'U",
+   "name": "Pinstripes Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "21,000,000",
+   "priced_date": "2022-01-20",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "GAQ'U",
+   "name": "Generation Asia I Acquisition Ltd",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-01-20",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "DUETU",
+   "name": "DUET Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2022-01-20",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "AIBBU",
+   "name": "AIB Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2022-01-19",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "NSTS",
+   "name": "NSTS Bancorp, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,290,000",
+   "priced_date": "2022-01-19",
+   "offer_usd": 52900000.0
+  },
+  {
+   "ticker": "TKLF",
+   "name": "Tokyo Lifestyle Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "6,000,000",
+   "priced_date": "2022-01-18",
+   "offer_usd": 24000000.0
+  },
+  {
+   "ticker": "TETEU",
+   "name": "Technology & Telecommunication Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-01-18",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "PPYAU",
+   "name": "Papaya Growth Opportunity Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2022-01-14",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "ACABU",
+   "name": "Abpro Holdings, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2022-01-14",
+   "offer_usd": 261000000.0
+  },
+  {
+   "ticker": "TPG",
+   "name": "TPG Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "29.50",
+   "shares": "33,900,000",
+   "priced_date": "2022-01-13",
+   "offer_usd": 1000050000.0
+  },
+  {
+   "ticker": "CSLMU",
+   "name": "FUSEMACHINES INC",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "16,500,000",
+   "priced_date": "2022-01-13",
+   "offer_usd": 165000000.0
+  },
+  {
+   "ticker": "CFSB",
+   "name": "CFSB Bancorp, Inc. /MA/",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "2,804,306",
+   "priced_date": "2022-01-13",
+   "offer_usd": 28043060.0
+  },
+  {
+   "ticker": "WEIX",
+   "name": "Dynamic Shares Trust",
+   "exchange": "NYSE Arca",
+   "price": null,
+   "shares": "",
+   "priced_date": "2022-01-13",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "WNNRU",
+   "name": "Zapata Quantum, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-01-13",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "WAVSU",
+   "name": "Cycurion, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-01-12",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "HILS",
+   "name": "Canton Strategic Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2022-01-12",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "VCXBU",
+   "name": "10X Capital Venture Acquisition Corp. III",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2022-01-12",
+   "offer_usd": 261000000.0
+  },
+  {
+   "ticker": "ITAQU",
+   "name": "Industrial Tech Acquisitions II, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2022-01-12",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "GHIXU",
+   "name": "Gores Holdings IX, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "52,500,000",
+   "priced_date": "2022-01-12",
+   "offer_usd": 525000000.0
+  },
+  {
+   "ticker": "BRACU",
+   "name": "Broad Capital Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-01-11",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "VIGL",
+   "name": "Vigil Neuroscience, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "7,000,000",
+   "priced_date": "2022-01-07",
+   "offer_usd": 98000000.0
+  },
+  {
+   "ticker": "CINC",
+   "name": "CinCor Pharma, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "12,100,000",
+   "priced_date": "2022-01-07",
+   "offer_usd": 193600000.0
+  },
+  {
+   "ticker": "HOUR",
+   "name": "Hour Loop, Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2022-01-07",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "VBOCU",
+   "name": "Viscogliosi Brothers Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2022-01-07",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "CXACU",
+   "name": "C5 Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2022-01-07",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "AMLX",
+   "name": "Amylyx Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-01-07",
+   "offer_usd": 190000000.0
+  },
+  {
+   "ticker": "SCRMU",
+   "name": "Screaming Eagle Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "75,000,000",
+   "priced_date": "2022-01-06",
+   "offer_usd": 750000000.0
+  },
+  {
+   "ticker": "CITEU",
+   "name": "Cartica Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-01-05",
+   "offer_usd": 200000000.0
+  }
+ ]
+}

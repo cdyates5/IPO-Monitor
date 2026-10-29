@@ -1,0 +1,510 @@
+{
+ "month": "2021-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ARTEU",
+   "name": "Artemis Strategic Investment Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2021-09-30",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "OLPX",
+   "name": "OLAPLEX HOLDINGS, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "73,700,000",
+   "priced_date": "2021-09-30",
+   "offer_usd": 1547700000.0
+  },
+  {
+   "ticker": "HPLTU",
+   "name": "Home Plate Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-09-30",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "MEKA",
+   "name": "MELI Kaszek Pioneer Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-09-29",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "WRBY",
+   "name": "Warby Parker Inc.",
+   "exchange": "NYSE",
+   "price": "40.00",
+   "shares": "77,741,942",
+   "priced_date": "2021-09-29",
+   "offer_usd": 3109677680.0
+  },
+  {
+   "ticker": "HCVIU",
+   "name": "Red Rock Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-09-29",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "PRBMU",
+   "name": "Parabellum Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2021-09-28",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "AMPL",
+   "name": "Amplitude, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "35.00",
+   "shares": "35,398,389",
+   "priced_date": "2021-09-28",
+   "offer_usd": 1238943615.0
+  },
+  {
+   "ticker": "BACAU",
+   "name": "Berenson Acquisition Corp. I",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-09-28",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "CWAN",
+   "name": "Clearwater Analytics Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-09-24",
+   "offer_usd": 540000000.0
+  },
+  {
+   "ticker": "DSAQU",
+   "name": "Direct Selling Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-09-24",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "HLTH",
+   "name": "Cue Health Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "12,500,000",
+   "priced_date": "2021-09-24",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "GIA'U",
+   "name": "QT IMAGING HOLDINGS, INC.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-09-24",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "LOCCU",
+   "name": "Live Oak Crestview Climate Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-09-23",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "RELY",
+   "name": "Remitly Global, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "43.00",
+   "shares": "12,162,777",
+   "priced_date": "2021-09-23",
+   "offer_usd": 522999411.0
+  },
+  {
+   "ticker": "ARBK",
+   "name": "Argo Blockchain Plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "7,500,000",
+   "priced_date": "2021-09-23",
+   "offer_usd": 112500000.0
+  },
+  {
+   "ticker": "THRN",
+   "name": "Thorne Healthtech, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "10.00",
+   "shares": "7,000,000",
+   "priced_date": "2021-09-23",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "STER",
+   "name": "Sterling Check Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "14,285,000",
+   "priced_date": "2021-09-23",
+   "offer_usd": 328555000.0
+  },
+  {
+   "ticker": "ESMT",
+   "name": "EngageSmart, Inc.",
+   "exchange": "NYSE",
+   "price": "26.00",
+   "shares": "14,550,000",
+   "priced_date": "2021-09-23",
+   "offer_usd": 378300000.0
+  },
+  {
+   "ticker": "SOVO",
+   "name": "Sovos Brands, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "23,334,000",
+   "priced_date": "2021-09-23",
+   "offer_usd": 280008000.0
+  },
+  {
+   "ticker": "BRLT",
+   "name": "Brilliant Earth Group, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "8,333,333",
+   "priced_date": "2021-09-23",
+   "offer_usd": 99999996.0
+  },
+  {
+   "ticker": "FRSH",
+   "name": "Freshworks Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "36.00",
+   "shares": "28,500,000",
+   "priced_date": "2021-09-22",
+   "offer_usd": 1026000000.0
+  },
+  {
+   "ticker": "AKA",
+   "name": "A.K.A. BRANDS HOLDING CORP.",
+   "exchange": "NYSE",
+   "price": "11.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-09-22",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "TOST",
+   "name": "Toast, Inc.",
+   "exchange": "NYSE",
+   "price": "40.00",
+   "shares": "21,739,131",
+   "priced_date": "2021-09-22",
+   "offer_usd": 869565240.0
+  },
+  {
+   "ticker": "ARGUU",
+   "name": "Argus Capital Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "26,500,000",
+   "priced_date": "2021-09-22",
+   "offer_usd": 265000000.0
+  },
+  {
+   "ticker": "IPAXU",
+   "name": "Intuitive Machines, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-09-22",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "HHGCU",
+   "name": "HHG Capital Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-09-21",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "FLYAU",
+   "name": "Soar Technology Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-09-16",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ACT",
+   "name": "Enact Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "13,310,400",
+   "priced_date": "2021-09-16",
+   "offer_usd": 252897600.0
+  },
+  {
+   "ticker": "FORG",
+   "name": "ForgeRock, Inc.",
+   "exchange": "NYSE",
+   "price": "25.00",
+   "shares": "11,000,000",
+   "priced_date": "2021-09-16",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "PRCT",
+   "name": "PROCEPT BioRobotics Corp",
+   "exchange": "NASDAQ Global",
+   "price": "25.00",
+   "shares": "6,556,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 163900000.0
+  },
+  {
+   "ticker": "ONON",
+   "name": "On Holding AG",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "31,100,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 746400000.0
+  },
+  {
+   "ticker": "WINVU",
+   "name": "WinVest Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "DICE",
+   "name": "DICE Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "12,000,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 204000000.0
+  },
+  {
+   "ticker": "EDNCU",
+   "name": "Endurance Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "AEHAU",
+   "name": "Ocean Biomedical, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "EZFL",
+   "name": "NEXTNRG, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "6,250,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 25000000.0
+  },
+  {
+   "ticker": "TYRA",
+   "name": "Tyra Biosciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "10,800,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 172800000.0
+  },
+  {
+   "ticker": "TWKS",
+   "name": "Thoughtworks Holding, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "36,842,106",
+   "priced_date": "2021-09-15",
+   "offer_usd": 773684226.0
+  },
+  {
+   "ticker": "BROS",
+   "name": "Dutch Bros Inc.",
+   "exchange": "NYSE",
+   "price": "23.00",
+   "shares": "21,052,632",
+   "priced_date": "2021-09-15",
+   "offer_usd": 484210536.0
+  },
+  {
+   "ticker": "DH",
+   "name": "Definitive Healthcare Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "15,555,555",
+   "priced_date": "2021-09-15",
+   "offer_usd": 419999985.0
+  },
+  {
+   "ticker": "KTTA",
+   "name": "Pasithea Therapeutics Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "4,800,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 24000000.0
+  },
+  {
+   "ticker": "SIERU",
+   "name": "Sierra Lake Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "CIIGU",
+   "name": "CIIG Capital Partners II, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-09-15",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "SRAD",
+   "name": "Sportradar Group AG",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "19,000,000",
+   "priced_date": "2021-09-14",
+   "offer_usd": 513000000.0
+  },
+  {
+   "ticker": "PAFOU",
+   "name": "Pacifico Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-09-14",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "BNIXU",
+   "name": "Bannix Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2021-09-10",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "SLVRU",
+   "name": "SilverSPAC Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-09-10",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "FHLTU",
+   "name": "Future Health ESG Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-09-10",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "FLAGU",
+   "name": "Calidi Biotherapeutics, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-09-10",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "BNNRU",
+   "name": "Banner Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-09-08",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "DWACU",
+   "name": "Trump Media & Technology Group Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-09-03",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "OXUSU",
+   "name": "Borealis Foods Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-09-03",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "INAQU",
+   "name": "ALPHA MODUS HOLDINGS, INC.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2021-09-02",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "DTRTU",
+   "name": "DTRT Health Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-09-02",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CNDAU",
+   "name": "Concord Acquisition Corp II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-09-01",
+   "offer_usd": 250000000.0
+  }
+ ]
+}

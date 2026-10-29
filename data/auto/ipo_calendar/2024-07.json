@@ -1,0 +1,168 @@
+{
+ "month": "2024-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "NIPG",
+   "name": "NIP Group Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "9.00",
+   "shares": "2,250,000",
+   "priced_date": "2024-07-26",
+   "offer_usd": 20250000.0
+  },
+  {
+   "ticker": "DTSQU",
+   "name": "DT Cloud Star Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2024-07-25",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "CON",
+   "name": "Concentra Group Holdings Parent, Inc.",
+   "exchange": "NYSE",
+   "price": "23.50",
+   "shares": "22,500,000",
+   "priced_date": "2024-07-25",
+   "offer_usd": 528750000.0
+  },
+  {
+   "ticker": "LINE",
+   "name": "Lineage, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "78.00",
+   "shares": "56,882,051",
+   "priced_date": "2024-07-25",
+   "offer_usd": 4436799978.0
+  },
+  {
+   "ticker": "ORKT",
+   "name": "ORANGEKLOUD TECHNOLOGY INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.75",
+   "shares": "2,750,000",
+   "priced_date": "2024-07-25",
+   "offer_usd": 13062500.0
+  },
+  {
+   "ticker": "BLMZ",
+   "name": "Harrison Global Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.30",
+   "shares": "1,250,000",
+   "priced_date": "2024-07-24",
+   "offer_usd": 5375000.0
+  },
+  {
+   "ticker": "NVA",
+   "name": "Nova Minerals Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "6.92",
+   "shares": "475,000",
+   "priced_date": "2024-07-24",
+   "offer_usd": 3287000.0
+  },
+  {
+   "ticker": "OS",
+   "name": "OneStream, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "24,500,000",
+   "priced_date": "2024-07-24",
+   "offer_usd": 490000000.0
+  },
+  {
+   "ticker": "PGHL",
+   "name": "DirectBooking Technology Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2024-07-23",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "QMMM",
+   "name": "QMMM Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,150,000",
+   "priced_date": "2024-07-19",
+   "offer_usd": 8600000.0
+  },
+  {
+   "ticker": "ARTV",
+   "name": "Artiva Biotherapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "13,920,000",
+   "priced_date": "2024-07-19",
+   "offer_usd": 167040000.0
+  },
+  {
+   "ticker": "ARDT",
+   "name": "Ardent Health, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "12,000,000",
+   "priced_date": "2024-07-18",
+   "offer_usd": 192000000.0
+  },
+  {
+   "ticker": "TWFG",
+   "name": "TWFG, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "11,000,000",
+   "priced_date": "2024-07-18",
+   "offer_usd": 187000000.0
+  },
+  {
+   "ticker": "ICON",
+   "name": "Icon Energy Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-07-12",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "LPAAU",
+   "name": "Launch One Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-07-12",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SIMAU",
+   "name": "SIM Acquisition Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-07-10",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "EHGO",
+   "name": "EShallGo Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-07-02",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "EURKU",
+   "name": "Eureka Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2024-07-02",
+   "offer_usd": 50000000.0
+  }
+ ]
+}

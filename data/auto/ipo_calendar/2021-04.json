@@ -1,0 +1,447 @@
+{
+ "month": "2021-04",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "HOWL",
+   "name": "Werewolf Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "7,500,000",
+   "priced_date": "2021-04-30",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "IACC",
+   "name": "ION Acquisition Corp 3 Ltd.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2021-04-30",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "VACC",
+   "name": "Barinthus Biotherapeutics plc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "6,500,000",
+   "priced_date": "2021-04-30",
+   "offer_usd": 110500000.0
+  },
+  {
+   "ticker": "AVAH",
+   "name": "Aveanna Healthcare Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "38,236,000",
+   "priced_date": "2021-04-29",
+   "offer_usd": 458832000.0
+  },
+  {
+   "ticker": "PRVA",
+   "name": "Privia Health Group, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "19,500,000",
+   "priced_date": "2021-04-29",
+   "offer_usd": 448500000.0
+  },
+  {
+   "ticker": "EDR",
+   "name": "Endeavor Group Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "21,300,000",
+   "priced_date": "2021-04-29",
+   "offer_usd": 511200000.0
+  },
+  {
+   "ticker": "BSKYU",
+   "name": "Big Sky Growth Partners, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-04-29",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "TUGCU",
+   "name": "SAIHEAT Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2021-04-29",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "FTCI",
+   "name": "FTC Solar, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "19,840,000",
+   "priced_date": "2021-04-28",
+   "offer_usd": 257920000.0
+  },
+  {
+   "ticker": "SWIM",
+   "name": "Latham Group, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-04-23",
+   "offer_usd": 380000000.0
+  },
+  {
+   "ticker": "AGTI",
+   "name": "AGILITI, INC. \\DE",
+   "exchange": "NYSE",
+   "price": "14 .00",
+   "shares": "26,315,789",
+   "priced_date": "2021-04-23",
+   "offer_usd": 368421046.0
+  },
+  {
+   "ticker": "RAIN",
+   "name": "Rain Oncology Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "7,352,941",
+   "priced_date": "2021-04-23",
+   "offer_usd": 124999997.0
+  },
+  {
+   "ticker": "IMPL",
+   "name": "IPI Legacy Liquidation Co",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "5,333,334",
+   "priced_date": "2021-04-23",
+   "offer_usd": 80000010.0
+  },
+  {
+   "ticker": "TMCI",
+   "name": "TREACE MEDICAL CONCEPTS, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "11,250,000",
+   "priced_date": "2021-04-23",
+   "offer_usd": 191250000.0
+  },
+  {
+   "ticker": "ZY",
+   "name": "Zymergen Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "31.00",
+   "shares": "16,130,000",
+   "priced_date": "2021-04-22",
+   "offer_usd": 500030000.0
+  },
+  {
+   "ticker": "KNBE",
+   "name": "KnowBe4, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "9,500,000",
+   "priced_date": "2021-04-22",
+   "offer_usd": 152000000.0
+  },
+  {
+   "ticker": "NPCE",
+   "name": "NeuroPace Inc",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "6,000,000",
+   "priced_date": "2021-04-22",
+   "offer_usd": 102000000.0
+  },
+  {
+   "ticker": "PATH",
+   "name": "UiPath, Inc.",
+   "exchange": "NYSE",
+   "price": "56.00",
+   "shares": "23,890,777",
+   "priced_date": "2021-04-21",
+   "offer_usd": 1337883512.0
+  },
+  {
+   "ticker": "SKYT",
+   "name": "SkyWater Technology, LLC",
+   "exchange": "NASDAQ Capital",
+   "price": "14.00",
+   "shares": "6,960,000",
+   "priced_date": "2021-04-21",
+   "offer_usd": 97440000.0
+  },
+  {
+   "ticker": "DV",
+   "name": "DoubleVerify Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "27.00",
+   "shares": "13,333,335",
+   "priced_date": "2021-04-21",
+   "offer_usd": 360000045.0
+  },
+  {
+   "ticker": "IFBD",
+   "name": "Infobird Co., Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "6,250,000",
+   "priced_date": "2021-04-20",
+   "offer_usd": 25000000.0
+  },
+  {
+   "ticker": "TRKA",
+   "name": "Troika Media Group, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.15",
+   "shares": "5,783,133",
+   "priced_date": "2021-04-20",
+   "offer_usd": 24000002.0
+  },
+  {
+   "ticker": "RXRX",
+   "name": "RECURSION PHARMACEUTICALS, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "24,242,424",
+   "priced_date": "2021-04-16",
+   "offer_usd": 436363632.0
+  },
+  {
+   "ticker": "BMEA",
+   "name": "Biomea Fusion, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "9,000,000",
+   "priced_date": "2021-04-16",
+   "offer_usd": 153000000.0
+  },
+  {
+   "ticker": "AKYA",
+   "name": "Akoya Biosciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "6,580,000",
+   "priced_date": "2021-04-16",
+   "offer_usd": 131600000.0
+  },
+  {
+   "ticker": "APP",
+   "name": "Applovin Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "80.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-04-15",
+   "offer_usd": 2000000000.0
+  },
+  {
+   "ticker": "KRT",
+   "name": "Karat Packaging Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "3,950,000",
+   "priced_date": "2021-04-15",
+   "offer_usd": 63200000.0
+  },
+  {
+   "ticker": "AGL",
+   "name": "agilon health, inc.",
+   "exchange": "NYSE",
+   "price": "23.00",
+   "shares": "46,600,000",
+   "priced_date": "2021-04-15",
+   "offer_usd": 1071800000.0
+  },
+  {
+   "ticker": "TSP",
+   "name": "CreateAI Holdings Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "40.00",
+   "shares": "33,783,783",
+   "priced_date": "2021-04-15",
+   "offer_usd": 1351351320.0
+  },
+  {
+   "ticker": "EBET",
+   "name": "EBET, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "2,400,000",
+   "priced_date": "2021-04-15",
+   "offer_usd": 14400000.0
+  },
+  {
+   "ticker": "ALKT",
+   "name": "ALKAMI TECHNOLOGY, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "30.00",
+   "shares": "6,000,000",
+   "priced_date": "2021-04-14",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "COIN",
+   "name": "Coinbase Global, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "250.00",
+   "shares": "114,850,769",
+   "priced_date": "2021-04-14",
+   "offer_usd": 28712692250.0
+  },
+  {
+   "ticker": "TCVA",
+   "name": "TCV Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2021-04-14",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "YTPG",
+   "name": "TPG Pace Beneficial II Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2021-04-14",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "TPGS",
+   "name": "TPG Pace Solutions Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-04-09",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "VECT",
+   "name": "VectivBio Holding AG",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "7,500,000",
+   "priced_date": "2021-04-09",
+   "offer_usd": 127500000.0
+  },
+  {
+   "ticker": "RPHM",
+   "name": "OnKure Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "6,250,000",
+   "priced_date": "2021-04-09",
+   "offer_usd": 93750000.0
+  },
+  {
+   "ticker": "ADF'U",
+   "name": "Hagerty, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-04-09",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "GLSPU",
+   "name": "Global SPAC Partners Co,",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "16,000,000",
+   "priced_date": "2021-04-09",
+   "offer_usd": 160000000.0
+  },
+  {
+   "ticker": "TIOAU",
+   "name": "Tio Tech A",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-04-08",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "MPACU",
+   "name": "Model Performance Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-04-08",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "PANA",
+   "name": "Panacea Acquisition Corp. II",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-04-07",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CMLTU",
+   "name": "EQRx, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "48,000,000",
+   "priced_date": "2021-04-07",
+   "offer_usd": 480000000.0
+  },
+  {
+   "ticker": "ACBAU",
+   "name": "Ace Global Business Acquisition Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2021-04-06",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "UTME",
+   "name": "UTime Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2021-04-06",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "ULCC",
+   "name": "Frontier Group Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-04-01",
+   "offer_usd": 570000000.0
+  },
+  {
+   "ticker": "EM",
+   "name": "Smart Share Global Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "8.50",
+   "shares": "17,650,000",
+   "priced_date": "2021-04-01",
+   "offer_usd": 150025000.0
+  },
+  {
+   "ticker": "KARO",
+   "name": "Karooooo Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "28.00",
+   "shares": "1,050,000",
+   "priced_date": "2021-04-01",
+   "offer_usd": 29400000.0
+  },
+  {
+   "ticker": "COMP",
+   "name": "Compass, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-04-01",
+   "offer_usd": 450000000.0
+  }
+ ]
+}

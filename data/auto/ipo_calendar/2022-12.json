@@ -1,0 +1,69 @@
+{
+ "month": "2022-12",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ATMCU",
+   "name": "ALPHATIME ACQUISITION CORP",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2022-12-30",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "COYA",
+   "name": "Coya Therapeutics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,050,000",
+   "priced_date": "2022-12-29",
+   "offer_usd": 15250000.0
+  },
+  {
+   "ticker": "HSPOU",
+   "name": "Horizon Space Acquisition I Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2022-12-22",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "LIPO",
+   "name": "LIPELLA PHARMACEUTICALS INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.75",
+   "shares": "1,217,391",
+   "priced_date": "2022-12-20",
+   "offer_usd": 6999998.0
+  },
+  {
+   "ticker": "ATMVU",
+   "name": "AMC Robotics Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2022-12-20",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "RAYA",
+   "name": "Erayak Power Solution Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,000,000",
+   "priced_date": "2022-12-14",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "JEWL",
+   "name": "Adamas One Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "2,450,000",
+   "priced_date": "2022-12-09",
+   "offer_usd": 11025000.0
+  }
+ ]
+}

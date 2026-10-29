@@ -1,0 +1,159 @@
+{
+ "month": "2023-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BMR",
+   "name": "Beamr Imaging Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,950,000",
+   "priced_date": "2023-02-28",
+   "offer_usd": 7800000.0
+  },
+  {
+   "ticker": "SBXCU",
+   "name": "SilverBox Corp III",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "12,000,000",
+   "priced_date": "2023-02-28",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "DISTU",
+   "name": "Distoken Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-02-15",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "NFTG",
+   "name": "GAXOS.AI INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.15",
+   "shares": "1,686,747",
+   "priced_date": "2023-02-15",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "BFRG",
+   "name": "BullFrog AI Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.50",
+   "shares": "1,297,318",
+   "priced_date": "2023-02-14",
+   "offer_usd": 8432567.0
+  },
+  {
+   "ticker": "MARXU",
+   "name": "Mars Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-02-14",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "MLYS",
+   "name": "Mineralys Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "12,000,000",
+   "priced_date": "2023-02-10",
+   "offer_usd": 192000000.0
+  },
+  {
+   "ticker": "ENLT",
+   "name": "Enlight Renewable Energy Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "14,000,000",
+   "priced_date": "2023-02-10",
+   "offer_usd": 252000000.0
+  },
+  {
+   "ticker": "BLACU",
+   "name": "OSR Health, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-02-10",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "PTHRU",
+   "name": "New Horizon Aircraft Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2023-02-10",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "NXT",
+   "name": "Nextpower Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "24.00",
+   "shares": "26,600,000",
+   "priced_date": "2023-02-09",
+   "offer_usd": 638400000.0
+  },
+  {
+   "ticker": "HSAI",
+   "name": "Hesai Group",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "10,000,000",
+   "priced_date": "2023-02-09",
+   "offer_usd": 190000000.0
+  },
+  {
+   "ticker": "LSDI",
+   "name": "Lucy Scientific Discovery, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,875,000",
+   "priced_date": "2023-02-09",
+   "offer_usd": 7500000.0
+  },
+  {
+   "ticker": "LICN",
+   "name": "Lichen International Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "4,000,000",
+   "priced_date": "2023-02-06",
+   "offer_usd": 16000000.0
+  },
+  {
+   "ticker": "GPCR",
+   "name": "Structure Therapeutics Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "10,740,000",
+   "priced_date": "2023-02-03",
+   "offer_usd": 161100000.0
+  },
+  {
+   "ticker": "ASST",
+   "name": "Strive, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,500,000",
+   "priced_date": "2023-02-03",
+   "offer_usd": 7500000.0
+  },
+  {
+   "ticker": "CETUU",
+   "name": "Cetus Capital Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2023-02-01",
+   "offer_usd": 50000000.0
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "month": "2024-04",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ZONE",
+   "name": "Zone Frontier Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-04-26",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "MRX",
+   "name": "Marex Group Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "15,384,615",
+   "priced_date": "2024-04-25",
+   "offer_usd": 292307685.0
+  },
+  {
+   "ticker": "RBRK",
+   "name": "Rubrik, Inc.",
+   "exchange": "NYSE",
+   "price": "32.00",
+   "shares": "23,500,000",
+   "priced_date": "2024-04-25",
+   "offer_usd": 752000000.0
+  },
+  {
+   "ticker": "LOAR",
+   "name": "Loar Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "28.00",
+   "shares": "11,000,000",
+   "priced_date": "2024-04-25",
+   "offer_usd": 308000000.0
+  },
+  {
+   "ticker": "NCI",
+   "name": "Neo-Concept International Group Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,320,000",
+   "priced_date": "2024-04-23",
+   "offer_usd": 9280000.0
+  },
+  {
+   "ticker": "MFI",
+   "name": "mF International Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "1,666,667",
+   "priced_date": "2024-04-22",
+   "offer_usd": 7500002.0
+  },
+  {
+   "ticker": "YYGH",
+   "name": "YYForce Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,125,000",
+   "priced_date": "2024-04-22",
+   "offer_usd": 4500000.0
+  },
+  {
+   "ticker": "TRSG",
+   "name": "Tungray Technologies Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-04-19",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "MTEN",
+   "name": "Mingteng International Corp Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,050,000",
+   "priced_date": "2024-04-18",
+   "offer_usd": 4200000.0
+  },
+  {
+   "ticker": "SERV",
+   "name": "Serve Robotics Inc. /DE/",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "10,000,000",
+   "priced_date": "2024-04-18",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "CDTG",
+   "name": "CDT Environmental Technology Investment Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2024-04-18",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "IBTA",
+   "name": "Ibotta, Inc.",
+   "exchange": "NYSE",
+   "price": "88.00",
+   "shares": "6,560,700",
+   "priced_date": "2024-04-18",
+   "offer_usd": 577341600.0
+  },
+  {
+   "ticker": "CTRI",
+   "name": "Centuri Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "12,400,000",
+   "priced_date": "2024-04-18",
+   "offer_usd": 260400000.0
+  },
+  {
+   "ticker": "JUNE",
+   "name": "SuperX AI Technology Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-04-17",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "TWG",
+   "name": "Top Wealth Group Holding Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-04-16",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "ULS",
+   "name": "UL Solutions Inc.",
+   "exchange": "NYSE",
+   "price": "28.00",
+   "shares": "33,800,000",
+   "priced_date": "2024-04-12",
+   "offer_usd": 946400000.0
+  },
+  {
+   "ticker": "PACS",
+   "name": "PACS Group, Inc.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "21,428,572",
+   "priced_date": "2024-04-11",
+   "offer_usd": 450000012.0
+  },
+  {
+   "ticker": "MNDR",
+   "name": "Mobile-health Network Solutions",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,250,000",
+   "priced_date": "2024-04-10",
+   "offer_usd": 9000000.0
+  },
+  {
+   "ticker": "CTNM",
+   "name": "Contineum Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,875,000",
+   "priced_date": "2024-04-05",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "MAMO",
+   "name": "Massimo Group",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "1,300,000",
+   "priced_date": "2024-04-02",
+   "offer_usd": 5850000.0
+  },
+  {
+   "ticker": "ZBAO",
+   "name": "Zhibao Technology Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2024-04-02",
+   "offer_usd": 6000000.0
+  }
+ ]
+}

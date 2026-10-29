@@ -1,0 +1,420 @@
+{
+ "month": "2021-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "OTECU",
+   "name": "OceanTech Acquisitions I Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-05-28",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "CNTA",
+   "name": "Centessa Pharmaceuticals plc",
+   "exchange": "NASDAQ Global",
+   "price": "20.00",
+   "shares": "16,500,000",
+   "priced_date": "2021-05-28",
+   "offer_usd": 330000000.0
+  },
+  {
+   "ticker": "DAWN",
+   "name": "Day One Biopharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-05-27",
+   "offer_usd": 160000000.0
+  },
+  {
+   "ticker": "FIGS",
+   "name": "FIGS, Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "26,386,363",
+   "priced_date": "2021-05-27",
+   "offer_usd": 580499986.0
+  },
+  {
+   "ticker": "OMIC",
+   "name": "Singular Genomics Systems, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "10,200,000",
+   "priced_date": "2021-05-27",
+   "offer_usd": 224400000.0
+  },
+  {
+   "ticker": "DYNS",
+   "name": "Senti Biosciences Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-05-26",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "FLYW",
+   "name": "Flywire Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "24.00",
+   "shares": "10,440,000",
+   "priced_date": "2021-05-26",
+   "offer_usd": 250560000.0
+  },
+  {
+   "ticker": "ZIP",
+   "name": "ZIPRECRUITER, INC.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "86,598,896",
+   "priced_date": "2021-05-26",
+   "offer_usd": 1558780128.0
+  },
+  {
+   "ticker": "PAY",
+   "name": "Paymentus Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-05-26",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "PSPCU",
+   "name": "Post Holdings Partnering Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-05-26",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "EGGFU",
+   "name": "FLYEXCLUSIVE INC.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2021-05-26",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "FWAC",
+   "name": "Mobile Infrastructure Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-05-25",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "GFORU",
+   "name": "NKGen Biotech, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-05-21",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "OTLY",
+   "name": "Oatly Group AB",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "84,376,000",
+   "priced_date": "2021-05-20",
+   "offer_usd": 1434392000.0
+  },
+  {
+   "ticker": "PCOR",
+   "name": "PROCORE TECHNOLOGIES, INC.",
+   "exchange": "NYSE",
+   "price": "67.00",
+   "shares": "9,470,000",
+   "priced_date": "2021-05-20",
+   "offer_usd": 634490000.0
+  },
+  {
+   "ticker": "SQSP",
+   "name": "Squarespace, Inc.",
+   "exchange": "NYSE",
+   "price": "50.00",
+   "shares": "40,401,820",
+   "priced_date": "2021-05-19",
+   "offer_usd": 2020091000.0
+  },
+  {
+   "ticker": "GIWWU",
+   "name": "GigInternational1, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-05-19",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SKYAU",
+   "name": "SKYDECK ACQUISITION CORP.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-05-19",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "RAMMU",
+   "name": "Aries I Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2021-05-19",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "PONDU",
+   "name": "Angel Pond Holdings Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-05-18",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "JZXN",
+   "name": "Jiuzi Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "5,200,000",
+   "priced_date": "2021-05-18",
+   "offer_usd": 26000000.0
+  },
+  {
+   "ticker": "CPARU",
+   "name": "Catalyst Partners Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-05-18",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "MCAEU",
+   "name": "Mountain Crest Acquisition Corp. III",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-05-18",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "ARTAU",
+   "name": "PRENETICS GLOBAL LIMITED",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-05-14",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "OSI'U",
+   "name": "Osiris Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "23,000,000",
+   "priced_date": "2021-05-14",
+   "offer_usd": 230000000.0
+  },
+  {
+   "ticker": "EJH",
+   "name": "E-Home Household Service Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "5,555,556",
+   "priced_date": "2021-05-14",
+   "offer_usd": 25000002.0
+  },
+  {
+   "ticker": "VERA",
+   "name": "Vera Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "11.00",
+   "shares": "4,350,000",
+   "priced_date": "2021-05-14",
+   "offer_usd": 47850000.0
+  },
+  {
+   "ticker": "DBGI",
+   "name": "Digital Brands Group, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.15",
+   "shares": "2,409,639",
+   "priced_date": "2021-05-14",
+   "offer_usd": 10000002.0
+  },
+  {
+   "ticker": "ORIAU",
+   "name": "Orion Biotech Opportunities Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-05-13",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "GLBE",
+   "name": "Global-E Online Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "25.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-05-12",
+   "offer_usd": 375000000.0
+  },
+  {
+   "ticker": "IPW",
+   "name": "iPower Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,360,000",
+   "priced_date": "2021-05-12",
+   "offer_usd": 16800000.0
+  },
+  {
+   "ticker": "SMWB",
+   "name": "SIMILARWEB LTD.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "8,000,000",
+   "priced_date": "2021-05-12",
+   "offer_usd": 176000000.0
+  },
+  {
+   "ticker": "FLGC",
+   "name": "ZeroStack Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,333,333",
+   "priced_date": "2021-05-11",
+   "offer_usd": 16666665.0
+  },
+  {
+   "ticker": "ANEB",
+   "name": "Anebulo Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.00",
+   "shares": "3,000,000",
+   "priced_date": "2021-05-07",
+   "offer_usd": 21000000.0
+  },
+  {
+   "ticker": "TALS",
+   "name": "Tourmaline Bio, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "8,825,000",
+   "priced_date": "2021-05-07",
+   "offer_usd": 150025000.0
+  },
+  {
+   "ticker": "DKDCU",
+   "name": "OneMedNet Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-05-07",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "BRIVU",
+   "name": "B. Riley Principal 250 Merger Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-05-07",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "WDH",
+   "name": "Waterdrop Inc.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-05-07",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "BWMN",
+   "name": "Bowman Consulting Group Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "3,690,000",
+   "priced_date": "2021-05-07",
+   "offer_usd": 51660000.0
+  },
+  {
+   "ticker": "OG",
+   "name": "Onion Global Ltd",
+   "exchange": "NYSE",
+   "price": "7.25",
+   "shares": "9,310,350",
+   "priced_date": "2021-05-07",
+   "offer_usd": 67500038.0
+  },
+  {
+   "ticker": "VALN",
+   "name": "Valneva SE",
+   "exchange": "NASDAQ Global Select",
+   "price": "26.411",
+   "shares": "2,318,881",
+   "priced_date": "2021-05-06",
+   "offer_usd": 61241647.0
+  },
+  {
+   "ticker": "MAQCU",
+   "name": "Maquia Capital Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "16,000,000",
+   "priced_date": "2021-05-05",
+   "offer_usd": 160000000.0
+  },
+  {
+   "ticker": "HNST",
+   "name": "Honest Company, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "25,807,000",
+   "priced_date": "2021-05-05",
+   "offer_usd": 412912000.0
+  },
+  {
+   "ticker": "FSBC",
+   "name": "FIVE STAR BANCORP",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "5,265,000",
+   "priced_date": "2021-05-05",
+   "offer_usd": 105300000.0
+  },
+  {
+   "ticker": "ALF",
+   "name": "Alfi, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.15",
+   "shares": "3,731,344",
+   "priced_date": "2021-05-04",
+   "offer_usd": 15485078.0
+  },
+  {
+   "ticker": "VLATU",
+   "name": "Valor Latitude Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-05-04",
+   "offer_usd": 200000000.0
+  }
+ ]
+}

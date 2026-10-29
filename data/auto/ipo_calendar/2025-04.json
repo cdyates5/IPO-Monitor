@@ -1,0 +1,312 @@
+{
+ "month": "2025-04",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "YB",
+   "name": "Yuanbao Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-04-30",
+   "offer_usd": 30000000.0
+  },
+  {
+   "ticker": "LCCCU",
+   "name": "Lakeshore Acquisition III Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2025-04-30",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "TACOU",
+   "name": "Berto Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2025-04-30",
+   "offer_usd": 261000000.0
+  },
+  {
+   "ticker": "DAAQU",
+   "name": "Digital Asset Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-04-29",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "RAAQU",
+   "name": "Real Asset Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-04-29",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CHACU",
+   "name": "XANADU QUANTUM TECHNOLOGIES FORMER SPAC INC.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-04-25",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "IPCXU",
+   "name": "Inflection Point Acquisition Corp. III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-04-25",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "PHOE",
+   "name": "Phoenix Asia Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,600,000",
+   "priced_date": "2025-04-25",
+   "offer_usd": 6400000.0
+  },
+  {
+   "ticker": "NPACU",
+   "name": "New Providence Acquisition Corp. III/Cayman",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2025-04-24",
+   "offer_usd": 261000000.0
+  },
+  {
+   "ticker": "TVACU",
+   "name": "Texas Ventures Acquisition III Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-04-23",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "PFAI",
+   "name": "Pinnacle Food Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,800,000",
+   "priced_date": "2025-04-22",
+   "offer_usd": 7200000.0
+  },
+  {
+   "ticker": "CIGL",
+   "name": "Concorde International Group Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-04-22",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "TMDE",
+   "name": "TMD Energy Ltd",
+   "exchange": "NYSE MKT",
+   "price": "3.25",
+   "shares": "3,100,000",
+   "priced_date": "2025-04-21",
+   "offer_usd": 10075000.0
+  },
+  {
+   "ticker": "EDHL",
+   "name": "Everbright Digital Holding Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-04-17",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "CHA",
+   "name": "Chagee Holdings Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "28.00",
+   "shares": "14,683,991",
+   "priced_date": "2025-04-17",
+   "offer_usd": 411151748.0
+  },
+  {
+   "ticker": "HXHX",
+   "name": "Haoxin Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2025-04-15",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "IOTR",
+   "name": "iOThree Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,100,000",
+   "priced_date": "2025-04-10",
+   "offer_usd": 8400000.0
+  },
+  {
+   "ticker": "CUPR",
+   "name": "Cuprina Holdings (Cayman) LTD",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,000,000",
+   "priced_date": "2025-04-10",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "ATHR",
+   "name": "Aether Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.30",
+   "shares": "1,800,000",
+   "priced_date": "2025-04-10",
+   "offer_usd": 7740000.0
+  },
+  {
+   "ticker": "MB",
+   "name": "MASTERBEEF GROUP",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-04-10",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "CIIT",
+   "name": "Tianci International, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2025-04-10",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "TACHU",
+   "name": "Titan Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2025-04-09",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "FATN",
+   "name": "Fatpipe Inc/UT",
+   "exchange": "NASDAQ Capital",
+   "price": "5.75",
+   "shares": "695,656",
+   "priced_date": "2025-04-08",
+   "offer_usd": 4000022.0
+  },
+  {
+   "ticker": "RYET",
+   "name": "Ruanyun Edai Technology Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-04-08",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "BLIV",
+   "name": "BeLive Holdings",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,450,000",
+   "priced_date": "2025-04-04",
+   "offer_usd": 9800000.0
+  },
+  {
+   "ticker": "LHSW",
+   "name": "Lianhe Sowell International Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-04-03",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "TOPW",
+   "name": "AsiaStrategy",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,664,000",
+   "priced_date": "2025-04-02",
+   "offer_usd": 10656000.0
+  },
+  {
+   "ticker": "SOULU",
+   "name": "Soulpower Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-04-02",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "SZZLU",
+   "name": "Sizzle Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-04-02",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SMA",
+   "name": "SmartStop Self Storage REIT, Inc.",
+   "exchange": "NYSE",
+   "price": "30.00",
+   "shares": "27,000,000",
+   "priced_date": "2025-04-02",
+   "offer_usd": 810000000.0
+  },
+  {
+   "ticker": "SDHIU",
+   "name": "Siddhi Acquisition Corp (Cayman Islands)",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2025-04-01",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "WTF",
+   "name": "Waton Financial Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "4,375,000",
+   "priced_date": "2025-04-01",
+   "offer_usd": 17500000.0
+  },
+  {
+   "ticker": "WXM",
+   "name": "WF International Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,400,000",
+   "priced_date": "2025-04-01",
+   "offer_usd": 5600000.0
+  },
+  {
+   "ticker": "ENGS",
+   "name": "Energys Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "2,250,000",
+   "priced_date": "2025-04-01",
+   "offer_usd": 10125000.0
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "month": "2025-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "SCIIU",
+   "name": "SC II Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-11-26",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "IGACU",
+   "name": "Invest Green Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-11-25",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "HCACU",
+   "name": "Hall Chadwick Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "18,000,000",
+   "priced_date": "2025-11-21",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "CBC",
+   "name": "Central Bancompany, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "17,778,000",
+   "priced_date": "2025-11-20",
+   "offer_usd": 373338000.0
+  },
+  {
+   "ticker": "GLOO",
+   "name": "Gloo Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "8.00",
+   "shares": "9,100,000",
+   "priced_date": "2025-11-19",
+   "offer_usd": 72800000.0
+  },
+  {
+   "ticker": "WSHP",
+   "name": "WeShop Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "3,980,128",
+   "priced_date": "2025-11-14",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "ALUBU",
+   "name": "Alussa Energy Acquisition Corp. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2025-11-13",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "OTH",
+   "name": "NextBoat Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-11-13",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "CABR",
+   "name": "Caring Brands, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,000,000",
+   "priced_date": "2025-11-13",
+   "offer_usd": 4000000.0
+  },
+  {
+   "ticker": "POAS",
+   "name": "PHAOS TECHNOLOGY HOLDINGS (CAYMAN) Ltd",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,600,090",
+   "priced_date": "2025-11-13",
+   "offer_usd": 14400360.0
+  },
+  {
+   "ticker": "BPACU",
+   "name": "Blueport Acquisition Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2025-11-12",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "EVOXU",
+   "name": "Evolution Global Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "21,000,000",
+   "priced_date": "2025-11-11",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "TDWDU",
+   "name": "Tailwind 2.0 Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-11-07",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CRACU",
+   "name": "Crown Reserve Acquisition Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-11-07",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "EVMN",
+   "name": "Evommune, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "9,375,000",
+   "priced_date": "2025-11-06",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "AERO",
+   "name": "Grupo Aeromexico, S.A.B. de C.V.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "11,727,325",
+   "priced_date": "2025-11-06",
+   "offer_usd": 222819175.0
+  },
+  {
+   "ticker": "BLLN",
+   "name": "BillionToOne, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "60.00",
+   "shares": "4,551,100",
+   "priced_date": "2025-11-06",
+   "offer_usd": 273066000.0
+  },
+  {
+   "ticker": "MEHA",
+   "name": "Functional Brands Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "17,883,693",
+   "priced_date": "2025-11-05",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "XZO",
+   "name": "Exzeo Group, Inc.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "8,000,000",
+   "priced_date": "2025-11-05",
+   "offer_usd": 168000000.0
+  },
+  {
+   "ticker": "ELWT",
+   "name": "Elauwit Connection, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "9.00",
+   "shares": "1,667,000",
+   "priced_date": "2025-11-05",
+   "offer_usd": 15003000.0
+  },
+  {
+   "ticker": "CEPV",
+   "name": "Cantor Equity Partners V, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-11-04",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "WSTNU",
+   "name": "Westin Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2025-11-04",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "BETA",
+   "name": "BETA Technologies, Inc.",
+   "exchange": "NYSE",
+   "price": "34.00",
+   "shares": "29,852,941",
+   "priced_date": "2025-11-04",
+   "offer_usd": 1014999994.0
+  }
+ ]
+}

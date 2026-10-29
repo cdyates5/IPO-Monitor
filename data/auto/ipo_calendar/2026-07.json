@@ -1,0 +1,294 @@
+{
+ "month": "2026-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "APMD",
+   "name": "Apnimed, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "12,000,000",
+   "priced_date": "2026-07-31",
+   "offer_usd": 192000000.0
+  },
+  {
+   "ticker": "EWAVU",
+   "name": "East West Ave Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-07-31",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "XIIIU",
+   "name": "Churchill Capital Corp XIII",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2026-07-31",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "JMKE",
+   "name": "Jersey Mike's Subs Inc.",
+   "exchange": "NYSE",
+   "price": "23.00",
+   "shares": "43,478,261",
+   "priced_date": "2026-07-30",
+   "offer_usd": 1000000003.0
+  },
+  {
+   "ticker": "GYGY",
+   "name": "Game Your Game Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "16,072,730",
+   "priced_date": "2026-07-30",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "REF",
+   "name": "Reformation Inc.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "14,062,500",
+   "priced_date": "2026-07-30",
+   "offer_usd": 210937500.0
+  },
+  {
+   "ticker": "IMC",
+   "name": "IMC Rare Earths Ltd",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "4,000,000",
+   "priced_date": "2026-07-29",
+   "offer_usd": 20000000.0
+  },
+  {
+   "ticker": "CATLU",
+   "name": "Catalyst Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-07-28",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "IOND",
+   "name": "Ionic Digital Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": null,
+   "shares": "10,800,164",
+   "priced_date": "2026-07-28",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "SCTX",
+   "name": "Scribe Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "8,580,000",
+   "priced_date": "2026-07-24",
+   "offer_usd": 128700000.0
+  },
+  {
+   "ticker": "PLCIU",
+   "name": "Pelican Acquisition II Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2026-07-24",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "MTAKU",
+   "name": "Market Technology Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-07-24",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "NCOOU",
+   "name": "Southern Cross Acquisition I Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-07-21",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "BRTMU",
+   "name": "B&R Technology Merger Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "32,500,000",
+   "priced_date": "2026-07-21",
+   "offer_usd": 325000000.0
+  },
+  {
+   "ticker": "AMACU",
+   "name": "AMR Resources Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2026-07-17",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "CSQR",
+   "name": "Csquare, Inc.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "50,000,000",
+   "priced_date": "2026-07-16",
+   "offer_usd": 1050000000.0
+  },
+  {
+   "ticker": "QMLS",
+   "name": "QumulusAI, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "39,472,531",
+   "priced_date": "2026-07-16",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "STDN",
+   "name": "Standard Nuclear, Inc.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-07-16",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "JONEU",
+   "name": "Jones Ventures INTL Acquisition1 Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-07-14",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "RACD",
+   "name": "Research Alliance Corp IV",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2026-07-13",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "SAMOU",
+   "name": "Samos Energy Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-07-10",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SKHY",
+   "name": "SK hynix Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "149.00",
+   "shares": "177,900,000",
+   "priced_date": "2026-07-10",
+   "offer_usd": 26507100000.0
+  },
+  {
+   "ticker": "CCCTU",
+   "name": "Columbus Circle Capital Corp III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-07-09",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "MRCOU",
+   "name": "Mercator Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-07-09",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "FDMMU",
+   "name": "Freedom Metals Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "27,500,000",
+   "priced_date": "2026-07-08",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "BCCQU",
+   "name": "Bleichroeder Acquisition Corp. III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2026-07-07",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "MIACU",
+   "name": "Meridian3 Industrials Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2026-07-02",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "VIIU",
+   "name": "Viking Acquisition Corp. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-07-02",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "LIME",
+   "name": "Neutron Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "25.00",
+   "shares": "6,956,522",
+   "priced_date": "2026-07-01",
+   "offer_usd": 173913050.0
+  },
+  {
+   "ticker": "ITG",
+   "name": "ITG, Inc./DE/",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "19,512,196",
+   "priced_date": "2026-07-01",
+   "offer_usd": 312195136.0
+  },
+  {
+   "ticker": "BSP",
+   "name": "Bending Spoons S.p.A.",
+   "exchange": "NASDAQ Global Select",
+   "price": "29.00",
+   "shares": "57,971,015",
+   "priced_date": "2026-07-01",
+   "offer_usd": 1681159435.0
+  },
+  {
+   "ticker": "OSPRU",
+   "name": "Osprey Acquisition Corp. III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2026-07-01",
+   "offer_usd": 261000000.0
+  }
+ ]
+}

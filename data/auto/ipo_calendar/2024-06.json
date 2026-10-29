@@ -1,0 +1,177 @@
+{
+ "month": "2024-06",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ALMS",
+   "name": "ALUMIS INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "13,125,000",
+   "priced_date": "2024-06-28",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "LSH",
+   "name": "Quanome Technologies, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "1,500,000",
+   "priced_date": "2024-06-28",
+   "offer_usd": 6750000.0
+  },
+  {
+   "ticker": "LB",
+   "name": "LandBridge Corp",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "14,500,000",
+   "priced_date": "2024-06-28",
+   "offer_usd": 246500000.0
+  },
+  {
+   "ticker": "WBTN",
+   "name": "WEBTOON Entertainment Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "15,000,000",
+   "priced_date": "2024-06-27",
+   "offer_usd": 315000000.0
+  },
+  {
+   "ticker": "TBN",
+   "name": "Tamboran Resources Corp",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "3,125,000",
+   "priced_date": "2024-06-27",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "GRAFU",
+   "name": "Graf Global Corp.",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-06-26",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "RECT",
+   "name": "Rectitude Holdings Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-06-21",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "MACIU",
+   "name": "Melar Acquisition Corp. I/Cayman",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2024-06-18",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "FSHPU",
+   "name": "Flag Ship Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2024-06-18",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "CUBWU",
+   "name": "Lionheart Holdings",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-06-18",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "TEM",
+   "name": "Tempus AI, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "37.00",
+   "shares": "11,100,000",
+   "priced_date": "2024-06-14",
+   "offer_usd": 410700000.0
+  },
+  {
+   "ticker": "PCSC",
+   "name": "Freenome, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2024-06-12",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "ALFUU",
+   "name": "Centurion Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2024-06-11",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "WAY",
+   "name": "Waystar Holding Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.50",
+   "shares": "45,000,000",
+   "priced_date": "2024-06-07",
+   "offer_usd": 967500000.0
+  },
+  {
+   "ticker": "CHEBU",
+   "name": "Chenghe Acquisition II Co.",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2024-06-07",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "RAPP",
+   "name": "Rapport Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "8,000,000",
+   "priced_date": "2024-06-07",
+   "offer_usd": 136000000.0
+  },
+  {
+   "ticker": "GAUZ",
+   "name": "Gauzy Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "4,411,765",
+   "priced_date": "2024-06-06",
+   "offer_usd": 75000005.0
+  },
+  {
+   "ticker": "FLYE",
+   "name": "Fly-E Group, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,250,000",
+   "priced_date": "2024-06-06",
+   "offer_usd": 9000000.0
+  },
+  {
+   "ticker": "LIF",
+   "name": "Life360, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "5,750,000",
+   "priced_date": "2024-06-06",
+   "offer_usd": 155250000.0
+  }
+ ]
+}

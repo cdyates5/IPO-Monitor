@@ -1,0 +1,141 @@
+{
+ "month": "2023-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "PRZO",
+   "name": "ParaZero Technologies Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,950,000",
+   "priced_date": "2023-07-27",
+   "offer_usd": 7800000.0
+  },
+  {
+   "ticker": "SRFM",
+   "name": "SURF AIR MOBILITY INC.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "20,423,622",
+   "priced_date": "2023-07-27",
+   "offer_usd": 408472440.0
+  },
+  {
+   "ticker": "HYACU",
+   "name": "Haymaker Acquisition Corp. 4",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2023-07-26",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "KVACU",
+   "name": "Keen Vision Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "13,000,000",
+   "priced_date": "2023-07-25",
+   "offer_usd": 130000000.0
+  },
+  {
+   "ticker": "ELWS",
+   "name": "Perpetuals.com Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,200,000",
+   "priced_date": "2023-07-25",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "WRNT",
+   "name": "WARRANTEE INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,400,000",
+   "priced_date": "2023-07-25",
+   "offer_usd": 9600000.0
+  },
+  {
+   "ticker": "JNVR",
+   "name": "DeFi Development Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,619,590",
+   "priced_date": "2023-07-25",
+   "offer_usd": 6478360.0
+  },
+  {
+   "ticker": "TSBX",
+   "name": "Turnstone Biologics Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "6,666,667",
+   "priced_date": "2023-07-21",
+   "offer_usd": 80000004.0
+  },
+  {
+   "ticker": "ODD",
+   "name": "Oddity Tech Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "35.00",
+   "shares": "12,105,261",
+   "priced_date": "2023-07-19",
+   "offer_usd": 423684135.0
+  },
+  {
+   "ticker": "NETDU",
+   "name": "Nabors Energy Transition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2023-07-14",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "APGE",
+   "name": "Apogee Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "17,650,000",
+   "priced_date": "2023-07-14",
+   "offer_usd": 300050000.0
+  },
+  {
+   "ticker": "SGMT",
+   "name": "Sagimet Biosciences Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "5,312,500",
+   "priced_date": "2023-07-14",
+   "offer_usd": 85000000.0
+  },
+  {
+   "ticker": "BOWNU",
+   "name": "Bowen Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-07-12",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "SXTP",
+   "name": "60 DEGREES PHARMACEUTICALS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.30",
+   "shares": "1,415,095",
+   "priced_date": "2023-07-12",
+   "offer_usd": 7500004.0
+  },
+  {
+   "ticker": "PWM",
+   "name": "Aurelion Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,000,000",
+   "priced_date": "2023-07-06",
+   "offer_usd": 5000000.0
+  }
+ ]
+}

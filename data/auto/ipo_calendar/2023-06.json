@@ -1,0 +1,105 @@
+{
+ "month": "2023-06",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "VTMX",
+   "name": "Vesta Real Estate Corporation, S.A.B. de C.V.",
+   "exchange": "NYSE",
+   "price": "31.00",
+   "shares": "12,500,000",
+   "priced_date": "2023-06-30",
+   "offer_usd": 387500000.0
+  },
+  {
+   "ticker": "INTS",
+   "name": "INTENSITY THERAPEUTICS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,900,000",
+   "priced_date": "2023-06-30",
+   "offer_usd": 19500000.0
+  },
+  {
+   "ticker": "FIHL",
+   "name": "Pelagos Insurance Capital Ltd",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "15,000,000",
+   "priced_date": "2023-06-29",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "KGS",
+   "name": "Kodiak Gas Services, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "16,000,000",
+   "priced_date": "2023-06-29",
+   "offer_usd": 256000000.0
+  },
+  {
+   "ticker": "SVV",
+   "name": "Savers Value Village, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "22,291,666",
+   "priced_date": "2023-06-29",
+   "offer_usd": 401249988.0
+  },
+  {
+   "ticker": "BUJAU",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2023-06-28",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "GENK",
+   "name": "GEN Restaurant Group, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "3,600,000",
+   "priced_date": "2023-06-28",
+   "offer_usd": 43200000.0
+  },
+  {
+   "ticker": "AZTR",
+   "name": "Azitra, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "1,500,000",
+   "priced_date": "2023-06-16",
+   "offer_usd": 7500000.0
+  },
+  {
+   "ticker": "BOF",
+   "name": "BranchOut Food Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "1,190,000",
+   "priced_date": "2023-06-16",
+   "offer_usd": 7140000.0
+  },
+  {
+   "ticker": "CAVA",
+   "name": "CAVA GROUP, INC.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "14,444,444",
+   "priced_date": "2023-06-15",
+   "offer_usd": 317777768.0
+  },
+  {
+   "ticker": "ESHAU",
+   "name": "ESH Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2023-06-14",
+   "offer_usd": 100000000.0
+  }
+ ]
+}

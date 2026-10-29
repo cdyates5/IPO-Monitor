@@ -1,0 +1,312 @@
+{
+ "month": "2025-12",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "SVAQU",
+   "name": "Silicon Valley Acquisition Corp.",
+   "exchange": "NASDAQ",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-23",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SCPQU",
+   "name": "Social Commerce Partners Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2025-12-23",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "BEBEU",
+   "name": "TGE Value Creative Solutions Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-12-19",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "FJET",
+   "name": "Starfighters Space, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "3.59",
+   "shares": "11,142,061",
+   "priced_date": "2025-12-18",
+   "offer_usd": 39999999.0
+  },
+  {
+   "ticker": "VHCPU",
+   "name": "Vine Hill Capital Investment Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-18",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "LPCVU",
+   "name": "Launchpad Cadenza Acquisition Corp I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-18",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ADACU",
+   "name": "American Drive Acquisition Co",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-18",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "MDLN",
+   "name": "Medline Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "29.00",
+   "shares": "216,034,482",
+   "priced_date": "2025-12-17",
+   "offer_usd": 6264999978.0
+  },
+  {
+   "ticker": "CCXIU",
+   "name": "Churchill Capital Corp XI",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2025-12-17",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "IRHOU",
+   "name": "Iron Horse Acquisition II Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-17",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ANDG",
+   "name": "Andersen Group Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "11,000,000",
+   "priced_date": "2025-12-17",
+   "offer_usd": 176000000.0
+  },
+  {
+   "ticker": "CRANU",
+   "name": "Crane Harbor Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2025-12-16",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "ITHAU",
+   "name": "ITHAX Acquisition Corp III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-12",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "WLTH",
+   "name": "WEALTHFRONT CORP",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "34,615,384",
+   "priced_date": "2025-12-12",
+   "offer_usd": 484615376.0
+  },
+  {
+   "ticker": "TWLVU",
+   "name": "Twelve Seas Investment Co III/Cayman",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-12-12",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "LMRI",
+   "name": "Lumexa Imaging Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.50",
+   "shares": "25,000,000",
+   "priced_date": "2025-12-11",
+   "offer_usd": 462500000.0
+  },
+  {
+   "ticker": "BLRKU",
+   "name": "Bluerock Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-12-11",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "KBONU",
+   "name": "Karbon Capital Partners Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2025-12-11",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "CDNL",
+   "name": "Cardinal Infrastructure Group Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "11,500,000",
+   "priced_date": "2025-12-10",
+   "offer_usd": 241500000.0
+  },
+  {
+   "ticker": "MESHU",
+   "name": "Meshflow Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2025-12-10",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "JMG",
+   "name": "JM Group Ltd",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-12-10",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "DSACU",
+   "name": "Daedalus Special Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2025-12-09",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "LFACU",
+   "name": "Leapfrog Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2025-12-05",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "REED",
+   "name": "REED'S, INC.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2025-12-05",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "AEAQU",
+   "name": "Activate Energy Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-04",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SAC'U",
+   "name": "Safeguard Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-04",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SMJF",
+   "name": "SMJ International Holdings Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2025-12-04",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "HYNE",
+   "name": "Hoyne Bancorp, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,935,000",
+   "priced_date": "2025-12-04",
+   "offer_usd": 79350000.0
+  },
+  {
+   "ticker": "NWAXU",
+   "name": "New America Acquisition I Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2025-12-04",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "RGNT",
+   "name": "REGENTIS BIOMATERIALS LTD.",
+   "exchange": "NYSE MKT",
+   "price": "8.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-12-04",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "SBXEU",
+   "name": "SilverBox Corp V",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2025-12-03",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "PARK",
+   "name": "Park Dental Partners, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "13.00",
+   "shares": "1,535,000",
+   "priced_date": "2025-12-03",
+   "offer_usd": 19955000.0
+  },
+  {
+   "ticker": "GPACU",
+   "name": "General Purpose Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-03",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "BIXIU",
+   "name": "Bitcoin Infrastructure Acquisition Corp Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-12-02",
+   "offer_usd": 200000000.0
+  }
+ ]
+}
