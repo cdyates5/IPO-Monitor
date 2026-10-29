@@ -1,0 +1,41 @@
+{
+ "fetched_utc": "2026-10-29T04:56:29Z",
+ "rows": [
+  {
+   "ticker": "ASPE",
+   "name": "Aspen Neuroscience, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price_range": "15.00-17.00",
+   "shares": "9,375,000",
+   "expected_date": "2026-10-30",
+   "offer_usd": 183281250.0
+  },
+  {
+   "ticker": "OPAY",
+   "name": "OPAY Ltd",
+   "exchange": "NYSE",
+   "price_range": "19.00-21.00",
+   "shares": "16,000,000",
+   "expected_date": "2026-10-30",
+   "offer_usd": 386400000.0
+  },
+  {
+   "ticker": "BBTX",
+   "name": "Bambusa Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price_range": "15.00-17.00",
+   "shares": "9,375,000",
+   "expected_date": "2026-10-30",
+   "offer_usd": 183281250.0
+  },
+  {
+   "ticker": "GBC",
+   "name": "GEORGIA BANKING CO INC",
+   "exchange": "NASDAQ Capital",
+   "price_range": null,
+   "shares": "7,074,016",
+   "expected_date": "2026-10-29",
+   "offer_usd": 0.0
+  }
+ ]
+}

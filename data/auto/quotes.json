@@ -1,0 +1,18 @@
+{
+ "SPCX": {
+  "trading": true,
+  "conflict": false,
+  "first_date": "2026-06-12",
+  "first_close": 160.95,
+  "last_date": "2026-10-28",
+  "last_close": 145.23,
+  "market_cap": 1972377882458.0,
+  "previous_close": 148.58,
+  "exchange": "NASDAQ-GS",
+  "checked_utc": "2026-10-29T04:56:36Z"
+ },
+ "ANT": {
+  "trading": false,
+  "checked_utc": "2026-10-29T04:56:37Z"
+ }
+}

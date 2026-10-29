@@ -1,0 +1,29 @@
+{
+ "sources": {
+  "calendar": {
+   "ok": true,
+   "utc": "2026-10-29T04:56:29Z",
+   "message": "3 month(s) fetched",
+   "last_success_utc": "2026-10-29T04:56:29Z"
+  },
+  "spy": {
+   "ok": true,
+   "utc": "2026-10-29T04:56:30Z",
+   "message": "709 closes (latest 2026-10-28)",
+   "last_success_utc": "2026-10-29T04:56:30Z"
+  },
+  "quotes": {
+   "ok": true,
+   "utc": "2026-10-29T04:56:37Z",
+   "message": "SPCX: first 2026-06-12 @ 160.95, last 2026-10-28 @ 145.23; ANT: not trading",
+   "last_success_utc": "2026-10-29T04:56:37Z"
+  },
+  "ritter": {
+   "ok": true,
+   "utc": "2026-10-29T04:56:38Z",
+   "message": "unchanged",
+   "last_success_utc": "2026-10-29T04:56:38Z"
+  }
+ },
+ "last_run_utc": "2026-10-29T04:56:38Z"
+}
