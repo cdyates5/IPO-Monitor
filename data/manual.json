@@ -1,0 +1,252 @@
+{
+  "_readme": [
+    "Hand-maintained inputs for the IPO dashboard. Everything under data/auto/ is fetched by scripts/fetch_data.py;",
+    "everything here is judgement or slow-moving reference data. Edit, commit, and the workflow rebuilds the page.",
+    "See SETUP.md section 'Routine maintenance' for what to change and when."
+  ],
+  "ritter": {
+    "edition": "5 Oct 2026",
+    "pdf_url": "https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf",
+    "_columns": "year, t3b_nyse, t3b_nasdaq, t1_count, t1_proceeds_bn, t1a_mktcap_bn, sp500_year_end_tn",
+    "_notes": "t3b = Table 3b NYSE/Nasdaq counts (US issuers, offer >= $5, main boards). t1 = Table 1 count and proceeds. t1a = Table 1a aggregate market value at first-day close. sp500_year_end_tn = approximate S&P 500 total market cap at year end. Add a row when Ritter publishes a new year; the dashboard then treats that year as historical.",
+    "annual": [
+      [1990, 15, 75, 110, 4.24, 17.79, 2.6],
+      [1991, 43, 214, 286, 15.39, 54.06, 3.4],
+      [1992, 67, 285, 412, 22.69, 74.35, 3.6],
+      [1993, 65, 374, 510, 31.44, 126.0, 4.0],
+      [1994, 47, 287, 402, 17.18, 64.0, 3.9],
+      [1995, 47, 335, 462, 27.93, 127.0, 5.3],
+      [1996, 76, 499, 677, 42.05, 215.0, 6.4],
+      [1997, 69, 305, 474, 31.76, 141.0, 8.7],
+      [1998, 50, 173, 283, 33.66, 164.0, 10.9],
+      [1999, 39, 396, 476, 64.67, 652.0, 12.3],
+      [2000, 22, 301, 380, 64.8, 642.0, 11.4],
+      [2001, 25, 47, 80, 35.29, 177.0, 10.1],
+      [2002, 25, 35, 66, 22.03, 84.0, 7.9],
+      [2003, 15, 42, 63, 9.54, 40.0, 10.3],
+      [2004, 40, 117, 173, 31.19, 148.0, 11.3],
+      [2005, 44, 87, 159, 28.23, 105.0, 11.3],
+      [2006, 37, 96, 157, 30.48, 135.0, 12.7],
+      [2007, 37, 97, 159, 35.66, 212.0, 13.0],
+      [2008, 7, 11, 21, 22.76, 63.0, 7.8],
+      [2009, 20, 18, 41, 13.17, 59.0, 9.9],
+      [2010, 40, 39, 91, 29.82, 116.0, 11.4],
+      [2011, 31, 38, 81, 26.97, 178.0, 11.4],
+      [2012, 42, 41, 93, 31.11, 181.0, 12.9],
+      [2013, 60, 73, 158, 41.56, 270.0, 16.5],
+      [2014, 67, 94, 206, 42.2, 238.0, 18.3],
+      [2015, 33, 65, 118, 22.0, 150.0, 18.1],
+      [2016, 18, 42, 75, 12.52, 79.0, 19.9],
+      [2017, 34, 52, 107, 23.03, 162.0, 23.8],
+      [2018, 32, 79, 134, 33.47, 225.0, 22.0],
+      [2019, 23, 73, 113, 39.28, 333.0, 28.6],
+      [2020, 22, 111, 165, 61.86, 687.0, 33.5],
+      [2021, 63, 170, 311, 119.36, 1205.0, 40.4],
+      [2022, 2, 12, 38, 6.99, 73.0, 32.1],
+      [2023, 8, 14, 54, 11.92, 115.0, 40.0],
+      [2024, 19, 30, 73, 20.9, 137.0, 51.9],
+      [2025, 26, 33, 90, 38.97, 421.0, 61.1]
+    ]
+  },
+  "seasonal": {
+    "_comment": "Quarterly shares used to split Ritter annual totals for years without Nasdaq calendar coverage.",
+    "default": [0.2, 0.3, 0.28, 0.22],
+    "overrides": {
+      "1999": [0.15, 0.22, 0.3, 0.33],
+      "2000": [0.42, 0.32, 0.16, 0.1],
+      "2001": [0.22, 0.38, 0.12, 0.28],
+      "2008": [0.33, 0.28, 0.17, 0.22],
+      "2020": [0.06, 0.18, 0.38, 0.38],
+      "2021": [0.35, 0.28, 0.22, 0.15],
+      "2022": [0.45, 0.28, 0.15, 0.12]
+    }
+  },
+  "allocation": {
+    "_comment": "From this year on, Ritter annual totals are split across quarters using the actual quarterly shape of the filtered Nasdaq calendar instead of seasonal weights.",
+    "calendar_shape_from_year": 2015
+  },
+  "calendar": {
+    "_comment": "Nasdaq IPO calendar (api.nasdaq.com). Past months are cached once; the most recent months are re-fetched every run.",
+    "start_month": "2015-01",
+    "refresh_recent_months": 3
+  },
+  "calendar_filter": {
+    "_comment": "Proxy for Ritter Table 3b: NYSE + Nasdaq Global/Global Select only, offer >= $5, no SPACs, units, funds, trusts or REITs.",
+    "exchange_map": {
+      "NYSE": "NYSE",
+      "New York Stock Exchange": "NYSE",
+      "NASDAQ Global": "Nasdaq",
+      "NASDAQ Global Select": "Nasdaq",
+      "Nasdaq National Market": "Nasdaq",
+      "NASDAQ": "Nasdaq"
+    },
+    "min_price": 5.0,
+    "exclude_name_regex": "\\b(acquisition|spac|blank check|fund|trust|reit|etf|bdc|municipal)\\b"
+  },
+  "exclude_tickers": [
+    {
+      "ticker": "SKHY",
+      "name": "SK hynix",
+      "reason": "US cross-listing of an already-listed Korean issuer (ADR), Jul 2026; outside Ritter's operating-company IPO universe"
+    }
+  ],
+  "calibration": {
+    "_comment": "Calendar -> Ritter mapping, pooled over every year that has both a Ritter row and 12 months of calendar data (from first_year on). Set an override to pin a value.",
+    "first_year": 2015,
+    "count_ratio_override": null,
+    "mktcap_per_proceeds_override": null
+  },
+  "sp500": {
+    "_comment": "From spy_from onward, S&P 500 total market cap = SPY close x (anchor cap / SPY close on anchor date). Earlier years use the Ritter-table year-end values. Re-anchor once a year with a published S&P 500 market cap.",
+    "anchor": {
+      "date": "2026-09-30",
+      "mktcap_tn": 68.45,
+      "source": "Seeking Alpha S&P 500 market cap snapshot, fall 2026"
+    },
+    "spy_from": "2026-01-01",
+    "history_start": "2024-01-01"
+  },
+  "mega_ipos": [
+    {
+      "id": "spacex",
+      "name": "SpaceX",
+      "ticker": "SPCX",
+      "exchange": "Nasdaq",
+      "expected_quarter": "Q2 2026",
+      "listing_window_start": "2026-06-01",
+      "valuation_low_bn": null,
+      "valuation_high_bn": null,
+      "valuation_mid_bn": 1770,
+      "first_day_mktcap_bn": 2110,
+      "detail": "Priced $135 on 11 Jun 2026; first-day close $160.95 (+19%); ~13.1B shares -> ~$2.11T. $75B raised ($85.7B incl. greenshoe).",
+      "card": true
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "ticker": "ANT",
+      "exchange": "Nasdaq",
+      "expected_quarter": "Q4 2026",
+      "listing_window_start": "2026-10-26",
+      "valuation_low_bn": 1500,
+      "valuation_high_bn": 2000,
+      "valuation_mid_bn": 1750,
+      "first_day_mktcap_bn": null,
+      "detail": "Public S-1 filed 26 Oct 2026 (proposed Nasdaq: ANT); marketing reportedly from the week of 9 Nov; ~$75B raise expected; $1.5-2.0T listing range reported.",
+      "card": true
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "ticker": null,
+      "exchange": "TBD",
+      "expected_quarter": "Q2 2027",
+      "listing_window_start": null,
+      "valuation_low_bn": 1000,
+      "valuation_high_bn": 1400,
+      "valuation_mid_bn": 1250,
+      "first_day_mktcap_bn": null,
+      "detail": "Confidential S-1 filed 8 Jun 2026; listing expected early 2027 (CFO: 'public company in 2027'); pre-IPO round reportedly targeting ~$1.25T. Q2 2027 is the central timing assumption.",
+      "card": true
+    },
+    {
+      "id": "databricks",
+      "name": "Databricks",
+      "ticker": null,
+      "exchange": "TBD",
+      "expected_quarter": null,
+      "listing_window_start": null,
+      "valuation_low_bn": 165,
+      "valuation_high_bn": 175,
+      "valuation_mid_bn": 170,
+      "first_day_mktcap_bn": null,
+      "detail": "Raising privately at up to $175B; CEO called 2026 'a terrible year to go public'. No IPO assumed in the window.",
+      "card": true
+    }
+  ],
+  "forecast": {
+    "_comment": "Base case (excl. mega-IPOs) in Ritter-equivalent units. The window always covers the current quarter plus the next three; quarters not listed fall back to 'default'. The current quarter blends quarter-to-date actuals with the forecast for the days remaining.",
+    "horizon_quarters": 4,
+    "default": {
+      "count": 13,
+      "nyse_share": 0.37,
+      "mktcap_bn": 75,
+      "note": "Default base case: near the 2024-26 quarterly run-rate."
+    },
+    "quarters": [
+      {
+        "quarter": "Q4 2026",
+        "count": 12,
+        "nyse_share": 0.37,
+        "mktcap_bn": 70,
+        "note": "Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo)."
+      },
+      {
+        "quarter": "Q1 2027",
+        "count": 12,
+        "nyse_share": 0.37,
+        "mktcap_bn": 65,
+        "note": "Seasonally soft Q1."
+      },
+      {
+        "quarter": "Q2 2027",
+        "count": 16,
+        "nyse_share": 0.37,
+        "mktcap_bn": 95,
+        "note": "Seasonal Q2 lift."
+      },
+      {
+        "quarter": "Q3 2027",
+        "count": 14,
+        "nyse_share": 0.37,
+        "mktcap_bn": 80,
+        "note": "Near the recent Q3 average."
+      }
+    ]
+  },
+  "actual_overrides": {
+    "_comment": "Optional per-quarter replacement of calendar-derived actuals, e.g. {\"Q1 2026\": {\"count\": 14, \"nyse\": 5, \"mktcap_bn\": 60}}. Leave empty normally."
+  },
+  "sources": [
+    {
+      "title": "Jay R. Ritter, IPO Statistics (Univ. of Florida) - Tables 1, 1a, 3b",
+      "url": "https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf"
+    },
+    {
+      "title": "Nasdaq IPO calendar (priced deals, monthly)",
+      "url": "https://www.nasdaq.com/market-activity/ipos"
+    },
+    {
+      "title": "Nasdaq quote data - SPY (S&P 500 denominator), listed mega-IPOs",
+      "url": "https://www.nasdaq.com/market-activity/etf/spy/historical"
+    },
+    {
+      "title": "Renaissance Capital - 3Q 2026 US IPO Market Review",
+      "url": "https://www.renaissancecapital.com/review/3Q26USReview_Press.pdf"
+    },
+    {
+      "title": "CNBC - SpaceX closes at $161 after record debut",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html"
+    },
+    {
+      "title": "Yahoo Finance - Anthropic S-1 live updates",
+      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+    },
+    {
+      "title": "IPO Scoop - Anthropic files its S-1",
+      "url": "https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/"
+    },
+    {
+      "title": "Seeking Alpha via Pluang - S&P 500 market cap snapshot, fall 2026",
+      "url": "https://pluang.com/en/news-feed/snapshot-kapitalisasi-pasar-sp-500-fall-2026"
+    },
+    {
+      "title": "ZeroHedge - Oura shelves $2.2B IPO; Holtec, Bamboo pulled",
+      "url": "https://www.zerohedge.com/markets/oura-shelves-22-billion-ipo-despite-strong-demand-listings-delays-mount"
+    },
+    {
+      "title": "The Next Web - Databricks raising at up to $175B",
+      "url": "https://thenextweb.com/news/databricks-165-billion-valuation-fundraise-ipo"
+    }
+  ]
+}
