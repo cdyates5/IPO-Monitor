@@ -1,0 +1,213 @@
+{
+ "month": "2018-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "LTN'U",
+   "name": "Union Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2018-02-28",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "DFBHU",
+   "name": "AdaptHealth Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2018-02-16",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "FAMI",
+   "name": "Farmmi, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,680,000",
+   "priced_date": "2018-02-16",
+   "offer_usd": 6720000.0
+  },
+  {
+   "ticker": "MOTS",
+   "name": "Motus GI Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,500,000",
+   "priced_date": "2018-02-14",
+   "offer_usd": 17500000.0
+  },
+  {
+   "ticker": "BFRA",
+   "name": "Biofrontera AG",
+   "exchange": "NASDAQ Capital",
+   "price": "9.88",
+   "shares": "1,215,000",
+   "priced_date": "2018-02-14",
+   "offer_usd": 12004200.0
+  },
+  {
+   "ticker": "LHC'U",
+   "name": "Digital Media Solutions, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2018-02-13",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CDLX",
+   "name": "Cardlytics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "5,400,000",
+   "priced_date": "2018-02-09",
+   "offer_usd": 70200000.0
+  },
+  {
+   "ticker": "QES",
+   "name": "Quintana Energy Services Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "9,259,259",
+   "priced_date": "2018-02-09",
+   "offer_usd": 92592590.0
+  },
+  {
+   "ticker": "MUDSU",
+   "name": "HYCROFT MINING HOLDING CORP",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2018-02-08",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "HMI",
+   "name": "Zepp Health Corp",
+   "exchange": "NYSE",
+   "price": "11.00",
+   "shares": "10,000,000",
+   "priced_date": "2018-02-08",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "WHD",
+   "name": "Cactus, Inc.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "23,000,000",
+   "priced_date": "2018-02-08",
+   "offer_usd": 437000000.0
+  },
+  {
+   "ticker": "EOLS",
+   "name": "Evolus, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "5,000,000",
+   "priced_date": "2018-02-08",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "VCTR",
+   "name": "Victory Capital Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "11,700,000",
+   "priced_date": "2018-02-08",
+   "offer_usd": 152100000.0
+  },
+  {
+   "ticker": "PLTM",
+   "name": "GraniteShares Platinum Trust",
+   "exchange": "NYSE Arca",
+   "price": "9.94",
+   "shares": "1,000,000",
+   "priced_date": "2018-02-05",
+   "offer_usd": 9940000.0
+  },
+  {
+   "ticker": "SSLJ",
+   "name": "SSLJ. COM Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "4,000,000",
+   "priced_date": "2018-02-05",
+   "offer_usd": 20000000.0
+  },
+  {
+   "ticker": "CEPU",
+   "name": "CENTRAL PUERTO S.A.",
+   "exchange": "NYSE",
+   "price": "16.50",
+   "shares": "20,000,000",
+   "priced_date": "2018-02-02",
+   "offer_usd": 330000000.0
+  },
+  {
+   "ticker": "FTSI",
+   "name": "FTS International, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "19,500,000",
+   "priced_date": "2018-02-02",
+   "offer_usd": 351000000.0
+  },
+  {
+   "ticker": "OSS",
+   "name": "ONE STOP SYSTEMS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,800,000",
+   "priced_date": "2018-02-01",
+   "offer_usd": 19000000.0
+  },
+  {
+   "ticker": "HUD",
+   "name": "Hudson Ltd.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "39,417,765",
+   "priced_date": "2018-02-01",
+   "offer_usd": 748937535.0
+  },
+  {
+   "ticker": "CAAP",
+   "name": "CORPORACION AMERICA AIRPORTS S.A.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "28,571,429",
+   "priced_date": "2018-02-01",
+   "offer_usd": 485714293.0
+  },
+  {
+   "ticker": "IPIC",
+   "name": "iPic Entertainment Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.50",
+   "shares": "818,429",
+   "priced_date": "2018-02-01",
+   "offer_usd": 15140937.0
+  },
+  {
+   "ticker": "SLGL",
+   "name": "Sol-Gel Technologies Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "6,250,000",
+   "priced_date": "2018-02-01",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "VICI",
+   "name": "VICI PROPERTIES INC.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "60,500,000",
+   "priced_date": "2018-02-01",
+   "offer_usd": 1210000000.0
+  }
+ ]
+}

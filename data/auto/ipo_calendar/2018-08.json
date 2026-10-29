@@ -1,0 +1,159 @@
+{
+ "month": "2018-08",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "LOACU",
+   "name": "Longevity Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2018-08-29",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "MFACU",
+   "name": "BM Technologies, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2018-08-24",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "TZACU",
+   "name": "REVIVA PHARMACEUTICALS HOLDINGS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,500,000",
+   "priced_date": "2018-08-21",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "BNGOU",
+   "name": "Bionano Genomics, Inc.",
+   "exchange": "NASDAQ",
+   "price": "6.125",
+   "shares": "3,360,000",
+   "priced_date": "2018-08-21",
+   "offer_usd": 20596800.0
+  },
+  {
+   "ticker": "SFET",
+   "name": "Alarum Technologies Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "14.35",
+   "shares": "510,438",
+   "priced_date": "2018-08-17",
+   "offer_usd": 7324785.0
+  },
+  {
+   "ticker": "TKKSU",
+   "name": "Cheer Holding, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2018-08-16",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "AAAU",
+   "name": "Goldman Sachs Physical Gold ETF",
+   "exchange": "NYSE Arca",
+   "price": "11.74",
+   "shares": "16,286,645",
+   "priced_date": "2018-08-15",
+   "offer_usd": 191205212.0
+  },
+  {
+   "ticker": "ARDS",
+   "name": "Aridis Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "13.00",
+   "shares": "2,000,000",
+   "priced_date": "2018-08-14",
+   "offer_usd": 26000000.0
+  },
+  {
+   "ticker": "MESA",
+   "name": "REPUBLIC AIRWAYS HOLDINGS INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "9,630,000",
+   "priced_date": "2018-08-10",
+   "offer_usd": 115560000.0
+  },
+  {
+   "ticker": "SPAQU",
+   "name": "Fisker Inc./DE",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "48,000,000",
+   "priced_date": "2018-08-10",
+   "offer_usd": 480000000.0
+  },
+  {
+   "ticker": "VCNX",
+   "name": "VACCINEX, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "3,333,334",
+   "priced_date": "2018-08-09",
+   "offer_usd": 40000008.0
+  },
+  {
+   "ticker": "PCB",
+   "name": "PCB BANCORP",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "2,385,000",
+   "priced_date": "2018-08-09",
+   "offer_usd": 47700000.0
+  },
+  {
+   "ticker": "FMCIU",
+   "name": "Tattooed Chef, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2018-08-03",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ARLO",
+   "name": "Arlo Technologies, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "10,215,000",
+   "priced_date": "2018-08-03",
+   "offer_usd": 163440000.0
+  },
+  {
+   "ticker": "TOTAU",
+   "name": "Tottenham Acquisition I Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2018-08-02",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "CWK",
+   "name": "Cushman & Wakefield Ltd.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "45,000,000",
+   "priced_date": "2018-08-02",
+   "offer_usd": 765000000.0
+  },
+  {
+   "ticker": "SONO",
+   "name": "Sonos Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "13,888,888",
+   "priced_date": "2018-08-02",
+   "offer_usd": 208333320.0
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "month": "2019-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "OPRT",
+   "name": "Oportun Financial Corp",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "6,250,000",
+   "priced_date": "2019-09-26",
+   "offer_usd": 93750000.0
+  },
+  {
+   "ticker": "PTON",
+   "name": "PELOTON INTERACTIVE, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "29.00",
+   "shares": "40,000,000",
+   "priced_date": "2019-09-26",
+   "offer_usd": 1160000000.0
+  },
+  {
+   "ticker": "PING",
+   "name": "Ping Identity Holding Corp.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "12,500,000",
+   "priced_date": "2019-09-19",
+   "offer_usd": 187500000.0
+  },
+  {
+   "ticker": "DDOG",
+   "name": "Datadog, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "24,000,000",
+   "priced_date": "2019-09-19",
+   "offer_usd": 648000000.0
+  },
+  {
+   "ticker": "XGN",
+   "name": "EXAGEN INC.",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "3,600,000",
+   "priced_date": "2019-09-19",
+   "offer_usd": 50400000.0
+  },
+  {
+   "ticker": "NVST",
+   "name": "Envista Holdings Corp",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "26,768,000",
+   "priced_date": "2019-09-18",
+   "offer_usd": 588896000.0
+  },
+  {
+   "ticker": "IGMS",
+   "name": "IGM Biosciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "10,937,500",
+   "priced_date": "2019-09-18",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "APXTU",
+   "name": "AvePoint, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,500,000",
+   "priced_date": "2019-09-17",
+   "offer_usd": 305000000.0
+  },
+  {
+   "ticker": "STSA",
+   "name": "Satsuma Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "5,500,000",
+   "priced_date": "2019-09-13",
+   "offer_usd": 82500000.0
+  },
+  {
+   "ticker": "SWTX",
+   "name": "SpringWorks Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "9,000,000",
+   "priced_date": "2019-09-13",
+   "offer_usd": 162000000.0
+  },
+  {
+   "ticker": "NET",
+   "name": "CloudFlare, Inc.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "35,000,000",
+   "priced_date": "2019-09-13",
+   "offer_usd": 525000000.0
+  },
+  {
+   "ticker": "EXPCU",
+   "name": "Strata Critical Medical, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2019-09-13",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "ALRS",
+   "name": "ALERUS FINANCIAL CORP",
+   "exchange": "NASDAQ Capital",
+   "price": "21.00",
+   "shares": "2,860,000",
+   "priced_date": "2019-09-13",
+   "offer_usd": 60060000.0
+  },
+  {
+   "ticker": "TXG",
+   "name": "10X Genomics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "39.00",
+   "shares": "10,000,000",
+   "priced_date": "2019-09-12",
+   "offer_usd": 390000000.0
+  },
+  {
+   "ticker": "SDC",
+   "name": "SmileDirectClub, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "58,537,000",
+   "priced_date": "2019-09-12",
+   "offer_usd": 1346351000.0
+  },
+  {
+   "ticker": "NPAUU",
+   "name": "AST SpaceMobile, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2019-09-11",
+   "offer_usd": 200000000.0
+  }
+ ]
+}

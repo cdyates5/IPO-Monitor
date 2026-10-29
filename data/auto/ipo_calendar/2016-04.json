@@ -1,0 +1,87 @@
+{
+ "month": "2016-04",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "GWRS",
+   "name": "Global Water Resources, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "6.25",
+   "shares": "1,164,800",
+   "priced_date": "2016-04-28",
+   "offer_usd": 7280000.0
+  },
+  {
+   "ticker": "PAVMU",
+   "name": "PAVmed Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "5.00",
+   "shares": "1,060,000",
+   "priced_date": "2016-04-28",
+   "offer_usd": 5300000.0
+  },
+  {
+   "ticker": "RRR",
+   "name": "Red Rock Resorts, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "19.50",
+   "shares": "27,250,000",
+   "priced_date": "2016-04-27",
+   "offer_usd": 531375000.0
+  },
+  {
+   "ticker": "YIN",
+   "name": "Yintech Investment Holdings Ltd",
+   "exchange": "Nasdaq National Market",
+   "price": "13.50\t \t",
+   "shares": "7,500,000",
+   "priced_date": "2016-04-27",
+   "offer_usd": 101250000.0
+  },
+  {
+   "ticker": "SCWX",
+   "name": "SecureWorks Corp",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "8,000,000",
+   "priced_date": "2016-04-22",
+   "offer_usd": 112000000.0
+  },
+  {
+   "ticker": "ARA",
+   "name": "American Renal Associates Holdings, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "22.00",
+   "shares": "7,500,000",
+   "priced_date": "2016-04-21",
+   "offer_usd": 165000000.0
+  },
+  {
+   "ticker": "MGP",
+   "name": "MGM Growth Properties LLC",
+   "exchange": "New York Stock Exchange",
+   "price": "21.00",
+   "shares": "50,000,000",
+   "priced_date": "2016-04-20",
+   "offer_usd": 1050000000.0
+  },
+  {
+   "ticker": "AGLE",
+   "name": "Spyre Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2016-04-07",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "DTSS",
+   "name": "DATASEA INC.",
+   "exchange": "OTCBB",
+   "price": "0.01",
+   "shares": "9,393,000",
+   "priced_date": "2016-04-06",
+   "offer_usd": 93930.0
+  }
+ ]
+}

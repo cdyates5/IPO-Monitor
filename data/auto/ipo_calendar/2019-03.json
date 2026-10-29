@@ -1,0 +1,141 @@
+{
+ "month": "2019-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "PUYI",
+   "name": "Maase Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "6.00",
+   "shares": "4,292,276",
+   "priced_date": "2019-03-29",
+   "offer_usd": 25753656.0
+  },
+  {
+   "ticker": "LYFT",
+   "name": "Lyft, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "72.00",
+   "shares": "32,500,000",
+   "priced_date": "2019-03-29",
+   "offer_usd": 2340000000.0
+  },
+  {
+   "ticker": "DTIL",
+   "name": "PRECISION BIOSCIENCES INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "7,900,000",
+   "priced_date": "2019-03-28",
+   "offer_usd": 126400000.0
+  },
+  {
+   "ticker": "WTRE",
+   "name": "Watford Holdings Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": null,
+   "shares": "3,593,003",
+   "priced_date": "2019-03-28",
+   "offer_usd": 140917578.0
+  },
+  {
+   "ticker": "JFKKU",
+   "name": "8i Enterprises Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-03-28",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "GNFT",
+   "name": "Genfit S.A.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.32",
+   "shares": "6,150,000",
+   "priced_date": "2019-03-27",
+   "offer_usd": 124968000.0
+  },
+  {
+   "ticker": "LEVI",
+   "name": "LEVI STRAUSS & CO",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "36,666,667",
+   "priced_date": "2019-03-21",
+   "offer_usd": 623333339.0
+  },
+  {
+   "ticker": "INSUU",
+   "name": "SHIFT TECHNOLOGIES, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "13,100,000",
+   "priced_date": "2019-03-20",
+   "offer_usd": 131000000.0
+  },
+  {
+   "ticker": "TIGR",
+   "name": "Up Fintech Holding LTD",
+   "exchange": "NASDAQ Global Select",
+   "price": "8.00",
+   "shares": "13,000,000",
+   "priced_date": "2019-03-20",
+   "offer_usd": 104000000.0
+  },
+  {
+   "ticker": "TRNEU",
+   "name": "Desktop Metal, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2019-03-15",
+   "offer_usd": 261000000.0
+  },
+  {
+   "ticker": "FHL",
+   "name": "Futu Holdings Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "7,500,000",
+   "priced_date": "2019-03-08",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "CRSAU",
+   "name": "LiveVox Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2019-03-08",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "SWAV",
+   "name": "ShockWave Medical, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "5,700,000",
+   "priced_date": "2019-03-07",
+   "offer_usd": 96900000.0
+  },
+  {
+   "ticker": "THCBU",
+   "name": "Microvast Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2019-03-05",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "HCACU",
+   "name": "Canoo Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2019-03-01",
+   "offer_usd": 261000000.0
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "month": "2016-08",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "STLRU",
+   "name": "Phunware, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "6,500,000",
+   "priced_date": "2016-08-19",
+   "offer_usd": 65000000.0
+  },
+  {
+   "ticker": "AIRG",
+   "name": "AIRGAIN INC",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "8.00",
+   "shares": "1,500,000",
+   "priced_date": "2016-08-12",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "PTGX",
+   "name": "Protagonist Therapeutics, Inc",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "7,500,000",
+   "priced_date": "2016-08-11",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "MEDP",
+   "name": "Medpace Holdings, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "23.00",
+   "shares": "7,000,000",
+   "priced_date": "2016-08-11",
+   "offer_usd": 161000000.0
+  },
+  {
+   "ticker": "ATMR",
+   "name": "Atomera Inc",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "7.50",
+   "shares": "3,200,000",
+   "priced_date": "2016-08-05",
+   "offer_usd": 24000000.0
+  },
+  {
+   "ticker": "GEMP",
+   "name": "MetaVia Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "3,000,000",
+   "priced_date": "2016-08-05",
+   "offer_usd": 30000000.0
+  },
+  {
+   "ticker": "HOME",
+   "name": "At Home Group Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "15.00",
+   "shares": "8,667,000",
+   "priced_date": "2016-08-04",
+   "offer_usd": 130005000.0
+  },
+  {
+   "ticker": "FHB",
+   "name": "FIRST HAWAIIAN, INC.",
+   "exchange": "Nasdaq National Market",
+   "price": "23.00",
+   "shares": "21,086,957",
+   "priced_date": "2016-08-04",
+   "offer_usd": 485000011.0
+  }
+ ]
+}

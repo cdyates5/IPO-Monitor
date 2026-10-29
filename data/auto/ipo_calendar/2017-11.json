@@ -1,0 +1,303 @@
+{
+ "month": "2017-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BOXL",
+   "name": "Boxlight Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "7.00",
+   "shares": "1,000,000",
+   "priced_date": "2017-11-30",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "RETO",
+   "name": "ReTo Eco-Solutions, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,800,000",
+   "priced_date": "2017-11-29",
+   "offer_usd": 14000000.0
+  },
+  {
+   "ticker": "BRPAU",
+   "name": "NRX Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2017-11-20",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "SFIX",
+   "name": "Stitch Fix, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "8,000,000",
+   "priced_date": "2017-11-17",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "LGC'U",
+   "name": "ID Auto, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2017-11-17",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "AMRH",
+   "name": "Enveric Biosciences, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.115",
+   "shares": "1,475,000",
+   "priced_date": "2017-11-17",
+   "offer_usd": 6077000.0
+  },
+  {
+   "ticker": "SBT",
+   "name": "Sterling Bancorp, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "12.00",
+   "shares": "15,000,000",
+   "priced_date": "2017-11-17",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "LEVB",
+   "name": "cbdMD, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "6.00",
+   "shares": "2,000,000",
+   "priced_date": "2017-11-17",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "SAIL",
+   "name": "Sailpoint Technologies Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "20,000,000",
+   "priced_date": "2017-11-17",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "SCPH",
+   "name": "scPharmaceuticals Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "6,400,000",
+   "priced_date": "2017-11-17",
+   "offer_usd": 89600000.0
+  },
+  {
+   "ticker": "BXG",
+   "name": "BLUEGREEN VACATIONS CORP",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "6,498,648",
+   "priced_date": "2017-11-17",
+   "offer_usd": 90981072.0
+  },
+  {
+   "ticker": "ASNS",
+   "name": "X4 Pharmaceuticals, Inc",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2017-11-16",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "JT",
+   "name": "Jianpu Technology Inc.",
+   "exchange": "NYSE",
+   "price": "8.00",
+   "shares": "22,500,000",
+   "priced_date": "2017-11-16",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "SEND",
+   "name": "SendGrid, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "8,200,000",
+   "priced_date": "2017-11-15",
+   "offer_usd": 131200000.0
+  },
+  {
+   "ticker": "BAND",
+   "name": "Bandwidth Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "4,000,000",
+   "priced_date": "2017-11-10",
+   "offer_usd": 80000000.0
+  },
+  {
+   "ticker": "ERYP",
+   "name": "PHAXIAM Therapeutics S.A.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.26",
+   "shares": "4,686,106",
+   "priced_date": "2017-11-10",
+   "offer_usd": 108998826.0
+  },
+  {
+   "ticker": "PPDF",
+   "name": "FinVolution Group",
+   "exchange": "NYSE",
+   "price": "13.00",
+   "shares": "17,000,000",
+   "priced_date": "2017-11-10",
+   "offer_usd": 221000000.0
+  },
+  {
+   "ticker": "SOGO",
+   "name": "SOGOU INC.",
+   "exchange": "NYSE",
+   "price": "13.00",
+   "shares": "45,000,000",
+   "priced_date": "2017-11-09",
+   "offer_usd": 585000000.0
+  },
+  {
+   "ticker": "APLS",
+   "name": "Apellis Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "10,714,000",
+   "priced_date": "2017-11-09",
+   "offer_usd": 149996000.0
+  },
+  {
+   "ticker": "CBTX",
+   "name": "Stellar Bancorp, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "26.00",
+   "shares": "2,400,000",
+   "priced_date": "2017-11-08",
+   "offer_usd": 62400000.0
+  },
+  {
+   "ticker": "MCB",
+   "name": "Metropolitan Bank Holding Corp.",
+   "exchange": "NYSE",
+   "price": "35.00",
+   "shares": "3,100,000",
+   "priced_date": "2017-11-08",
+   "offer_usd": 108500000.0
+  },
+  {
+   "ticker": "IFRX",
+   "name": "InflaRx N.V.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "6,667,000",
+   "priced_date": "2017-11-08",
+   "offer_usd": 100005000.0
+  },
+  {
+   "ticker": "FEDU",
+   "name": "Four Seasons Education (Cayman) Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,100,000",
+   "priced_date": "2017-11-08",
+   "offer_usd": 101000000.0
+  },
+  {
+   "ticker": "AQ",
+   "name": "AQUANTIA CORP",
+   "exchange": "NYSE",
+   "price": "9.00",
+   "shares": "6,818,000",
+   "priced_date": "2017-11-03",
+   "offer_usd": 61362000.0
+  },
+  {
+   "ticker": "ACMR",
+   "name": "ACM Research, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "5.60",
+   "shares": "2,000,000",
+   "priced_date": "2017-11-03",
+   "offer_usd": 11200000.0
+  },
+  {
+   "ticker": "STNLU",
+   "name": "Sentinel Energy Services Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2017-11-03",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "HX",
+   "name": "Akso Health Group",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2017-11-03",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "FNKO",
+   "name": "Funko, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "10,416,666",
+   "priced_date": "2017-11-02",
+   "offer_usd": 124999992.0
+  },
+  {
+   "ticker": "SPRO",
+   "name": "Spero Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "5,500,000",
+   "priced_date": "2017-11-02",
+   "offer_usd": 77000000.0
+  },
+  {
+   "ticker": "ALNA",
+   "name": "Allena Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "5,333,333",
+   "priced_date": "2017-11-02",
+   "offer_usd": 74666662.0
+  },
+  {
+   "ticker": "AQUA",
+   "name": "Evoqua Water Technologies Corp.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "27,777,777",
+   "priced_date": "2017-11-02",
+   "offer_usd": 499999986.0
+  },
+  {
+   "ticker": "LOMA",
+   "name": "Loma Negra Compania Industrial Argentina Sociedad Anonima",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "46,000,000",
+   "priced_date": "2017-11-01",
+   "offer_usd": 874000000.0
+  },
+  {
+   "ticker": "ALTR",
+   "name": "Altair Engineering Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "12,000,000",
+   "priced_date": "2017-11-01",
+   "offer_usd": 156000000.0
+  }
+ ]
+}

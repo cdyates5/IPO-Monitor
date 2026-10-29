@@ -1,0 +1,87 @@
+{
+ "month": "2016-12",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "HEBT",
+   "name": "AIOS Tech Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "5,000,000",
+   "priced_date": "2016-12-27",
+   "offer_usd": 20000000.0
+  },
+  {
+   "ticker": "TRVG",
+   "name": "trivago N.V.",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.00",
+   "shares": "26,110,118",
+   "priced_date": "2016-12-16",
+   "offer_usd": 287211298.0
+  },
+  {
+   "ticker": "TIG",
+   "name": "TiGenix NV",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.50",
+   "shares": "2,300,000",
+   "priced_date": "2016-12-15",
+   "offer_usd": 35650000.0
+  },
+  {
+   "ticker": "WRD",
+   "name": "Brazos Valley Longhorn, L.L.C.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "27,500,000",
+   "priced_date": "2016-12-14",
+   "offer_usd": 412500000.0
+  },
+  {
+   "ticker": "ICHR",
+   "name": "ICHOR HOLDINGS, LTD.",
+   "exchange": "NASDAQ Global Select",
+   "price": "9.00",
+   "shares": "5,877,778",
+   "priced_date": "2016-12-09",
+   "offer_usd": 52900002.0
+  },
+  {
+   "ticker": "ATH",
+   "name": "Athene Holding Ltd.",
+   "exchange": "NYSE",
+   "price": "40.00",
+   "shares": "27,000,000",
+   "priced_date": "2016-12-09",
+   "offer_usd": 1080000000.0
+  },
+  {
+   "ticker": "SNES",
+   "name": "SenesTech, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "1,875,000",
+   "priced_date": "2016-12-08",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "POLA",
+   "name": "Polar Power, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.00",
+   "shares": "2,400,000",
+   "priced_date": "2016-12-07",
+   "offer_usd": 16800000.0
+  },
+  {
+   "ticker": "IIPR",
+   "name": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "3,350,000",
+   "priced_date": "2016-12-01",
+   "offer_usd": 67000000.0
+  }
+ ]
+}

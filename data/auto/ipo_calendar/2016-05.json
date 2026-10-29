@@ -1,0 +1,168 @@
+{
+ "month": "2016-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "RETA",
+   "name": "REATA PHARMACEUTICALS INC",
+   "exchange": "Nasdaq National Market",
+   "price": "11.00",
+   "shares": "5,500,000",
+   "priced_date": "2016-05-26",
+   "offer_usd": 60500000.0
+  },
+  {
+   "ticker": "GMS",
+   "name": "GMS Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "21.00",
+   "shares": "7,000,000",
+   "priced_date": "2016-05-26",
+   "offer_usd": 147000000.0
+  },
+  {
+   "ticker": "USFD",
+   "name": "US Foods Holding Corp.",
+   "exchange": "New York Stock Exchange",
+   "price": "23.00",
+   "shares": "44,444,444",
+   "priced_date": "2016-05-26",
+   "offer_usd": 1022222212.0
+  },
+  {
+   "ticker": "LCAHU",
+   "name": "Waitr Holdings Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2016-05-26",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "COTV",
+   "name": "Cotiviti Holdings, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "19.00",
+   "shares": "12,500,000",
+   "priced_date": "2016-05-26",
+   "offer_usd": 237500000.0
+  },
+  {
+   "ticker": "MSBI",
+   "name": "Midland States Bancorp, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "22.00",
+   "shares": "3,638,755",
+   "priced_date": "2016-05-24",
+   "offer_usd": 80052610.0
+  },
+  {
+   "ticker": "CFCOU",
+   "name": "FGL Holdings",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2016-05-20",
+   "offer_usd": 600000000.0
+  },
+  {
+   "ticker": "SUPV",
+   "name": "Grupo Supervielle S.A.",
+   "exchange": "New York Stock Exchange",
+   "price": "11.00",
+   "shares": "25,500,015",
+   "priced_date": "2016-05-19",
+   "offer_usd": 280500165.0
+  },
+  {
+   "ticker": "MRUS",
+   "name": "Merus N.V.",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "5,500,000",
+   "priced_date": "2016-05-19",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "RGNP",
+   "name": "Sigyn Therapeutics, Inc.",
+   "exchange": "OTCBB",
+   "price": "0.50",
+   "shares": "3,923,000",
+   "priced_date": "2016-05-19",
+   "offer_usd": 1961500.0
+  },
+  {
+   "ticker": "PZRX",
+   "name": "PHASERX, INC.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "5.00",
+   "shares": "3,700,000",
+   "priced_date": "2016-05-18",
+   "offer_usd": 18500000.0
+  },
+  {
+   "ticker": "PLSE",
+   "name": "PULSE BIOSCIENCES, INC.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "4.00",
+   "shares": "5,000,000",
+   "priced_date": "2016-05-18",
+   "offer_usd": 20000000.0
+  },
+  {
+   "ticker": "ACIA",
+   "name": "Acacia Communications, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "23.00",
+   "shares": "4,500,000",
+   "priced_date": "2016-05-13",
+   "offer_usd": 103500000.0
+  },
+  {
+   "ticker": "ONSIU",
+   "name": "Outlook Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "6.00",
+   "shares": "5,833,334",
+   "priced_date": "2016-05-13",
+   "offer_usd": 35000004.0
+  },
+  {
+   "ticker": "SITE",
+   "name": "SiteOne Landscape Supply, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "21.00",
+   "shares": "10,000,000",
+   "priced_date": "2016-05-12",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "TPB",
+   "name": "Turning Point Brands, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "10.00",
+   "shares": "5,400,000",
+   "priced_date": "2016-05-11",
+   "offer_usd": 54000000.0
+  },
+  {
+   "ticker": "NTLA",
+   "name": "Intellia Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "18.00",
+   "shares": "6,000,000",
+   "priced_date": "2016-05-06",
+   "offer_usd": 108000000.0
+  },
+  {
+   "ticker": "SBPH",
+   "name": "F-star Therapeutics, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "12.00",
+   "shares": "920,000",
+   "priced_date": "2016-05-06",
+   "offer_usd": 11040000.0
+  }
+ ]
+}

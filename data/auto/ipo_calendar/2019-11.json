@@ -1,0 +1,240 @@
+{
+ "month": "2019-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ALUSU",
+   "name": "Alussa Energy Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2019-11-26",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "PTACU",
+   "name": "Porch Group, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2019-11-22",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CHPMU",
+   "name": "CHP Merger Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "27,500,000",
+   "priced_date": "2019-11-22",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "PINE",
+   "name": "Alpine Income Property Trust, Inc.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "7,500,000",
+   "priced_date": "2019-11-22",
+   "offer_usd": 142500000.0
+  },
+  {
+   "ticker": "CAN",
+   "name": "Canaan Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "9.00",
+   "shares": "10,000,000",
+   "priced_date": "2019-11-21",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "SITM",
+   "name": "SITIME Corp",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "4,300,000",
+   "priced_date": "2019-11-21",
+   "offer_usd": 55900000.0
+  },
+  {
+   "ticker": "AMHCU",
+   "name": "Jasper Therapeutics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2019-11-20",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "SAQNU",
+   "name": "CuriosityStream Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "13,000,000",
+   "priced_date": "2019-11-20",
+   "offer_usd": 130000000.0
+  },
+  {
+   "ticker": "GRNVU",
+   "name": "micromobility.com Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-11-19",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "YAYO",
+   "name": "EVmo, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,625,000",
+   "priced_date": "2019-11-13",
+   "offer_usd": 10500000.0
+  },
+  {
+   "ticker": "ETNB",
+   "name": "89bio, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "5,304,687",
+   "priced_date": "2019-11-11",
+   "offer_usd": 84874992.0
+  },
+  {
+   "ticker": "CNSP",
+   "name": "CNS Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,125,000",
+   "priced_date": "2019-11-08",
+   "offer_usd": 8500000.0
+  },
+  {
+   "ticker": "MOHO",
+   "name": "ECMOHO Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "4,375,000",
+   "priced_date": "2019-11-08",
+   "offer_usd": 43750000.0
+  },
+  {
+   "ticker": "SRACU",
+   "name": "Momentus Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2019-11-08",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "KRKR",
+   "name": "36Kr Holdings Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "14.50",
+   "shares": "1,380,000",
+   "priced_date": "2019-11-08",
+   "offer_usd": 20010000.0
+  },
+  {
+   "ticker": "JIH'U",
+   "name": "Juniper Industrial Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2019-11-08",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "TELA",
+   "name": "TELA Bio, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "4,000,000",
+   "priced_date": "2019-11-08",
+   "offer_usd": 52000000.0
+  },
+  {
+   "ticker": "GRTX",
+   "name": "Galera Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-11-07",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "SI",
+   "name": "Silvergate Capital Corp",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "3,333,333",
+   "priced_date": "2019-11-07",
+   "offer_usd": 39999996.0
+  },
+  {
+   "ticker": "DFNSU",
+   "name": "IronNet, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2019-11-07",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CNTG",
+   "name": "Centogene N.V.",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "4,000,000",
+   "priced_date": "2019-11-07",
+   "offer_usd": 56000000.0
+  },
+  {
+   "ticker": "QK",
+   "name": "XChange TEC.INC",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "2,700,000",
+   "priced_date": "2019-11-05",
+   "offer_usd": 45900000.0
+  },
+  {
+   "ticker": "MCMJU",
+   "name": "Leafly Holdings, Inc. /DE",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,000,000",
+   "priced_date": "2019-11-05",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "DUO",
+   "name": "Fangdd Network Group Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "6,000,000",
+   "priced_date": "2019-11-01",
+   "offer_usd": 78000000.0
+  },
+  {
+   "ticker": "SFTWU",
+   "name": "BlackSky Technology Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "27,500,000",
+   "priced_date": "2019-11-01",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "FSRVU",
+   "name": "Katapult Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2019-11-01",
+   "offer_usd": 220000000.0
+  }
+ ]
+}

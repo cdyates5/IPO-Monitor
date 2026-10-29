@@ -1,0 +1,213 @@
+{
+ "month": "2017-06",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BY",
+   "name": "BYLINE BANCORP, INC.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "5,700,000",
+   "priced_date": "2017-06-30",
+   "offer_usd": 108300000.0
+  },
+  {
+   "ticker": "TNTR",
+   "name": "Tintri, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "7.00",
+   "shares": "8,572,000",
+   "priced_date": "2017-06-30",
+   "offer_usd": 60004000.0
+  },
+  {
+   "ticker": "DOVA",
+   "name": "Dova Pharmaceuticals Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "4,415,000",
+   "priced_date": "2017-06-29",
+   "offer_usd": 75055000.0
+  },
+  {
+   "ticker": "APRN",
+   "name": "Blue Apron Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2017-06-29",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "ALRN",
+   "name": "Rein Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "3,750,000",
+   "priced_date": "2017-06-29",
+   "offer_usd": 56250000.0
+  },
+  {
+   "ticker": "MRSN",
+   "name": "Mersana Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2017-06-28",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "TPGHU",
+   "name": "Accel Entertainment, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "40,000,000",
+   "priced_date": "2017-06-28",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "ESQ",
+   "name": "Esquire Financial Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "14.00",
+   "shares": "2,363,873",
+   "priced_date": "2017-06-27",
+   "offer_usd": 33094222.0
+  },
+  {
+   "ticker": "ATXI",
+   "name": "AVENUE THERAPEUTICS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "5,500,000",
+   "priced_date": "2017-06-27",
+   "offer_usd": 33000000.0
+  },
+  {
+   "ticker": "GPMT",
+   "name": "Granite Point Mortgage Trust Inc.",
+   "exchange": "NYSE",
+   "price": "19.50",
+   "shares": "10,000,000",
+   "priced_date": "2017-06-23",
+   "offer_usd": 195000000.0
+  },
+  {
+   "ticker": "HCACU",
+   "name": "NRC GROUP HOLDINGS CORP.",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2017-06-23",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "SAFE",
+   "name": "Safehold Inc. /MD",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "10,250,000",
+   "priced_date": "2017-06-22",
+   "offer_usd": 205000000.0
+  },
+  {
+   "ticker": "ATUS",
+   "name": "Optimum Communications, Inc.",
+   "exchange": "NYSE",
+   "price": "30.00",
+   "shares": "63,943,029",
+   "priced_date": "2017-06-22",
+   "offer_usd": 1918290870.0
+  },
+  {
+   "ticker": "SGBX",
+   "name": "OLENOX INDUSTRIES INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,500,000",
+   "priced_date": "2017-06-22",
+   "offer_usd": 7500000.0
+  },
+  {
+   "ticker": "CNACU",
+   "name": "DermTech, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2017-06-20",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "BCACU",
+   "name": "XYNOMIC PHARMACEUTICALS HOLDINGS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,250,000",
+   "priced_date": "2017-06-20",
+   "offer_usd": 52500000.0
+  },
+  {
+   "ticker": "BOMN",
+   "name": "BOSTON OMAHA Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "13.00",
+   "shares": "6,538,462",
+   "priced_date": "2017-06-16",
+   "offer_usd": 85000006.0
+  },
+  {
+   "ticker": "ADOM",
+   "name": "AZIO AI HOLDINGS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,852,275",
+   "priced_date": "2017-06-15",
+   "offer_usd": 14261375.0
+  },
+  {
+   "ticker": "ATNX",
+   "name": "Athenex, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.00",
+   "shares": "6,000,000",
+   "priced_date": "2017-06-14",
+   "offer_usd": 66000000.0
+  },
+  {
+   "ticker": "PLYM",
+   "name": "Plymouth Industrial REIT, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "19.00",
+   "shares": "2,900,000",
+   "priced_date": "2017-06-09",
+   "offer_usd": 55100000.0
+  },
+  {
+   "ticker": "IMRN",
+   "name": "Immuron Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "9.99",
+   "shares": "610,000",
+   "priced_date": "2017-06-09",
+   "offer_usd": 6093900.0
+  },
+  {
+   "ticker": "SSTI",
+   "name": "SOUNDTHINKING, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "11.00",
+   "shares": "2,800,000",
+   "priced_date": "2017-06-07",
+   "offer_usd": 30800000.0
+  },
+  {
+   "ticker": "KBLMU",
+   "name": "FORUM MARKETS Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2017-06-02",
+   "offer_usd": 100000000.0
+  }
+ ]
+}

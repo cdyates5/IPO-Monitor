@@ -1,0 +1,132 @@
+{
+ "month": "2017-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "KAACU",
+   "name": "Kinetik Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2017-03-30",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "AYX",
+   "name": "Alteryx, Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "9,000,000",
+   "priced_date": "2017-03-24",
+   "offer_usd": 126000000.0
+  },
+  {
+   "ticker": "SRUNU",
+   "name": "Alta Mesa Resources, Inc. /DE",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "90,000,000",
+   "priced_date": "2017-03-24",
+   "offer_usd": 900000000.0
+  },
+  {
+   "ticker": "VLRX",
+   "name": "Valeritas Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,250,000",
+   "priced_date": "2017-03-23",
+   "offer_usd": 52500000.0
+  },
+  {
+   "ticker": "TRPX",
+   "name": "SciSparc Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "2,000,000",
+   "priced_date": "2017-03-22",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "PUMP",
+   "name": "ProPetro Holding Corp.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "25,000,000",
+   "priced_date": "2017-03-17",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "MULE",
+   "name": "MULESOFT, INC",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "13,000,000",
+   "priced_date": "2017-03-17",
+   "offer_usd": 221000000.0
+  },
+  {
+   "ticker": "ARD",
+   "name": "Ardagh Group S.A.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "16,200,000",
+   "priced_date": "2017-03-15",
+   "offer_usd": 307800000.0
+  },
+  {
+   "ticker": "MPACU",
+   "name": "U.S. WELL SERVICES HOLDINGS, LLC",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2017-03-10",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "PSDO",
+   "name": "Presidio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "16,666,666",
+   "priced_date": "2017-03-10",
+   "offer_usd": 233333324.0
+  },
+  {
+   "ticker": "BYSI",
+   "name": "BeyondSpring Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "20.00",
+   "shares": "174,286",
+   "priced_date": "2017-03-09",
+   "offer_usd": 3485720.0
+  },
+  {
+   "ticker": "JILL",
+   "name": "J.Jill, Inc.",
+   "exchange": "NYSE",
+   "price": "13.00",
+   "shares": "11,666,667",
+   "priced_date": "2017-03-09",
+   "offer_usd": 151666671.0
+  },
+  {
+   "ticker": "SNAP",
+   "name": "Snap Inc",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "200,000,000",
+   "priced_date": "2017-03-02",
+   "offer_usd": 3400000000.0
+  },
+  {
+   "ticker": "HLNE",
+   "name": "Hamilton Lane INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "11,875,000",
+   "priced_date": "2017-03-01",
+   "offer_usd": 190000000.0
+  }
+ ]
+}

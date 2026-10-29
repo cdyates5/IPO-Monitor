@@ -1,0 +1,168 @@
+{
+ "month": "2017-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "PQG",
+   "name": "Ecovyst Inc.",
+   "exchange": "NYSE",
+   "price": "17.50",
+   "shares": "29,000,000",
+   "priced_date": "2017-09-29",
+   "offer_usd": 507500000.0
+  },
+  {
+   "ticker": "NITE",
+   "name": "Nightstar Therapeutics plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "5,360,000",
+   "priced_date": "2017-09-28",
+   "offer_usd": 75040000.0
+  },
+  {
+   "ticker": "NCNA",
+   "name": "NuCana plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "6,667,000",
+   "priced_date": "2017-09-28",
+   "offer_usd": 100005000.0
+  },
+  {
+   "ticker": "ROKU",
+   "name": "ROKU, INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "15,668,000",
+   "priced_date": "2017-09-28",
+   "offer_usd": 219352000.0
+  },
+  {
+   "ticker": "DCPH",
+   "name": "Deciphera Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "7,500,000",
+   "priced_date": "2017-09-28",
+   "offer_usd": 127500000.0
+  },
+  {
+   "ticker": "RYB",
+   "name": "Mynd.ai, Inc.",
+   "exchange": "NYSE",
+   "price": "18.50",
+   "shares": "7,800,000",
+   "priced_date": "2017-09-27",
+   "offer_usd": 144300000.0
+  },
+  {
+   "ticker": "SECO",
+   "name": "Secoo Holding Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "8,500,000",
+   "priced_date": "2017-09-22",
+   "offer_usd": 110500000.0
+  },
+  {
+   "ticker": "OMP",
+   "name": "Oasis Midstream Partners LP",
+   "exchange": "NYSE",
+   "price": "17.00\t \t",
+   "shares": "7,500,000",
+   "priced_date": "2017-09-21",
+   "offer_usd": 127500000.0
+  },
+  {
+   "ticker": "PETZ",
+   "name": "TDH Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.25",
+   "shares": "1,325,000",
+   "priced_date": "2017-09-21",
+   "offer_usd": 5631250.0
+  },
+  {
+   "ticker": "DESP",
+   "name": "Despegar.com, Corp.",
+   "exchange": "NYSE",
+   "price": "26.00",
+   "shares": "12,770,000",
+   "priced_date": "2017-09-20",
+   "offer_usd": 332020000.0
+  },
+  {
+   "ticker": "ZLAB",
+   "name": "Zai Lab Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "8,333,333",
+   "priced_date": "2017-09-20",
+   "offer_usd": 149999994.0
+  },
+  {
+   "ticker": "KRYS",
+   "name": "Krystal Biotech, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "3,960,000",
+   "priced_date": "2017-09-20",
+   "offer_usd": 39600000.0
+  },
+  {
+   "ticker": "BSTI",
+   "name": "BEST Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "45,000,000",
+   "priced_date": "2017-09-20",
+   "offer_usd": 450000000.0
+  },
+  {
+   "ticker": "CELC",
+   "name": "Celcuity Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "9.50",
+   "shares": "2,400,000",
+   "priced_date": "2017-09-20",
+   "offer_usd": 22800000.0
+  },
+  {
+   "ticker": "DOTAU",
+   "name": "Draper Oakwood Technology Acquisition Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2017-09-15",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "TRMT",
+   "name": "Tremont Mortgage Trust",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "2,500,000",
+   "priced_date": "2017-09-14",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "IPOAU",
+   "name": "Virgin Galactic Holdings, Inc",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2017-09-14",
+   "offer_usd": 600000000.0
+  },
+  {
+   "ticker": "ZKIN",
+   "name": "ZK International Group Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,068,346",
+   "priced_date": "2017-09-01",
+   "offer_usd": 5341730.0
+  }
+ ]
+}

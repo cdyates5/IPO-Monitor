@@ -1,0 +1,123 @@
+{
+ "month": "2017-12",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ICLK",
+   "name": "Amber International Holding Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "8.00",
+   "shares": "3,750,000",
+   "priced_date": "2017-12-22",
+   "offer_usd": 30000000.0
+  },
+  {
+   "ticker": "LX",
+   "name": "LexinFintech Holdings Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "9.00",
+   "shares": "12,000,000",
+   "priced_date": "2017-12-21",
+   "offer_usd": 108000000.0
+  },
+  {
+   "ticker": "DOGZ",
+   "name": "Dogness (International) Corp",
+   "exchange": "NASDAQ Global",
+   "price": "5.00",
+   "shares": "11,000,000",
+   "priced_date": "2017-12-20",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "NMRK",
+   "name": "NEWMARK GROUP, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "20,000,000",
+   "priced_date": "2017-12-15",
+   "offer_usd": 280000000.0
+  },
+  {
+   "ticker": "CASA",
+   "name": "Casa Systems Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "6,000,000",
+   "priced_date": "2017-12-15",
+   "offer_usd": 78000000.0
+  },
+  {
+   "ticker": "LBC",
+   "name": "Luther Burbank Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "10.75",
+   "shares": "12,150,000",
+   "priced_date": "2017-12-08",
+   "offer_usd": 130612500.0
+  },
+  {
+   "ticker": "GIG'U",
+   "name": "Kaleyra, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2017-12-08",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "DNLI",
+   "name": "Denali Therapeutics Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "13,888,888",
+   "priced_date": "2017-12-08",
+   "offer_usd": 249999984.0
+  },
+  {
+   "ticker": "ODT",
+   "name": "Odonate, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "24.00",
+   "shares": "6,250,000",
+   "priced_date": "2017-12-07",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CURO",
+   "name": "CURO Group Holdings Corp.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "6,666,667",
+   "priced_date": "2017-12-07",
+   "offer_usd": 93333338.0
+  },
+  {
+   "ticker": "QTRX",
+   "name": "Quanterix Corp",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "4,275,200",
+   "priced_date": "2017-12-07",
+   "offer_usd": 64128000.0
+  },
+  {
+   "ticker": "LACQU",
+   "name": "Ensysce Biosciences, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2017-12-01",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "RWGEU",
+   "name": "Regalwood Global Energy Ltd.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2017-12-01",
+   "offer_usd": 300000000.0
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "month": "2017-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "WOW",
+   "name": "WideOpenWest, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "18,235,295",
+   "priced_date": "2017-05-25",
+   "offer_usd": 310000015.0
+  },
+  {
+   "ticker": "APPN",
+   "name": "APPIAN CORP",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "6,250,000",
+   "priced_date": "2017-05-25",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "SGH",
+   "name": "Penguin Solutions, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.00",
+   "shares": "5,300,000",
+   "priced_date": "2017-05-24",
+   "offer_usd": 58300000.0
+  },
+  {
+   "ticker": "BEDU",
+   "name": "Bright Scholar Education Holdings Ltd",
+   "exchange": "NYSE",
+   "price": "10.50",
+   "shares": "15,000,000",
+   "priced_date": "2017-05-18",
+   "offer_usd": 157500000.0
+  },
+  {
+   "ticker": "ARGX",
+   "name": "ARGENX SE",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "5,865,000",
+   "priced_date": "2017-05-18",
+   "offer_usd": 99705000.0
+  },
+  {
+   "ticker": "GTHX",
+   "name": "G1 Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "7,000,000",
+   "priced_date": "2017-05-17",
+   "offer_usd": 105000000.0
+  },
+  {
+   "ticker": "VERI",
+   "name": "Veritone, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "15.00",
+   "shares": "2,500,000",
+   "priced_date": "2017-05-12",
+   "offer_usd": 37500000.0
+  },
+  {
+   "ticker": "ASV",
+   "name": "ASV HOLDINGS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.00",
+   "shares": "3,800,000",
+   "priced_date": "2017-05-12",
+   "offer_usd": 26600000.0
+  },
+  {
+   "ticker": "NESRU",
+   "name": "National Energy Services Reunited Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "21,000,000",
+   "priced_date": "2017-05-12",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "GDI",
+   "name": "Ingersoll Rand Inc.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "41,300,000",
+   "priced_date": "2017-05-12",
+   "offer_usd": 826000000.0
+  },
+  {
+   "ticker": "MMDMU",
+   "name": "Modern Media Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "18,000,000",
+   "priced_date": "2017-05-12",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "SOI",
+   "name": "Solaris Energy Infrastructure, Inc.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "10,100,000",
+   "priced_date": "2017-05-12",
+   "offer_usd": 121200000.0
+  },
+  {
+   "ticker": "FPH",
+   "name": "Five Point Holdings, LLC",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "21,000,000",
+   "priced_date": "2017-05-10",
+   "offer_usd": 294000000.0
+  },
+  {
+   "ticker": "GNTY",
+   "name": "GUARANTY BANCSHARES INC /TX/",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "2,000,000",
+   "priced_date": "2017-05-09",
+   "offer_usd": 54000000.0
+  },
+  {
+   "ticker": "NDRAU",
+   "name": "ENDRA Life Sciences Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,680,000",
+   "priced_date": "2017-05-09",
+   "offer_usd": 8400000.0
+  },
+  {
+   "ticker": "KREF",
+   "name": "KKR Real Estate Finance Trust Inc.",
+   "exchange": "NYSE",
+   "price": "20.50",
+   "shares": "10,250,000",
+   "priced_date": "2017-05-05",
+   "offer_usd": 210125000.0
+  },
+  {
+   "ticker": "OVID",
+   "name": "Ovid Therapeutics Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2017-05-05",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "TPGEU",
+   "name": "Magnolia Oil & Gas Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2017-05-05",
+   "offer_usd": 600000000.0
+  },
+  {
+   "ticker": "BHVN",
+   "name": "Biohaven Pharmaceutical Holding Co Ltd.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "9,900,000",
+   "priced_date": "2017-05-04",
+   "offer_usd": 168300000.0
+  },
+  {
+   "ticker": "URGN",
+   "name": "UroGen Pharma Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "4,473,373",
+   "priced_date": "2017-05-04",
+   "offer_usd": 58153849.0
+  },
+  {
+   "ticker": "AMGP",
+   "name": "Antero Midstream Corp",
+   "exchange": "NYSE",
+   "price": "23.50",
+   "shares": "37,250,000",
+   "priced_date": "2017-05-04",
+   "offer_usd": 875375000.0
+  }
+ ]
+}

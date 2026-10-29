@@ -1,0 +1,141 @@
+{
+ "month": "2015-01",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "TCON",
+   "name": "Tracon Pharmaceuticals, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "3,600,000",
+   "priced_date": "2015-01-30",
+   "offer_usd": 36000000.0
+  },
+  {
+   "ticker": "ONCE",
+   "name": "Spark Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "23.00",
+   "shares": "7,000,000",
+   "priced_date": "2015-01-30",
+   "offer_usd": 161000000.0
+  },
+  {
+   "ticker": "HIFR",
+   "name": "InfraREIT, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "23.00",
+   "shares": "20,000,000",
+   "priced_date": "2015-01-30",
+   "offer_usd": 460000000.0
+  },
+  {
+   "ticker": "AVGR",
+   "name": "Avinger Inc",
+   "exchange": "Nasdaq National Market",
+   "price": "13.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-01-30",
+   "offer_usd": 65000000.0
+  },
+  {
+   "ticker": "SHAK",
+   "name": "Shake Shack Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "21.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-01-30",
+   "offer_usd": 105000000.0
+  },
+  {
+   "ticker": "LENS",
+   "name": "Presbia PLC",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "4,166,667",
+   "priced_date": "2015-01-29",
+   "offer_usd": 41666670.0
+  },
+  {
+   "ticker": "FLKS",
+   "name": "Decoy Therapeutics Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "16.00",
+   "shares": "5,400,000",
+   "priced_date": "2015-01-29",
+   "offer_usd": 86400000.0
+  },
+  {
+   "ticker": "ENTL",
+   "name": "ENTELLUS MEDICAL INC",
+   "exchange": "Nasdaq National Market",
+   "price": "17.00",
+   "shares": "4,603,580",
+   "priced_date": "2015-01-29",
+   "offer_usd": 78260860.0
+  },
+  {
+   "ticker": "ASND",
+   "name": "Ascendis Pharma A/S",
+   "exchange": "Nasdaq National Market",
+   "price": "18.00",
+   "shares": "6,000,000",
+   "priced_date": "2015-01-28",
+   "offer_usd": 108000000.0
+  },
+  {
+   "ticker": "ZSAN",
+   "name": "Zosano Pharma Corp",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "11.00",
+   "shares": "4,500,000",
+   "priced_date": "2015-01-27",
+   "offer_usd": 49500000.0
+  },
+  {
+   "ticker": "BOX",
+   "name": "BOX INC",
+   "exchange": "New York Stock Exchange",
+   "price": "14.00",
+   "shares": "12,500,000",
+   "priced_date": "2015-01-23",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "EURN",
+   "name": "CMB.TECH NV",
+   "exchange": "New York Stock Exchange",
+   "price": "12.25",
+   "shares": "16,260,000",
+   "priced_date": "2015-01-23",
+   "offer_usd": 199185000.0
+  },
+  {
+   "ticker": "QPACU",
+   "name": "Exela Technologies, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2015-01-16",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "ICBK",
+   "name": "County Bancorp, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "15.75",
+   "shares": "1,180,000",
+   "priced_date": "2015-01-16",
+   "offer_usd": 18585000.0
+  },
+  {
+   "ticker": "PN",
+   "name": "Patriot National, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "14.00",
+   "shares": "8,315,700",
+   "priced_date": "2015-01-16",
+   "offer_usd": 116419800.0
+  }
+ ]
+}

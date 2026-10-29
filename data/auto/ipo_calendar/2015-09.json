@@ -1,0 +1,60 @@
+{
+ "month": "2015-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BLVDU",
+   "name": "ESTRE USA INC.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2015-09-22",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "PEN",
+   "name": "Penumbra Inc",
+   "exchange": "New York Stock Exchange",
+   "price": "30.00",
+   "shares": "4,000,000",
+   "priced_date": "2015-09-18",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "NBRV",
+   "name": "Nabriva Therapeutics Plc",
+   "exchange": "Nasdaq National Market",
+   "price": "10.25",
+   "shares": "9,000,000",
+   "priced_date": "2015-09-18",
+   "offer_usd": 92250000.0
+  },
+  {
+   "ticker": "RGNX",
+   "name": "REGENXBIO Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "22.00",
+   "shares": "6,300,000",
+   "priced_date": "2015-09-17",
+   "offer_usd": 138600000.0
+  },
+  {
+   "ticker": "PACEU",
+   "name": "Pace Holdings Corp.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "40,000,000",
+   "priced_date": "2015-09-11",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "EAGLU",
+   "name": "WillScot Holdings Corp",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "48,000,000",
+   "priced_date": "2015-09-11",
+   "offer_usd": 480000000.0
+  }
+ ]
+}

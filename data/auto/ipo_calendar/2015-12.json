@@ -1,0 +1,33 @@
+{
+ "month": "2015-12",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "CCRC",
+   "name": "China Customer Relations Centers, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "4.00",
+   "shares": "2,400,000",
+   "priced_date": "2015-12-21",
+   "offer_usd": 9600000.0
+  },
+  {
+   "ticker": "YRD",
+   "name": "Yiren Digital Ltd.",
+   "exchange": "New York Stock Exchange",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2015-12-18",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "TEAM",
+   "name": "Atlassian Corp",
+   "exchange": "Nasdaq National Market",
+   "price": "21.00",
+   "shares": "22,000,000",
+   "priced_date": "2015-12-10",
+   "offer_usd": 462000000.0
+  }
+ ]
+}

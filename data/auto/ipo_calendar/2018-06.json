@@ -1,0 +1,348 @@
+{
+ "month": "2018-06",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "DOMO",
+   "name": "Huckleberry.ai, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "21.00",
+   "shares": "9,200,000",
+   "priced_date": "2018-06-29",
+   "offer_usd": 193200000.0
+  },
+  {
+   "ticker": "BJ",
+   "name": "BJ's Wholesale Club Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "37,500,000",
+   "priced_date": "2018-06-28",
+   "offer_usd": 637500000.0
+  },
+  {
+   "ticker": "TCDA",
+   "name": "Tricida, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "11,700,000",
+   "priced_date": "2018-06-28",
+   "offer_usd": 222300000.0
+  },
+  {
+   "ticker": "EVER",
+   "name": "EverQuote, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "4,687,500",
+   "priced_date": "2018-06-28",
+   "offer_usd": 84375000.0
+  },
+  {
+   "ticker": "FTSV",
+   "name": "Forty Seven, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "7,035,000",
+   "priced_date": "2018-06-28",
+   "offer_usd": 112560000.0
+  },
+  {
+   "ticker": "BV",
+   "name": "BrightView Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "21,300,000",
+   "priced_date": "2018-06-28",
+   "offer_usd": 468600000.0
+  },
+  {
+   "ticker": "NFC'U",
+   "name": "New Frontier Health Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2018-06-28",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "HCCHU",
+   "name": "HL Acquisitions Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2018-06-28",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "STIM",
+   "name": "Neuronetics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "5,500,000",
+   "priced_date": "2018-06-28",
+   "offer_usd": 93500000.0
+  },
+  {
+   "ticker": "TBIO",
+   "name": "Translate Bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "9,350,000",
+   "priced_date": "2018-06-28",
+   "offer_usd": 121550000.0
+  },
+  {
+   "ticker": "ENTX",
+   "name": "Entera Bio Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "1,400,000",
+   "priced_date": "2018-06-28",
+   "offer_usd": 11200000.0
+  },
+  {
+   "ticker": "HYRE",
+   "name": "HC LIQUIDATING, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,520,000",
+   "priced_date": "2018-06-27",
+   "offer_usd": 12600000.0
+  },
+  {
+   "ticker": "NTGN",
+   "name": "Neon Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,250,000",
+   "priced_date": "2018-06-27",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "LOVE",
+   "name": "Lovesac Co",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "3,500,000",
+   "priced_date": "2018-06-27",
+   "offer_usd": 56000000.0
+  },
+  {
+   "ticker": "UXIN",
+   "name": "Uxin Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "9.00",
+   "shares": "25,000,000",
+   "priced_date": "2018-06-27",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "GLDM",
+   "name": "World Gold Trust",
+   "exchange": "NYSE Arca",
+   "price": "12.98",
+   "shares": "80,000,000",
+   "priced_date": "2018-06-26",
+   "offer_usd": 1038400000.0
+  },
+  {
+   "ticker": "ECOR",
+   "name": "electroCore, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "5,200,000",
+   "priced_date": "2018-06-22",
+   "offer_usd": 78000000.0
+  },
+  {
+   "ticker": "AUTL",
+   "name": "Autolus Therapeutics plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "8,823,530",
+   "priced_date": "2018-06-22",
+   "offer_usd": 150000010.0
+  },
+  {
+   "ticker": "IIIV",
+   "name": "i3 Verticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "6,650,000",
+   "priced_date": "2018-06-21",
+   "offer_usd": 86450000.0
+  },
+  {
+   "ticker": "EPRT",
+   "name": "ESSENTIAL PROPERTIES REALTY TRUST, INC.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "32,500,000",
+   "priced_date": "2018-06-21",
+   "offer_usd": 455000000.0
+  },
+  {
+   "ticker": "AVRO",
+   "name": "Tectonic Therapeutic, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "5,247,958",
+   "priced_date": "2018-06-21",
+   "offer_usd": 99711202.0
+  },
+  {
+   "ticker": "MGTA",
+   "name": "Dianthus Therapeutics, Inc. /DE/",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "6,666,667",
+   "priced_date": "2018-06-21",
+   "offer_usd": 100000005.0
+  },
+  {
+   "ticker": "KZR",
+   "name": "Kezar Life Sciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2018-06-21",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "APTX",
+   "name": "Aptinyx Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,399,999",
+   "priced_date": "2018-06-21",
+   "offer_usd": 102399984.0
+  },
+  {
+   "ticker": "XERS",
+   "name": "XERIS PHARMACEUTICALS INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,700,000",
+   "priced_date": "2018-06-21",
+   "offer_usd": 85500000.0
+  },
+  {
+   "ticker": "TWLVU",
+   "name": "BPGIC INTERNATIONAL",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "18,000,000",
+   "priced_date": "2018-06-20",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "EIDX",
+   "name": "Eidos Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "6,250,000",
+   "priced_date": "2018-06-20",
+   "offer_usd": 106250000.0
+  },
+  {
+   "ticker": "LFACU",
+   "name": "Landsea Homes Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "13,500,000",
+   "priced_date": "2018-06-20",
+   "offer_usd": 135000000.0
+  },
+  {
+   "ticker": "TBRGU",
+   "name": "Repay Holdings Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2018-06-19",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "NEW",
+   "name": "Puxin Ltd",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "7,200,000",
+   "priced_date": "2018-06-15",
+   "offer_usd": 122400000.0
+  },
+  {
+   "ticker": "AVLR",
+   "name": "AVALARA, INC.",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "7,500,000",
+   "priced_date": "2018-06-15",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "VRCA",
+   "name": "Verrica Pharmaceuticals Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2018-06-15",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "USX",
+   "name": "US XPRESS ENTERPRISES INC",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "18,056,000",
+   "priced_date": "2018-06-14",
+   "offer_usd": 288896000.0
+  },
+  {
+   "ticker": "CHRA",
+   "name": "Charah Solutions, Inc.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "7,352,941",
+   "priced_date": "2018-06-14",
+   "offer_usd": 88235292.0
+  },
+  {
+   "ticker": "FPACU",
+   "name": "Far Point Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "55,000,000",
+   "priced_date": "2018-06-12",
+   "offer_usd": 550000000.0
+  },
+  {
+   "ticker": "GSAHU",
+   "name": "Vertiv Holdings Co",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2018-06-08",
+   "offer_usd": 600000000.0
+  },
+  {
+   "ticker": "MGTX",
+   "name": "MeiraGTx Holdings plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2018-06-08",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "AMBO",
+   "name": "Ambow Education Holding Ltd.",
+   "exchange": "NYSE MKT",
+   "price": "4.25",
+   "shares": "1,800,000",
+   "priced_date": "2018-06-01",
+   "offer_usd": 7650000.0
+  }
+ ]
+}
