@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>US IPO Market Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #ffffff; --bg2: #f5f4ef; --txt: #1a1a18; --txt2: #5f5e5a; --txt3: #888780;
+    --border: rgba(0,0,0,0.12); --btn: #ffffff; --btn-h: #ebe9e1; --radius: 10px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1e1e1c; --bg2: #2c2c2a; --txt: #f1efe8; --txt2: #b4b2a9; --txt3: #9b9990;
+      --border: rgba(255,255,255,0.12); --btn: #232321; --btn-h: #3a3a37;
+    }
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 13px; background: var(--bg); color: var(--txt);
+    padding: 24px 16px; max-width: 1180px; margin: 0 auto;
+  }
+  a { color: inherit; }
+  .head { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; margin-bottom: 14px; }
+  h1 { font-size: 18px; font-weight: 500; margin-bottom: 6px; }
+  .subtitle { font-size: 12px; color: var(--txt3); max-width: 760px; line-height: 1.5; }
+  .toolbar { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .toolbar .lbl { font-size: 11px; color: var(--txt2); margin-right: 2px; }
+  button.dl {
+    font: inherit; font-size: 11px; color: var(--txt); background: var(--btn);
+    border: 0.5px solid var(--border); border-radius: 6px; padding: 5px 10px; cursor: pointer; line-height: 1.2;
+  }
+  button.dl:hover { background: var(--btn-h); }
+  button.dl:disabled { opacity: .55; cursor: progress; }
+  button.dl.sm { font-size: 10px; padding: 2px 7px; border-radius: 5px; }
+  .meta-cards { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin-bottom: 16px; }
+  .meta-card { background: var(--bg2); border-radius: 8px; padding: 10px 12px; }
+  .meta-card .label { font-size: 10px; color: var(--txt2); margin-bottom: 3px; }
+  .meta-card .value { font-size: 15px; font-weight: 500; margin-bottom: 2px; }
+  .meta-card .sub { font-size: 10px; color: var(--txt3); line-height: 1.4; }
+  .delayed { color: var(--txt2); }
+  .col-headers { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 8px; }
+  .col-header { font-size: 11px; font-weight: 500; text-align: center; padding: 5px 0; }
+  .col-header.base { color: var(--txt2); border-bottom: 2px solid var(--border); }
+  .col-header.upside { color: #D85A30; border-bottom: 2px solid #D85A30; }
+  .dashboard { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .chart-card { background: var(--bg2); border-radius: var(--radius); padding: 12px 14px; min-width: 0; }
+  .chart-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 5px; }
+  .chart-title { font-size: 11.5px; font-weight: 500; color: var(--txt); }
+  .chart-actions { display: flex; gap: 4px; flex-shrink: 0; }
+  .legend { display: flex; flex-wrap: wrap; gap: 8px; font-size: 10px; color: var(--txt2); margin-bottom: 6px; align-items: center; }
+  .legend-dot { width: 9px; height: 9px; border-radius: 2px; display: inline-block; vertical-align: middle; margin-right: 3px; }
+  .legend-dot-est { width: 9px; height: 9px; border-radius: 2px; display: inline-block; vertical-align: middle; margin-right: 3px; outline: 1.5px dashed; }
+  .chart-wrap { position: relative; width: 100%; height: 180px; }
+  .chart-tooltip {
+    font-size: 10.5px; color: var(--txt2); text-align: center; margin-top: 4px; min-height: 16px;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; visibility: hidden;
+    padding: 3px 6px; background: var(--bg); border-radius: 5px;
+  }
+  .flash {
+    position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); max-width: 90vw;
+    background: var(--txt); color: var(--bg); font-size: 12px; padding: 8px 14px; border-radius: 8px;
+    opacity: 0; pointer-events: none; transition: opacity .2s;
+  }
+  .flash.on { opacity: .95; }
+  footer { margin-top: 16px; font-size: 10px; color: var(--txt3); line-height: 1.6; border-top: 0.5px solid var(--border); padding-top: 10px; }
+  footer p { margin-bottom: 6px; }
+  .status { font-size: 10.5px; margin: -4px 0 14px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .muted { color: var(--txt3); }
+  .st { border-radius: 10px; padding: 1px 8px; border: 0.5px solid var(--border); }
+  .st.ok { color: #1D9E75; }
+  .st.bad { color: #D85A30; border-color: #D85A30; }
+  .st.na { color: var(--txt3); }
+  .toolbar a { font-size: 11px; color: var(--txt2); margin-left: 4px; }
+  .section { background: var(--bg2); border-radius: var(--radius); padding: 12px 14px; margin-top: 12px; overflow-x: auto; }
+  .section h2 { font-size: 11.5px; font-weight: 500; margin-bottom: 6px; }
+  table.upc { width: 100%; border-collapse: collapse; font-size: 10.5px; }
+  table.upc th { text-align: left; font-weight: 500; color: var(--txt2); border-bottom: 0.5px solid var(--border); padding: 4px 6px; }
+  table.upc td { padding: 4px 6px; border-bottom: 0.5px solid var(--border); white-space: nowrap; }
+  table.upc .num { text-align: right; font-variant-numeric: tabular-nums; }
+  @media (max-width: 900px) { .meta-cards { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 700px) {
+    .meta-cards { grid-template-columns: repeat(2, 1fr); }
+    .col-headers { display: none; }
+    .dashboard { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="head">
+  <div>
+    <h1>US IPO Market Dashboard — 1990 to __LAST_Q__</h1>
+    <p class="subtitle">Quarterly IPO count, aggregate market cap at first-day close, and IPO market cap as % of S&amp;P 500 — base case vs. mega-IPO layer · 12-month window __WINDOW__ · data as of __AS_OF_LABEL__ · refreshed automatically each weekday</p>
+  </div>
+  <div class="toolbar" aria-label="Download data">
+    <span class="lbl">Download data</span>
+    <button class="dl" id="dl-csv" title="All quarterly series">CSV</button>
+    <button class="dl" id="dl-xlsx" title="Workbook: quarterly, Ritter annual, calibration, calendar detail, mega-IPOs, upcoming deals, notes">Excel</button>
+    <button class="dl" id="dl-json" title="Full dataset incl. sources and methodology">JSON</button>
+    <a href="data/us_ipo_quarterly.csv" title="Stable URL for Excel Power Query / scripts">live CSV link</a>
+  </div>
+</div>
+<div class="status">__STATUS__</div>
+
+<div class="meta-cards">
+__META_CARDS__
+</div>
+
+<div class="col-headers">
+  <div class="col-header base">Base case — Ritter-universe IPOs excl. mega-IPOs</div>
+  <div class="col-header upside">↑ With mega-IPOs (solid = listed · faded = expected)</div>
+</div>
+
+<div class="dashboard">
+  <div class="chart-card">
+    <div class="chart-head"><div class="chart-title">Quarterly IPO count</div>
+      <div class="chart-actions"><button class="dl sm" data-csv="c1">CSV</button><button class="dl sm" data-png="c1">PNG</button></div></div>
+    <div class="legend">
+      <span><span class="legend-dot" style="background:#378ADD"></span>NYSE</span>
+      <span><span class="legend-dot" style="background:#1D9E75"></span>Nasdaq</span>
+      <span><span class="legend-dot-est" style="background:rgba(55,138,221,.32);outline-color:#378ADD"></span>forecast</span>
+    </div>
+    <div class="chart-wrap"><canvas id="c1" role="img" aria-label="Quarterly IPO count by exchange, base case">Quarterly IPO count, base case</canvas></div>
+    <div id="t1" class="chart-tooltip"></div>
+  </div>
+
+  <div class="chart-card">
+    <div class="chart-head"><div class="chart-title">Quarterly IPO count + mega-IPOs</div>
+      <div class="chart-actions"><button class="dl sm" data-csv="c4">CSV</button><button class="dl sm" data-png="c4">PNG</button></div></div>
+    <div class="legend">
+      <span><span class="legend-dot" style="background:#378ADD"></span>NYSE</span>
+      <span><span class="legend-dot" style="background:#1D9E75"></span>Nasdaq</span>
+      <span><span class="legend-dot" style="background:#D85A30"></span>mega-IPO (listed)</span>
+      <span><span class="legend-dot-est" style="background:rgba(216,90,48,.42);outline-color:#D85A30"></span>mega-IPO (est.)</span>
+    </div>
+    <div class="chart-wrap"><canvas id="c4" role="img" aria-label="Quarterly IPO count including mega-IPOs">Quarterly IPO count with mega-IPOs</canvas></div>
+    <div id="t4" class="chart-tooltip"></div>
+  </div>
+
+  <div class="chart-card">
+    <div class="chart-head"><div class="chart-title">Quarterly IPO market cap ($B)</div>
+      <div class="chart-actions"><button class="dl sm" data-csv="c2">CSV</button><button class="dl sm" data-png="c2">PNG</button></div></div>
+    <div class="legend">
+      <span><span class="legend-dot" style="background:#BA7517"></span>Base market cap</span>
+      <span><span class="legend-dot-est" style="background:rgba(186,117,23,.32);outline-color:#BA7517"></span>forecast</span>
+    </div>
+    <div class="chart-wrap"><canvas id="c2" role="img" aria-label="Quarterly aggregate IPO market cap, base case">Quarterly IPO market cap, base case</canvas></div>
+    <div id="t2" class="chart-tooltip"></div>
+  </div>
+
+  <div class="chart-card">
+    <div class="chart-head"><div class="chart-title">Quarterly IPO market cap + mega-IPOs ($B)</div>
+      <div class="chart-actions"><button class="dl sm" data-csv="c5">CSV</button><button class="dl sm" data-png="c5">PNG</button></div></div>
+    <div class="legend">
+      <span><span class="legend-dot" style="background:#BA7517"></span>Base</span>
+      <span><span class="legend-dot" style="background:#D85A30"></span>mega-IPO (listed)</span>
+      <span><span class="legend-dot-est" style="background:rgba(216,90,48,.42);outline-color:#D85A30"></span>mega-IPO (est.)</span>
+    </div>
+    <div class="chart-wrap"><canvas id="c5" role="img" aria-label="Quarterly IPO market cap including mega-IPOs">Quarterly IPO market cap with mega-IPOs</canvas></div>
+    <div id="t5" class="chart-tooltip"></div>
+  </div>
+
+  <div class="chart-card">
+    <div class="chart-head"><div class="chart-title">IPO mkt cap / S&amp;P 500 (%)</div>
+      <div class="chart-actions"><button class="dl sm" data-csv="c3">CSV</button><button class="dl sm" data-png="c3">PNG</button></div></div>
+    <div class="legend">
+      <span><span class="legend-dot" style="background:#534AB7"></span>Base ratio</span>
+      <span><span class="legend-dot-est" style="background:rgba(83,74,183,.32);outline-color:#534AB7"></span>forecast</span>
+    </div>
+    <div class="chart-wrap"><canvas id="c3" role="img" aria-label="IPO market cap as percent of S&P 500, base case">IPO/S&amp;P 500 ratio, base case</canvas></div>
+    <div id="t3" class="chart-tooltip"></div>
+  </div>
+
+  <div class="chart-card">
+    <div class="chart-head"><div class="chart-title">IPO mkt cap / S&amp;P 500 + mega-IPOs (%)</div>
+      <div class="chart-actions"><button class="dl sm" data-csv="c6">CSV</button><button class="dl sm" data-png="c6">PNG</button></div></div>
+    <div class="legend">
+      <span><span class="legend-dot" style="background:#534AB7"></span>Base</span>
+      <span><span class="legend-dot" style="background:#D85A30"></span>mega-IPO (listed)</span>
+      <span><span class="legend-dot-est" style="background:rgba(216,90,48,.42);outline-color:#D85A30"></span>mega-IPO (est.)</span>
+    </div>
+    <div class="chart-wrap"><canvas id="c6" role="img" aria-label="IPO market cap as percent of S&P 500 including mega-IPOs">IPO/S&amp;P 500 ratio with mega-IPOs</canvas></div>
+    <div id="t6" class="chart-tooltip"></div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>On the Nasdaq IPO calendar</h2>
+  __UPCOMING__
+</div>
+
+<footer>
+  __NOTES__
+  <p><strong>Sources.</strong> __SOURCES__</p>
+  <p>Data as of __AS_OF_LABEL__ · built __GENERATED__ by GitHub Actions (scripts/fetch_data.py → scripts/build.py). Estimates, not investment advice.</p>
+</footer>
+
+<div class="flash" id="flash" role="status" aria-live="polite"></div>
+
+<script>
+(function () {
+'use strict';
+const DATA = __DATA__;
+const ROWS = DATA.rows;
+const FB = ROWS.findIndex(r => r.status === 'forecast' || r.status === 'in_progress');
+const CUR_YEAR = parseInt(DATA.current_quarter.slice(-4), 10);
+const dk = window.matchMedia('(prefers-color-scheme: dark)').matches;
+const C = {
+  nyse: '#378ADD', nyseF: 'rgba(55,138,221,.32)', ndq: '#1D9E75', ndqF: 'rgba(29,158,117,.32)',
+  mcap: '#BA7517', mcapF: 'rgba(186,117,23,.32)', ratio: '#534AB7', ratioF: 'rgba(83,74,183,.32)',
+  mega: '#D85A30', megaF: 'rgba(216,90,48,.42)',
+  grid: dk ? 'rgba(255,255,255,.07)' : 'rgba(0,0,0,.07)', tick: dk ? '#9b9990' : '#888780',
+  card: dk ? '#2c2c2a' : '#f5f4ef', ink: dk ? '#f1efe8' : '#1a1a18',
+  sep: dk ? 'rgba(255,255,255,.4)' : 'rgba(0,0,0,.28)',
+  tipBg: dk ? '#2c2c2a' : '#ffffff', tipBody: dk ? '#b4b2a9' : '#5f5e5a',
+  tipBorder: dk ? 'rgba(255,255,255,.12)' : 'rgba(0,0,0,.12)'
+};
+const STATUS = { hist: 'Ritter annual, quarterly split est.', actual: 'actual, calendar calibrated', in_progress: 'in progress: QTD + forecast', forecast: 'forecast' };
+const solidOrFaded = (solid, faded) => ROWS.map((_, i) => (FB >= 0 && i >= FB) ? faded : solid);
+const megaColors = ROWS.map(r => r.mega_listed === false ? C.megaF : C.mega);
+
+const fmtCount = v => String(Math.round(v));
+const fmtBn = v => '$' + Number(v).toLocaleString('en-US', { maximumFractionDigits: v < 100 ? 1 : 0 }) + 'B';
+const fmtPct = v => Number(v).toFixed(v < 1 ? 3 : 2) + '%';
+
+function wrap(text, width) {
+  const words = String(text).split(' '), lines = [];
+  let cur = '';
+  words.forEach(w => { if ((cur + ' ' + w).trim().length > width) { lines.push(cur.trim()); cur = w; } else { cur += ' ' + w; } });
+  if (cur.trim()) lines.push(cur.trim());
+  return lines;
+}
+
+const SPECS = [
+  { id: 'c1', tip: 't1', title: 'Quarterly IPO count — base case', file: 'ipo_count_base', fmt: fmtCount, y: v => v,
+    ds: [{ label: 'NYSE', key: 'nyse', color: solidOrFaded(C.nyse, C.nyseF) },
+         { label: 'Nasdaq', key: 'nasdaq', color: solidOrFaded(C.ndq, C.ndqF) }],
+    csv: [['nyse_count', 'nyse'], ['nasdaq_count', 'nasdaq'], ['base_count', 'base_count']] },
+  { id: 'c4', tip: 't4', title: 'Quarterly IPO count incl. mega-IPOs', file: 'ipo_count_with_mega', fmt: fmtCount, y: v => v,
+    ds: [{ label: 'NYSE', key: 'nyse', color: solidOrFaded(C.nyse, C.nyseF) },
+         { label: 'Nasdaq', key: 'nasdaq', color: solidOrFaded(C.ndq, C.ndqF) },
+         { label: 'Mega-IPOs', key: 'mega_n', color: megaColors, mega: true }],
+    csv: [['nyse_count', 'nyse'], ['nasdaq_count', 'nasdaq'], ['mega_count', 'mega_n'], ['total_count', 'total_count'], ['mega_ipos', 'mega_names']] },
+  { id: 'c2', tip: 't2', title: 'Quarterly IPO market cap at first-day close ($B) — base case', file: 'ipo_mktcap_base', fmt: fmtBn, y: v => '$' + Number(v).toLocaleString('en-US') + 'B',
+    ds: [{ label: 'Base', key: 'base_mcap', color: solidOrFaded(C.mcap, C.mcapF) }],
+    csv: [['base_mktcap_bn', 'base_mcap']] },
+  { id: 'c5', tip: 't5', title: 'Quarterly IPO market cap at first-day close ($B) incl. mega-IPOs', file: 'ipo_mktcap_with_mega', fmt: fmtBn, y: v => '$' + Number(v).toLocaleString('en-US') + 'B',
+    ds: [{ label: 'Base', key: 'base_mcap', color: solidOrFaded(C.mcap, C.mcapF) },
+         { label: 'Mega-IPOs', key: 'mega_mcap', color: megaColors, mega: true }],
+    csv: [['base_mktcap_bn', 'base_mcap'], ['mega_mktcap_bn', 'mega_mcap'], ['total_mktcap_bn', 'total_mcap'], ['mega_ipos', 'mega_names']] },
+  { id: 'c3', tip: 't3', title: 'IPO market cap as % of S&P 500 market cap — base case', file: 'ipo_pct_sp500_base', fmt: fmtPct, y: v => v + '%',
+    ds: [{ label: 'Base', key: 'base_ratio', color: solidOrFaded(C.ratio, C.ratioF) }],
+    csv: [['sp500_mktcap_tn', 'sp500'], ['base_pct_sp500', 'base_ratio']] },
+  { id: 'c6', tip: 't6', title: 'IPO market cap as % of S&P 500 market cap incl. mega-IPOs', file: 'ipo_pct_sp500_with_mega', fmt: fmtPct, y: v => v + '%',
+    ds: [{ label: 'Base', key: 'base_ratio', color: solidOrFaded(C.ratio, C.ratioF) },
+         { label: 'Mega-IPOs', key: 'mega_ratio', color: megaColors, mega: true }],
+    csv: [['sp500_mktcap_tn', 'sp500'], ['base_pct_sp500', 'base_ratio'], ['mega_pct_sp500', 'mega_ratio'], ['total_pct_sp500', 'total_ratio'], ['mega_ipos', 'mega_names']] }
+];
+
+const sepPlugin = {
+  id: 'forecastSep',
+  afterDraw(chart) {
+    if (FB < 0) return;
+    const bar = chart.getDatasetMeta(0).data[FB];
+    if (!bar) return;
+    const x = bar.x - bar.width / 2 - 0.5, ca = chart.chartArea, ctx = chart.ctx;
+    ctx.save();
+    ctx.setLineDash([4, 3]); ctx.strokeStyle = C.sep; ctx.lineWidth = 1.5;
+    ctx.beginPath(); ctx.moveTo(x, ca.top); ctx.lineTo(x, ca.bottom); ctx.stroke();
+    ctx.setLineDash([]); ctx.fillStyle = C.sep; ctx.font = '8.5px sans-serif'; ctx.textAlign = 'right';
+    ctx.fillText('Forecast ▶', x - 3, ca.top + 10);
+    ctx.restore();
+  }
+};
+const bgPlugin = {
+  id: 'cardBg',
+  beforeDraw(chart) {
+    const ctx = chart.ctx;
+    ctx.save(); ctx.globalCompositeOperation = 'destination-over';
+    ctx.fillStyle = C.card; ctx.fillRect(0, 0, chart.width, chart.height); ctx.restore();
+  }
+};
+
+const charts = {};
+SPECS.forEach(spec => {
+  const tipEl = document.getElementById(spec.tip);
+  const total = i => spec.ds.reduce((s, d) => s + (ROWS[i][d.key] || 0), 0);
+  const hasMega = spec.ds.some(d => d.mega);
+  charts[spec.id] = new Chart(document.getElementById(spec.id), {
+    type: 'bar',
+    data: {
+      labels: ROWS.map(r => r.q),
+      datasets: spec.ds.map(d => ({ label: d.label, data: ROWS.map(r => r[d.key]), backgroundColor: d.color, borderWidth: 0, stack: 's' }))
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false, animation: false,
+      interaction: { mode: 'index', intersect: false },
+      datasets: { bar: { barPercentage: 1.0, categoryPercentage: 1.0 } },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          mode: 'index', intersect: false,
+          backgroundColor: C.tipBg, titleColor: C.ink, bodyColor: C.tipBody, borderColor: C.tipBorder,
+          borderWidth: 0.5, padding: 10, cornerRadius: 8, titleFont: { size: 11 }, bodyFont: { size: 10.5 },
+          filter: item => !(spec.ds[item.datasetIndex].mega && !item.raw),
+          callbacks: {
+            title: items => { const r = ROWS[items[0].dataIndex]; return r.q + ' · ' + STATUS[r.status]; },
+            label: item => ' ' + item.dataset.label + ': ' + spec.fmt(item.raw),
+            afterBody: items => {
+              const i = items[0].dataIndex, r = ROWS[i], out = [];
+              if (spec.ds.length > 1) out.push('Total: ' + spec.fmt(total(i)));
+              if (hasMega && r.mega_names) r.mega_names.split('; ').forEach(m => out.push('◆ ' + m));
+              if (spec.id === 'c3' || spec.id === 'c6') out.push('S&P 500 mkt cap: $' + r.sp500 + 'T');
+              if (r.status !== 'hist' && r.note) wrap(r.note, 70).forEach(l => out.push(l));
+              return out;
+            }
+          }
+        }
+      },
+      scales: {
+        x: { stacked: true, grid: { display: false }, border: { display: false },
+             ticks: { color: C.tick, font: { size: 9 }, maxRotation: 0, autoSkip: false,
+                      callback: (_, i) => { const r = ROWS[i]; return (r.qn === 1 && (r.y % 10 === 0 || r.y === CUR_YEAR)) ? r.y : ''; } } },
+        y: { stacked: true, grid: { color: C.grid, lineWidth: 0.5 }, border: { display: false },
+             ticks: { color: C.tick, font: { size: 9.5 }, maxTicksLimit: 5, callback: spec.y } }
+      },
+      onHover: (_, els) => {
+        if (!els.length) { tipEl.style.visibility = 'hidden'; return; }
+        const i = els[0].index, r = ROWS[i];
+        const megaTxt = hasMega && r.mega_names ? '  ◆ ' + r.mega_names.split('; ').map(s => s.split(' (')[0]).join(', ') : '';
+        tipEl.textContent = r.q + ' (' + STATUS[r.status] + ')  ·  ' + spec.fmt(total(i)) + megaTxt;
+        tipEl.style.visibility = 'visible';
+      }
+    },
+    plugins: [bgPlugin, sepPlugin]
+  });
+});
+
+// ───────────── downloads ─────────────
+const FULL_COLS = [
+  ['quarter', 'q'], ['year', 'y'], ['qtr', 'qn'], ['status', 'status'], ['allocation', 'alloc'],
+  ['nyse_count', 'nyse'], ['nasdaq_count', 'nasdaq'], ['base_count', 'base_count'], ['mega_count', 'mega_n'], ['total_count', 'total_count'],
+  ['base_mktcap_bn', 'base_mcap'], ['mega_mktcap_bn', 'mega_mcap'], ['total_mktcap_bn', 'total_mcap'], ['sp500_mktcap_tn', 'sp500'],
+  ['base_pct_sp500', 'base_ratio'], ['mega_pct_sp500', 'mega_ratio'], ['total_pct_sp500', 'total_ratio'],
+  ['mega_ipos', 'mega_names'], ['calendar_count_raw', 'cal_count'], ['calendar_proceeds_bn_raw', 'cal_proceeds_bn'], ['note', 'note']
+];
+const STATUS_LONG = {
+  hist: 'historical (Ritter annual)', actual: 'actual (Nasdaq calendar, calibrated to Ritter)',
+  in_progress: 'in progress (quarter-to-date + forecast for remaining days)', forecast: 'forecast'
+};
+const cell = (r, key) => key === 'status' ? STATUS_LONG[r.status] : (r[key] === null || r[key] === undefined ? '' : r[key]);
+
+function flash(msg) {
+  const el = document.getElementById('flash');
+  el.textContent = msg; el.classList.add('on');
+  clearTimeout(flash._t); flash._t = setTimeout(() => el.classList.remove('on'), 4200);
+}
+function save(blob, name) {
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob); a.download = name;
+  document.body.appendChild(a); a.click();
+  setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 2000);
+}
+function esc(v) {
+  if (v === null || v === undefined) return '';
+  const s = String(v);
+  return /[",\r\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+}
+function csvBlob(headers, rows) {
+  const lines = [headers.map(esc).join(',')].concat(rows.map(r => r.map(esc).join(',')));
+  return new Blob(['﻿' + lines.join('\r\n')], { type: 'text/csv;charset=utf-8' });
+}
+const stamp = '_' + DATA.as_of;
+
+function downloadFullCSV() {
+  save(csvBlob(FULL_COLS.map(c => c[0]), ROWS.map(r => FULL_COLS.map(c => cell(r, c[1])))), 'us_ipo_quarterly' + stamp + '.csv');
+}
+function downloadChartCSV(id) {
+  const spec = SPECS.find(s => s.id === id);
+  const cols = [['quarter', 'q'], ['status', 'status']].concat(spec.csv);
+  save(csvBlob(cols.map(c => c[0]), ROWS.map(r => cols.map(c => cell(r, c[1])))), spec.file + stamp + '.csv');
+}
+function downloadJSON() {
+  save(new Blob([JSON.stringify(DATA, null, 2)], { type: 'application/json' }), 'us_ipo_dashboard_data' + stamp + '.json');
+}
+function downloadPNG(id) {
+  const spec = SPECS.find(s => s.id === id), ch = charts[id];
+  ch.setActiveElements([]); ch.tooltip.setActiveElements([], { x: 0, y: 0 }); ch.update('none');
+  const src = ch.canvas, k = src.width / ch.width, pad = 14 * k, top = 30 * k, foot = 22 * k;
+  const out = document.createElement('canvas');
+  out.width = src.width + pad * 2; out.height = src.height + top + foot;
+  const g = out.getContext('2d');
+  g.fillStyle = C.card; g.fillRect(0, 0, out.width, out.height);
+  g.fillStyle = C.ink; g.font = '600 ' + (13 * k) + 'px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif';
+  g.textBaseline = 'middle'; g.fillText(spec.title, pad, top / 2 + 2 * k);
+  g.drawImage(src, pad, top);
+  g.fillStyle = C.tick; g.font = (9 * k) + 'px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif';
+  g.fillText('Source: Ritter (Univ. of Florida), Nasdaq IPO calendar; quarterly split, recent quarters and forecasts are estimates · as of ' + DATA.as_of_label,
+             pad, out.height - foot / 2);
+  out.toBlob(b => save(b, spec.file + stamp + '.png'), 'image/png');
+}
+
+let xlsxPromise = null;
+function loadXLSX() {
+  if (window.XLSX) return Promise.resolve(window.XLSX);
+  if (!xlsxPromise) {
+    xlsxPromise = new Promise((resolve, reject) => {
+      const s = document.createElement('script');
+      s.src = 'https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js';
+      s.onload = () => window.XLSX ? resolve(window.XLSX) : reject(new Error('SheetJS missing'));
+      s.onerror = () => { xlsxPromise = null; reject(new Error('SheetJS failed to load')); };
+      document.head.appendChild(s);
+    });
+  }
+  return xlsxPromise;
+}
+function sheetFromObjects(X, objs, wide) {
+  if (!objs || !objs.length) return X.utils.aoa_to_sheet([['(none)']]);
+  const keys = Object.keys(objs[0]);
+  const val = v => (v === null || v === undefined) ? '' : (typeof v === 'object' ? JSON.stringify(v) : v);
+  const ws = X.utils.aoa_to_sheet([keys].concat(objs.map(o => keys.map(k => val(o[k])))));
+  ws['!cols'] = keys.map(k => ({ wch: (wide && wide[k]) || Math.max(10, Math.min(40, k.length + 2)) }));
+  return ws;
+}
+async function downloadXLSX(btn) {
+  btn.disabled = true; const label = btn.textContent; btn.textContent = 'Loading…';
+  try {
+    const X = await loadXLSX();
+    const wb = X.utils.book_new();
+    const q = X.utils.aoa_to_sheet([FULL_COLS.map(c => c[0])].concat(ROWS.map(r => FULL_COLS.map(c => { const v = cell(r, c[1]); return v === null ? '' : v; }))));
+    q['!cols'] = FULL_COLS.map(c => ({ wch: c[0] === 'mega_ipos' ? 70 : c[0] === 'note' ? 90 : c[0] === 'status' ? 40 : 13 }));
+    X.utils.book_append_sheet(wb, q, 'Quarterly');
+    X.utils.book_append_sheet(wb, sheetFromObjects(X, DATA.annual), 'Annual (Ritter)');
+    X.utils.book_append_sheet(wb, sheetFromObjects(X, DATA.calibration_by_year), 'Calibration by year');
+    X.utils.book_append_sheet(wb, sheetFromObjects(X, DATA.calendar_quarters, { largest_deals: 90, mega: 30, excluded: 30 }), 'Calendar quarters');
+    X.utils.book_append_sheet(wb, sheetFromObjects(X, DATA.mega, { detail: 100, flags: 50 }), 'Mega-IPOs');
+    X.utils.book_append_sheet(wb, sheetFromObjects(X, DATA.upcoming, { name: 40 }), 'Upcoming deals');
+    const cal = DATA.calibration;
+    const notes = [['Section', 'Text']].concat(DATA.notes.map(n => [n.section, n.text]))
+      .concat([[], ['Calibration', 'Value'], ['count_ratio', cal.count_ratio], ['mktcap_per_proceeds', cal.mktcap_per_proceeds],
+               ['calibration_years', cal.years.join(', ')]])
+      .concat([[], ['Source', 'URL']]).concat(DATA.sources.map(s => [s.title, s.url]))
+      .concat([[], ['As of', DATA.as_of], ['Window', DATA.window], ['Generated', DATA.generated_utc]]);
+    const ns = X.utils.aoa_to_sheet(notes); ns['!cols'] = [{ wch: 34 }, { wch: 140 }];
+    X.utils.book_append_sheet(wb, ns, 'Notes & sources');
+    X.writeFile(wb, 'us_ipo_dashboard' + stamp + '.xlsx');
+  } catch (e) {
+    flash('Excel export needs internet access to load SheetJS — downloaded CSV instead.');
+    downloadFullCSV();
+  } finally {
+    btn.disabled = false; btn.textContent = label;
+  }
+}
+
+document.getElementById('dl-csv').addEventListener('click', downloadFullCSV);
+document.getElementById('dl-json').addEventListener('click', downloadJSON);
+document.getElementById('dl-xlsx').addEventListener('click', e => downloadXLSX(e.currentTarget));
+document.querySelectorAll('[data-csv]').forEach(b => b.addEventListener('click', () => downloadChartCSV(b.dataset.csv)));
+document.querySelectorAll('[data-png]').forEach(b => b.addEventListener('click', () => downloadPNG(b.dataset.png)));
+window.__ipoDashboard = { DATA, charts, downloadFullCSV, downloadChartCSV, downloadJSON, downloadPNG, downloadXLSX };
+})();
+</script>
+</body>
+</html>
