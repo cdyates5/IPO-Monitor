@@ -1,0 +1,114 @@
+{
+ "month": "2015-08",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BNTC",
+   "name": "Benitec Biopharma LTD/ADR",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "9.21",
+   "shares": "1,500,000",
+   "priced_date": "2015-08-18",
+   "offer_usd": 13815000.0
+  },
+  {
+   "ticker": "GRSHU",
+   "name": "Hostess Brands, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2015-08-14",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "CNFR",
+   "name": "Presurance Holdings, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "10.50",
+   "shares": "3,100,000",
+   "priced_date": "2015-08-13",
+   "offer_usd": 32550000.0
+  },
+  {
+   "ticker": "HLI",
+   "name": "HOULIHAN LOKEY, INC.",
+   "exchange": "New York Stock Exchange",
+   "price": "21.00",
+   "shares": "10,500,000",
+   "priced_date": "2015-08-13",
+   "offer_usd": 220500000.0
+  },
+  {
+   "ticker": "ECACU",
+   "name": "E-Compass Acquisition Corp.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2015-08-13",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "GBT",
+   "name": "Global Blood Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "20.00",
+   "shares": "6,000,000",
+   "priced_date": "2015-08-12",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "AIMT",
+   "name": "Aimmune Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "16.00",
+   "shares": "10,000,000",
+   "priced_date": "2015-08-06",
+   "offer_usd": 160000000.0
+  },
+  {
+   "ticker": "PLNT",
+   "name": "Planet Fitness, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "16.00",
+   "shares": "13,500,000",
+   "priced_date": "2015-08-06",
+   "offer_usd": 216000000.0
+  },
+  {
+   "ticker": "BETR",
+   "name": "Amplify Snack Brands, INC",
+   "exchange": "New York Stock Exchange",
+   "price": "18.00",
+   "shares": "15,000,000",
+   "priced_date": "2015-08-05",
+   "offer_usd": 270000000.0
+  },
+  {
+   "ticker": "RUN",
+   "name": "SunRun Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "17,900,000",
+   "priced_date": "2015-08-05",
+   "offer_usd": 250600000.0
+  },
+  {
+   "ticker": "ZYNE",
+   "name": "Zynerba Pharmaceuticals, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "3,000,000",
+   "priced_date": "2015-08-05",
+   "offer_usd": 42000000.0
+  },
+  {
+   "ticker": "NTEC",
+   "name": "Intec Pharma Ltd.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "6.00",
+   "shares": "5,025,000",
+   "priced_date": "2015-08-04",
+   "offer_usd": 30150000.0
+  }
+ ]
+}

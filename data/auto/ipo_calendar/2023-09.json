@@ -1,0 +1,150 @@
+{
+ "month": "2023-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "SYRA",
+   "name": "Syra Health Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "4.125",
+   "shares": "1,615,000",
+   "priced_date": "2023-09-29",
+   "offer_usd": 6669950.0
+  },
+  {
+   "ticker": "ANL",
+   "name": "Adlai Nortye Group Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "23.00",
+   "shares": "2,500,000",
+   "priced_date": "2023-09-29",
+   "offer_usd": 57500000.0
+  },
+  {
+   "ticker": "VSME",
+   "name": "Forcendra Holding Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,000,000",
+   "priced_date": "2023-09-28",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "LRE",
+   "name": "LEAD REAL ESTATE CO., LTD",
+   "exchange": "NASDAQ Global",
+   "price": "7.00",
+   "shares": "1,143,000",
+   "priced_date": "2023-09-27",
+   "offer_usd": 8001000.0
+  },
+  {
+   "ticker": "TURB",
+   "name": "Turbo Energy, S.A.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,000,000",
+   "priced_date": "2023-09-22",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "MDBH",
+   "name": "MDB Capital Holdings, LLC",
+   "exchange": "NASDAQ",
+   "price": "12.00",
+   "shares": "1,666,666",
+   "priced_date": "2023-09-21",
+   "offer_usd": 19999992.0
+  },
+  {
+   "ticker": "KVYO",
+   "name": "Klaviyo, Inc.",
+   "exchange": "NYSE",
+   "price": "30.00",
+   "shares": "19,200,000",
+   "priced_date": "2023-09-20",
+   "offer_usd": 576000000.0
+  },
+  {
+   "ticker": "SRBK",
+   "name": "SR Bancorp, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "9,055,172",
+   "priced_date": "2023-09-20",
+   "offer_usd": 90551720.0
+  },
+  {
+   "ticker": "DTCK",
+   "name": "DAVIS COMMODITIES Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,087,500",
+   "priced_date": "2023-09-19",
+   "offer_usd": 4350000.0
+  },
+  {
+   "ticker": "CART",
+   "name": "Maplebear Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "30.00",
+   "shares": "22,000,000",
+   "priced_date": "2023-09-19",
+   "offer_usd": 660000000.0
+  },
+  {
+   "ticker": "NMRA",
+   "name": "Neumora Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "14,710,000",
+   "priced_date": "2023-09-15",
+   "offer_usd": 250070000.0
+  },
+  {
+   "ticker": "RYZB",
+   "name": "RayzeBio, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "17,277,600",
+   "priced_date": "2023-09-15",
+   "offer_usd": 310996800.0
+  },
+  {
+   "ticker": "ARM",
+   "name": "ARM HOLDINGS PLC /UK",
+   "exchange": "NASDAQ Global Select",
+   "price": "51.00",
+   "shares": "95,500,000",
+   "priced_date": "2023-09-14",
+   "offer_usd": 4870500000.0
+  },
+  {
+   "ticker": "SPPL",
+   "name": "SIMPPLE LTD.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.25",
+   "shares": "1,602,000",
+   "priced_date": "2023-09-13",
+   "offer_usd": 8410500.0
+  },
+  {
+   "ticker": "NWGL",
+   "name": "CL Workshop Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "9.00",
+   "shares": "750,000",
+   "priced_date": "2023-09-12",
+   "offer_usd": 6750000.0
+  },
+  {
+   "ticker": "SWIN",
+   "name": "Solowin Holdings, Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2023-09-07",
+   "offer_usd": 8000000.0
+  }
+ ]
+}

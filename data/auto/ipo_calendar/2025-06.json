@@ -1,0 +1,249 @@
+{
+ "month": "2025-06",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "YORKU",
+   "name": "Yorkville Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-06-27",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "FIGXU",
+   "name": "FIGX Capital Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "13,100,000",
+   "priced_date": "2025-06-27",
+   "offer_usd": 131000000.0
+  },
+  {
+   "ticker": "JCAP",
+   "name": "Jefferson Capital, Inc. / DE",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "10,000,000",
+   "priced_date": "2025-06-26",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CAEP",
+   "name": "Cantor Equity Partners III, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2025-06-26",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "JLHL",
+   "name": "Julong Holding Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-06-26",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "FMFC",
+   "name": "Kandal M Venture Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-06-25",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "LWACU",
+   "name": "LightWave Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "18,750,000",
+   "priced_date": "2025-06-25",
+   "offer_usd": 187500000.0
+  },
+  {
+   "ticker": "OBAWU",
+   "name": "Oxley Bridge Acquisition Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-06-25",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "HCHL",
+   "name": "Happy City Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,100,000",
+   "priced_date": "2025-06-24",
+   "offer_usd": 5500000.0
+  },
+  {
+   "ticker": "AXINU",
+   "name": "Axiom Intelligence Acquisition Corp 1",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2025-06-18",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": null,
+   "name": "Fuxing China Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00-6.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-06-18",
+   "offer_usd": 10350000.0
+  },
+  {
+   "ticker": "SLDE",
+   "name": "Slide Insurance Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "24,000,000",
+   "priced_date": "2025-06-18",
+   "offer_usd": 408000000.0
+  },
+  {
+   "ticker": "EGG",
+   "name": "ENIGMATIG LTD",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "2,845,200",
+   "priced_date": "2025-06-18",
+   "offer_usd": 14226000.0
+  },
+  {
+   "ticker": "CAI",
+   "name": "Caris Life Sciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "23,529,412",
+   "priced_date": "2025-06-18",
+   "offer_usd": 494117652.0
+  },
+  {
+   "ticker": "PACHU",
+   "name": "Pioneer Acquisition I Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-06-18",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "MENS",
+   "name": "Jyong Biotech Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "7.50",
+   "shares": "2,666,667",
+   "priced_date": "2025-06-17",
+   "offer_usd": 20000003.0
+  },
+  {
+   "ticker": "BACCU",
+   "name": "Blue Acquisition Corp/Cayman",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2025-06-13",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "BSAAU",
+   "name": "BEST SPAC I Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,500,000",
+   "priced_date": "2025-06-13",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "AIRO",
+   "name": "AIRO Group Holdings, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2025-06-13",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "VNTG",
+   "name": "Vantage Corp (Singapore)",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,250,000",
+   "priced_date": "2025-06-12",
+   "offer_usd": 13000000.0
+  },
+  {
+   "ticker": "CHYM",
+   "name": "Chime Financial, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "32,000,000",
+   "priced_date": "2025-06-12",
+   "offer_usd": 864000000.0
+  },
+  {
+   "ticker": "VOYG",
+   "name": "Voyager Technologies, Inc./TX",
+   "exchange": "NYSE",
+   "price": "31.00",
+   "shares": "12,348,387",
+   "priced_date": "2025-06-11",
+   "offer_usd": 382799997.0
+  },
+  {
+   "ticker": "ASIC",
+   "name": "Ategrity Specialty Insurance Co Holdings",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "6,666,667",
+   "priced_date": "2025-06-11",
+   "offer_usd": 113333339.0
+  },
+  {
+   "ticker": "BLUWU",
+   "name": "Blue Water Acquisition Corp. III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-06-10",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "JEM",
+   "name": "707 Cayman Holdings Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2025-06-09",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "OMDA",
+   "name": "Omada Health, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "7,900,000",
+   "priced_date": "2025-06-06",
+   "offer_usd": 150100000.0
+  },
+  {
+   "ticker": "CRCL",
+   "name": "Circle Internet Group, Inc.",
+   "exchange": "NYSE",
+   "price": "31.00",
+   "shares": "34,000,000",
+   "priced_date": "2025-06-05",
+   "offer_usd": 1054000000.0
+  }
+ ]
+}

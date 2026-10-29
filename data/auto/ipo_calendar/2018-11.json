@@ -1,0 +1,114 @@
+{
+ "month": "2018-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "MDRR",
+   "name": "Medalist Diversified, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "240,000",
+   "priced_date": "2018-11-28",
+   "offer_usd": 2400000.0
+  },
+  {
+   "ticker": "TLC",
+   "name": "Taiwan Liposome Company, Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "5.80",
+   "shares": "3,750,000",
+   "priced_date": "2018-11-21",
+   "offer_usd": 21750000.0
+  },
+  {
+   "ticker": "TLSA",
+   "name": "Tiziana Life Sciences Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "9.90",
+   "shares": "442,910",
+   "priced_date": "2018-11-20",
+   "offer_usd": 4384809.0
+  },
+  {
+   "ticker": "TC",
+   "name": "Token Cat Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "7.80",
+   "shares": "2,600,000",
+   "priced_date": "2018-11-20",
+   "offer_usd": 20280000.0
+  },
+  {
+   "ticker": "FTACU",
+   "name": "Fintech Acquisition Corp. III",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2018-11-16",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "AMCIU",
+   "name": "ADVENT TECHNOLOGIES HOLDINGS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2018-11-16",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "BWMCU",
+   "name": "ATLAS TECHNICAL CONSULTANTS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2018-11-16",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "WEI",
+   "name": "Weidai Ltd.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "4,500,000",
+   "priced_date": "2018-11-15",
+   "offer_usd": 45000000.0
+  },
+  {
+   "ticker": "VAPO",
+   "name": "VAPOTHERM INC",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "4,000,000",
+   "priced_date": "2018-11-14",
+   "offer_usd": 56000000.0
+  },
+  {
+   "ticker": "ETON",
+   "name": "Eton Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "6.00",
+   "shares": "3,600,000",
+   "priced_date": "2018-11-13",
+   "offer_usd": 21600000.0
+  },
+  {
+   "ticker": "TBLTU",
+   "name": "Toughbuilt Industries, Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,670,000",
+   "priced_date": "2018-11-09",
+   "offer_usd": 13350000.0
+  },
+  {
+   "ticker": "CNF",
+   "name": "CNFinance Holdings Ltd.",
+   "exchange": "NYSE",
+   "price": "7.50",
+   "shares": "6,500,000",
+   "priced_date": "2018-11-07",
+   "offer_usd": 48750000.0
+  }
+ ]
+}

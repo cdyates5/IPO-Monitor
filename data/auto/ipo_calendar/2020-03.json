@@ -1,0 +1,51 @@
+{
+ "month": "2020-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "IMRA",
+   "name": "Enliven Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "4,700,000",
+   "priced_date": "2020-03-12",
+   "offer_usd": 75200000.0
+  },
+  {
+   "ticker": "DFPHU",
+   "name": "Starling Oncology, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-03-11",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "FEACU",
+   "name": "Firy Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2020-03-06",
+   "offer_usd": 600000000.0
+  },
+  {
+   "ticker": "LSACU",
+   "name": "Vincerx Pharma, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2020-03-06",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "GFL",
+   "name": "GFL Environmental Inc.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "75,000,000",
+   "priced_date": "2020-03-03",
+   "offer_usd": 1425000000.0
+  }
+ ]
+}

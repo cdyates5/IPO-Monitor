@@ -1,0 +1,240 @@
+{
+ "month": "2019-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BORR",
+   "name": "Borr Drilling Ltd",
+   "exchange": "NYSE",
+   "price": "9.30",
+   "shares": "5,000,000",
+   "priced_date": "2019-07-31",
+   "offer_usd": 46500000.0
+  },
+  {
+   "ticker": "NFINU",
+   "name": "Netfin Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2019-07-31",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "SBE'U",
+   "name": "ChargePoint Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2019-07-26",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "VIST",
+   "name": "Vista Energy, S.A.B. de C.V.",
+   "exchange": "NYSE",
+   "price": "9.25",
+   "shares": "10,000,000",
+   "priced_date": "2019-07-26",
+   "offer_usd": 92500000.0
+  },
+  {
+   "ticker": "BHAT",
+   "name": "Blue Hat Interactive Entertainment Technology",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2019-07-26",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "WSG",
+   "name": "Wanda Sports Group Co Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "8.00",
+   "shares": "23,800,000",
+   "priced_date": "2019-07-26",
+   "offer_usd": 190400000.0
+  },
+  {
+   "ticker": "FLLCU",
+   "name": "Fellazo Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-07-25",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "NOVA",
+   "name": "Sunnova Energy International Inc.",
+   "exchange": "NYSE",
+   "price": "12.00\t",
+   "shares": "14,000,000",
+   "priced_date": "2019-07-25",
+   "offer_usd": 168000000.0
+  },
+  {
+   "ticker": "PROS",
+   "name": "ProSight Global, Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "7,857,145",
+   "priced_date": "2019-07-25",
+   "offer_usd": 110000030.0
+  },
+  {
+   "ticker": "HCAT",
+   "name": "Health Catalyst, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "26.00",
+   "shares": "7,000,000",
+   "priced_date": "2019-07-25",
+   "offer_usd": 182000000.0
+  },
+  {
+   "ticker": "LVGO",
+   "name": "Livongo Health, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "28.00",
+   "shares": "12,687,000",
+   "priced_date": "2019-07-25",
+   "offer_usd": 355236000.0
+  },
+  {
+   "ticker": "CSTL",
+   "name": "CASTLE BIOSCIENCES INC",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "4,000,000",
+   "priced_date": "2019-07-25",
+   "offer_usd": 64000000.0
+  },
+  {
+   "ticker": "IFS",
+   "name": "Intercorp Financial Services Inc.",
+   "exchange": "NYSE",
+   "price": "46.00",
+   "shares": "9,000,000",
+   "priced_date": "2019-07-19",
+   "offer_usd": 414000000.0
+  },
+  {
+   "ticker": "MDLA",
+   "name": "Medallia, Inc.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "15,500,000",
+   "priced_date": "2019-07-19",
+   "offer_usd": 325500000.0
+  },
+  {
+   "ticker": "AFYA",
+   "name": "Afya Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "13,744,210",
+   "priced_date": "2019-07-19",
+   "offer_usd": 261139990.0
+  },
+  {
+   "ticker": "OAC'U",
+   "name": "Hims & Hers Health, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2019-07-18",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "CPAAU",
+   "name": "Advantage Solutions Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "40,000,000",
+   "priced_date": "2019-07-18",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "PHR",
+   "name": "Phreesia, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "9,288,194",
+   "priced_date": "2019-07-18",
+   "offer_usd": 167187492.0
+  },
+  {
+   "ticker": "GMAB",
+   "name": "GENMAB A/S",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.75",
+   "shares": "28,500,000",
+   "priced_date": "2019-07-18",
+   "offer_usd": 505875000.0
+  },
+  {
+   "ticker": "MIRM",
+   "name": "Mirum Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-07-18",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "FULC",
+   "name": "Fulcrum Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "4,500,000",
+   "priced_date": "2019-07-18",
+   "offer_usd": 72000000.0
+  },
+  {
+   "ticker": "AMK",
+   "name": "AssetMark Financial Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "12,500,000",
+   "priced_date": "2019-07-18",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "DOYU",
+   "name": "DouYu International Holdings Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.50",
+   "shares": "67,387,110",
+   "priced_date": "2019-07-17",
+   "offer_usd": 774951765.0
+  },
+  {
+   "ticker": "PIC'U",
+   "name": "SPRUCE POWER HOLDING CORP",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2019-07-12",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "THCAU",
+   "name": "Tuscan Holdings Corp. II",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2019-07-12",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "SCPEU",
+   "name": "SC Health Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2019-07-12",
+   "offer_usd": 150000000.0
+  }
+ ]
+}

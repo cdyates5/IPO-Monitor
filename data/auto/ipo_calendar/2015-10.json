@@ -1,0 +1,222 @@
+{
+ "month": "2015-10",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "MYOK",
+   "name": "MyoKardia, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "5,437,500",
+   "priced_date": "2015-10-29",
+   "offer_usd": 54375000.0
+  },
+  {
+   "ticker": "IOTS",
+   "name": "ADESTO TECHNOLOGIES Corp",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "5.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-10-27",
+   "offer_usd": 25000000.0
+  },
+  {
+   "ticker": "LMFAU",
+   "name": "POWERCOMPUTE, INC.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "2,000,000",
+   "priced_date": "2015-10-23",
+   "offer_usd": 20000000.0
+  },
+  {
+   "ticker": "OASM",
+   "name": "VIVESTO AB",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "4.06",
+   "shares": "2,339,200",
+   "priced_date": "2015-10-23",
+   "offer_usd": 9497152.0
+  },
+  {
+   "ticker": "MPSX",
+   "name": "Multi Packaging Solutions International Ltd",
+   "exchange": "New York Stock Exchange",
+   "price": "13.00",
+   "shares": "16,500,000",
+   "priced_date": "2015-10-22",
+   "offer_usd": 214500000.0
+  },
+  {
+   "ticker": "DMTX",
+   "name": "Dimension Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "13.00",
+   "shares": "5,500,000",
+   "priced_date": "2015-10-22",
+   "offer_usd": 71500000.0
+  },
+  {
+   "ticker": "TLLT",
+   "name": "XSport Global, Inc.",
+   "exchange": "OTCBB",
+   "price": "0.037",
+   "shares": "4,181,000",
+   "priced_date": "2015-10-21",
+   "offer_usd": 167240.0
+  },
+  {
+   "ticker": "RACE",
+   "name": "Ferrari N.V.",
+   "exchange": "New York Stock Exchange",
+   "price": "52.00",
+   "shares": "17,175,000",
+   "priced_date": "2015-10-21",
+   "offer_usd": 893100000.0
+  },
+  {
+   "ticker": "AFCO",
+   "name": "American Farmland Co",
+   "exchange": "American Stock Exchange",
+   "price": "8.00",
+   "shares": "6,000,000",
+   "priced_date": "2015-10-20",
+   "offer_usd": 48000000.0
+  },
+  {
+   "ticker": "SBBP",
+   "name": "Strongbridge Biopharma plc",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "2,500,000",
+   "priced_date": "2015-10-16",
+   "offer_usd": 25000000.0
+  },
+  {
+   "ticker": "FDC",
+   "name": "FIRST DATA CORP",
+   "exchange": "New York Stock Exchange",
+   "price": "16.00",
+   "shares": "160,000,000",
+   "priced_date": "2015-10-15",
+   "offer_usd": 2560000000.0
+  },
+  {
+   "ticker": "PAACU",
+   "name": "Borqs Technologies, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-10-15",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "CERCU",
+   "name": "Avalo Therapeutics, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "6.50",
+   "shares": "4,000,000",
+   "priced_date": "2015-10-15",
+   "offer_usd": 26000000.0
+  },
+  {
+   "ticker": "CLACU",
+   "name": "Capitol Acquisition Corp. III",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2015-10-14",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "PMTS",
+   "name": "CPI Card Group Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2015-10-09",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CTMX",
+   "name": "CytomX Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "6,666,667",
+   "priced_date": "2015-10-08",
+   "offer_usd": 80000004.0
+  },
+  {
+   "ticker": "ABTX",
+   "name": "Allegiance Bancshares, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "21.00",
+   "shares": "2,600,000",
+   "priced_date": "2015-10-08",
+   "offer_usd": 54600000.0
+  },
+  {
+   "ticker": "ACRS",
+   "name": "Aclaris Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "11.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-10-07",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "PSTG",
+   "name": "Everpure, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "17.00",
+   "shares": "25,000,000",
+   "priced_date": "2015-10-07",
+   "offer_usd": 425000000.0
+  },
+  {
+   "ticker": "NVCR",
+   "name": "Novocure Ltd",
+   "exchange": "Nasdaq National Market",
+   "price": "22.00",
+   "shares": "7,500,000",
+   "priced_date": "2015-10-02",
+   "offer_usd": 165000000.0
+  },
+  {
+   "ticker": "SGRY",
+   "name": "Surgery Partners, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "19.00",
+   "shares": "14,285,000",
+   "priced_date": "2015-10-01",
+   "offer_usd": 271415000.0
+  },
+  {
+   "ticker": "EDGE",
+   "name": "PDS Biotechnology Corp",
+   "exchange": "Nasdaq National Market",
+   "price": "11.00",
+   "shares": "7,315,151",
+   "priced_date": "2015-10-01",
+   "offer_usd": 80466661.0
+  },
+  {
+   "ticker": "MIRN",
+   "name": "SYNLOGIC, INC.",
+   "exchange": "Nasdaq National Market",
+   "price": "7.00",
+   "shares": "6,250,000",
+   "priced_date": "2015-10-01",
+   "offer_usd": 43750000.0
+  },
+  {
+   "ticker": "PFGC",
+   "name": "Performance Food Group Co",
+   "exchange": "New York Stock Exchange",
+   "price": "19.00",
+   "shares": "14,500,000",
+   "priced_date": "2015-10-01",
+   "offer_usd": 275500000.0
+  }
+ ]
+}

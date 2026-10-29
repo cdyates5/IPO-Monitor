@@ -1,0 +1,375 @@
+{
+ "month": "2026-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BIDWU",
+   "name": "Tribeca Strategic Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "14,000,000",
+   "priced_date": "2026-05-29",
+   "offer_usd": 140000000.0
+  },
+  {
+   "ticker": "DGACU",
+   "name": "DISCIPLINED GROWTH ACQUISITION Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-05-27",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "FXACU",
+   "name": "FortuneX Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2026-05-22",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "PECEU",
+   "name": "Peace Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2026-05-22",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "BRKHU",
+   "name": "BurTech Acquisition Corp II",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "8,000,000",
+   "priced_date": "2026-05-22",
+   "offer_usd": 80000000.0
+  },
+  {
+   "ticker": "OHACU",
+   "name": "Oceanhawk Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "16,000,000",
+   "priced_date": "2026-05-21",
+   "offer_usd": 160000000.0
+  },
+  {
+   "ticker": "APURU",
+   "name": "Aperture AC",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "9,000,000",
+   "priced_date": "2026-05-21",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "CNXU",
+   "name": "Conexeu Sciences Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "9,481,123",
+   "priced_date": "2026-05-21",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "AMSS",
+   "name": "AMASS BRANDS",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "14,293,298",
+   "priced_date": "2026-05-20",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "OPTH",
+   "name": "Optimi Health Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.25",
+   "shares": "2,400,000",
+   "priced_date": "2026-05-20",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "RACC",
+   "name": "Research Alliance Corp III",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2026-05-20",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "LCLN",
+   "name": "Lincoln International, Inc.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "21,049,988",
+   "priced_date": "2026-05-20",
+   "offer_usd": 420999760.0
+  },
+  {
+   "ticker": "AMAN",
+   "name": "Amanat Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2026-05-19",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "PTACU",
+   "name": "Patriot Acquisition Corp./CI",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "16,000,000",
+   "priced_date": "2026-05-15",
+   "offer_usd": 160000000.0
+  },
+  {
+   "ticker": "EXYN",
+   "name": "Exyn Technologies, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.75",
+   "shares": "2,500,000",
+   "priced_date": "2026-05-15",
+   "offer_usd": 19375000.0
+  },
+  {
+   "ticker": "IDACU",
+   "name": "Iron Dome Acquisition I Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-05-15",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "VIDA",
+   "name": "Vida Global Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2026-05-15",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "ETSSU",
+   "name": "Energy Transition Special Opportunities",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-05-15",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "GUACU",
+   "name": "Berto Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "27,400,000",
+   "priced_date": "2026-05-15",
+   "offer_usd": 274000000.0
+  },
+  {
+   "ticker": "DUKR",
+   "name": "DUKE Robotics Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "8.20",
+   "shares": "1,125,000",
+   "priced_date": "2026-05-15",
+   "offer_usd": 9225000.0
+  },
+  {
+   "ticker": "GSRVU",
+   "name": "GSR V Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-05-14",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CBRS",
+   "name": "Cerebras Systems Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "185.00",
+   "shares": "30,000,000",
+   "priced_date": "2026-05-14",
+   "offer_usd": 5550000000.0
+  },
+  {
+   "ticker": "AIAI",
+   "name": "AIAI Holdings Corp",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "69,483,430",
+   "priced_date": "2026-05-14",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "EROK",
+   "name": "EagleRock Land, LLC",
+   "exchange": "NYSE",
+   "price": "18.50",
+   "shares": "17,300,000",
+   "priced_date": "2026-05-14",
+   "offer_usd": 320050000.0
+  },
+  {
+   "ticker": "BXDC",
+   "name": "Blackstone Digital Infrastructure Trust Inc.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "87,500,000",
+   "priced_date": "2026-05-14",
+   "offer_usd": 1750000000.0
+  },
+  {
+   "ticker": "MWC",
+   "name": "Micware Co., Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "8.00",
+   "shares": "2,850,000",
+   "priced_date": "2026-05-14",
+   "offer_usd": 22800000.0
+  },
+  {
+   "ticker": "GMRS",
+   "name": "GMR Solutions Inc.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "31,914,893",
+   "priced_date": "2026-05-13",
+   "offer_usd": 478723395.0
+  },
+  {
+   "ticker": "FRVO",
+   "name": "Fervo Energy Co",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "70,000,000",
+   "priced_date": "2026-05-13",
+   "offer_usd": 1890000000.0
+  },
+  {
+   "ticker": "BREZU",
+   "name": "Breeze Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2026-05-13",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "OTAIU",
+   "name": "Starlink AI Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-05-08",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "ODTX",
+   "name": "Odyssey Therapeutics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "18.00",
+   "shares": "15,500,000",
+   "priced_date": "2026-05-08",
+   "offer_usd": 279000000.0
+  },
+  {
+   "ticker": "MOBI",
+   "name": "Mobia Medical, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-05-08",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "HAWK",
+   "name": "HawkEye 360, Inc.",
+   "exchange": "NYSE",
+   "price": "26.00",
+   "shares": "16,000,000",
+   "priced_date": "2026-05-07",
+   "offer_usd": 416000000.0
+  },
+  {
+   "ticker": "SAGUU",
+   "name": "Shreya Acquisition Group",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-05-07",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "SUJA",
+   "name": "SUJA LIFE, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "8,888,889",
+   "priced_date": "2026-05-07",
+   "offer_usd": 186666669.0
+  },
+  {
+   "ticker": "REA",
+   "name": "Rare Earths Americas, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "19.00",
+   "shares": "3,333,331",
+   "priced_date": "2026-05-06",
+   "offer_usd": 63333289.0
+  },
+  {
+   "ticker": "VECAU",
+   "name": "Vernal Capital Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-05-06",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "SPTX",
+   "name": "Seaport Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "14,160,000",
+   "priced_date": "2026-05-01",
+   "offer_usd": 254880000.0
+  },
+  {
+   "ticker": "MTNEU",
+   "name": "CH4 Natural Solutions Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-05-01",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "COAG",
+   "name": "Hemab Therapeutics Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "16,750,000",
+   "priced_date": "2026-05-01",
+   "offer_usd": 301500000.0
+  },
+  {
+   "ticker": "QLEPU",
+   "name": "Quantum Leap Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-05-01",
+   "offer_usd": 200000000.0
+  }
+ ]
+}

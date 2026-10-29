@@ -1,0 +1,87 @@
+{
+ "month": "2023-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ATMU",
+   "name": "Atmus Filtration Technologies Inc.",
+   "exchange": "NYSE",
+   "price": "19.50",
+   "shares": "14,124,409",
+   "priced_date": "2023-05-26",
+   "offer_usd": 275425976.0
+  },
+  {
+   "ticker": "IPXXU",
+   "name": "USA Rare Earth, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2023-05-25",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "MGRM",
+   "name": "Monogram Technologies Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.25",
+   "shares": "2,374,641",
+   "priced_date": "2023-05-18",
+   "offer_usd": 17216147.0
+  },
+  {
+   "ticker": "CWD",
+   "name": "CaliberCos Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,200,000",
+   "priced_date": "2023-05-17",
+   "offer_usd": 4800000.0
+  },
+  {
+   "ticker": "SGE",
+   "name": "Strong Global Entertainment, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "1,000,000",
+   "priced_date": "2023-05-16",
+   "offer_usd": 4000000.0
+  },
+  {
+   "ticker": "ALCYU",
+   "name": "Alchemy Investments Acquisition Corp 1",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2023-05-05",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "SLRN",
+   "name": "ACELYRIN, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "30,000,000",
+   "priced_date": "2023-05-05",
+   "offer_usd": 540000000.0
+  },
+  {
+   "ticker": "KVUE",
+   "name": "Kenvue Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "172,812,560",
+   "priced_date": "2023-05-04",
+   "offer_usd": 3801876320.0
+  },
+  {
+   "ticker": "GODNU",
+   "name": "Golden Star Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-05-02",
+   "offer_usd": 60000000.0
+  }
+ ]
+}

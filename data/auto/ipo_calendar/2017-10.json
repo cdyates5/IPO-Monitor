@@ -1,0 +1,213 @@
+{
+ "month": "2017-10",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "NEXA",
+   "name": "Nexa Resources S.A.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "31,000,000",
+   "priced_date": "2017-10-27",
+   "offer_usd": 496000000.0
+  },
+  {
+   "ticker": "FSCT",
+   "name": "FORESCOUT TECHNOLOGIES, INC",
+   "exchange": "NASDAQ Global",
+   "price": "22.00",
+   "shares": "5,280,000",
+   "priced_date": "2017-10-27",
+   "offer_usd": 116160000.0
+  },
+  {
+   "ticker": "MBIN",
+   "name": "Merchants Bancorp",
+   "exchange": "NASDAQ Capital",
+   "price": "16.00",
+   "shares": "6,250,000",
+   "priced_date": "2017-10-27",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "EYE",
+   "name": "National Vision Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "15,800,000",
+   "priced_date": "2017-10-26",
+   "offer_usd": 347600000.0
+  },
+  {
+   "ticker": "BPMP",
+   "name": "BP Midstream Partners LP",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "42,500,000",
+   "priced_date": "2017-10-26",
+   "offer_usd": 765000000.0
+  },
+  {
+   "ticker": "CMSSU",
+   "name": "Kaixin Holdings",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "18,000,000",
+   "priced_date": "2017-10-26",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "HYACU",
+   "name": "Haymaker Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2017-10-25",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "ABLX",
+   "name": "Ablynx NV",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.50",
+   "shares": "11,430,000",
+   "priced_date": "2017-10-25",
+   "offer_usd": 200025000.0
+  },
+  {
+   "ticker": "FAT",
+   "name": "Fat Brands, Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "12.00",
+   "shares": "2,000,000",
+   "priced_date": "2017-10-23",
+   "offer_usd": 24000000.0
+  },
+  {
+   "ticker": "REDU",
+   "name": "NaaS Technology Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "14.50",
+   "shares": "11,000,000",
+   "priced_date": "2017-10-20",
+   "offer_usd": 159500000.0
+  },
+  {
+   "ticker": "MOSCU",
+   "name": "Vivint Smart Home, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2017-10-20",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "LYL",
+   "name": "Metalpha Technology Holding Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "1,421,394",
+   "priced_date": "2017-10-20",
+   "offer_usd": 8528364.0
+  },
+  {
+   "ticker": "RMBL",
+   "name": "RideNow Group, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.50",
+   "shares": "2,910,000",
+   "priced_date": "2017-10-19",
+   "offer_usd": 16005000.0
+  },
+  {
+   "ticker": "MDB",
+   "name": "MongoDB, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "24.00",
+   "shares": "8,000,000",
+   "priced_date": "2017-10-19",
+   "offer_usd": 192000000.0
+  },
+  {
+   "ticker": "SE",
+   "name": "Sea Ltd",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "58,960,000",
+   "priced_date": "2017-10-19",
+   "offer_usd": 884400000.0
+  },
+  {
+   "ticker": "QD",
+   "name": "High Templar Tech Ltd",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "37,500,000",
+   "priced_date": "2017-10-18",
+   "offer_usd": 900000000.0
+  },
+  {
+   "ticker": "OPTN",
+   "name": "OptiNose, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "7,500,000",
+   "priced_date": "2017-10-13",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "CARG",
+   "name": "CarGurus, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "9,400,000",
+   "priced_date": "2017-10-12",
+   "offer_usd": 150400000.0
+  },
+  {
+   "ticker": "HAIR",
+   "name": "Venus Concept Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "7.00",
+   "shares": "3,575,000",
+   "priced_date": "2017-10-12",
+   "offer_usd": 25025000.0
+  },
+  {
+   "ticker": "KIDS",
+   "name": "ORTHOPEDIATRICS CORP",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "4,000,000",
+   "priced_date": "2017-10-12",
+   "offer_usd": 52000000.0
+  },
+  {
+   "ticker": "SWCH",
+   "name": "Switch, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "31,250,000",
+   "priced_date": "2017-10-06",
+   "offer_usd": 531250000.0
+  },
+  {
+   "ticker": "BRACU",
+   "name": "All In FutureTech Alliance, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,000,000",
+   "priced_date": "2017-10-05",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "RYTM",
+   "name": "RHYTHM PHARMACEUTICALS, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "7,050,000",
+   "priced_date": "2017-10-05",
+   "offer_usd": 119850000.0
+  }
+ ]
+}

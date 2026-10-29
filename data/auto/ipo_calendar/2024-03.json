@@ -1,0 +1,114 @@
+{
+ "month": "2024-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BOLD",
+   "name": "Boundless Bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,250,000",
+   "priced_date": "2024-03-28",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "UBXG",
+   "name": "MindForge Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-03-28",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "MMA",
+   "name": "MIXED MARTIAL ARTS GROUP LTD",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "1,300,000",
+   "priced_date": "2024-03-28",
+   "offer_usd": 6500000.0
+  },
+  {
+   "ticker": "IBACU",
+   "name": "IB Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2024-03-26",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "AUNA",
+   "name": "AUNA S.A.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "30,000,000",
+   "priced_date": "2024-03-22",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "RDDT",
+   "name": "Reddit, Inc.",
+   "exchange": "NYSE",
+   "price": "34.00",
+   "shares": "22,000,000",
+   "priced_date": "2024-03-21",
+   "offer_usd": 748000000.0
+  },
+  {
+   "ticker": "LOBO",
+   "name": "LOBO TECHNOLOGIES LTD.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,380,000",
+   "priced_date": "2024-03-21",
+   "offer_usd": 5520000.0
+  },
+  {
+   "ticker": "BKHAU",
+   "name": "Black Hawk Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,900,000",
+   "priced_date": "2024-03-21",
+   "offer_usd": 69000000.0
+  },
+  {
+   "ticker": "INTJ",
+   "name": "Intelligent Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,875,000",
+   "priced_date": "2024-03-20",
+   "offer_usd": 7500000.0
+  },
+  {
+   "ticker": "ALAB",
+   "name": "Astera Labs, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "36.00",
+   "shares": "19,800,000",
+   "priced_date": "2024-03-20",
+   "offer_usd": 712800000.0
+  },
+  {
+   "ticker": "RYDE",
+   "name": "Ryde Group Ltd",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,000,000",
+   "priced_date": "2024-03-06",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "LGCL",
+   "name": "Lucas GC Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2024-03-05",
+   "offer_usd": 6000000.0
+  }
+ ]
+}

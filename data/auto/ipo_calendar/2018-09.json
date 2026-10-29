@@ -1,0 +1,231 @@
+{
+ "month": "2018-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "CTK",
+   "name": "CooTek(Cayman)Inc.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "4,350,000",
+   "priced_date": "2018-09-28",
+   "offer_usd": 52200000.0
+  },
+  {
+   "ticker": "GRTS",
+   "name": "Gritstone bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "6,666,667",
+   "priced_date": "2018-09-28",
+   "offer_usd": 100000005.0
+  },
+  {
+   "ticker": "RMED",
+   "name": "Flyte Aviation, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "3,900,000",
+   "priced_date": "2018-09-27",
+   "offer_usd": 66300000.0
+  },
+  {
+   "ticker": "UROV",
+   "name": "Urovant Sciences Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "10,000,000",
+   "priced_date": "2018-09-27",
+   "offer_usd": 140000000.0
+  },
+  {
+   "ticker": "LAIX",
+   "name": "LAIX Inc.",
+   "exchange": "NYSE",
+   "price": "12.50",
+   "shares": "5,750,000",
+   "priced_date": "2018-09-27",
+   "offer_usd": 71875000.0
+  },
+  {
+   "ticker": "STRO",
+   "name": "SUTRO BIOPHARMA, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "5,667,000",
+   "priced_date": "2018-09-27",
+   "offer_usd": 85005000.0
+  },
+  {
+   "ticker": "ARVN",
+   "name": "ARVINAS, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "7,500,000",
+   "priced_date": "2018-09-27",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "SVMK",
+   "name": "MOMENTIVE GLOBAL INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "15,000,000",
+   "priced_date": "2018-09-26",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "CBNK",
+   "name": "Capital Bancorp Inc",
+   "exchange": "NASDAQ Global",
+   "price": "12.50",
+   "shares": "2,228,736",
+   "priced_date": "2018-09-26",
+   "offer_usd": 27859200.0
+  },
+  {
+   "ticker": "ETTX",
+   "name": "Entasis Therapeutics Holdings Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2018-09-26",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "ARCE",
+   "name": "Arco Platform Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.50",
+   "shares": "11,111,111",
+   "priced_date": "2018-09-26",
+   "offer_usd": 194444443.0
+  },
+  {
+   "ticker": "VIOT",
+   "name": "Viomi Technology Co., Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "9.00",
+   "shares": "11,400,000",
+   "priced_date": "2018-09-25",
+   "offer_usd": 102600000.0
+  },
+  {
+   "ticker": "YMAB",
+   "name": "Y-mAbs Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,000,000",
+   "priced_date": "2018-09-21",
+   "offer_usd": 96000000.0
+  },
+  {
+   "ticker": "FTCH",
+   "name": "Farfetch Ltd",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "44,243,749",
+   "priced_date": "2018-09-21",
+   "offer_usd": 884874980.0
+  },
+  {
+   "ticker": "EB",
+   "name": "Eventbrite, Inc.",
+   "exchange": "NYSE",
+   "price": "23.00",
+   "shares": "10,000,000",
+   "priced_date": "2018-09-20",
+   "offer_usd": 230000000.0
+  },
+  {
+   "ticker": "BSVN",
+   "name": "Bank7 Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "3,400,000",
+   "priced_date": "2018-09-20",
+   "offer_usd": 64600000.0
+  },
+  {
+   "ticker": "ELAN",
+   "name": "Elanco Animal Health Inc",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "62,900,000",
+   "priced_date": "2018-09-20",
+   "offer_usd": 1509600000.0
+  },
+  {
+   "ticker": "XYF",
+   "name": "X Financial",
+   "exchange": "NYSE",
+   "price": "9.50",
+   "shares": "11,000,000",
+   "priced_date": "2018-09-19",
+   "offer_usd": 104500000.0
+  },
+  {
+   "ticker": "QTT",
+   "name": "Qutoutiao Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "7.00",
+   "shares": "12,000,000",
+   "priced_date": "2018-09-14",
+   "offer_usd": 84000000.0
+  },
+  {
+   "ticker": "PRNB",
+   "name": "Principia Biopharma Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "6,250,000",
+   "priced_date": "2018-09-14",
+   "offer_usd": 106250000.0
+  },
+  {
+   "ticker": "FVCB",
+   "name": "FVCBankcorp, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "20.00",
+   "shares": "1,750,000",
+   "priced_date": "2018-09-14",
+   "offer_usd": 35000000.0
+  },
+  {
+   "ticker": "NIO",
+   "name": "NIO Inc.",
+   "exchange": "NYSE",
+   "price": "6.26",
+   "shares": "160,000,000",
+   "priced_date": "2018-09-12",
+   "offer_usd": 1001600000.0
+  },
+  {
+   "ticker": "YI",
+   "name": "111, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "7,175,000",
+   "priced_date": "2018-09-12",
+   "offer_usd": 100450000.0
+  },
+  {
+   "ticker": "GRSHU",
+   "name": "PAE Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "37,500,000",
+   "priced_date": "2018-09-07",
+   "offer_usd": 375000000.0
+  },
+  {
+   "ticker": "CCC'U",
+   "name": "Churchill Capital Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2018-09-07",
+   "offer_usd": 600000000.0
+  }
+ ]
+}

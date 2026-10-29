@@ -1,0 +1,294 @@
+{
+ "month": "2026-04",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ARCLU",
+   "name": "ARC Group Acquisition I Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,500,000",
+   "priced_date": "2026-04-30",
+   "offer_usd": 105000000.0
+  },
+  {
+   "ticker": "SBMT",
+   "name": "SILVER BOW MINING CORP.",
+   "exchange": "NYSE MKT",
+   "price": "11.50",
+   "shares": "5,200,000",
+   "priced_date": "2026-04-30",
+   "offer_usd": 59800000.0
+  },
+  {
+   "ticker": "FTHAU",
+   "name": "Forefront Tech Holdings Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-04-30",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "WENCU",
+   "name": "West Enclave Merger Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-04-30",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "MCAHU",
+   "name": "Mountain Crest Acquisition 6 Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2026-04-30",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "RREVU",
+   "name": "RRE Ventures Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2026-04-30",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "GCGRU",
+   "name": "General Catalyst Global Resilience Merger Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2026-04-30",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "AVLN",
+   "name": "Avalyn Pharma Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "16,666,667",
+   "priced_date": "2026-04-30",
+   "offer_usd": 300000006.0
+  },
+  {
+   "ticker": "CAIIU",
+   "name": "Collective Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2026-04-29",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "PS",
+   "name": "PERSHING SQUARE INC.",
+   "exchange": "NYSE",
+   "price": "50.00",
+   "shares": "40,516,960",
+   "priced_date": "2026-04-29",
+   "offer_usd": 2025848000.0
+  },
+  {
+   "ticker": "PLUNU",
+   "name": "Plutonian Acquisition Corp. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-04-28",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "CXIIU",
+   "name": "Churchill Capital Corp XII",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2026-04-28",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "IACQU",
+   "name": "Irenic Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2026-04-28",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "XE",
+   "name": "X-Energy, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "44,254,659",
+   "priced_date": "2026-04-24",
+   "offer_usd": 1017857157.0
+  },
+  {
+   "ticker": "LABT",
+   "name": "Lakewood-Amedex Biotherapeutics Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "4,689,177",
+   "priced_date": "2026-04-23",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "ELMT",
+   "name": "Elmet Group Co.",
+   "exchange": "NASDAQ Capital",
+   "price": "14.00",
+   "shares": "8,571,428",
+   "priced_date": "2026-04-23",
+   "offer_usd": 119999992.0
+  },
+  {
+   "ticker": "NHP",
+   "name": "National Healthcare Properties, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "38,500,000",
+   "priced_date": "2026-04-22",
+   "offer_usd": 462000000.0
+  },
+  {
+   "ticker": "YSWY",
+   "name": "Yesway, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "14,000,000",
+   "priced_date": "2026-04-22",
+   "offer_usd": 280000000.0
+  },
+  {
+   "ticker": "DETX",
+   "name": "LIBERTY DEFENSE HOLDINGS, LTD.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "3,673,638",
+   "priced_date": "2026-04-22",
+   "offer_usd": 16531371.0
+  },
+  {
+   "ticker": "KLRA",
+   "name": "Kailera Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "39,062,500",
+   "priced_date": "2026-04-17",
+   "offer_usd": 625000000.0
+  },
+  {
+   "ticker": "ALMR",
+   "name": "Alamar Biosciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "11,250,000",
+   "priced_date": "2026-04-17",
+   "offer_usd": 191250000.0
+  },
+  {
+   "ticker": "JATT",
+   "name": "JATT II Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2026-04-17",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "AVEX",
+   "name": "AEVEX Corp.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "16,000,000",
+   "priced_date": "2026-04-17",
+   "offer_usd": 320000000.0
+  },
+  {
+   "ticker": "ARXS",
+   "name": "Arxis, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "28.00",
+   "shares": "40,500,000",
+   "priced_date": "2026-04-16",
+   "offer_usd": 1134000000.0
+  },
+  {
+   "ticker": "MAIR",
+   "name": "Madison Air Solutions Corp",
+   "exchange": "NYSE",
+   "price": "27.00",
+   "shares": "82,692,308",
+   "priced_date": "2026-04-16",
+   "offer_usd": 2232692316.0
+  },
+  {
+   "ticker": "NHIVU",
+   "name": "NewHold Investment Corp IV",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2026-04-15",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "QREDU",
+   "name": "QuasarEdge Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-04-15",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "MYXXU",
+   "name": "Maywood Acquisition Corp. 2",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-04-14",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "TMCR",
+   "name": "Metals Royalty Co Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "55,061,113",
+   "priced_date": "2026-04-08",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "AACPU",
+   "name": "Apogee Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-04-07",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "ACGCU",
+   "name": "ACP Holdings Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-04-07",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "HMH",
+   "name": "HMH Holding Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "10,520,000",
+   "priced_date": "2026-04-01",
+   "offer_usd": 210400000.0
+  }
+ ]
+}

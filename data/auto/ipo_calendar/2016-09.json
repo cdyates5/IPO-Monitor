@@ -1,0 +1,186 @@
+{
+ "month": "2016-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "NTNX",
+   "name": "Nutanix, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "14,870,000",
+   "priced_date": "2016-09-30",
+   "offer_usd": 237920000.0
+  },
+  {
+   "ticker": "MRT",
+   "name": "MedEquities Realty Trust, Inc.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "19,925,333",
+   "priced_date": "2016-09-29",
+   "offer_usd": 239103996.0
+  },
+  {
+   "ticker": "FLGT",
+   "name": "Fulgent Genetics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "9.00",
+   "shares": "4,200,000",
+   "priced_date": "2016-09-29",
+   "offer_usd": 37800000.0
+  },
+  {
+   "ticker": "TRHC",
+   "name": "Tabula Rasa HealthCare, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "4,300,000",
+   "priced_date": "2016-09-29",
+   "offer_usd": 51600000.0
+  },
+  {
+   "ticker": "TYHT",
+   "name": "SHINECO, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "1,713,190",
+   "priced_date": "2016-09-28",
+   "offer_usd": 7709355.0
+  },
+  {
+   "ticker": "APTI",
+   "name": "Apptio Inc",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "6,000,000",
+   "priced_date": "2016-09-23",
+   "offer_usd": 96000000.0
+  },
+  {
+   "ticker": "GSUM",
+   "name": "Gridsum Holding Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "6,700,000",
+   "priced_date": "2016-09-23",
+   "offer_usd": 87100000.0
+  },
+  {
+   "ticker": "ACIU",
+   "name": "AC Immune SA",
+   "exchange": "NASDAQ Global",
+   "price": "11.00",
+   "shares": "6,000,000",
+   "priced_date": "2016-09-23",
+   "offer_usd": 66000000.0
+  },
+  {
+   "ticker": "VVV",
+   "name": "VALVOLINE INC",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "30,000,000",
+   "priced_date": "2016-09-23",
+   "offer_usd": 660000000.0
+  },
+  {
+   "ticker": "CSTR",
+   "name": "CapStar Financial Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "2,585,000",
+   "priced_date": "2016-09-22",
+   "offer_usd": 38775000.0
+  },
+  {
+   "ticker": "ELF",
+   "name": "e.l.f. Beauty, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "8,333,333",
+   "priced_date": "2016-09-22",
+   "offer_usd": 141666661.0
+  },
+  {
+   "ticker": "NOVN",
+   "name": "NVN Liquidation, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "11.00",
+   "shares": "4,100,000",
+   "priced_date": "2016-09-21",
+   "offer_usd": 45100000.0
+  },
+  {
+   "ticker": "TTD",
+   "name": "Trade Desk, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "4,666,667",
+   "priced_date": "2016-09-21",
+   "offer_usd": 84000006.0
+  },
+  {
+   "ticker": "BGFT",
+   "name": "Lord Global Corp",
+   "exchange": "OTCBB",
+   "price": "1.00",
+   "shares": "20,000,000",
+   "priced_date": "2016-09-19",
+   "offer_usd": 20000000.0
+  },
+  {
+   "ticker": "SCACU",
+   "name": "Saban Capital Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "23,500,000",
+   "priced_date": "2016-09-16",
+   "offer_usd": 235000000.0
+  },
+  {
+   "ticker": "NTB",
+   "name": "Bank of N.T. Butterfield & Son Ltd",
+   "exchange": "NYSE",
+   "price": "23.50",
+   "shares": "10,638,298",
+   "priced_date": "2016-09-16",
+   "offer_usd": 250000003.0
+  },
+  {
+   "ticker": "FBK",
+   "name": "FB Financial Corp",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "5,882,352",
+   "priced_date": "2016-09-16",
+   "offer_usd": 111764688.0
+  },
+  {
+   "ticker": "EVBG",
+   "name": "EVERBRIDGE, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "7,500,000",
+   "priced_date": "2016-09-16",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "NBLX",
+   "name": "Noble Midstream Partners LP",
+   "exchange": "NYSE",
+   "price": "22.50",
+   "shares": "12,500,000",
+   "priced_date": "2016-09-15",
+   "offer_usd": 281250000.0
+  },
+  {
+   "ticker": "MACQU",
+   "name": "Priority Technology Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2016-09-14",
+   "offer_usd": 50000000.0
+  }
+ ]
+}

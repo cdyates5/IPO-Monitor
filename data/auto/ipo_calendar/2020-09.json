@@ -1,0 +1,618 @@
+{
+ "month": "2020-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "FGNAU",
+   "name": "OppFi Inc.",
+   "exchange": "NYSE",
+   "price": "10.00\t",
+   "shares": "22,500,000",
+   "priced_date": "2020-09-30",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "BQ",
+   "name": "Boqii Holding Ltd",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "7,000,000",
+   "priced_date": "2020-09-30",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "YALA",
+   "name": "Yalla Group Ltd",
+   "exchange": "NYSE",
+   "price": "7.50\t",
+   "shares": "18,600,000",
+   "priced_date": "2020-09-30",
+   "offer_usd": 139500000.0
+  },
+  {
+   "ticker": "CD",
+   "name": "Chindata Group Holdings Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.50",
+   "shares": "40,000,000",
+   "priced_date": "2020-09-30",
+   "offer_usd": 540000000.0
+  },
+  {
+   "ticker": "VSPRU",
+   "name": "SkinHealth Systems Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "40,000,000",
+   "priced_date": "2020-09-30",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "CLIIU",
+   "name": "EVgo Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-09-30",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "QELLU",
+   "name": "Qell Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "33,000,000",
+   "priced_date": "2020-09-30",
+   "offer_usd": 330000000.0
+  },
+  {
+   "ticker": "PLTR",
+   "name": "Palantir Technologies Inc.",
+   "exchange": "NYSE",
+   "price": "7.25",
+   "shares": "257,135,415",
+   "priced_date": "2020-09-30",
+   "offer_usd": 1864231759.0
+  },
+  {
+   "ticker": "ASAN",
+   "name": "Asana, Inc.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "30,030,516",
+   "priced_date": "2020-09-30",
+   "offer_usd": 630640836.0
+  },
+  {
+   "ticker": "ORPH",
+   "name": "STRATEGIC PARTNERS A/S",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.00",
+   "shares": "7,616,146",
+   "priced_date": "2020-09-29",
+   "offer_usd": 83777606.0
+  },
+  {
+   "ticker": "FTIVU",
+   "name": "Perella Weinberg Partners",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-09-25",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "VACQU",
+   "name": "Rocket Lab Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-09-25",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "VIAO",
+   "name": "VIA optronics AG",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "6,250,000",
+   "priced_date": "2020-09-25",
+   "offer_usd": 93750000.0
+  },
+  {
+   "ticker": "GRAY",
+   "name": "CalciMedica, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "5,625,000",
+   "priced_date": "2020-09-25",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "SYTA",
+   "name": "Core AI Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "2,100,000",
+   "priced_date": "2020-09-25",
+   "offer_usd": 12600000.0
+  },
+  {
+   "ticker": "PRLD",
+   "name": "Prelude Therapeutics Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "8,325,000",
+   "priced_date": "2020-09-25",
+   "offer_usd": 158175000.0
+  },
+  {
+   "ticker": "AMST",
+   "name": "Amesite Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,000,000",
+   "priced_date": "2020-09-25",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "PMVP",
+   "name": "PMV Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "11,765,000",
+   "priced_date": "2020-09-25",
+   "offer_usd": 211770000.0
+  },
+  {
+   "ticker": "GLSI",
+   "name": "Greenwich LifeSciences, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.75",
+   "shares": "1,260,870",
+   "priced_date": "2020-09-25",
+   "offer_usd": 7250003.0
+  },
+  {
+   "ticker": "TSHA",
+   "name": "Taysha Gene Therapies, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "7,869,566",
+   "priced_date": "2020-09-24",
+   "offer_usd": 157391320.0
+  },
+  {
+   "ticker": "PDACU",
+   "name": "PERIDOT ACQUISITION CORP.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-09-24",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "VIHAU",
+   "name": "Bakkt, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-09-23",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ACTCU",
+   "name": "Proterra Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2020-09-23",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "LSF",
+   "name": "Laird Superfood, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "22.00",
+   "shares": "2,650,000",
+   "priced_date": "2020-09-23",
+   "offer_usd": 58300000.0
+  },
+  {
+   "ticker": "ASPLU",
+   "name": "Wheels Up Experience Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2020-09-23",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "BSY",
+   "name": "BENTLEY SYSTEMS INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "10,750,000",
+   "priced_date": "2020-09-23",
+   "offer_usd": 236500000.0
+  },
+  {
+   "ticker": "GDRX",
+   "name": "GoodRx Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "33.00",
+   "shares": "34,615,384",
+   "priced_date": "2020-09-23",
+   "offer_usd": 1142307672.0
+  },
+  {
+   "ticker": "CRSR",
+   "name": "Corsair Gaming, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "14,000,000",
+   "priced_date": "2020-09-23",
+   "offer_usd": 238000000.0
+  },
+  {
+   "ticker": "PMVCU",
+   "name": "PMV Consumer Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2020-09-22",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "FCACU",
+   "name": "Sharecare, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-09-22",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "ATHA",
+   "name": "LeonaBio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "12,000,000",
+   "priced_date": "2020-09-18",
+   "offer_usd": 204000000.0
+  },
+  {
+   "ticker": "CMPS",
+   "name": "COMPASS Pathways plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "7,500,000",
+   "priced_date": "2020-09-18",
+   "offer_usd": 127500000.0
+  },
+  {
+   "ticker": "AHACU",
+   "name": "Humacyte, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-09-18",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "U",
+   "name": "Unity Software Inc.",
+   "exchange": "NYSE",
+   "price": "52.00",
+   "shares": "25,000,000",
+   "priced_date": "2020-09-18",
+   "offer_usd": 1300000000.0
+  },
+  {
+   "ticker": "NMMCU",
+   "name": "North Mountain Merger Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "11,500,000",
+   "priced_date": "2020-09-18",
+   "offer_usd": 115000000.0
+  },
+  {
+   "ticker": "VTRU",
+   "name": "Vitru Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,000,000",
+   "priced_date": "2020-09-18",
+   "offer_usd": 96000000.0
+  },
+  {
+   "ticker": "DYN",
+   "name": "Dyne Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "12,251,578",
+   "priced_date": "2020-09-17",
+   "offer_usd": 232779982.0
+  },
+  {
+   "ticker": "RTP'U",
+   "name": "Joby Aviation, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2020-09-17",
+   "offer_usd": 600000000.0
+  },
+  {
+   "ticker": "OACBU",
+   "name": "Oaktree Acquisition Corp. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2020-09-17",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "STWOU",
+   "name": "ESS Tech, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2020-09-17",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "AMWL",
+   "name": "American Well Corp",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "41,222,222",
+   "priced_date": "2020-09-17",
+   "offer_usd": 741999996.0
+  },
+  {
+   "ticker": "BNL",
+   "name": "Broadstone Net Lease, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "33,500,000",
+   "priced_date": "2020-09-17",
+   "offer_usd": 569500000.0
+  },
+  {
+   "ticker": "PTVE",
+   "name": "Pactiv Evergreen Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "41,026,000",
+   "priced_date": "2020-09-17",
+   "offer_usd": 574364000.0
+  },
+  {
+   "ticker": "SUMO",
+   "name": "Sumo Logic, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "14,800,000",
+   "priced_date": "2020-09-17",
+   "offer_usd": 325600000.0
+  },
+  {
+   "ticker": "MTCR",
+   "name": "Metacrine, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "6,540,000",
+   "priced_date": "2020-09-16",
+   "offer_usd": 85020000.0
+  },
+  {
+   "ticker": "ENPCU",
+   "name": "Executive Network Partnering Corp",
+   "exchange": "NYSE",
+   "price": "25.00",
+   "shares": "14,400,000",
+   "priced_date": "2020-09-16",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "STEP",
+   "name": "StepStone Group Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "17,500,000",
+   "priced_date": "2020-09-16",
+   "offer_usd": 315000000.0
+  },
+  {
+   "ticker": "EQD'U",
+   "name": "Equity Distribution Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2020-09-16",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "FROG",
+   "name": "JFrog Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "44.00",
+   "shares": "11,568,218",
+   "priced_date": "2020-09-16",
+   "offer_usd": 509001592.0
+  },
+  {
+   "ticker": "SNOW",
+   "name": "Snowflake Inc.",
+   "exchange": "NYSE",
+   "price": "120.00",
+   "shares": "28,000,000",
+   "priced_date": "2020-09-16",
+   "offer_usd": 3360000000.0
+  },
+  {
+   "ticker": "SAIIU",
+   "name": "Otonomo Merger US Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2020-09-15",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "SBG'U",
+   "name": "Owlet, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-09-15",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "OM",
+   "name": "Outset Medical, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "8,951,111",
+   "priced_date": "2020-09-15",
+   "offer_usd": 241679997.0
+  },
+  {
+   "ticker": "LEAPU",
+   "name": "Ribbit LEAP, Ltd.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2020-09-11",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "SNPRU",
+   "name": "Volta Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-09-11",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "BSN'U",
+   "name": "Broadstone Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-09-11",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "TWCTU",
+   "name": "TWC Tech Holdings II Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "52,500,000",
+   "priced_date": "2020-09-11",
+   "offer_usd": 525000000.0
+  },
+  {
+   "ticker": "PIAIU",
+   "name": "Prime Impact Acquisition I",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-09-10",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "NSH'U",
+   "name": "Spire Global, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-09-10",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SVACU",
+   "name": "Cyxtera Technologies, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2020-09-10",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "ITACU",
+   "name": "Industrial Tech Acquisitions, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2020-09-09",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "CRHCU",
+   "name": "Cohn Robbins Holdings Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "72,000,000",
+   "priced_date": "2020-09-09",
+   "offer_usd": 720000000.0
+  },
+  {
+   "ticker": "CAPAU",
+   "name": "Quantum-Si Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-09-04",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "TWNDU",
+   "name": "Nuburu, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-09-04",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "INAQU",
+   "name": "Metromile, LLC",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-09-03",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "BCTG",
+   "name": "Tango Therapeutics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "14,500,000",
+   "priced_date": "2020-09-03",
+   "offer_usd": 145000000.0
+  },
+  {
+   "ticker": "CMLFU",
+   "name": "GeneDx Holdings Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "38,500,000",
+   "priced_date": "2020-09-02",
+   "offer_usd": 385000000.0
+  },
+  {
+   "ticker": "PRFX",
+   "name": "PRF Technologies Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "2,500,000",
+   "priced_date": "2020-09-01",
+   "offer_usd": 20000000.0
+  }
+ ]
+}

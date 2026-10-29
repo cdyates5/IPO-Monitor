@@ -1,0 +1,105 @@
+{
+ "month": "2026-09",
+ "fetched_utc": "2026-10-29T04:56:27Z",
+ "priced": [
+  {
+   "ticker": "ACCV",
+   "name": "Accelevation Holdings Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "30,000,000",
+   "priced_date": "2026-09-30",
+   "offer_usd": 540000000.0
+  },
+  {
+   "ticker": "RZAI",
+   "name": "ROZE AI INC.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "13,878,565",
+   "priced_date": "2026-09-29",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "ADRX",
+   "name": "ADARx Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "26,250,000",
+   "priced_date": "2026-09-25",
+   "offer_usd": 446250000.0
+  },
+  {
+   "ticker": "BRRKU",
+   "name": "Bluerock Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-09-25",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "LOVIU",
+   "name": "Live Oak Acquisition Corp. VI",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-09-23",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "OIG",
+   "name": "Orion180 Insurance Group Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-09-18",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "ETRA",
+   "name": "Electra Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "23,333,334",
+   "priced_date": "2026-09-18",
+   "offer_usd": 350000010.0
+  },
+  {
+   "ticker": "LEDRU",
+   "name": "Leader's Advantage Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-09-18",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "HYACU",
+   "name": "Haymaker Acquisition Corp V",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2026-09-17",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "TRBG",
+   "name": "Turbogen Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "2,066,243",
+   "priced_date": "2026-09-03",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "TLACU",
+   "name": "Three Lions Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-09-01",
+   "offer_usd": 100000000.0
+  }
+ ]
+}

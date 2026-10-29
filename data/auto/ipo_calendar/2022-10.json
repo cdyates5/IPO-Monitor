@@ -1,0 +1,69 @@
+{
+ "month": "2022-10",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "MBLY",
+   "name": "Mobileye Global Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "41,000,000",
+   "priced_date": "2022-10-26",
+   "offer_usd": 861000000.0
+  },
+  {
+   "ticker": "PRME",
+   "name": "Prime Medicine, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "10,294,118",
+   "priced_date": "2022-10-20",
+   "offer_usd": 175000006.0
+  },
+  {
+   "ticker": "TENKU",
+   "name": "CITIUS ONCOLOGY, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2022-10-14",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "HUDAU",
+   "name": "Hudson Acquisition I Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2022-10-14",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "CTM",
+   "name": "Castellum, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "2.00",
+   "shares": "1,500,000",
+   "priced_date": "2022-10-13",
+   "offer_usd": 3000000.0
+  },
+  {
+   "ticker": "SVIIU",
+   "name": "Spring Valley Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-10-13",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "AQUNU",
+   "name": "Aquaron Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2022-10-04",
+   "offer_usd": 50000000.0
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "month": "2019-06",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "KRTX",
+   "name": "Karuna Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "5,578,124",
+   "priced_date": "2019-06-28",
+   "offer_usd": 89249984.0
+  },
+  {
+   "ticker": "REAL",
+   "name": "TheRealReal, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "15,000,000",
+   "priced_date": "2019-06-28",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "MORF",
+   "name": "Morphic Holding, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "6,000,000",
+   "priced_date": "2019-06-27",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "BBIO",
+   "name": "BridgeBio Pharma, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "20,500,000",
+   "priced_date": "2019-06-27",
+   "offer_usd": 348500000.0
+  },
+  {
+   "ticker": "CHNG",
+   "name": "Change Healthcare Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "42,857,142",
+   "priced_date": "2019-06-27",
+   "offer_usd": 557142846.0
+  },
+  {
+   "ticker": "CCX'U",
+   "name": "Skillsoft Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2019-06-27",
+   "offer_usd": 600000000.0
+  },
+  {
+   "ticker": "ADPT",
+   "name": "Adaptive Biotechnologies Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "15,000,000",
+   "priced_date": "2019-06-27",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "CMBM",
+   "name": "Cambium Networks Corp",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "5,800,000",
+   "priced_date": "2019-06-26",
+   "offer_usd": 69600000.0
+  },
+  {
+   "ticker": "LINX",
+   "name": "Linx S.A.",
+   "exchange": "NYSE",
+   "price": "9.40",
+   "shares": "32,774,601",
+   "priced_date": "2019-06-26",
+   "offer_usd": 308081249.0
+  },
+  {
+   "ticker": "GO",
+   "name": "Grocery Outlet Holding Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "17,187,500",
+   "priced_date": "2019-06-20",
+   "offer_usd": 378125000.0
+  },
+  {
+   "ticker": "PSNL",
+   "name": "Personalis, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "7,921,500",
+   "priced_date": "2019-06-20",
+   "offer_usd": 134665500.0
+  },
+  {
+   "ticker": "BCEL",
+   "name": "Atreca, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "7,350,000",
+   "priced_date": "2019-06-20",
+   "offer_usd": 124950000.0
+  },
+  {
+   "ticker": "WORK",
+   "name": "Slack Technologies, Inc.",
+   "exchange": "NYSE",
+   "price": "38.50",
+   "shares": "118,429,640",
+   "priced_date": "2019-06-20",
+   "offer_usd": 4559541140.0
+  },
+  {
+   "ticker": "PRVL",
+   "name": "Prevail Therapeutics Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "7,353,000",
+   "priced_date": "2019-06-20",
+   "offer_usd": 125001000.0
+  },
+  {
+   "ticker": "AKRO",
+   "name": "Akero Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "5,750,000",
+   "priced_date": "2019-06-20",
+   "offer_usd": 92000000.0
+  },
+  {
+   "ticker": "SMMCU",
+   "name": "BTRS Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2019-06-20",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "STOK",
+   "name": "Stoke Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "7,891,110",
+   "priced_date": "2019-06-19",
+   "offer_usd": 142039980.0
+  },
+  {
+   "ticker": "CHWY",
+   "name": "Chewy, Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "46,500,000",
+   "priced_date": "2019-06-14",
+   "offer_usd": 1023000000.0
+  },
+  {
+   "ticker": "FVRR",
+   "name": "Fiverr International Ltd.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "5,263,158",
+   "priced_date": "2019-06-13",
+   "offer_usd": 110526318.0
+  },
+  {
+   "ticker": "CRWD",
+   "name": "CrowdStrike Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "34.00",
+   "shares": "18,000,000",
+   "priced_date": "2019-06-12",
+   "offer_usd": 612000000.0
+  },
+  {
+   "ticker": "MWK",
+   "name": "Aterian, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "3,600,000",
+   "priced_date": "2019-06-12",
+   "offer_usd": 36000000.0
+  },
+  {
+   "ticker": "HYACU",
+   "name": "Haymaker Acquisition Corp. II",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2019-06-07",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "RVLV",
+   "name": "Revolve Group, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "11,764,706",
+   "priced_date": "2019-06-07",
+   "offer_usd": 211764708.0
+  },
+  {
+   "ticker": "GSX",
+   "name": "Gaotu Techedu Inc.",
+   "exchange": "NYSE",
+   "price": "10.50",
+   "shares": "19,800,000",
+   "priced_date": "2019-06-06",
+   "offer_usd": 207900000.0
+  },
+  {
+   "ticker": "GIX'U",
+   "name": "UpHealth, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2019-06-06",
+   "offer_usd": 150000000.0
+  }
+ ]
+}

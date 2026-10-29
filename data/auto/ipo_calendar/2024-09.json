@@ -1,0 +1,222 @@
+{
+ "month": "2024-09",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ZJK",
+   "name": "ZJK Industrial Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-09-30",
+   "offer_usd": 6250000.0
+  },
+  {
+   "ticker": "LGCY",
+   "name": "Legacy Education Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2024-09-26",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "BKV",
+   "name": "BKV Corp",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "15,000,000",
+   "priced_date": "2024-09-26",
+   "offer_usd": 270000000.0
+  },
+  {
+   "ticker": "IBG",
+   "name": "Innovation Beverage Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,350,000",
+   "priced_date": "2024-09-26",
+   "offer_usd": 5400000.0
+  },
+  {
+   "ticker": "BIOA",
+   "name": "BioAge Labs, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "11,000,000",
+   "priced_date": "2024-09-26",
+   "offer_usd": 198000000.0
+  },
+  {
+   "ticker": "GRDN",
+   "name": "Guardian Pharmacy Services, Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "8,000,000",
+   "priced_date": "2024-09-26",
+   "offer_usd": 112000000.0
+  },
+  {
+   "ticker": "PC",
+   "name": "Premium Catering (Holdings) Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.75",
+   "shares": "2,000,000",
+   "priced_date": "2024-09-25",
+   "offer_usd": 9500000.0
+  },
+  {
+   "ticker": "GLE",
+   "name": "Global Engine Group Holding Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-09-20",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "CAPNU",
+   "name": "Cayson Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2024-09-20",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "YHNAU",
+   "name": "YHN Acquisition I Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2024-09-18",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "IBO",
+   "name": "IMPACT BIOMEDICAL INC.",
+   "exchange": "NYSE MKT",
+   "price": "3.00",
+   "shares": "1,500,000",
+   "priced_date": "2024-09-16",
+   "offer_usd": 4500000.0
+  },
+  {
+   "ticker": "KAPA",
+   "name": "Kairos Pharma, LTD.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "1,550,000",
+   "priced_date": "2024-09-16",
+   "offer_usd": 6200000.0
+  },
+  {
+   "ticker": "HCWC",
+   "name": "Host Digital Inc.",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "400,000",
+   "priced_date": "2024-09-16",
+   "offer_usd": 4000000.0
+  },
+  {
+   "ticker": "ZBIO",
+   "name": "Zenas BioPharma, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "13,235,294",
+   "priced_date": "2024-09-13",
+   "offer_usd": 224999998.0
+  },
+  {
+   "ticker": "MBX",
+   "name": "MBX Biosciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "10,200,000",
+   "priced_date": "2024-09-13",
+   "offer_usd": 163200000.0
+  },
+  {
+   "ticker": "BCAX",
+   "name": "Bicara Therapeutics Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "17,500,000",
+   "priced_date": "2024-09-13",
+   "offer_usd": 315000000.0
+  },
+  {
+   "ticker": "GLXG",
+   "name": "Galaxy Payroll Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2024-09-12",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "FVNNU",
+   "name": "Future Vision II Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2024-09-12",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "XCH",
+   "name": "XCHG Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "6.20",
+   "shares": "3,333,335",
+   "priced_date": "2024-09-10",
+   "offer_usd": 20666677.0
+  },
+  {
+   "ticker": "TDTH",
+   "name": "Trident Digital Tech Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,800,000",
+   "priced_date": "2024-09-10",
+   "offer_usd": 9000000.0
+  },
+  {
+   "ticker": "VCICU",
+   "name": "Odysseus (Cayman) Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-09-06",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "POLEU",
+   "name": "Andretti Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-09-06",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "PTHL",
+   "name": "iTonic Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,250,000",
+   "priced_date": "2024-09-05",
+   "offer_usd": 9000000.0
+  },
+  {
+   "ticker": "PMAX",
+   "name": "Powell Max Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,426,750",
+   "priced_date": "2024-09-05",
+   "offer_usd": 5707000.0
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "month": "2022-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ACRV",
+   "name": "Acrivon Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.50",
+   "shares": "7,550,000",
+   "priced_date": "2022-11-15",
+   "offer_usd": 94375000.0
+  },
+  {
+   "ticker": "ATAT",
+   "name": "Atour Lifestyle Holdings Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.00",
+   "shares": "4,750,000",
+   "priced_date": "2022-11-11",
+   "offer_usd": 52250000.0
+  },
+  {
+   "ticker": "ASPI",
+   "name": "ASP Isotopes Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2022-11-10",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "SNAL",
+   "name": "Snail, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,000,000",
+   "priced_date": "2022-11-10",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "PLTNU",
+   "name": "Plutonian Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2022-11-10",
+   "offer_usd": 50000000.0
+  }
+ ]
+}

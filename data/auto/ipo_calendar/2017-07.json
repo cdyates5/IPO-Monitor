@@ -1,0 +1,150 @@
+{
+ "month": "2017-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "NEWA",
+   "name": "Newater Technology, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,400,000",
+   "priced_date": "2017-07-28",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "RDFN",
+   "name": "Redfin CORP",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "9,231,000",
+   "priced_date": "2017-07-28",
+   "offer_usd": 138465000.0
+  },
+  {
+   "ticker": "SNNA",
+   "name": "Sienna Biopharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "4,333,333",
+   "priced_date": "2017-07-27",
+   "offer_usd": 64999995.0
+  },
+  {
+   "ticker": "INDUU",
+   "name": "Concrete Pumping Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2017-07-27",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "WRLSU",
+   "name": "American Virtual Cloud Technologies, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "27,000,000",
+   "priced_date": "2017-07-27",
+   "offer_usd": 270000000.0
+  },
+  {
+   "ticker": "RBB",
+   "name": "RBB Bancorp",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "3,750,000",
+   "priced_date": "2017-07-26",
+   "offer_usd": 86250000.0
+  },
+  {
+   "ticker": "PETQ",
+   "name": "PetIQ, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,250,000",
+   "priced_date": "2017-07-21",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "OSPRU",
+   "name": "STR Sub Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2017-07-21",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "CLXT",
+   "name": "Cibus, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "8.00",
+   "shares": "7,000,000",
+   "priced_date": "2017-07-20",
+   "offer_usd": 56000000.0
+  },
+  {
+   "ticker": "TRTX",
+   "name": "TPG RE Finance Trust, Inc.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "11,000,000",
+   "priced_date": "2017-07-20",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "KALA",
+   "name": "KALA BIO, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "6,000,000",
+   "priced_date": "2017-07-20",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "USOU",
+   "name": "USCF Funds Trust",
+   "exchange": "NYSE Arca",
+   "price": "24.32",
+   "shares": "30,000,000",
+   "priced_date": "2017-07-20",
+   "offer_usd": 729600000.0
+  },
+  {
+   "ticker": "USOD",
+   "name": "USCF Funds Trust",
+   "exchange": "NYSE Arca",
+   "price": "24.40",
+   "shares": "30,000,000",
+   "priced_date": "2017-07-20",
+   "offer_usd": 732000000.0
+  },
+  {
+   "ticker": "FSACU",
+   "name": "Federal Street Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "40,000,000",
+   "priced_date": "2017-07-19",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "AKCA",
+   "name": "AKCEA THERAPEUTICS, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "8.00",
+   "shares": "15,625,000",
+   "priced_date": "2017-07-14",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "CODX",
+   "name": "Co-Diagnostics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "1,178,532",
+   "priced_date": "2017-07-12",
+   "offer_usd": 7071192.0
+  }
+ ]
+}

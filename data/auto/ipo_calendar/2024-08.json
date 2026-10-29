@@ -1,0 +1,168 @@
+{
+ "month": "2024-08",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "GIGGU",
+   "name": "Hadron Energy, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-08-29",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "AZI",
+   "name": "Autozi Internet Technology (Global) Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2024-08-28",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "BSIIU",
+   "name": "Black Spade Acquisition II Co",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2024-08-28",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "SPAI",
+   "name": "Safe Pro Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,020,000",
+   "priced_date": "2024-08-28",
+   "offer_usd": 5100000.0
+  },
+  {
+   "ticker": "JBDI",
+   "name": "JBDI Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,250,000",
+   "priced_date": "2024-08-27",
+   "offer_usd": 11250000.0
+  },
+  {
+   "ticker": "WOK",
+   "name": "WORK Medical Technology Group LTD",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-08-23",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "RITR",
+   "name": "Reitar Logtech Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,125,000",
+   "priced_date": "2024-08-23",
+   "offer_usd": 8500000.0
+  },
+  {
+   "ticker": "YXT",
+   "name": "YXT.COM GROUP HOLDING Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "11.00",
+   "shares": "2,273,000",
+   "priced_date": "2024-08-16",
+   "offer_usd": 25003000.0
+  },
+  {
+   "ticker": "HONDU",
+   "name": "Terrestrial Energy Inc. /DE/",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-08-16",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SBXDU",
+   "name": "SilverBox Corp IV",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-08-16",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CEP",
+   "name": "Cantor Equity Partners, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2024-08-13",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "ACTU",
+   "name": "ACTUATE THERAPEUTICS, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "8.00",
+   "shares": "2,800,000",
+   "priced_date": "2024-08-13",
+   "offer_usd": 22400000.0
+  },
+  {
+   "ticker": "VACHU",
+   "name": "Voyager Acquisition Corp./Cayman Islands",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2024-08-09",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "EQVU",
+   "name": "Presidio MidCo Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2024-08-07",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "MBAVU",
+   "name": "Velos Acquisition I Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2024-08-01",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "OSTX",
+   "name": "OS THERAPIES Inc",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "1,600,000",
+   "priced_date": "2024-08-01",
+   "offer_usd": 6400000.0
+  },
+  {
+   "ticker": "FDSB",
+   "name": "Fifth District Bancorp, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,459,473",
+   "priced_date": "2024-08-01",
+   "offer_usd": 54594730.0
+  },
+  {
+   "ticker": "AAM'U",
+   "name": "AA Mission Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2024-08-01",
+   "offer_usd": 300000000.0
+  }
+ ]
+}

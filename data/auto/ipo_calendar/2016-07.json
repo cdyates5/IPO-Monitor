@@ -1,0 +1,141 @@
+{
+ "month": "2016-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "LTEA",
+   "name": "Long Blockchain Corp.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "5.50",
+   "shares": "1,818,182",
+   "priced_date": "2016-07-29",
+   "offer_usd": 10000001.0
+  },
+  {
+   "ticker": "TLND",
+   "name": "Talend S.A.",
+   "exchange": "Nasdaq National Market",
+   "price": "18.00",
+   "shares": "5,250,000",
+   "priced_date": "2016-07-29",
+   "offer_usd": 94500000.0
+  },
+  {
+   "ticker": "APOP",
+   "name": "Quoin Pharmaceuticals Ltd.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "6.50",
+   "shares": "1,292,308",
+   "priced_date": "2016-07-29",
+   "offer_usd": 8400002.0
+  },
+  {
+   "ticker": "KNSL",
+   "name": "Kinsale Capital Group, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "16.00",
+   "shares": "6,600,000",
+   "priced_date": "2016-07-28",
+   "offer_usd": 105600000.0
+  },
+  {
+   "ticker": "TCMD",
+   "name": "TACTILE SYSTEMS TECHNOLOGY INC",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2016-07-28",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "KDMN",
+   "name": "Kadmon Holdings, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "12.00",
+   "shares": "6,250,000",
+   "priced_date": "2016-07-27",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "TPIC",
+   "name": "TPI COMPOSITES, INC",
+   "exchange": "Nasdaq National Market",
+   "price": "11.00",
+   "shares": "6,250,000",
+   "priced_date": "2016-07-22",
+   "offer_usd": 68750000.0
+  },
+  {
+   "ticker": "PI",
+   "name": "IMPINJ INC",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "4,800,000",
+   "priced_date": "2016-07-21",
+   "offer_usd": 67200000.0
+  },
+  {
+   "ticker": "PTHN",
+   "name": "Patheon N.V.",
+   "exchange": "New York Stock Exchange",
+   "price": "21.00",
+   "shares": "29,761,905",
+   "priced_date": "2016-07-21",
+   "offer_usd": 625000005.0
+  },
+  {
+   "ticker": "BOLD",
+   "name": "Audentes Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2016-07-20",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "CPAAU",
+   "name": "Conyers Park Acquisition Corp.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "37,500,000",
+   "priced_date": "2016-07-15",
+   "offer_usd": 375000000.0
+  },
+  {
+   "ticker": "APFH",
+   "name": "AdvancePierre Foods Holdings, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "21.00",
+   "shares": "18,600,000",
+   "priced_date": "2016-07-15",
+   "offer_usd": 390600000.0
+  },
+  {
+   "ticker": "LN",
+   "name": "LINE Corp",
+   "exchange": "New York Stock Exchange",
+   "price": "32.84",
+   "shares": "35,000,000",
+   "priced_date": "2016-07-14",
+   "offer_usd": 1149400000.0
+  },
+  {
+   "ticker": "MSDI",
+   "name": "9 METERS BIOPHARMA, INC.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "4.50",
+   "shares": "2,025,000",
+   "priced_date": "2016-07-08",
+   "offer_usd": 9112500.0
+  },
+  {
+   "ticker": "MIIIU",
+   "name": "Infrastructure & Energy Alternatives, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2016-07-07",
+   "offer_usd": 150000000.0
+  }
+ ]
+}

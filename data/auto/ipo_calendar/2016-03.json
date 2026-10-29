@@ -1,0 +1,60 @@
+{
+ "month": "2016-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "CRVS",
+   "name": "Corvus Pharmaceuticals, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "15.00",
+   "shares": "4,700,000",
+   "priced_date": "2016-03-23",
+   "offer_usd": 70500000.0
+  },
+  {
+   "ticker": "SENS",
+   "name": "Senseonics Holdings, Inc.",
+   "exchange": "American Stock Exchange",
+   "price": "2.85",
+   "shares": "15,800,000",
+   "priced_date": "2016-03-18",
+   "offer_usd": 45030000.0
+  },
+  {
+   "ticker": "HCM",
+   "name": "HUTCHMED (China) Ltd",
+   "exchange": "Nasdaq National Market",
+   "price": "13.50",
+   "shares": "7,500,000",
+   "priced_date": "2016-03-17",
+   "offer_usd": 101250000.0
+  },
+  {
+   "ticker": "KLREU",
+   "name": "Rosehill Resources Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "8,000,000",
+   "priced_date": "2016-03-11",
+   "offer_usd": 80000000.0
+  },
+  {
+   "ticker": "JSYNU",
+   "name": "ISUN, INC.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "3,900,000",
+   "priced_date": "2016-03-03",
+   "offer_usd": 39000000.0
+  },
+  {
+   "ticker": "SNDX",
+   "name": "Syndax Pharmaceuticals Inc",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "4,400,000",
+   "priced_date": "2016-03-03",
+   "offer_usd": 52800000.0
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "month": "2024-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "VENU",
+   "name": "Venu Holding Corp",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "1,200,000",
+   "priced_date": "2024-11-27",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "BRIA",
+   "name": "BrilliA Inc",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2024-11-27",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "PONY",
+   "name": "Pony AI Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-11-27",
+   "offer_usd": 260000000.0
+  },
+  {
+   "ticker": "GRO",
+   "name": "Brazil Potash Corp.",
+   "exchange": "NYSE MKT",
+   "price": "15.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-11-27",
+   "offer_usd": 30000000.0
+  },
+  {
+   "ticker": "FACTU",
+   "name": "FACT II Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2024-11-26",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "CGTL",
+   "name": "Creative Global Technology Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-11-26",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "WYHG",
+   "name": "Wing Yip Food Holdings Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,050,000",
+   "priced_date": "2024-11-26",
+   "offer_usd": 8200000.0
+  },
+  {
+   "ticker": "CASK",
+   "name": "IP STRATEGY HOLDINGS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,687,500",
+   "priced_date": "2024-11-22",
+   "offer_usd": 6750000.0
+  },
+  {
+   "ticker": "MSW",
+   "name": "PMA Graphene Technology Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.50",
+   "shares": "1,500,000",
+   "priced_date": "2024-11-22",
+   "offer_usd": 8250000.0
+  },
+  {
+   "ticker": "NOEMU",
+   "name": "CO2 Energy Transition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2024-11-21",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "DYNXU",
+   "name": "Dynamix Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2024-11-21",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "DMN",
+   "name": "Damon Inc.",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "1,015,383",
+   "priced_date": "2024-11-18",
+   "offer_usd": 191597.64
+  },
+  {
+   "ticker": "HSPTU",
+   "name": "Horizon Space Acquisition II Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2024-11-15",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "IZTC",
+   "name": "EXOZYMES INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "1,875,000",
+   "priced_date": "2024-11-13",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "ACOG",
+   "name": "Alpha Cognition Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.75",
+   "shares": "8,695,653",
+   "priced_date": "2024-11-12",
+   "offer_usd": 50000005.0
+  },
+  {
+   "ticker": "ASPCU",
+   "name": "ASPAC III Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,500,000",
+   "priced_date": "2024-11-08",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "WLACU",
+   "name": "Willow Lane Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "11,000,000",
+   "priced_date": "2024-11-08",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "GSRTU",
+   "name": "GSR III Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-11-07",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ADUR",
+   "name": "ADURO CLEAN TECHNOLOGIES INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.25",
+   "shares": "941,177",
+   "priced_date": "2024-11-07",
+   "offer_usd": 4000002.0
+  },
+  {
+   "ticker": "BACQU",
+   "name": "Merlin, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2024-11-01",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "NTWOU",
+   "name": "Newbury Street II Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2024-11-01",
+   "offer_usd": 150000000.0
+  }
+ ]
+}

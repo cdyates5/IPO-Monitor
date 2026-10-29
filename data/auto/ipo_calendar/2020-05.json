@@ -1,0 +1,168 @@
+{
+ "month": "2020-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "WPF'U",
+   "name": "Alight, Inc. / Delaware",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "90,000,000",
+   "priced_date": "2020-05-27",
+   "offer_usd": 900000000.0
+  },
+  {
+   "ticker": "NARI",
+   "name": "Inari Medical, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "8,202,565",
+   "priced_date": "2020-05-22",
+   "offer_usd": 155848735.0
+  },
+  {
+   "ticker": "LGVWU",
+   "name": "Butterfly Network, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2020-05-21",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "SLQT",
+   "name": "SelectQuote, Inc.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "28,500,000",
+   "priced_date": "2020-05-21",
+   "offer_usd": 570000000.0
+  },
+  {
+   "ticker": "BMRGU",
+   "name": "Eos Energy Enterprises, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2020-05-20",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "NOVSU",
+   "name": "AppHarvest, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-05-15",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "ADCT",
+   "name": "ADC Therapeutics SA",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "12,245,631",
+   "priced_date": "2020-05-15",
+   "offer_usd": 232666989.0
+  },
+  {
+   "ticker": "GIK'U",
+   "name": "Lightning eMotors, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-05-14",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "JWS'U",
+   "name": "Cano Health, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2020-05-14",
+   "offer_usd": 600000000.0
+  },
+  {
+   "ticker": "KC",
+   "name": "Kingsoft Cloud Holdings Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-05-08",
+   "offer_usd": 510000000.0
+  },
+  {
+   "ticker": "CLEU",
+   "name": "China Liberal Education Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "1,333,333",
+   "priced_date": "2020-05-08",
+   "offer_usd": 7999998.0
+  },
+  {
+   "ticker": "AYLA",
+   "name": "Old Ayala, Inc",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "3,666,667",
+   "priced_date": "2020-05-08",
+   "offer_usd": 55000005.0
+  },
+  {
+   "ticker": "SOACU",
+   "name": "TMC the metals Co Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-05-06",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "LOAKU",
+   "name": "Danimer Scientific, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-05-06",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ROCHU",
+   "name": "Roth CH Acquisition I Co",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2020-05-05",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "GAN",
+   "name": "GAN Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "8.50",
+   "shares": "6,380,000",
+   "priced_date": "2020-05-05",
+   "offer_usd": 54230000.0
+  },
+  {
+   "ticker": "CGROU",
+   "name": "Collective Growth Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2020-05-01",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "LYRA",
+   "name": "Lyra Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "3,500,000",
+   "priced_date": "2020-05-01",
+   "offer_usd": 56000000.0
+  }
+ ]
+}

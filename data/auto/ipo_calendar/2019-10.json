@@ -1,0 +1,195 @@
+{
+ "month": "2019-10",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "OYST",
+   "name": "Oyster Point Pharma, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-10-31",
+   "offer_usd": 80000000.0
+  },
+  {
+   "ticker": "RAPT",
+   "name": "RAPT Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "3,000,000",
+   "priced_date": "2019-10-31",
+   "offer_usd": 36000000.0
+  },
+  {
+   "ticker": "PGNY",
+   "name": "Progyny, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "10,000,000",
+   "priced_date": "2019-10-25",
+   "offer_usd": 130000000.0
+  },
+  {
+   "ticker": "TFFP",
+   "name": "TFF Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "4,400,000",
+   "priced_date": "2019-10-25",
+   "offer_usd": 22000000.0
+  },
+  {
+   "ticker": "CABA",
+   "name": "Cabaletta Bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.00",
+   "shares": "6,800,000",
+   "priced_date": "2019-10-25",
+   "offer_usd": 74800000.0
+  },
+  {
+   "ticker": "HAPP",
+   "name": "Paranovus Entertainment Technology Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.50",
+   "shares": "2,000,000",
+   "priced_date": "2019-10-25",
+   "offer_usd": 11000000.0
+  },
+  {
+   "ticker": "DAO",
+   "name": "Youdao, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "5,600,000",
+   "priced_date": "2019-10-25",
+   "offer_usd": 95200000.0
+  },
+  {
+   "ticker": "PHAT",
+   "name": "Phathom Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "9,563,157",
+   "priced_date": "2019-10-25",
+   "offer_usd": 181699983.0
+  },
+  {
+   "ticker": "AIH",
+   "name": "Aesthetic Medical International Holdings Group Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "2,500,000",
+   "priced_date": "2019-10-25",
+   "offer_usd": 30000000.0
+  },
+  {
+   "ticker": "BRP",
+   "name": "Baldwin Insurance Group, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "16,400,000",
+   "priced_date": "2019-10-24",
+   "offer_usd": 229600000.0
+  },
+  {
+   "ticker": "LATNU",
+   "name": "Union Acquisition Corp. II",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2019-10-18",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "GLEOU",
+   "name": "Shapeways Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "12,000,000",
+   "priced_date": "2019-10-18",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "IPHA",
+   "name": "Innate Pharma SA",
+   "exchange": "NASDAQ Global Select",
+   "price": "5.50",
+   "shares": "12,500,000",
+   "priced_date": "2019-10-17",
+   "offer_usd": 68750000.0
+  },
+  {
+   "ticker": "BRBR",
+   "name": "BELLRING BRANDS, INC.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "34,285,714",
+   "priced_date": "2019-10-17",
+   "offer_usd": 479999996.0
+  },
+  {
+   "ticker": "HBT",
+   "name": "HBT Financial, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "8,300,000",
+   "priced_date": "2019-10-11",
+   "offer_usd": 132800000.0
+  },
+  {
+   "ticker": "VIR",
+   "name": "Vir Biotechnology, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "7,142,858",
+   "priced_date": "2019-10-11",
+   "offer_usd": 142857160.0
+  },
+  {
+   "ticker": "BNTX",
+   "name": "BioNTech SE",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "10,000,000",
+   "priced_date": "2019-10-10",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "FREQ",
+   "name": "Korro Bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "6,000,000",
+   "priced_date": "2019-10-03",
+   "offer_usd": 84000000.0
+  },
+  {
+   "ticker": "VIE",
+   "name": "Viela Bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "7,900,000",
+   "priced_date": "2019-10-03",
+   "offer_usd": 150100000.0
+  },
+  {
+   "ticker": "MCBS",
+   "name": "MetroCity Bankshares, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.50",
+   "shares": "1,939,000",
+   "priced_date": "2019-10-03",
+   "offer_usd": 26176500.0
+  },
+  {
+   "ticker": "APRE",
+   "name": "Aprea Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,666,667",
+   "priced_date": "2019-10-03",
+   "offer_usd": 85000005.0
+  }
+ ]
+}

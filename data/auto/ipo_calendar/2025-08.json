@@ -1,0 +1,267 @@
+{
+ "month": "2025-08",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "PMI",
+   "name": "Picard Medical, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "4,250,000",
+   "priced_date": "2025-08-29",
+   "offer_usd": 17000000.0
+  },
+  {
+   "ticker": "ELOG",
+   "name": "Eastern International Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,600,000",
+   "priced_date": "2025-08-28",
+   "offer_usd": 6400000.0
+  },
+  {
+   "ticker": "TGHL",
+   "name": "GrowHub Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-08-28",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "THH",
+   "name": "TryHard Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,525,000",
+   "priced_date": "2025-08-28",
+   "offer_usd": 6100000.0
+  },
+  {
+   "ticker": "KOYNU",
+   "name": "CSLM Digital Asset Acquisition Corp III, Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-08-27",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "MBVIU",
+   "name": "M3-Brigade Acquisition VI Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2025-08-27",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "CURX",
+   "name": "Curanex Pharmaceuticals Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-08-26",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "ETS",
+   "name": "Elite Express Holding Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,800,000",
+   "priced_date": "2025-08-21",
+   "offer_usd": 15200000.0
+  },
+  {
+   "ticker": "CEPF",
+   "name": "Cantor Equity Partners IV, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "40,000,000",
+   "priced_date": "2025-08-21",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "YMT",
+   "name": "Yimutian Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "4.10",
+   "shares": "5,010,000",
+   "priced_date": "2025-08-19",
+   "offer_usd": 20541000.0
+  },
+  {
+   "ticker": "NUTR",
+   "name": "NUSATRIP Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-08-15",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "PPCB",
+   "name": "Propanc Biopharma, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,000,000",
+   "priced_date": "2025-08-15",
+   "offer_usd": 4000000.0
+  },
+  {
+   "ticker": "RYOJ",
+   "name": "rYojbaba Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-08-14",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "MIAX",
+   "name": "MIAMI INTERNATIONAL HOLDINGS, INC.",
+   "exchange": "NYSE",
+   "price": "23.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-08-14",
+   "offer_usd": 345000000.0
+  },
+  {
+   "ticker": "BUUU",
+   "name": "BUUU Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-08-14",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "BLSH",
+   "name": "Bullish",
+   "exchange": "NYSE",
+   "price": "37.00",
+   "shares": "30,000,000",
+   "priced_date": "2025-08-13",
+   "offer_usd": 1110000000.0
+  },
+  {
+   "ticker": "NSRX",
+   "name": "Nasus Pharma Ltd",
+   "exchange": "NYSE MKT",
+   "price": "8.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-08-13",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "MKLYU",
+   "name": "McKinley Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-08-12",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "HVMCU",
+   "name": "Highview Merger Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-08-12",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "MAGH",
+   "name": "Magnitude International Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,200,000",
+   "priced_date": "2025-08-12",
+   "offer_usd": 8800000.0
+  },
+  {
+   "ticker": "SSEAU",
+   "name": "STARRY SEA ACQUISITION CORP",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2025-08-08",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "DKI",
+   "name": "DarkIris Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-08-08",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "EFTY",
+   "name": "ETOILES CAPITAL GROUP CO., LTD",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,400,000",
+   "priced_date": "2025-08-08",
+   "offer_usd": 5600000.0
+  },
+  {
+   "ticker": "HTFL",
+   "name": "Heartflow, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "16,666,667",
+   "priced_date": "2025-08-08",
+   "offer_usd": 316666673.0
+  },
+  {
+   "ticker": "WYFI",
+   "name": "WhiteFiber, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "17.00",
+   "shares": "9,375,000",
+   "priced_date": "2025-08-07",
+   "offer_usd": 159375000.0
+  },
+  {
+   "ticker": "FLY",
+   "name": "Firefly Aerospace Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "45.00",
+   "shares": "19,296,000",
+   "priced_date": "2025-08-07",
+   "offer_usd": 868320000.0
+  },
+  {
+   "ticker": "CTW",
+   "name": "CTW",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,400,000",
+   "priced_date": "2025-08-06",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "QUMSU",
+   "name": "Quantumsphere Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,200,000",
+   "priced_date": "2025-08-06",
+   "offer_usd": 72000000.0
+  },
+  {
+   "ticker": "HCMAU",
+   "name": "HCM III ACQUISITION CORP.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-08-01",
+   "offer_usd": 220000000.0
+  }
+ ]
+}

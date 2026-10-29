@@ -1,0 +1,267 @@
+{
+ "month": "2018-10",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ORTX",
+   "name": "Orchard Therapeutics plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "14,285,715",
+   "priced_date": "2018-10-31",
+   "offer_usd": 200000010.0
+  },
+  {
+   "ticker": "TWST",
+   "name": "Twist Bioscience Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "5,000,000",
+   "priced_date": "2018-10-31",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "AXNX",
+   "name": "Axonics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "8,000,000",
+   "priced_date": "2018-10-31",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "GMDA",
+   "name": "Gamida Cell Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "8.00",
+   "shares": "6,250,000",
+   "priced_date": "2018-10-26",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "STNE",
+   "name": "StoneCo Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "24.00",
+   "shares": "50,724,638",
+   "priced_date": "2018-10-25",
+   "offer_usd": 1217391312.0
+  },
+  {
+   "ticker": "PT",
+   "name": "J & Friends Holdings Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "11.88",
+   "shares": "3,725,000",
+   "priced_date": "2018-10-25",
+   "offer_usd": 44253000.0
+  },
+  {
+   "ticker": "YETI",
+   "name": "YETI Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "16,000,000",
+   "priced_date": "2018-10-25",
+   "offer_usd": 288000000.0
+  },
+  {
+   "ticker": "ALACU",
+   "name": "Alberton Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2018-10-24",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "SWI",
+   "name": "SolarWinds Corp",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "25,000,000",
+   "priced_date": "2018-10-19",
+   "offer_usd": 375000000.0
+  },
+  {
+   "ticker": "NIU",
+   "name": "Niu Technologies",
+   "exchange": "NASDAQ Global",
+   "price": "9.00",
+   "shares": "7,000,000",
+   "priced_date": "2018-10-19",
+   "offer_usd": 63000000.0
+  },
+  {
+   "ticker": "LOGC",
+   "name": "LogicBio Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,000,000",
+   "priced_date": "2018-10-19",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "OSMT",
+   "name": "RVL Pharmaceuticals plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "7.00",
+   "shares": "6,650,000",
+   "priced_date": "2018-10-18",
+   "offer_usd": 46550000.0
+  },
+  {
+   "ticker": "PHAS",
+   "name": "PhaseBio Pharmaceuticals Inc",
+   "exchange": "NASDAQ Global",
+   "price": "5.00",
+   "shares": "9,200,000",
+   "priced_date": "2018-10-18",
+   "offer_usd": 46000000.0
+  },
+  {
+   "ticker": "MSC",
+   "name": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+   "exchange": "NYSE",
+   "price": "12.50",
+   "shares": "28,750,000",
+   "priced_date": "2018-10-18",
+   "offer_usd": 359375000.0
+  },
+  {
+   "ticker": "SIBN",
+   "name": "SI-BONE, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "7,200,000",
+   "priced_date": "2018-10-17",
+   "offer_usd": 108000000.0
+  },
+  {
+   "ticker": "GRAFU",
+   "name": "Velodyne Lidar, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2018-10-16",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "DDMXU",
+   "name": "DD3 Acquisition Corp., S.A. de C.V.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00\t",
+   "shares": "5,000,000",
+   "priced_date": "2018-10-12",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "EQ",
+   "name": "Equillium, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "4,670,000",
+   "priced_date": "2018-10-12",
+   "offer_usd": 65380000.0
+  },
+  {
+   "ticker": "PLAN",
+   "name": "Anaplan, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "15,500,000",
+   "priced_date": "2018-10-12",
+   "offer_usd": 263500000.0
+  },
+  {
+   "ticker": "ALLO",
+   "name": "Allogene Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "18,000,000",
+   "priced_date": "2018-10-11",
+   "offer_usd": 324000000.0
+  },
+  {
+   "ticker": "LTHM",
+   "name": "Livent Corp.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "20,000,000",
+   "priced_date": "2018-10-11",
+   "offer_usd": 340000000.0
+  },
+  {
+   "ticker": "ESTC",
+   "name": "Elastic N.V.",
+   "exchange": "NYSE",
+   "price": "36.00",
+   "shares": "7,000,000",
+   "priced_date": "2018-10-05",
+   "offer_usd": 252000000.0
+  },
+  {
+   "ticker": "EDTXU",
+   "name": "EdtechX Holdings Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,500,000",
+   "priced_date": "2018-10-05",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "ARYAU",
+   "name": "ARYA SCIENCES ACQUISITION CORP.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2018-10-05",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "CCH'U",
+   "name": "Utz Brands, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "40,000,000",
+   "priced_date": "2018-10-05",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "CTACU",
+   "name": "GRID DYNAMICS HOLDINGS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2018-10-05",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "KOD",
+   "name": "Kodiak Sciences Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "9,000,000",
+   "priced_date": "2018-10-04",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "GH",
+   "name": "Guardant Health, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "12,500,000",
+   "priced_date": "2018-10-04",
+   "offer_usd": 237500000.0
+  },
+  {
+   "ticker": "UPWK",
+   "name": "UPWORK, INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "12,476,693",
+   "priced_date": "2018-10-03",
+   "offer_usd": 187150395.0
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "month": "2019-12",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "MKD",
+   "name": "Molecular Data Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "5.38",
+   "shares": "11,500,000",
+   "priced_date": "2019-12-30",
+   "offer_usd": 61870000.0
+  },
+  {
+   "ticker": "MNPR",
+   "name": "Monopar Therapeutics",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "1,111,112",
+   "priced_date": "2019-12-19",
+   "offer_usd": 8888896.0
+  },
+  {
+   "ticker": "INDO",
+   "name": "Indonesia Energy Corp Ltd",
+   "exchange": "NYSE MKT",
+   "price": "11.00",
+   "shares": "1,363,637",
+   "priced_date": "2019-12-19",
+   "offer_usd": 15000007.0
+  },
+  {
+   "ticker": "OCFT",
+   "name": "ONECONNECT FINANCIAL TECHNOLOGY CO., LTD.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "31,200,000",
+   "priced_date": "2019-12-13",
+   "offer_usd": 312000000.0
+  },
+  {
+   "ticker": "CIICU",
+   "name": "Arrival Vault US, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2019-12-13",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "HCCOU",
+   "name": "SOC Telemed, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2019-12-13",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "SPT",
+   "name": "Sprout Social, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "17.00",
+   "shares": "8,823,530",
+   "priced_date": "2019-12-13",
+   "offer_usd": 150000010.0
+  },
+  {
+   "ticker": "BILL",
+   "name": "BILL Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "9,823,529",
+   "priced_date": "2019-12-12",
+   "offer_usd": 216117638.0
+  },
+  {
+   "ticker": "EH",
+   "name": "EHang Holdings Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "12.50",
+   "shares": "3,200,000",
+   "priced_date": "2019-12-12",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "XP",
+   "name": "XP Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "72,510,641",
+   "priced_date": "2019-12-11",
+   "offer_usd": 1957787307.0
+  },
+  {
+   "ticker": "LIVKU",
+   "name": "AgileThought, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,000,000",
+   "priced_date": "2019-12-11",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "LMPX",
+   "name": "LMP Automotive Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,300,000",
+   "priced_date": "2019-12-05",
+   "offer_usd": 11500000.0
+  }
+ ]
+}

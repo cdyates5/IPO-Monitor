@@ -1,0 +1,150 @@
+{
+ "month": "2024-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "SMXT",
+   "name": "SolarMax Technology, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "4.00",
+   "shares": "4,500,000",
+   "priced_date": "2024-02-27",
+   "offer_usd": 18000000.0
+  },
+  {
+   "ticker": "DYCQU",
+   "name": "DT Cloud Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2024-02-21",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "WETH",
+   "name": "Wetouch Technology Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,160,000",
+   "priced_date": "2024-02-21",
+   "offer_usd": 10800000.0
+  },
+  {
+   "ticker": "CHRO",
+   "name": "Pelthos Therapeutics Inc.",
+   "exchange": "NYSE MKT",
+   "price": "6.00",
+   "shares": "1,100,000",
+   "priced_date": "2024-02-16",
+   "offer_usd": 6600000.0
+  },
+  {
+   "ticker": "UMAC",
+   "name": "Unusual Machines, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-02-14",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "TELO",
+   "name": "Telomir Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.00",
+   "shares": "1,000,000",
+   "priced_date": "2024-02-09",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "TBBB",
+   "name": "BBB FOODS INC",
+   "exchange": "NYSE",
+   "price": "17.50",
+   "shares": "33,660,589",
+   "priced_date": "2024-02-09",
+   "offer_usd": 589060308.0
+  },
+  {
+   "ticker": "HLXB",
+   "name": "BridgeBio Oncology Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "16,000,000",
+   "priced_date": "2024-02-09",
+   "offer_usd": 160000000.0
+  },
+  {
+   "ticker": "MGX",
+   "name": "Metagenomi Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "6,250,000",
+   "priced_date": "2024-02-09",
+   "offer_usd": 93750000.0
+  },
+  {
+   "ticker": "KYTX",
+   "name": "Kyverna Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "14,500,000",
+   "priced_date": "2024-02-08",
+   "offer_usd": 319000000.0
+  },
+  {
+   "ticker": "PMNT",
+   "name": "Perfect Moment Ltd.",
+   "exchange": "NYSE MKT",
+   "price": "6.00\t",
+   "shares": "1,334,000",
+   "priced_date": "2024-02-08",
+   "offer_usd": 8004000.0
+  },
+  {
+   "ticker": "AHR",
+   "name": "American Healthcare REIT, Inc.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "56,000,000",
+   "priced_date": "2024-02-07",
+   "offer_usd": 672000000.0
+  },
+  {
+   "ticker": "LEGTU",
+   "name": "Legato Merger Corp. III",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2024-02-06",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "ANRO",
+   "name": "Alto Neuroscience, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "8,040,000",
+   "priced_date": "2024-02-02",
+   "offer_usd": 128640000.0
+  },
+  {
+   "ticker": "GUTS",
+   "name": "FRACTYL HEALTH, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "7,333,333",
+   "priced_date": "2024-02-02",
+   "offer_usd": 109999995.0
+  },
+  {
+   "ticker": "AS",
+   "name": "Amer Sports, Inc.",
+   "exchange": "NYSE",
+   "price": "13.00",
+   "shares": "105,000,000",
+   "priced_date": "2024-02-01",
+   "offer_usd": 1365000000.0
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "month": "2015-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ANDAU",
+   "name": "Andina Acquisition Corp. II",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2015-11-25",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "KTOV",
+   "name": "PURPLE BIOTECH LTD.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "4.12",
+   "shares": "3,158,900",
+   "priced_date": "2015-11-20",
+   "offer_usd": 13014668.0
+  },
+  {
+   "ticker": "DLTH",
+   "name": "DULUTH HOLDINGS INC.",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "6,666,667",
+   "priced_date": "2015-11-20",
+   "offer_usd": 80000004.0
+  },
+  {
+   "ticker": "MIME",
+   "name": "Mimecast Ltd",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "7,750,000",
+   "priced_date": "2015-11-19",
+   "offer_usd": 77500000.0
+  },
+  {
+   "ticker": "SQ",
+   "name": "Block, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "9.00",
+   "shares": "27,000,000",
+   "priced_date": "2015-11-19",
+   "offer_usd": 243000000.0
+  },
+  {
+   "ticker": "MTCH",
+   "name": "Match Group Holdings II, LLC",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "33,333,333",
+   "priced_date": "2015-11-19",
+   "offer_usd": 399999996.0
+  },
+  {
+   "ticker": "AXSM",
+   "name": "Axsome Therapeutics, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "9.00",
+   "shares": "5,666,667",
+   "priced_date": "2015-11-19",
+   "offer_usd": 51000003.0
+  },
+  {
+   "ticker": "MESO",
+   "name": "MESOBLAST LTD",
+   "exchange": "Nasdaq National Market",
+   "price": "8.00",
+   "shares": "7,479,617",
+   "priced_date": "2015-11-13",
+   "offer_usd": 59836936.0
+  },
+  {
+   "ticker": "INST",
+   "name": "INSTRUCTURE INC",
+   "exchange": "New York Stock Exchange",
+   "price": "16.00",
+   "shares": "4,400,000",
+   "priced_date": "2015-11-13",
+   "offer_usd": 70400000.0
+  },
+  {
+   "ticker": "XCOM",
+   "name": "XTERA COMMUNICATIONS, INC.",
+   "exchange": "Nasdaq National Market",
+   "price": "5.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-11-12",
+   "offer_usd": 25000000.0
+  },
+  {
+   "ticker": "EQBK",
+   "name": "EQUITY BANCSHARES INC",
+   "exchange": "Nasdaq National Market",
+   "price": "22.50",
+   "shares": "1,940,000",
+   "priced_date": "2015-11-11",
+   "offer_usd": 43650000.0
+  },
+  {
+   "ticker": "AAAP",
+   "name": "Advanced Accelerator Applications S.A.",
+   "exchange": "Nasdaq National Market",
+   "price": "16.00",
+   "shares": "4,688,000",
+   "priced_date": "2015-11-11",
+   "offer_usd": 75008000.0
+  },
+  {
+   "ticker": "WVE",
+   "name": "Wave Life Sciences, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "16.00",
+   "shares": "6,375,000",
+   "priced_date": "2015-11-11",
+   "offer_usd": 102000000.0
+  },
+  {
+   "ticker": "VYGR",
+   "name": "Voyager Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-11-11",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "KURA",
+   "name": "Kura Oncology, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "8.00",
+   "shares": "6,250,000",
+   "priced_date": "2015-11-05",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "FORK",
+   "name": "FULING GLOBAL INC.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "5.00",
+   "shares": "4,000,000",
+   "priced_date": "2015-11-04",
+   "offer_usd": 20000000.0
+  }
+ ]
+}

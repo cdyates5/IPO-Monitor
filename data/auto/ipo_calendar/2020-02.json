@@ -1,0 +1,195 @@
+{
+ "month": "2020-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "PASG",
+   "name": "Passage BIO, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "12,000,000",
+   "priced_date": "2020-02-28",
+   "offer_usd": 216000000.0
+  },
+  {
+   "ticker": "ZCMD",
+   "name": "Zhongchao Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,000,000",
+   "priced_date": "2020-02-24",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "DMYTU",
+   "name": "Rush Street Interactive, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-02-21",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ESSCU",
+   "name": "East Stone Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,000,000",
+   "priced_date": "2020-02-20",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "NBACU",
+   "name": "Nuvve Holding Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2020-02-14",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "CCXXU",
+   "name": "Claritev Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "100,000,000",
+   "priced_date": "2020-02-14",
+   "offer_usd": 1000000000.0
+  },
+  {
+   "ticker": "MEDS",
+   "name": "Scienture Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.50",
+   "shares": "806,452",
+   "priced_date": "2020-02-13",
+   "offer_usd": 5241938.0
+  },
+  {
+   "ticker": "RVMD",
+   "name": "Revolution Medicines, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "14,000,000",
+   "priced_date": "2020-02-13",
+   "offer_usd": 238000000.0
+  },
+  {
+   "ticker": "GRIL",
+   "name": "Sadot Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,540,000",
+   "priced_date": "2020-02-13",
+   "offer_usd": 7700000.0
+  },
+  {
+   "ticker": "ZGYHU",
+   "name": "Yunhong International",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2020-02-13",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "HUIZ",
+   "name": "Huize Holding Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.50",
+   "shares": "5,250,000",
+   "priced_date": "2020-02-12",
+   "offer_usd": 55125000.0
+  },
+  {
+   "ticker": "GNRSU",
+   "name": "Greenrose Holding Co Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2020-02-11",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CCACU",
+   "name": "Quanergy Systems, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2020-02-11",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "NREF",
+   "name": "NexPoint Real Estate Finance, Inc.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "5,000,000",
+   "priced_date": "2020-02-07",
+   "offer_usd": 95000000.0
+  },
+  {
+   "ticker": "ONEW",
+   "name": "OneWater Marine Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "4,615,385",
+   "priced_date": "2020-02-07",
+   "offer_usd": 55384620.0
+  },
+  {
+   "ticker": "PFHD",
+   "name": "Professional Holding Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.50",
+   "shares": "3,100,000",
+   "priced_date": "2020-02-07",
+   "offer_usd": 57350000.0
+  },
+  {
+   "ticker": "PPD",
+   "name": "PPD, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "60,000,000",
+   "priced_date": "2020-02-06",
+   "offer_usd": 1620000000.0
+  },
+  {
+   "ticker": "BEAM",
+   "name": "Beam Therapeutics Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "10,588,236",
+   "priced_date": "2020-02-06",
+   "offer_usd": 180000012.0
+  },
+  {
+   "ticker": "SDGR",
+   "name": "Schrodinger, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "11,882,352",
+   "priced_date": "2020-02-06",
+   "offer_usd": 201999984.0
+  },
+  {
+   "ticker": "CSPR",
+   "name": "Casper Sleep Inc.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "8,350,000",
+   "priced_date": "2020-02-06",
+   "offer_usd": 100200000.0
+  },
+  {
+   "ticker": "IPV'U",
+   "name": "Aeva Technologies, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "21,000,000",
+   "priced_date": "2020-02-04",
+   "offer_usd": 210000000.0
+  }
+ ]
+}

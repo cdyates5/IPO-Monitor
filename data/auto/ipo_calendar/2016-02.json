@@ -1,0 +1,51 @@
+{
+ "month": "2016-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "SRAQU",
+   "name": "Permian Resources Corp",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "45,000,000",
+   "priced_date": "2016-02-24",
+   "offer_usd": 450000000.0
+  },
+  {
+   "ticker": "PTI",
+   "name": "KINETA, INC./DE",
+   "exchange": "Nasdaq National Market",
+   "price": "8.00",
+   "shares": "6,250,000",
+   "priced_date": "2016-02-11",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "AVXS",
+   "name": "AveXis, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "20.00",
+   "shares": "4,750,000",
+   "priced_date": "2016-02-11",
+   "offer_usd": 95000000.0
+  },
+  {
+   "ticker": "BGNE",
+   "name": "BeOne Medicines Ltd.",
+   "exchange": "Nasdaq National Market",
+   "price": "24.00",
+   "shares": "6,600,000",
+   "priced_date": "2016-02-03",
+   "offer_usd": 158400000.0
+  },
+  {
+   "ticker": "EDIT",
+   "name": "Editas Medicine, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "16.00",
+   "shares": "5,900,000",
+   "priced_date": "2016-02-03",
+   "offer_usd": 94400000.0
+  }
+ ]
+}

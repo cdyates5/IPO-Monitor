@@ -1,0 +1,348 @@
+{
+ "month": "2024-10",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "PLRZ",
+   "name": "Polyrizon Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.38",
+   "shares": "958,903",
+   "priced_date": "2024-10-29",
+   "offer_usd": 4199995.0
+  },
+  {
+   "ticker": "GELS",
+   "name": "Gelteq Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,300,000",
+   "priced_date": "2024-10-29",
+   "offer_usd": 5200000.0
+  },
+  {
+   "ticker": "SEPN",
+   "name": "Septerna, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "16,000,000",
+   "priced_date": "2024-10-25",
+   "offer_usd": 288000000.0
+  },
+  {
+   "ticker": "WRD",
+   "name": "WeRide Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.50",
+   "shares": "7,742,400",
+   "priced_date": "2024-10-25",
+   "offer_usd": 120007200.0
+  },
+  {
+   "ticker": "CHARU",
+   "name": "Charlton Aria Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2024-10-24",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "INGM",
+   "name": "Ingram Micro Holding Corp",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "18,600,000",
+   "priced_date": "2024-10-24",
+   "offer_usd": 409200000.0
+  },
+  {
+   "ticker": "OACCU",
+   "name": "Oaktree Acquisition Corp. III Life Sciences",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2024-10-24",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "BEAGU",
+   "name": "Bold Eagle Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2024-10-24",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "SAG",
+   "name": "INNEOVA Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "875,000",
+   "priced_date": "2024-10-23",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "LBGJ",
+   "name": "Li Bang International Corp Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,520,000",
+   "priced_date": "2024-10-23",
+   "offer_usd": 6080000.0
+  },
+  {
+   "ticker": "FBLA",
+   "name": "FB Bancorp, Inc. /MD/",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "19,837,500",
+   "priced_date": "2024-10-23",
+   "offer_usd": 198375000.0
+  },
+  {
+   "ticker": "SNYR",
+   "name": "Synergy CHC Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "9.00",
+   "shares": "1,150,000",
+   "priced_date": "2024-10-23",
+   "offer_usd": 10350000.0
+  },
+  {
+   "ticker": "ROLR",
+   "name": "High Roller Technologies, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "8.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-10-23",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "FGL",
+   "name": "Founder Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,218,750",
+   "priced_date": "2024-10-23",
+   "offer_usd": 4875000.0
+  },
+  {
+   "ticker": "ALDFU",
+   "name": "Aldel Financial II Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-10-22",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "HUHU",
+   "name": "HUHUTECH International Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,050,000",
+   "priced_date": "2024-10-22",
+   "offer_usd": 4200000.0
+  },
+  {
+   "ticker": "SPHL",
+   "name": "SPRINGVIEW HOLDINGS LTD",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2024-10-17",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "ORIS",
+   "name": "ORIENTAL RISE HOLDINGS Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2024-10-17",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "PTLE",
+   "name": "PTL Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-10-16",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "SFHG",
+   "name": "SAMFINE CREATION HOLDINGS GROUP Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-10-15",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "RDACU",
+   "name": "Rising Dragon Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2024-10-11",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "STFS",
+   "name": "Star Fashion Culture Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,150,000",
+   "priced_date": "2024-10-11",
+   "offer_usd": 8600000.0
+  },
+  {
+   "ticker": "CAMP",
+   "name": "Camp4 Therapeutics Corp",
+   "exchange": "NASDAQ Global",
+   "price": "11.00",
+   "shares": "6,820,000",
+   "priced_date": "2024-10-11",
+   "offer_usd": 75020000.0
+  },
+  {
+   "ticker": "CBLL",
+   "name": "Ceribell, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "10,606,060",
+   "priced_date": "2024-10-11",
+   "offer_usd": 180303020.0
+  },
+  {
+   "ticker": "UPB",
+   "name": "Upstream Bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "15,000,000",
+   "priced_date": "2024-10-11",
+   "offer_usd": 255000000.0
+  },
+  {
+   "ticker": "CCIRU",
+   "name": "Cohen Circle Acquisition Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-10-11",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SKYQ",
+   "name": "Sky Quarry Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "1,118,005",
+   "priced_date": "2024-10-10",
+   "offer_usd": 6708030.0
+  },
+  {
+   "ticker": "KLC",
+   "name": "KinderCare Learning Companies, Inc.",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "24,000,000",
+   "priced_date": "2024-10-09",
+   "offer_usd": 576000000.0
+  },
+  {
+   "ticker": "CLIK",
+   "name": "Click Holdings Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,400,000",
+   "priced_date": "2024-10-09",
+   "offer_usd": 5600000.0
+  },
+  {
+   "ticker": "LPBBU",
+   "name": "Launch Two Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-10-08",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SKK",
+   "name": "Rantizo",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2024-10-08",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "FLX",
+   "name": "BingEx Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.50",
+   "shares": "4,000,000",
+   "priced_date": "2024-10-04",
+   "offer_usd": 66000000.0
+  },
+  {
+   "ticker": "CBNA",
+   "name": "CHAIN BRIDGE BANCORP INC",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "1,850,000",
+   "priced_date": "2024-10-04",
+   "offer_usd": 40700000.0
+  },
+  {
+   "ticker": "WCT",
+   "name": "Wellchange Holdings Co Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-10-02",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "SARO",
+   "name": "StandardAero, Inc.",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "60,000,000",
+   "priced_date": "2024-10-02",
+   "offer_usd": 1440000000.0
+  },
+  {
+   "ticker": "FVR",
+   "name": "FrontView REIT, Inc.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "13,200,000",
+   "priced_date": "2024-10-02",
+   "offer_usd": 250800000.0
+  },
+  {
+   "ticker": "HTLM",
+   "name": "HomesToLife Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-10-01",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "ZENA",
+   "name": "ZenaTech, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "17,663,879",
+   "priced_date": "2024-10-01",
+   "offer_usd": 7100900.0
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "month": "2020-04",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "FVACU",
+   "name": "MP Materials Corp. / DE",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-04-30",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "IPOBU",
+   "name": "Opendoor Technologies Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2020-04-28",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "PCPLU",
+   "name": "E2open Parent Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2020-04-24",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "CHAQU",
+   "name": "Renovacor, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "8,500,000",
+   "priced_date": "2020-04-24",
+   "offer_usd": 85000000.0
+  },
+  {
+   "ticker": "ORIC",
+   "name": "Oric Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "7,500,000",
+   "priced_date": "2020-04-24",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "IPOCU",
+   "name": "CLOVER HEALTH INVESTMENTS, CORP. /DE",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "72,000,000",
+   "priced_date": "2020-04-22",
+   "offer_usd": 720000000.0
+  },
+  {
+   "ticker": "KROS",
+   "name": "Keros Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "6,000,000",
+   "priced_date": "2020-04-08",
+   "offer_usd": 96000000.0
+  },
+  {
+   "ticker": "ZNTL",
+   "name": "Zentalis Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "9,180,000",
+   "priced_date": "2020-04-03",
+   "offer_usd": 165240000.0
+  },
+  {
+   "ticker": "WIMI",
+   "name": "WiMi Hologram Cloud Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "5.50",
+   "shares": "4,750,000",
+   "priced_date": "2020-04-01",
+   "offer_usd": 26125000.0
+  }
+ ]
+}

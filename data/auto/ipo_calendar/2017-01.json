@@ -1,0 +1,96 @@
+{
+ "month": "2017-01",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "GLDW",
+   "name": "World Gold Trust",
+   "exchange": "NYSE Arca",
+   "price": "119.32",
+   "shares": "5,000,000",
+   "priced_date": "2017-01-30",
+   "offer_usd": 596600000.0
+  },
+  {
+   "ticker": "JELD",
+   "name": "JELD-WEN Holding, Inc.",
+   "exchange": "NYSE",
+   "price": "23.00",
+   "shares": "25,000,000",
+   "priced_date": "2017-01-27",
+   "offer_usd": 575000000.0
+  },
+  {
+   "ticker": "REVG",
+   "name": "REV Group, Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "12,500,000",
+   "priced_date": "2017-01-27",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "JAG",
+   "name": "Jagged Peak Energy Inc.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "31,599,334",
+   "priced_date": "2017-01-27",
+   "offer_usd": 473990010.0
+  },
+  {
+   "ticker": "JNCE",
+   "name": "Jounce Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,365,000",
+   "priced_date": "2017-01-27",
+   "offer_usd": 101840000.0
+  },
+  {
+   "ticker": "OBSV",
+   "name": "ObsEva SA",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "6,450,000",
+   "priced_date": "2017-01-26",
+   "offer_usd": 96750000.0
+  },
+  {
+   "ticker": "ANAB",
+   "name": "ANAPTYSBIO, INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2017-01-26",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "FRAC",
+   "name": "NEXTIER OILFIELD SOLUTIONS INC.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "26,760,000",
+   "priced_date": "2017-01-20",
+   "offer_usd": 508440000.0
+  },
+  {
+   "ticker": "FNTEU",
+   "name": "International Money Express, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,300,000",
+   "priced_date": "2017-01-20",
+   "offer_usd": 153000000.0
+  },
+  {
+   "ticker": "GSHTU",
+   "name": "VERRA MOBILITY Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "37,500,000",
+   "priced_date": "2017-01-13",
+   "offer_usd": 375000000.0
+  }
+ ]
+}

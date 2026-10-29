@@ -1,0 +1,42 @@
+{
+ "month": "2016-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "HUNTU",
+   "name": "Hunter Maritime Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2016-11-18",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "MTFB",
+   "name": "Motif Bio plc",
+   "exchange": "NASDAQ Capital",
+   "price": "6.98",
+   "shares": "2,438,491",
+   "priced_date": "2016-11-18",
+   "offer_usd": 17020667.0
+  },
+  {
+   "ticker": "SND",
+   "name": "Smart Sand, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.00",
+   "shares": "11,700,000",
+   "priced_date": "2016-11-04",
+   "offer_usd": 128700000.0
+  },
+  {
+   "ticker": "GDS",
+   "name": "GDS Holdings Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "19,250,000",
+   "priced_date": "2016-11-02",
+   "offer_usd": 192500000.0
+  }
+ ]
+}

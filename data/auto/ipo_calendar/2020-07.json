@@ -1,0 +1,447 @@
+{
+ "month": "2020-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "FTHM",
+   "name": "Fathom Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "3,430,000",
+   "priced_date": "2020-07-31",
+   "offer_usd": 34300000.0
+  },
+  {
+   "ticker": "GOED",
+   "name": "Polished.com Inc.",
+   "exchange": "NYSE MKT",
+   "price": "9.00",
+   "shares": "1,111,200",
+   "priced_date": "2020-07-31",
+   "offer_usd": 10000800.0
+  },
+  {
+   "ticker": "VSTA",
+   "name": "Vasta Platform Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "18,575,492",
+   "priced_date": "2020-07-31",
+   "offer_usd": 352934348.0
+  },
+  {
+   "ticker": "NHICU",
+   "name": "Evolv Technologies Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2020-07-31",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "ETACU",
+   "name": "E.Merge Technology Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "52,200,000",
+   "priced_date": "2020-07-31",
+   "offer_usd": 522000000.0
+  },
+  {
+   "ticker": "PRPBU",
+   "name": "CC Neuberger Principal Holdings II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "72,000,000",
+   "priced_date": "2020-07-31",
+   "offer_usd": 720000000.0
+  },
+  {
+   "ticker": "VITL",
+   "name": "Vital Farms, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "9,303,977",
+   "priced_date": "2020-07-31",
+   "offer_usd": 204687494.0
+  },
+  {
+   "ticker": "LI",
+   "name": "Li Auto Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.50\t",
+   "shares": "95,000,000",
+   "priced_date": "2020-07-30",
+   "offer_usd": 1092500000.0
+  },
+  {
+   "ticker": "CCIVU",
+   "name": "Lucid Group, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "180,000,000",
+   "priced_date": "2020-07-30",
+   "offer_usd": 1800000000.0
+  },
+  {
+   "ticker": "ALVR",
+   "name": "Kalaris Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "16,250,000",
+   "priced_date": "2020-07-30",
+   "offer_usd": 276250000.0
+  },
+  {
+   "ticker": "VERX",
+   "name": "Vertex, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "19.00",
+   "shares": "21,150,000",
+   "priced_date": "2020-07-29",
+   "offer_usd": 401850000.0
+  },
+  {
+   "ticker": "ACEVU",
+   "name": "Tempo Automation Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-07-28",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ANNX",
+   "name": "Annexon, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "14,750,000",
+   "priced_date": "2020-07-24",
+   "offer_usd": 250750000.0
+  },
+  {
+   "ticker": "NRIX",
+   "name": "Nurix Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "19.00",
+   "shares": "11,000,000",
+   "priced_date": "2020-07-24",
+   "offer_usd": 209000000.0
+  },
+  {
+   "ticker": "INZY",
+   "name": "Inozyme Pharma, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "7,000,000",
+   "priced_date": "2020-07-24",
+   "offer_usd": 112000000.0
+  },
+  {
+   "ticker": "ITOS",
+   "name": "iTeos Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "19.00",
+   "shares": "10,586,316",
+   "priced_date": "2020-07-24",
+   "offer_usd": 201140004.0
+  },
+  {
+   "ticker": "GRCYU",
+   "name": "Greencity Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2020-07-24",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "ACNDU",
+   "name": "MARKETWISE, INC.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2020-07-24",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "EDTK",
+   "name": "Skillful Craftsman Education Technology Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,000,000",
+   "priced_date": "2020-07-23",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "MEG",
+   "name": "Onterris, Inc.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-07-23",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "ERESU",
+   "name": "Abacus Global Management, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-07-23",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "JAMF",
+   "name": "Jamf Holding Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "26.00",
+   "shares": "18,000,000",
+   "priced_date": "2020-07-22",
+   "offer_usd": 468000000.0
+  },
+  {
+   "ticker": "PSACU",
+   "name": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-07-22",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "PSTHU",
+   "name": "Pershing Square Tontine Holdings, Ltd.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "200,000,000",
+   "priced_date": "2020-07-22",
+   "offer_usd": 4000000000.0
+  },
+  {
+   "ticker": "RNLX",
+   "name": "Renalytix plc",
+   "exchange": "NASDAQ Global",
+   "price": "13.50",
+   "shares": "5,485,000",
+   "priced_date": "2020-07-17",
+   "offer_usd": 74047500.0
+  },
+  {
+   "ticker": "DFHTU",
+   "name": "CareMax, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2020-07-17",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "ALXO",
+   "name": "ALX ONCOLOGY HOLDINGS INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "8,500,000",
+   "priced_date": "2020-07-17",
+   "offer_usd": 161500000.0
+  },
+  {
+   "ticker": "BLI",
+   "name": "Bruker Cellular Analysis, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "8,100,000",
+   "priced_date": "2020-07-17",
+   "offer_usd": 178200000.0
+  },
+  {
+   "ticker": "PAND",
+   "name": "Pandion Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "7,500,000",
+   "priced_date": "2020-07-17",
+   "offer_usd": 135000000.0
+  },
+  {
+   "ticker": "TIG",
+   "name": "Trean Insurance Group, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "10,714,286",
+   "priced_date": "2020-07-16",
+   "offer_usd": 160714290.0
+  },
+  {
+   "ticker": "HPX'U",
+   "name": "HPX Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2020-07-16",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "RLAY",
+   "name": "Relay Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "20.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-07-16",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "GOCO",
+   "name": "GoHealth, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "43,500,000",
+   "priced_date": "2020-07-15",
+   "offer_usd": 913500000.0
+  },
+  {
+   "ticker": "MLACU",
+   "name": "Malacca Straits Acquisition Co Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2020-07-15",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "DEH'U",
+   "name": "Vicarious Surgical Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-07-15",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "AACQU",
+   "name": "Origin Materials, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "63,000,000",
+   "priced_date": "2020-07-14",
+   "offer_usd": 630000000.0
+  },
+  {
+   "ticker": "NCNO",
+   "name": "nCino OpCo, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "31.00",
+   "shares": "8,060,000",
+   "priced_date": "2020-07-14",
+   "offer_usd": 249860000.0
+  },
+  {
+   "ticker": "PTK'U",
+   "name": "PTK Acquisition Corp.",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-07-13",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "QH",
+   "name": "QUHUO Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "3,300,000",
+   "priced_date": "2020-07-10",
+   "offer_usd": 33000000.0
+  },
+  {
+   "ticker": "NKTX",
+   "name": "Nkarta, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "14,000,000",
+   "priced_date": "2020-07-10",
+   "offer_usd": 252000000.0
+  },
+  {
+   "ticker": "IVA",
+   "name": "Inventiva S.A.",
+   "exchange": "NASDAQ Global",
+   "price": "14.40",
+   "shares": "7,478,261",
+   "priced_date": "2020-07-10",
+   "offer_usd": 107686958.0
+  },
+  {
+   "ticker": "PSTX",
+   "name": "Poseida Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "14,000,000",
+   "priced_date": "2020-07-10",
+   "offer_usd": 224000000.0
+  },
+  {
+   "ticker": "TXAC",
+   "name": "POINT Biopharma Global Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "11,800,000",
+   "priced_date": "2020-07-08",
+   "offer_usd": 118000000.0
+  },
+  {
+   "ticker": "BLCT",
+   "name": "BlueCity Holdings Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "5,300,000",
+   "priced_date": "2020-07-08",
+   "offer_usd": 84800000.0
+  },
+  {
+   "ticker": "CPSRU",
+   "name": "GELESIS HOLDINGS, INC.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2020-07-02",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "LMND",
+   "name": "Lemonade, Inc.",
+   "exchange": "NYSE",
+   "price": "29.00",
+   "shares": "11,000,000",
+   "priced_date": "2020-07-02",
+   "offer_usd": 319000000.0
+  },
+  {
+   "ticker": "ACCD",
+   "name": "Accolade, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "10,022,726",
+   "priced_date": "2020-07-02",
+   "offer_usd": 220499972.0
+  },
+  {
+   "ticker": "PANAU",
+   "name": "Nuvation Bio Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2020-07-01",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "DNB",
+   "name": "Dun & Bradstreet Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "78,302,272",
+   "priced_date": "2020-07-01",
+   "offer_usd": 1722649984.0
+  }
+ ]
+}

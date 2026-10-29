@@ -1,0 +1,438 @@
+{
+ "month": "2020-08",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "AUVI",
+   "name": "Applied UV, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,000,000",
+   "priced_date": "2020-08-31",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "HCDI",
+   "name": "Harbor Custom Development, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "1,766,700",
+   "priced_date": "2020-08-28",
+   "offer_usd": 10600200.0
+  },
+  {
+   "ticker": "SNBP",
+   "name": "Panbela Therapeutics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.115",
+   "shares": "2,545,454",
+   "priced_date": "2020-08-28",
+   "offer_usd": 10487270.0
+  },
+  {
+   "ticker": "GP",
+   "name": "GREENPOWER MOTOR Co INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "20.00",
+   "shares": "1,860,000",
+   "priced_date": "2020-08-28",
+   "offer_usd": 37200000.0
+  },
+  {
+   "ticker": "XPEV",
+   "name": "XPENG INC.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "99,733,334",
+   "priced_date": "2020-08-27",
+   "offer_usd": 1496000010.0
+  },
+  {
+   "ticker": "CFIIU",
+   "name": "View, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "50,000,000",
+   "priced_date": "2020-08-27",
+   "offer_usd": 500000000.0
+  },
+  {
+   "ticker": "BTAQU",
+   "name": "Burgundy Technology Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-08-27",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "FTOCU",
+   "name": "FTAC Olympus Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "75,000,000",
+   "priced_date": "2020-08-26",
+   "offer_usd": 750000000.0
+  },
+  {
+   "ticker": "HZACU",
+   "name": "Horizon Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "50,000,000",
+   "priced_date": "2020-08-21",
+   "offer_usd": 500000000.0
+  },
+  {
+   "ticker": "FST'U",
+   "name": "FAST Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-08-21",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CLA'U",
+   "name": "Ouster, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-08-21",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "KYMR",
+   "name": "Kymera Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "20.00",
+   "shares": "8,684,800",
+   "priced_date": "2020-08-21",
+   "offer_usd": 173696000.0
+  },
+  {
+   "ticker": "NNOX",
+   "name": "Nano-X Imaging Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "9,178,744",
+   "priced_date": "2020-08-21",
+   "offer_usd": 165217392.0
+  },
+  {
+   "ticker": "FIIIU",
+   "name": "Electric Last Mile Solutions, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2020-08-19",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "HRMY",
+   "name": "Harmony Biosciences Holdings, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "24.00",
+   "shares": "5,348,837",
+   "priced_date": "2020-08-19",
+   "offer_usd": 128372088.0
+  },
+  {
+   "ticker": "INBX",
+   "name": "Inhibrx, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "7,000,000",
+   "priced_date": "2020-08-19",
+   "offer_usd": 119000000.0
+  },
+  {
+   "ticker": "BFT'U",
+   "name": "PAYSAFE LIMITED",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "130,000,000",
+   "priced_date": "2020-08-19",
+   "offer_usd": 1300000000.0
+  },
+  {
+   "ticker": "NGA'U",
+   "name": "Northern Genesis Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-08-18",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "AONEU",
+   "name": "Markforged Holding Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-08-18",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "STPKU",
+   "name": "STEM, INC.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2020-08-18",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "LCAPU",
+   "name": "MSP Recovery, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-08-14",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CVAC",
+   "name": "CureVac N.V.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "13,333,333",
+   "priced_date": "2020-08-14",
+   "offer_usd": 213333328.0
+  },
+  {
+   "ticker": "DGNRU",
+   "name": "CCC Intelligent Solutions Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "60,000,000",
+   "priced_date": "2020-08-14",
+   "offer_usd": 600000000.0
+  },
+  {
+   "ticker": "DMYDU",
+   "name": "dMY Technology Group, Inc. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2020-08-14",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "DCT",
+   "name": "DUCK CREEK TECHNOLOGIES, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "15,000,000",
+   "priced_date": "2020-08-14",
+   "offer_usd": 405000000.0
+  },
+  {
+   "ticker": "NTST",
+   "name": "NetSTREIT Corp.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "12,500,000",
+   "priced_date": "2020-08-13",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "RBACU",
+   "name": "RedBall Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "50,000,000",
+   "priced_date": "2020-08-13",
+   "offer_usd": 500000000.0
+  },
+  {
+   "ticker": "BEKE",
+   "name": "KE Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "106,000,000",
+   "priced_date": "2020-08-13",
+   "offer_usd": 2120000000.0
+  },
+  {
+   "ticker": "FAIIU",
+   "name": "ATI Physical Therapy, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-08-12",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "FSDC",
+   "name": "Disc Medicine, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,500,000",
+   "priced_date": "2020-08-12",
+   "offer_usd": 105000000.0
+  },
+  {
+   "ticker": "KBNT",
+   "name": "Kubient, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,500,000",
+   "priced_date": "2020-08-12",
+   "offer_usd": 12500000.0
+  },
+  {
+   "ticker": "IBEX",
+   "name": "IBEX Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "19.00",
+   "shares": "4,761,905",
+   "priced_date": "2020-08-07",
+   "offer_usd": 90476195.0
+  },
+  {
+   "ticker": "FRLN",
+   "name": "Freeline Therapeutics Holdings plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "8,823,529",
+   "priced_date": "2020-08-07",
+   "offer_usd": 158823522.0
+  },
+  {
+   "ticker": "VMACU",
+   "name": "Anghami (DE), Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-08-07",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "ARYA",
+   "name": "Nautilus Biotechnology, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "13,000,000",
+   "priced_date": "2020-08-07",
+   "offer_usd": 130000000.0
+  },
+  {
+   "ticker": "CMPI",
+   "name": "Checkmate Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2020-08-07",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "AFIB",
+   "name": "Acutus Medical, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "8,823,529",
+   "priced_date": "2020-08-06",
+   "offer_usd": 158823522.0
+  },
+  {
+   "ticker": "OSH",
+   "name": "Oak Street Health, Inc.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "15,625,000",
+   "priced_date": "2020-08-06",
+   "offer_usd": 328125000.0
+  },
+  {
+   "ticker": "GRSVU",
+   "name": "Ardagh MP USA Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "47,500,000",
+   "priced_date": "2020-08-06",
+   "offer_usd": 475000000.0
+  },
+  {
+   "ticker": "KSMTU",
+   "name": "Kismet Acquisition One Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2020-08-06",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "RKT",
+   "name": "Rocket Companies, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "100,000,000",
+   "priced_date": "2020-08-06",
+   "offer_usd": 1800000000.0
+  },
+  {
+   "ticker": "RXT",
+   "name": "Rackspace Technology, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "33,500,000",
+   "priced_date": "2020-08-05",
+   "offer_usd": 703500000.0
+  },
+  {
+   "ticker": "GOACU",
+   "name": "GO Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "50,000,000",
+   "priced_date": "2020-08-05",
+   "offer_usd": 500000000.0
+  },
+  {
+   "ticker": "BOWXU",
+   "name": "WeWork Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "42,000,000",
+   "priced_date": "2020-08-05",
+   "offer_usd": 420000000.0
+  },
+  {
+   "ticker": "HOLUU",
+   "name": "Astra Space, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "27,500,000",
+   "priced_date": "2020-08-05",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "BIGC",
+   "name": "Commerce.com, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "24.00",
+   "shares": "9,019,565",
+   "priced_date": "2020-08-05",
+   "offer_usd": 216469560.0
+  },
+  {
+   "ticker": "YAC'U",
+   "name": "Yucaipa Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-08-04",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "HSAQ",
+   "name": "Orchestra BioMed Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "13,913,044",
+   "priced_date": "2020-08-04",
+   "offer_usd": 139130440.0
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "month": "2024-01",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "FBLG",
+   "name": "FibroBiologics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "30.00",
+   "shares": "4,806,226",
+   "priced_date": "2024-01-31",
+   "offer_usd": 144186780.0
+  },
+  {
+   "ticker": "AMIX",
+   "name": "Autonomix Medical, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,234,222",
+   "priced_date": "2024-01-29",
+   "offer_usd": 11171110.0
+  },
+  {
+   "ticker": "HAO",
+   "name": "Haoxi Health Technology Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,400,000",
+   "priced_date": "2024-01-26",
+   "offer_usd": 9600000.0
+  },
+  {
+   "ticker": "AVBP",
+   "name": "ArriVent Biopharma, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "9,722,222",
+   "priced_date": "2024-01-26",
+   "offer_usd": 174999996.0
+  },
+  {
+   "ticker": "BTSG",
+   "name": "BrightSpring Health Services, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "53,333,334",
+   "priced_date": "2024-01-26",
+   "offer_usd": 693333342.0
+  },
+  {
+   "ticker": "YIBO",
+   "name": "Planet Image International Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-01-25",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "CGON",
+   "name": "CG Oncology, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-01-25",
+   "offer_usd": 380000000.0
+  },
+  {
+   "ticker": "JL",
+   "name": "J-Long Group Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "5.00",
+   "shares": "1,400,000",
+   "priced_date": "2024-01-24",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "SUGP",
+   "name": "SU Group Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-01-24",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "KSPI",
+   "name": "Joint Stock Co Kaspi.kz",
+   "exchange": "NASDAQ Global Select",
+   "price": "92.00",
+   "shares": "11,300,000",
+   "priced_date": "2024-01-19",
+   "offer_usd": 1039600000.0
+  },
+  {
+   "ticker": "JVSAU",
+   "name": "JVSPAC Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2024-01-19",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "CCTG",
+   "name": "CCSC Technology International Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,375,000",
+   "priced_date": "2024-01-18",
+   "offer_usd": 5500000.0
+  },
+  {
+   "ticker": "SYNX",
+   "name": "Silynxcom Ltd.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-01-12",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "SDHC",
+   "name": "Smith Douglas Homes Corp.",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "7,692,308",
+   "priced_date": "2024-01-11",
+   "offer_usd": 161538468.0
+  },
+  {
+   "ticker": "BITB",
+   "name": "Bitwise Bitcoin ETF",
+   "exchange": "NYSE Arca",
+   "price": null,
+   "shares": "",
+   "priced_date": "2024-01-11",
+   "offer_usd": 25000.0
+  },
+  {
+   "ticker": "BRRR",
+   "name": "CoinShares Bitcoin ETF",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "",
+   "priced_date": "2024-01-11",
+   "offer_usd": 1000000.0
+  },
+  {
+   "ticker": "ROMA",
+   "name": "Roma Green Finance Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,075,460",
+   "priced_date": "2024-01-09",
+   "offer_usd": 12301840.0
+  }
+ ]
+}

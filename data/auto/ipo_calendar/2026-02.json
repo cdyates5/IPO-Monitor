@@ -1,0 +1,411 @@
+{
+ "month": "2026-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ILLUU",
+   "name": "Illumination Acquisition Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-02-27",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "GENB",
+   "name": "Generate Biomedicines, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "25,000,000",
+   "priced_date": "2026-02-27",
+   "offer_usd": 400000000.0
+  },
+  {
+   "ticker": "FVAV",
+   "name": "Fortress Value Acquisition Corp. V",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2026-02-26",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "TRGSU",
+   "name": "TRG Latin America Acquisitions Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-02-26",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "TRADU",
+   "name": "APEX Tech Acquisition Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-02-26",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "MZYXU",
+   "name": "MOZAYYX Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2026-02-25",
+   "offer_usd": 261000000.0
+  },
+  {
+   "ticker": "CTAAU",
+   "name": "Clearthink 1 Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2026-02-24",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "ROC",
+   "name": "Rank One Computing Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "4,000,000",
+   "priced_date": "2026-02-20",
+   "offer_usd": 24000000.0
+  },
+  {
+   "ticker": "AACOU",
+   "name": "Abony Acquisition Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-02-19",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ACAAU",
+   "name": "Averin Capital Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2026-02-19",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "PALOU",
+   "name": "PALOMA ACQUISITION CORP I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-02-19",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "AIDX",
+   "name": "20/20 Biolabs, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "15,164,724",
+   "priced_date": "2026-02-19",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "SHAZ",
+   "name": "SharonAI Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "30.00",
+   "shares": "4,166,666",
+   "priced_date": "2026-02-18",
+   "offer_usd": 124999980.0
+  },
+  {
+   "ticker": "AACIU",
+   "name": "Armada Acquisition Corp. III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2026-02-18",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "RFAMU",
+   "name": "RF Acquisition Corp III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-02-13",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "WLIIU",
+   "name": "Willow Lane Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2026-02-13",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "PAACU",
+   "name": "Proem Acquisition Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "13,000,000",
+   "priced_date": "2026-02-12",
+   "offer_usd": 130000000.0
+  },
+  {
+   "ticker": "APC",
+   "name": "ARKO Petroleum Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "18.00",
+   "shares": "11,111,111",
+   "priced_date": "2026-02-12",
+   "offer_usd": 199999998.0
+  },
+  {
+   "ticker": "XFLHU",
+   "name": "XFLH Capital Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-02-12",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "HACQU",
+   "name": "HCM IV Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2026-02-12",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "BRAI",
+   "name": "Braiin Ltd",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "68,696,076",
+   "priced_date": "2026-02-12",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "DBCAU",
+   "name": "D. Boral Acquisition I Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2026-02-11",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "IACOU",
+   "name": "Idea Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2026-02-11",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "TMTSU",
+   "name": "Spartacus Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-02-11",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "AGBK",
+   "name": "AGI Inc",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-02-11",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "MWH",
+   "name": "SOLV Energy, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "25.00",
+   "shares": "20,500,000",
+   "priced_date": "2026-02-11",
+   "offer_usd": 512500000.0
+  },
+  {
+   "ticker": "CMIIU",
+   "name": "Inflection Point Acquisition Corp. VII",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-02-11",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SVIVU",
+   "name": "Spring Valley Acquisition Corp. IV",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-02-10",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "JAGU",
+   "name": "Jaguar Uranium Corp.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "6,250,000",
+   "priced_date": "2026-02-10",
+   "offer_usd": 25000000.0
+  },
+  {
+   "ticker": "CAQUU",
+   "name": "Cambridge Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-02-06",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "AGMB",
+   "name": "Agomab Therapeutics NV",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "12,500,000",
+   "priced_date": "2026-02-06",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "SSACU",
+   "name": "SPACSphere Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-02-06",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "OFRM",
+   "name": "Once Upon a Farm, PBC",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "10,997,209",
+   "priced_date": "2026-02-06",
+   "offer_usd": 197949762.0
+  },
+  {
+   "ticker": "SGP",
+   "name": "SpyGlass Pharma, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "9,375,000",
+   "priced_date": "2026-02-06",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "EIKN",
+   "name": "Eikon Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "21,177,600",
+   "priced_date": "2026-02-05",
+   "offer_usd": 381196800.0
+  },
+  {
+   "ticker": "HCICU",
+   "name": "Hennessy Capital Investment Corp. VIII",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "21,000,000",
+   "priced_date": "2026-02-05",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "CEPS",
+   "name": "Cantor Equity Partners VI, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-02-05",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "BOBS",
+   "name": "Bob's Discount Furniture, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "19,450,000",
+   "priced_date": "2026-02-05",
+   "offer_usd": 330650000.0
+  },
+  {
+   "ticker": "FPS",
+   "name": "Forgent Power Solutions, Inc.",
+   "exchange": "NYSE",
+   "price": "27.00",
+   "shares": "56,000,000",
+   "priced_date": "2026-02-05",
+   "offer_usd": 1512000000.0
+  },
+  {
+   "ticker": "MANE",
+   "name": "VeraDermics, Inc",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "15,077,647",
+   "priced_date": "2026-02-04",
+   "offer_usd": 256319999.0
+  },
+  {
+   "ticker": "OBAI",
+   "name": "Our Bond, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "34,073,681",
+   "priced_date": "2026-02-04",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "CLBRU",
+   "name": "Colombier Acquisition Corp. III",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "26,000,000",
+   "priced_date": "2026-02-04",
+   "offer_usd": 260000000.0
+  },
+  {
+   "ticker": "IRABU",
+   "name": "Iris Acquisition Corp II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2026-02-03",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "PLYX",
+   "name": "Polaryx Therapeutics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "47,343,297",
+   "priced_date": "2026-02-02",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "WPACU",
+   "name": "White Pearl Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-02-02",
+   "offer_usd": 100000000.0
+  }
+ ]
+}

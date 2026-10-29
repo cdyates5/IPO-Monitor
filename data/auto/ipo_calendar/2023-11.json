@@ -1,0 +1,141 @@
+{
+ "month": "2023-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "FEBO",
+   "name": "Fenbo Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,000,000",
+   "priced_date": "2023-11-30",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "CLBRU",
+   "name": "COLOMBIER ACQUISITION CORP. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2023-11-21",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "ELAB",
+   "name": "PMGC Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2023-11-21",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "DDC",
+   "name": "DDC Enterprise Ltd",
+   "exchange": "NYSE MKT",
+   "price": "8.50",
+   "shares": "3,900,000",
+   "priced_date": "2023-11-17",
+   "offer_usd": 33150000.0
+  },
+  {
+   "ticker": "RR",
+   "name": "RICHTECH ROBOTICS INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,100,000",
+   "priced_date": "2023-11-17",
+   "offer_usd": 10500000.0
+  },
+  {
+   "ticker": "SGN",
+   "name": "Signing Day Sports, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "1,200,000",
+   "priced_date": "2023-11-14",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "GLACU",
+   "name": "Global Lights Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-11-14",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "SHIM",
+   "name": "Shimmick Corp",
+   "exchange": "NASDAQ Global",
+   "price": "7.00",
+   "shares": "3,575,000",
+   "priced_date": "2023-11-14",
+   "offer_usd": 25025000.0
+  },
+  {
+   "ticker": "HG",
+   "name": "Hamilton Insurance Group, Ltd.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "15,000,000",
+   "priced_date": "2023-11-10",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "CRGX",
+   "name": "CARGO Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "18,750,000",
+   "priced_date": "2023-11-10",
+   "offer_usd": 281250000.0
+  },
+  {
+   "ticker": "AITRU",
+   "name": "AI Transportation Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-11-09",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "ANSCU",
+   "name": "Agriculture & Natural Solutions Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2023-11-09",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "GVH",
+   "name": "Globavend Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2023-11-08",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "LXEO",
+   "name": "Lexeo Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "11.00",
+   "shares": "9,090,910",
+   "priced_date": "2023-11-03",
+   "offer_usd": 100000010.0
+  },
+  {
+   "ticker": "PAPL",
+   "name": "Pineapple Financial Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "875,000",
+   "priced_date": "2023-11-01",
+   "offer_usd": 3500000.0
+  }
+ ]
+}

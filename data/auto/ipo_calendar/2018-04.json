@@ -1,0 +1,132 @@
+{
+ "month": "2018-04",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "GSHD",
+   "name": "Goosehead Insurance, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "10.00",
+   "shares": "8,530,000",
+   "priced_date": "2018-04-27",
+   "offer_usd": 85300000.0
+  },
+  {
+   "ticker": "DOCU",
+   "name": "DOCUSIGN, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "29.00",
+   "shares": "21,700,000",
+   "priced_date": "2018-04-27",
+   "offer_usd": 629300000.0
+  },
+  {
+   "ticker": "SMAR",
+   "name": "SMARTSHEET INC",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "11,633,920",
+   "priced_date": "2018-04-27",
+   "offer_usd": 174508800.0
+  },
+  {
+   "ticker": "LASR",
+   "name": "NLIGHT, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,000,000",
+   "priced_date": "2018-04-26",
+   "offer_usd": 96000000.0
+  },
+  {
+   "ticker": "CDAY",
+   "name": "Dayforce, Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "21,000,000",
+   "priced_date": "2018-04-26",
+   "offer_usd": 462000000.0
+  },
+  {
+   "ticker": "LEVL",
+   "name": "Level One Bancorp Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "28.00",
+   "shares": "1,200,000",
+   "priced_date": "2018-04-20",
+   "offer_usd": 33600000.0
+  },
+  {
+   "ticker": "PVTL",
+   "name": "Pivotal Software, Inc.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "37,000,000",
+   "priced_date": "2018-04-20",
+   "offer_usd": 555000000.0
+  },
+  {
+   "ticker": "SURF",
+   "name": "Surface Oncology, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "7,200,000",
+   "priced_date": "2018-04-19",
+   "offer_usd": 108000000.0
+  },
+  {
+   "ticker": "MOR",
+   "name": "MorphoSys AG",
+   "exchange": "NASDAQ Global",
+   "price": "25.04",
+   "shares": "8,300,000",
+   "priced_date": "2018-04-19",
+   "offer_usd": 207832000.0
+  },
+  {
+   "ticker": "EAF",
+   "name": "GRAFTECH INTERNATIONAL LTD",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "35,000,000",
+   "priced_date": "2018-04-19",
+   "offer_usd": 525000000.0
+  },
+  {
+   "ticker": "AGMH",
+   "name": "AGM GROUP HOLDINGS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,306,055",
+   "priced_date": "2018-04-18",
+   "offer_usd": 6530275.0
+  },
+  {
+   "ticker": "PACQU",
+   "name": "Pure Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2018-04-13",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "ZUO",
+   "name": "ZUORA INC",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "11,000,000",
+   "priced_date": "2018-04-12",
+   "offer_usd": 154000000.0
+  },
+  {
+   "ticker": "SPOT",
+   "name": "Spotify Technology S.A.",
+   "exchange": "NYSE",
+   "price": "165.90",
+   "shares": "55,731,480",
+   "priced_date": "2018-04-03",
+   "offer_usd": 9245852532.0
+  }
+ ]
+}

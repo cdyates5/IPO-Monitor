@@ -1,0 +1,303 @@
+{
+ "month": "2019-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "PAACU",
+   "name": "PROFICIENT ALPHA ACQUISITION CORP",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2019-05-30",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "BCYC",
+   "name": "BICYCLE THERAPEUTICS PLC",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "4,333,333",
+   "priced_date": "2019-05-23",
+   "offer_usd": 60666662.0
+  },
+  {
+   "ticker": "IDYA",
+   "name": "Ideaya Biosciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-05-23",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "RTLR",
+   "name": "RATTLER MIDSTREAM LP",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.50",
+   "shares": "38,000,000",
+   "priced_date": "2019-05-23",
+   "offer_usd": 665000000.0
+  },
+  {
+   "ticker": "GXGXU",
+   "name": "Celularity Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2019-05-21",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "LK",
+   "name": "Luckin Coffee Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "33,000,000",
+   "priced_date": "2019-05-17",
+   "offer_usd": 561000000.0
+  },
+  {
+   "ticker": "FSLY",
+   "name": "Fastly, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "11,250,000",
+   "priced_date": "2019-05-17",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "AVTR",
+   "name": "Avantor, Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "207,000,000",
+   "priced_date": "2019-05-17",
+   "offer_usd": 2898000000.0
+  },
+  {
+   "ticker": "PSTL",
+   "name": "Postal Realty Trust, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "4,500,000",
+   "priced_date": "2019-05-15",
+   "offer_usd": 76500000.0
+  },
+  {
+   "ticker": "AGBAU",
+   "name": "Triller Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2019-05-14",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "APLT",
+   "name": "Applied Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2019-05-14",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "JFIN",
+   "name": "Jiayin Group Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "10.50",
+   "shares": "3,500,000",
+   "priced_date": "2019-05-10",
+   "offer_usd": 36750000.0
+  },
+  {
+   "ticker": "DEACU",
+   "name": "DraftKings Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2019-05-10",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "HSACU",
+   "name": "Immunovant, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2019-05-10",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "UBER",
+   "name": "Uber Technologies, Inc",
+   "exchange": "NYSE",
+   "price": "45.00",
+   "shares": "180,000,000",
+   "priced_date": "2019-05-10",
+   "offer_usd": 8100000000.0
+  },
+  {
+   "ticker": "SONM",
+   "name": "DNA X, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "11.00",
+   "shares": "3,571,429",
+   "priced_date": "2019-05-10",
+   "offer_usd": 39285719.0
+  },
+  {
+   "ticker": "MIST",
+   "name": "Milestone Pharmaceuticals Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,500,000",
+   "priced_date": "2019-05-09",
+   "offer_usd": 82500000.0
+  },
+  {
+   "ticker": "SPFI",
+   "name": "SOUTH PLAINS FINANCIAL, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.50",
+   "shares": "3,380,000",
+   "priced_date": "2019-05-09",
+   "offer_usd": 59150000.0
+  },
+  {
+   "ticker": "AXLA",
+   "name": "Axcella Health Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "20.00",
+   "shares": "3,571,428",
+   "priced_date": "2019-05-09",
+   "offer_usd": 71428560.0
+  },
+  {
+   "ticker": "CRTX",
+   "name": "IRulya Therapeutics Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "4,412,000",
+   "priced_date": "2019-05-09",
+   "offer_usd": 75004000.0
+  },
+  {
+   "ticker": "NXTC",
+   "name": "NextCure, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-05-09",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "MEC",
+   "name": "Mayville Engineering Company, Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "6,250,000",
+   "priced_date": "2019-05-09",
+   "offer_usd": 106250000.0
+  },
+  {
+   "ticker": "HHR",
+   "name": "HeadHunter Group PLC",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.50",
+   "shares": "16,304,348",
+   "priced_date": "2019-05-09",
+   "offer_usd": 220108698.0
+  },
+  {
+   "ticker": "PSN",
+   "name": "PARSONS CORP",
+   "exchange": "NYSE",
+   "price": "27.00",
+   "shares": "18,518,500",
+   "priced_date": "2019-05-08",
+   "offer_usd": 499999500.0
+  },
+  {
+   "ticker": "TRVI",
+   "name": "Trevi Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "5,500,000",
+   "priced_date": "2019-05-07",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "LCAHU",
+   "name": "Golden Nugget Online Gaming, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "27,500,000",
+   "priced_date": "2019-05-07",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "SCPL",
+   "name": "SciPlay Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "22,000,000",
+   "priced_date": "2019-05-03",
+   "offer_usd": 352000000.0
+  },
+  {
+   "ticker": "YJ",
+   "name": "Yunji Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "11.00",
+   "shares": "11,000,000",
+   "priced_date": "2019-05-03",
+   "offer_usd": 121000000.0
+  },
+  {
+   "ticker": "ATIF",
+   "name": "ATIF Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,074,672",
+   "priced_date": "2019-05-03",
+   "offer_usd": 10373360.0
+  },
+  {
+   "ticker": "RRBI",
+   "name": "RED RIVER BANCSHARES INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "45.00",
+   "shares": "600,000",
+   "priced_date": "2019-05-03",
+   "offer_usd": 27000000.0
+  },
+  {
+   "ticker": "BYND",
+   "name": "BEYOND MEAT, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "25.00",
+   "shares": "9,625,000",
+   "priced_date": "2019-05-02",
+   "offer_usd": 240625000.0
+  },
+  {
+   "ticker": "TMDX",
+   "name": "TransMedics Group, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "5,690,000",
+   "priced_date": "2019-05-02",
+   "offer_usd": 91040000.0
+  },
+  {
+   "ticker": "SY",
+   "name": "So-Young International Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "13.80",
+   "shares": "13,000,000",
+   "priced_date": "2019-05-02",
+   "offer_usd": 179400000.0
+  }
+ ]
+}

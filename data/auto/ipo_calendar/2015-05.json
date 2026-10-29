@@ -1,0 +1,222 @@
+{
+ "month": "2015-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "SHOP",
+   "name": "SHOPIFY INC.",
+   "exchange": "New York Stock Exchange",
+   "price": "17.00",
+   "shares": "7,700,000",
+   "priced_date": "2015-05-21",
+   "offer_usd": 130900000.0
+  },
+  {
+   "ticker": "CHCT",
+   "name": "Community Healthcare Trust Inc",
+   "exchange": "New York Stock Exchange",
+   "price": "19.00",
+   "shares": "6,250,000",
+   "priced_date": "2015-05-21",
+   "offer_usd": 118750000.0
+  },
+  {
+   "ticker": "PGND",
+   "name": "Press Ganey Holdings, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "25.00",
+   "shares": "8,900,000",
+   "priced_date": "2015-05-21",
+   "offer_usd": 222500000.0
+  },
+  {
+   "ticker": "BZUN",
+   "name": "Baozun Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "11,000,000",
+   "priced_date": "2015-05-21",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "GPIAU",
+   "name": "Rimini Street, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2015-05-20",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "BKFS",
+   "name": "Black Knight, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "24.50",
+   "shares": "18,000,000",
+   "priced_date": "2015-05-20",
+   "offer_usd": 441000000.0
+  },
+  {
+   "ticker": "CDRB",
+   "name": "Code Rebel Corp",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "5.00",
+   "shares": "2,000,000",
+   "priced_date": "2015-05-19",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "RKDA",
+   "name": "Arcadia Biosciences, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "8.00",
+   "shares": "8,200,000",
+   "priced_date": "2015-05-15",
+   "offer_usd": 65600000.0
+  },
+  {
+   "ticker": "FTAI",
+   "name": "FTAI Aviation Ltd.",
+   "exchange": "New York Stock Exchange",
+   "price": "17.00",
+   "shares": "20,000,000",
+   "priced_date": "2015-05-15",
+   "offer_usd": 340000000.0
+  },
+  {
+   "ticker": "GLPG",
+   "name": "Lakefront Biotherapeutics NV",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "42.05",
+   "shares": "6,550,000",
+   "priced_date": "2015-05-14",
+   "offer_usd": 275427500.0
+  },
+  {
+   "ticker": "FENX",
+   "name": "Fenix Parts, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "8.00",
+   "shares": "12,000,000",
+   "priced_date": "2015-05-14",
+   "offer_usd": 96000000.0
+  },
+  {
+   "ticker": "JAGX",
+   "name": "Jaguar Health, Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "7.00",
+   "shares": "2,860,000",
+   "priced_date": "2015-05-13",
+   "offer_usd": 20020000.0
+  },
+  {
+   "ticker": "BVXV",
+   "name": "Scinai Immunotherapeutics Ltd.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "5.00",
+   "shares": "1,910,000",
+   "priced_date": "2015-05-12",
+   "offer_usd": 9550000.0
+  },
+  {
+   "ticker": "EQGP",
+   "name": "EQGP Holdings, LP",
+   "exchange": "New York Stock Exchange",
+   "price": "27.00",
+   "shares": "23,000,000",
+   "priced_date": "2015-05-12",
+   "offer_usd": 621000000.0
+  },
+  {
+   "ticker": "BOJA",
+   "name": "Bojangles', Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "19.00",
+   "shares": "7,750,000",
+   "priced_date": "2015-05-08",
+   "offer_usd": 147250000.0
+  },
+  {
+   "ticker": "TEGP",
+   "name": "Tallgrass Energy, LP",
+   "exchange": "New York Stock Exchange",
+   "price": "29.00",
+   "shares": "41,500,000",
+   "priced_date": "2015-05-07",
+   "offer_usd": 1203500000.0
+  },
+  {
+   "ticker": "COLL",
+   "name": "COLLEGIUM PHARMACEUTICAL, INC",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "5,800,000",
+   "priced_date": "2015-05-07",
+   "offer_usd": 69600000.0
+  },
+  {
+   "ticker": "LIFE",
+   "name": "aTYR PHARMA INC",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "5,360,000",
+   "priced_date": "2015-05-07",
+   "offer_usd": 75040000.0
+  },
+  {
+   "ticker": "CLCD",
+   "name": "CoLucid Pharmaceuticals, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "5,500,000",
+   "priced_date": "2015-05-06",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "HTGM",
+   "name": "HTG MOLECULAR DIAGNOSTICS, INC",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "3,570,000",
+   "priced_date": "2015-05-06",
+   "offer_usd": 49980000.0
+  },
+  {
+   "ticker": "ADAP",
+   "name": "Adaptimmune Therapeutics PLC",
+   "exchange": "Nasdaq National Market",
+   "price": "17.00",
+   "shares": "11,250,000",
+   "priced_date": "2015-05-06",
+   "offer_usd": 191250000.0
+  },
+  {
+   "ticker": "OPGN",
+   "name": "CapForce Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "6.00",
+   "shares": "2,850,000",
+   "priced_date": "2015-05-05",
+   "offer_usd": 17100000.0
+  },
+  {
+   "ticker": "ARWAU",
+   "name": "Arowana Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "7,200,000",
+   "priced_date": "2015-05-01",
+   "offer_usd": 72000000.0
+  },
+  {
+   "ticker": "BSM",
+   "name": "Black Stone Minerals, L.P.",
+   "exchange": "New York Stock Exchange",
+   "price": "19.00",
+   "shares": "22,500,000",
+   "priced_date": "2015-05-01",
+   "offer_usd": 427500000.0
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "month": "2015-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "INQD",
+   "name": "Indoor Harvest Corp",
+   "exchange": "OTCBB",
+   "price": "0.50",
+   "shares": "2,467,003",
+   "priced_date": "2015-02-27",
+   "offer_usd": 1233502.0
+  },
+  {
+   "ticker": "TONS",
+   "name": "WisdomTree Coal Fund",
+   "exchange": "New York Stock Exchange",
+   "price": "40.47",
+   "shares": "9,750,000",
+   "priced_date": "2015-02-20",
+   "offer_usd": 394582500.0
+  },
+  {
+   "ticker": "RISE",
+   "name": "Amplify Commodity Trust",
+   "exchange": "New York Stock Exchange",
+   "price": "25.00",
+   "shares": "20,000,000",
+   "priced_date": "2015-02-19",
+   "offer_usd": 500000000.0
+  },
+  {
+   "ticker": "CHEKU",
+   "name": "MBody AI Ltd.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "6.00",
+   "shares": "2,000,000",
+   "priced_date": "2015-02-19",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "ITEK",
+   "name": "ROCKET PHARMACEUTICALS, INC.",
+   "exchange": "Nasdaq National Market",
+   "price": "6.00",
+   "shares": "6,667,000",
+   "priced_date": "2015-02-18",
+   "offer_usd": 40002000.0
+  },
+  {
+   "ticker": "EYEG",
+   "name": "KIORA PHARMACEUTICALS INC",
+   "exchange": "OTCBB",
+   "price": "6.00",
+   "shares": "683,250",
+   "priced_date": "2015-02-13",
+   "offer_usd": 4099500.0
+  },
+  {
+   "ticker": "BLPH",
+   "name": "Bellerophon Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-02-13",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "AJX",
+   "name": "Rithm Property Trust Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "14.25",
+   "shares": "5,000,000",
+   "priced_date": "2015-02-13",
+   "offer_usd": 71250000.0
+  },
+  {
+   "ticker": "FNTCU",
+   "name": "CardConnect Corp.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2015-02-13",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "INOV",
+   "name": "Inovalon Holdings, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "27.00",
+   "shares": "22,222,222",
+   "priced_date": "2015-02-12",
+   "offer_usd": 599999994.0
+  },
+  {
+   "ticker": "NVTA",
+   "name": "InVitae Corp",
+   "exchange": "New York Stock Exchange",
+   "price": "16.00",
+   "shares": "6,350,000",
+   "priced_date": "2015-02-12",
+   "offer_usd": 101600000.0
+  },
+  {
+   "ticker": "AVNU",
+   "name": "Avenue Financial Holdings, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "11.00",
+   "shares": "2,500,000",
+   "priced_date": "2015-02-10",
+   "offer_usd": 27500000.0
+  },
+  {
+   "ticker": "DEA",
+   "name": "Easterly Government Properties, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "15.00",
+   "shares": "12,000,000",
+   "priced_date": "2015-02-06",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "CPPL",
+   "name": "Columbia Pipeline Partners LP",
+   "exchange": "New York Stock Exchange",
+   "price": "23.00",
+   "shares": "46,811,398",
+   "priced_date": "2015-02-06",
+   "offer_usd": 1076662154.0
+  },
+  {
+   "ticker": "BHACU",
+   "name": "BARINGTON/HILCO ACQUISITION CORP.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2015-02-06",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "NVET",
+   "name": "Nexvet Biopharma plc",
+   "exchange": "Nasdaq National Market",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2015-02-05",
+   "offer_usd": 40000000.0
+  }
+ ]
+}

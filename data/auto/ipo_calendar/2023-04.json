@@ -1,0 +1,141 @@
+{
+ "month": "2023-04",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "TRNR",
+   "name": "Interactive Strength, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "8.00",
+   "shares": "1,500,000",
+   "priced_date": "2023-04-28",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "JYD",
+   "name": "Jayud Global Logistics Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2023-04-21",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "AACTU",
+   "name": "Kodiak AI, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "45,000,000",
+   "priced_date": "2023-04-21",
+   "offer_usd": 450000000.0
+  },
+  {
+   "ticker": "USGO",
+   "name": "U.S. GoldMining Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "2,000,000",
+   "priced_date": "2023-04-20",
+   "offer_usd": 20000000.0
+  },
+  {
+   "ticker": "WLGS",
+   "name": "WANG & LEE GROUP, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,600,000",
+   "priced_date": "2023-04-20",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "UCAR",
+   "name": "U Power Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "2,416,667",
+   "priced_date": "2023-04-20",
+   "offer_usd": 14500002.0
+  },
+  {
+   "ticker": "TCJH",
+   "name": "Nexpu Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,750,000",
+   "priced_date": "2023-04-18",
+   "offer_usd": 11000000.0
+  },
+  {
+   "ticker": "TPET",
+   "name": "Trio Petroleum Corp",
+   "exchange": "NYSE MKT",
+   "price": "3.00",
+   "shares": "2,000,000",
+   "priced_date": "2023-04-18",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "GDTC",
+   "name": "CytoMed Therapeutics Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,412,369",
+   "priced_date": "2023-04-14",
+   "offer_usd": 9649476.0
+  },
+  {
+   "ticker": "VCIG",
+   "name": "VCI Global Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,280,000",
+   "priced_date": "2023-04-13",
+   "offer_usd": 5120000.0
+  },
+  {
+   "ticker": "GDHG",
+   "name": "GOLDEN HEAVEN GROUP HOLDINGS LTD.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2023-04-12",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "ARBB",
+   "name": "ARB IOT Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2023-04-05",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "MGIH",
+   "name": "Millennium Group International Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2023-04-04",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "ISPR",
+   "name": "Ispire Technology Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.00",
+   "shares": "2,700,000",
+   "priced_date": "2023-04-04",
+   "offer_usd": 18900000.0
+  },
+  {
+   "ticker": "MWG",
+   "name": "Multi Ways Holdings Ltd",
+   "exchange": "NYSE MKT",
+   "price": "2.50",
+   "shares": "7,240,000",
+   "priced_date": "2023-04-03",
+   "offer_usd": 18100000.0
+  }
+ ]
+}

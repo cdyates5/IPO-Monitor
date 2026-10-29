@@ -1,0 +1,384 @@
+{
+ "month": "2021-08",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "DDI",
+   "name": "DoubleDown Interactive Co., Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "6,316,000",
+   "priced_date": "2021-08-31",
+   "offer_usd": 113688000.0
+  },
+  {
+   "ticker": "REVEU",
+   "name": "Alpine Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-08-31",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "CHWAU",
+   "name": "Wag! Group Co.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "11,000,000",
+   "priced_date": "2021-08-30",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "SQL",
+   "name": "CIRCLE8 GROUP INC",
+   "exchange": "NASDAQ Capital",
+   "price": "4.25",
+   "shares": "3,060,000",
+   "priced_date": "2021-08-27",
+   "offer_usd": 13005000.0
+  },
+  {
+   "ticker": "MEOAU",
+   "name": "Minority Equality Opportunities Acquisition Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "11,000,000",
+   "priced_date": "2021-08-26",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "CCAIU",
+   "name": "Cascadia Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-08-26",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "RNXT",
+   "name": "RenovoRx, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "9.00",
+   "shares": "1,850,000",
+   "priced_date": "2021-08-26",
+   "offer_usd": 16650000.0
+  },
+  {
+   "ticker": "SWSSU",
+   "name": "Clean Energy Special Situations Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-08-26",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "WAVCU",
+   "name": "Waverley Capital Acquisition Corp. 1",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-08-20",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CENQU",
+   "name": "Verde Clean Fuels, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-08-13",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "JAQCU",
+   "name": "Jupiter Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-08-13",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "DRMA",
+   "name": "Dermata Therapeutics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.00",
+   "shares": "2,571,428",
+   "priced_date": "2021-08-13",
+   "offer_usd": 17999996.0
+  },
+  {
+   "ticker": "AACIU",
+   "name": "Armada Acquisition Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-08-13",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "APMIU",
+   "name": "AxonPrime Infrastructure Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-08-13",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "DATS",
+   "name": "Myseum.AI, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.15",
+   "shares": "2,891,567",
+   "priced_date": "2021-08-13",
+   "offer_usd": 12000003.0
+  },
+  {
+   "ticker": "KCGIU",
+   "name": "Kensington Capital Acquisition Corp. V",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2021-08-13",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "OXACU",
+   "name": "Jet.AI Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-08-12",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "AFTRU",
+   "name": "AfterNext HealthTech Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-08-12",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "PPHPU",
+   "name": "PHP Ventures Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-08-12",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "SSBK",
+   "name": "Southern States Bancshares, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "2,000,000",
+   "priced_date": "2021-08-12",
+   "offer_usd": 38000000.0
+  },
+  {
+   "ticker": "VCXAU",
+   "name": "African Agriculture Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-08-11",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CNTQU",
+   "name": "Dragonfly Energy Holdings Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "11,000,000",
+   "priced_date": "2021-08-11",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "TPBAU",
+   "name": "TPB Acquisition Corp I",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2021-08-11",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "DCRDU",
+   "name": "Decarbonization Plus Acquisition Corp IV",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "27,500,000",
+   "priced_date": "2021-08-11",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "PONOU",
+   "name": "AERWINS Technologies Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-08-11",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "WQGAU",
+   "name": "World Quantum Growth Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-08-11",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ELYM",
+   "name": "Climb Bio, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.50",
+   "shares": "6,400,000",
+   "priced_date": "2021-08-10",
+   "offer_usd": 80000000.0
+  },
+  {
+   "ticker": "AHPAU",
+   "name": "OmniAb, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-08-10",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CPAAU",
+   "name": "Conyers Park III Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2021-08-10",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "ASPAU",
+   "name": "Collective Audience, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-08-10",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "ROCGU",
+   "name": "TIGO ENERGY, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-08-06",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "NOVVU",
+   "name": "Nova Vision Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-08-06",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "RVACU",
+   "name": "Riverview Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-08-06",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "ADGI",
+   "name": "Invivyd, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "18,200,000",
+   "priced_date": "2021-08-06",
+   "offer_usd": 309400000.0
+  },
+  {
+   "ticker": "OBT",
+   "name": "Orange County Bancorp, Inc. /DE/",
+   "exchange": "NASDAQ Capital",
+   "price": "33.50",
+   "shares": "1,000,000",
+   "priced_date": "2021-08-05",
+   "offer_usd": 33500000.0
+  },
+  {
+   "ticker": "GLEEU",
+   "name": "Global System Dynamics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-08-05",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "WEBR",
+   "name": "Weber Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "17,857,143",
+   "priced_date": "2021-08-05",
+   "offer_usd": 250000002.0
+  },
+  {
+   "ticker": "EWCZ",
+   "name": "European Wax Center, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "10,600,000",
+   "priced_date": "2021-08-05",
+   "offer_usd": 180200000.0
+  },
+  {
+   "ticker": "BWCAU",
+   "name": "Blue Whale Acquisition Corp I",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-08-04",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "AMCIU",
+   "name": "LanzaTech Global, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-08-04",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "ABVC",
+   "name": "ABVC BIOPHARMA, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.25",
+   "shares": "1,100,000",
+   "priced_date": "2021-08-03",
+   "offer_usd": 6875000.0
+  },
+  {
+   "ticker": "HWELU",
+   "name": "Healthwell Acquisition Corp. I",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-08-03",
+   "offer_usd": 250000000.0
+  }
+ ]
+}

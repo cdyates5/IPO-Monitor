@@ -1,0 +1,195 @@
+{
+ "month": "2024-12",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ONEG",
+   "name": "OneConstruction Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2024-12-31",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "PHH",
+   "name": "Park Ha Biological Technology Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,200,000",
+   "priced_date": "2024-12-27",
+   "offer_usd": 4800000.0
+  },
+  {
+   "ticker": "HIT",
+   "name": "Health In Tech, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,300,000",
+   "priced_date": "2024-12-23",
+   "offer_usd": 9200000.0
+  },
+  {
+   "ticker": "TDACU",
+   "name": "Translational Development Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2024-12-23",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "YAAS",
+   "name": "Youxin Technology Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "2,300,000",
+   "priced_date": "2024-12-20",
+   "offer_usd": 10350000.0
+  },
+  {
+   "ticker": "RANGU",
+   "name": "Range Capital Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2024-12-20",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "LSE",
+   "name": "Leishen Energy Holding Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,375,000",
+   "priced_date": "2024-12-19",
+   "offer_usd": 5500000.0
+  },
+  {
+   "ticker": "YSXT",
+   "name": "YSX Tech Co., Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-12-18",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "NCEW",
+   "name": "New Century Logistics (BVI) Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2024-12-18",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "MLACU",
+   "name": "Mountain Lake Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "21,000,000",
+   "priced_date": "2024-12-13",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "NTCL",
+   "name": "NetClass Technology Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,800,000",
+   "priced_date": "2024-12-13",
+   "offer_usd": 9000000.0
+  },
+  {
+   "ticker": "AVR",
+   "name": "Anteris Technologies Global Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "6.00",
+   "shares": "14,800,000",
+   "priced_date": "2024-12-13",
+   "offer_usd": 88800000.0
+  },
+  {
+   "ticker": "DRDBU",
+   "name": "Roman DBDR Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-12-13",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "TTAN",
+   "name": "ServiceTitan, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "71.00",
+   "shares": "8,800,000",
+   "priced_date": "2024-12-12",
+   "offer_usd": 624800000.0
+  },
+  {
+   "ticker": "JACSU",
+   "name": "Jackson Acquisition Co II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2024-12-10",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "NAMI",
+   "name": "Jinxin Technology Holding Co",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2024-12-06",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "LNKS",
+   "name": "Linkers Industries Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,900,000",
+   "priced_date": "2024-12-05",
+   "offer_usd": 7600000.0
+  },
+  {
+   "ticker": "SPHAU",
+   "name": "PANTAGES CAPITAL ACQUISITION Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2024-12-05",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "ZSPC",
+   "name": "zSpace, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "5.00",
+   "shares": "1,875,000",
+   "priced_date": "2024-12-05",
+   "offer_usd": 9375000.0
+  },
+  {
+   "ticker": "TAVIU",
+   "name": "Tavia Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2024-12-04",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "JUNS",
+   "name": "JUPITER NEUROSCIENCES, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,750,000",
+   "priced_date": "2024-12-03",
+   "offer_usd": 11000000.0
+  }
+ ]
+}

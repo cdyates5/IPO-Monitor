@@ -1,0 +1,177 @@
+{
+ "month": "2023-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "HKIT",
+   "name": "Biddance AI Systems, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,200,000",
+   "priced_date": "2023-03-31",
+   "offer_usd": 16000000.0
+  },
+  {
+   "ticker": "SFWL",
+   "name": "SHENGFENG DEVELOPMENT Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,400,000",
+   "priced_date": "2023-03-31",
+   "offer_usd": 9600000.0
+  },
+  {
+   "ticker": "SYT",
+   "name": "SYLA Technologies Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "1,875,000",
+   "priced_date": "2023-03-31",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "HSHP",
+   "name": "Himalaya Shipping Ltd.",
+   "exchange": "NYSE",
+   "price": "5.80",
+   "shares": "7,720,000",
+   "priced_date": "2023-03-31",
+   "offer_usd": 44776000.0
+  },
+  {
+   "ticker": "CHSN",
+   "name": "Chanson International Holding",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,390,000",
+   "priced_date": "2023-03-30",
+   "offer_usd": 13560000.0
+  },
+  {
+   "ticker": "TBMCU",
+   "name": "Trailblazer Merger Corp I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-03-29",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "HLP",
+   "name": "Hongli Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,062,500",
+   "priced_date": "2023-03-29",
+   "offer_usd": 8250000.0
+  },
+  {
+   "ticker": "YGF",
+   "name": "YanGuFang International Group Co., Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2023-03-28",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "ZJYL",
+   "name": "Jin Medical International Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "1,000,000",
+   "priced_date": "2023-03-28",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "TMTCU",
+   "name": "TMT Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-03-28",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "OAKUU",
+   "name": "Oak Woods Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2023-03-24",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "BANL",
+   "name": "CBL International Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,325,000",
+   "priced_date": "2023-03-23",
+   "offer_usd": 13300000.0
+  },
+  {
+   "ticker": "MGRX",
+   "name": "MANGOCEUTICALS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2023-03-21",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "OMH",
+   "name": "Ohmyhome Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,800,000",
+   "priced_date": "2023-03-21",
+   "offer_usd": 11200000.0
+  },
+  {
+   "ticker": "FORLU",
+   "name": "Four Leaf Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,200,000",
+   "priced_date": "2023-03-17",
+   "offer_usd": 52000000.0
+  },
+  {
+   "ticker": "ICG",
+   "name": "Intchains Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "1,000,000",
+   "priced_date": "2023-03-16",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "IZM",
+   "name": "ICZOOM Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2023-03-15",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "AIXI",
+   "name": "Xiao-I Corp",
+   "exchange": "NASDAQ Global",
+   "price": "6.80",
+   "shares": "5,700,000",
+   "priced_date": "2023-03-09",
+   "offer_usd": 38760000.0
+  },
+  {
+   "ticker": "AESI",
+   "name": "AESI Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "18,000,000",
+   "priced_date": "2023-03-09",
+   "offer_usd": 324000000.0
+  }
+ ]
+}

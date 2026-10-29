@@ -1,0 +1,780 @@
+{
+ "month": "2021-06",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "DIDI",
+   "name": "DiDi Global Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "316,800,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 4435200000.0
+  },
+  {
+   "ticker": "AVTE",
+   "name": "Jade Biosciences, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "8,682,142",
+   "priced_date": "2021-06-30",
+   "offer_usd": 121549988.0
+  },
+  {
+   "ticker": "SHQAU",
+   "name": "Shelter Acquisition Corp I",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CPOP",
+   "name": "Pop Culture Group Co., Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "6.00",
+   "shares": "6,200,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 37200000.0
+  },
+  {
+   "ticker": "THCPU",
+   "name": "Thunder Bridge Capital Partners IV, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "MCAFU",
+   "name": "Mountain Crest Acquisition Corp. IV",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "DNAA",
+   "name": "Akili, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "DNAB",
+   "name": "Social Capital Suvretta Holdings Corp. II",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "DNAC",
+   "name": "PROKIDNEY CORP.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "DNAD",
+   "name": "Social Capital Suvretta Holdings Corp. IV",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "IAS",
+   "name": "INTEGRAL AD SCIENCE HOLDING CORP.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 270000000.0
+  },
+  {
+   "ticker": "YOU",
+   "name": "Clear Secure, Inc.",
+   "exchange": "NYSE",
+   "price": "31.00",
+   "shares": "13,200,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 409200000.0
+  },
+  {
+   "ticker": "CVRX",
+   "name": "CVRx, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "7,000,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 126000000.0
+  },
+  {
+   "ticker": "LZ",
+   "name": "LEGALZOOM.COM, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "28.00",
+   "shares": "19,121,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 535388000.0
+  },
+  {
+   "ticker": "INTA",
+   "name": "Intapp, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "26.00",
+   "shares": "10,500,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 273000000.0
+  },
+  {
+   "ticker": "S",
+   "name": "SentinelOne, Inc.",
+   "exchange": "NYSE",
+   "price": "35.00",
+   "shares": "35,000,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 1225000000.0
+  },
+  {
+   "ticker": "XMTR",
+   "name": "Xometry, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "44.00",
+   "shares": "6,875,000",
+   "priced_date": "2021-06-30",
+   "offer_usd": 302500000.0
+  },
+  {
+   "ticker": "BTTR",
+   "name": "SRX Global Inc.",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "8,000,000",
+   "priced_date": "2021-06-29",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "DDL",
+   "name": "Dingdong (Cayman) Ltd",
+   "exchange": "NYSE",
+   "price": "23.50",
+   "shares": "4,072,000",
+   "priced_date": "2021-06-29",
+   "offer_usd": 95692000.0
+  },
+  {
+   "ticker": "GOBI",
+   "name": "Gobi Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-06-29",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "EOCWU",
+   "name": "Elliott Opportunity II Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "53,000,000",
+   "priced_date": "2021-06-29",
+   "offer_usd": 530000000.0
+  },
+  {
+   "ticker": "IAUM",
+   "name": "iShares Gold Trust Micro",
+   "exchange": "NYSE Arca",
+   "price": null,
+   "shares": "120,000,000",
+   "priced_date": "2021-06-29",
+   "offer_usd": 1000000.0
+  },
+  {
+   "ticker": "ACXP",
+   "name": "Acurx Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "2,500,000",
+   "priced_date": "2021-06-25",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "GMVD",
+   "name": "G Medical Innovations Holdings Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,000,000",
+   "priced_date": "2021-06-25",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "ELEV",
+   "name": "Elevation Oncology, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,250,000",
+   "priced_date": "2021-06-25",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "GRPH",
+   "name": "Lenz Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "14,000,000",
+   "priced_date": "2021-06-25",
+   "offer_usd": 238000000.0
+  },
+  {
+   "ticker": "MF",
+   "name": "Missfresh Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "21,000,000",
+   "priced_date": "2021-06-25",
+   "offer_usd": 273000000.0
+  },
+  {
+   "ticker": "GHRS",
+   "name": "GH Research PLC",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-06-25",
+   "offer_usd": 160000000.0
+  },
+  {
+   "ticker": "TKNO",
+   "name": "Alpha Teknova, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "6,000,000",
+   "priced_date": "2021-06-25",
+   "offer_usd": 96000000.0
+  },
+  {
+   "ticker": "MCW",
+   "name": "Mister Car Wash, Inc.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "37,500,000",
+   "priced_date": "2021-06-25",
+   "offer_usd": 562500000.0
+  },
+  {
+   "ticker": "NLITU",
+   "name": "SHF Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2021-06-24",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "DOCS",
+   "name": "Doximity, Inc.",
+   "exchange": "NYSE",
+   "price": "26.00",
+   "shares": "23,300,000",
+   "priced_date": "2021-06-24",
+   "offer_usd": 605800000.0
+  },
+  {
+   "ticker": "GLUE",
+   "name": "Monte Rosa Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "11,700,000",
+   "priced_date": "2021-06-24",
+   "offer_usd": 222300000.0
+  },
+  {
+   "ticker": "BON",
+   "name": "Bon Natural Life Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,200,000",
+   "priced_date": "2021-06-24",
+   "offer_usd": 11000000.0
+  },
+  {
+   "ticker": "GRVI",
+   "name": "UPEXI, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,200,000",
+   "priced_date": "2021-06-24",
+   "offer_usd": 11000000.0
+  },
+  {
+   "ticker": "CFLT",
+   "name": "Confluent, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "36.00",
+   "shares": "23,000,000",
+   "priced_date": "2021-06-24",
+   "offer_usd": 828000000.0
+  },
+  {
+   "ticker": "FTVIU",
+   "name": "FINTECH ACQUISITION CORP VI",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2021-06-24",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "MIRO",
+   "name": "Miromatrix Medical Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "9.00",
+   "shares": "4,800,000",
+   "priced_date": "2021-06-24",
+   "offer_usd": 43200000.0
+  },
+  {
+   "ticker": "BHG",
+   "name": "NeueHealth, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "51,350,000",
+   "priced_date": "2021-06-24",
+   "offer_usd": 924300000.0
+  },
+  {
+   "ticker": "CXM",
+   "name": "Sprinklr, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "16,625,000",
+   "priced_date": "2021-06-23",
+   "offer_usd": 266000000.0
+  },
+  {
+   "ticker": "MITAU",
+   "name": "Coliseum Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-06-23",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "FA",
+   "name": "FIRST ADVANTAGE CORP",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "25,500,000",
+   "priced_date": "2021-06-23",
+   "offer_usd": 382500000.0
+  },
+  {
+   "ticker": "GPCOU",
+   "name": "MicroCloud Hologram Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-06-22",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "YMM",
+   "name": "Full Truck Alliance Co. Ltd.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "82,500,000",
+   "priced_date": "2021-06-22",
+   "offer_usd": 1567500000.0
+  },
+  {
+   "ticker": "RERE",
+   "name": "ATRenew Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "16,233,000",
+   "priced_date": "2021-06-18",
+   "offer_usd": 227262000.0
+  },
+  {
+   "ticker": "AMAM",
+   "name": "Ambrx Biopharma Cayman, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "7,000,000",
+   "priced_date": "2021-06-18",
+   "offer_usd": 126000000.0
+  },
+  {
+   "ticker": "DNAY",
+   "name": "Telesis Bio Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,666,665",
+   "priced_date": "2021-06-18",
+   "offer_usd": 106666640.0
+  },
+  {
+   "ticker": "ATAI",
+   "name": "Atai Beckley N.V.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-06-18",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "FEMY",
+   "name": "FEMASYS INC",
+   "exchange": "NASDAQ Capital",
+   "price": "13.00",
+   "shares": "2,650,000",
+   "priced_date": "2021-06-18",
+   "offer_usd": 34450000.0
+  },
+  {
+   "ticker": "TRMR",
+   "name": "Nexxen International Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "19.00",
+   "shares": "6,768,953",
+   "priced_date": "2021-06-18",
+   "offer_usd": 128610107.0
+  },
+  {
+   "ticker": "IPSC",
+   "name": "Century Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "10,550,000",
+   "priced_date": "2021-06-18",
+   "offer_usd": 211000000.0
+  },
+  {
+   "ticker": "JUGGU",
+   "name": "Jaws Juggernaut Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2021-06-18",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "CYT",
+   "name": "Cyteir Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "7,400,000",
+   "priced_date": "2021-06-18",
+   "offer_usd": 133200000.0
+  },
+  {
+   "ticker": "ISPC",
+   "name": "iSpecimen Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "2,250,000",
+   "priced_date": "2021-06-17",
+   "offer_usd": 18000000.0
+  },
+  {
+   "ticker": "VERV",
+   "name": "Verve Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "14,035,789",
+   "priced_date": "2021-06-17",
+   "offer_usd": 266679991.0
+  },
+  {
+   "ticker": "TRONU",
+   "name": "CORNER GROWTH ACQUISITION CORP. 2",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2021-06-17",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "LYEL",
+   "name": "Lyell Immunopharma, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "25,000,000",
+   "priced_date": "2021-06-17",
+   "offer_usd": 425000000.0
+  },
+  {
+   "ticker": "AOMR",
+   "name": "Angel Oak Mortgage REIT, Inc.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "7,200,000",
+   "priced_date": "2021-06-17",
+   "offer_usd": 136800000.0
+  },
+  {
+   "ticker": "CNVY",
+   "name": "Convey Health Solutions Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "13,333,334",
+   "priced_date": "2021-06-16",
+   "offer_usd": 186666676.0
+  },
+  {
+   "ticker": "ZTAQU",
+   "name": "Zimmer Energy Transition Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-06-16",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "MOLN",
+   "name": "MOLECULAR PARTNERS AG",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.25",
+   "shares": "3,000,000",
+   "priced_date": "2021-06-16",
+   "offer_usd": 63750000.0
+  },
+  {
+   "ticker": "WKME",
+   "name": "WalkMe Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "31.00",
+   "shares": "9,250,000",
+   "priced_date": "2021-06-16",
+   "offer_usd": 286750000.0
+  },
+  {
+   "ticker": "RONIU",
+   "name": "NET Power Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-06-16",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "DILAU",
+   "name": "Dila Capital Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,500,000",
+   "priced_date": "2021-06-15",
+   "offer_usd": 55000000.0
+  },
+  {
+   "ticker": "GSQBU",
+   "name": "G Squared Ascend II, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2021-06-15",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "ALZN",
+   "name": "Alzamend Neuro, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,500,000",
+   "priced_date": "2021-06-15",
+   "offer_usd": 12500000.0
+  },
+  {
+   "ticker": "SBEV",
+   "name": "Endovia Health Sciences, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2021-06-11",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "LITTU",
+   "name": "Logistics Innovation Technologies Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2021-06-11",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "HCNEU",
+   "name": "Jaws Hurricane Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "27,500,000",
+   "priced_date": "2021-06-11",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "LAAAU",
+   "name": "Lakeshore Acquisition I Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-06-11",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "TASK",
+   "name": "TaskUs, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "13,200,000",
+   "priced_date": "2021-06-11",
+   "offer_usd": 303600000.0
+  },
+  {
+   "ticker": "JANX",
+   "name": "Janux Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "11,400,000",
+   "priced_date": "2021-06-11",
+   "offer_usd": 193800000.0
+  },
+  {
+   "ticker": "BZ",
+   "name": "Kanzhun Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "48,000,000",
+   "priced_date": "2021-06-11",
+   "offer_usd": 912000000.0
+  },
+  {
+   "ticker": "ZETA",
+   "name": "Zeta Global Holdings Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "21,500,000",
+   "priced_date": "2021-06-10",
+   "offer_usd": 215000000.0
+  },
+  {
+   "ticker": "BSGAU",
+   "name": "Blue Safari Group Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-06-10",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "MNDY",
+   "name": "monday.com Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "155.00",
+   "shares": "3,700,000",
+   "priced_date": "2021-06-10",
+   "offer_usd": 573500000.0
+  },
+  {
+   "ticker": "LFST",
+   "name": "LifeStance Health Group, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "40,000,000",
+   "priced_date": "2021-06-10",
+   "offer_usd": 720000000.0
+  },
+  {
+   "ticker": "DIBS",
+   "name": "1stdibs.com, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "20.00",
+   "shares": "5,750,000",
+   "priced_date": "2021-06-10",
+   "offer_usd": 115000000.0
+  },
+  {
+   "ticker": "SMIHU",
+   "name": "Summit Healthcare Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2021-06-09",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "MQ",
+   "name": "Marqeta, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "45,454,546",
+   "priced_date": "2021-06-09",
+   "offer_usd": 1227272742.0
+  },
+  {
+   "ticker": "GACQU",
+   "name": "Global Consumer Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "17,000,000",
+   "priced_date": "2021-06-09",
+   "offer_usd": 170000000.0
+  },
+  {
+   "ticker": "CLBRU",
+   "name": "PSQ Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-06-09",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "ISAA",
+   "name": "Iron Spark I Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2021-06-09",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "SPKAU",
+   "name": "SPK Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2021-06-08",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "ZME",
+   "name": "Zhangmen Education Inc.",
+   "exchange": "NYSE",
+   "price": "11.50",
+   "shares": "3,623,000",
+   "priced_date": "2021-06-08",
+   "offer_usd": 41664500.0
+  },
+  {
+   "ticker": "DLO",
+   "name": "dLocal Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "29,411,765",
+   "priced_date": "2021-06-03",
+   "offer_usd": 617647065.0
+  }
+ ]
+}

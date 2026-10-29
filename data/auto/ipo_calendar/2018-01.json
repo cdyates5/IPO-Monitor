@@ -1,0 +1,177 @@
+{
+ "month": "2018-01",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "MTECU",
+   "name": "MTech Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2018-01-30",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "SLDB",
+   "name": "Solid Biosciences Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "7,812,500",
+   "priced_date": "2018-01-26",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "ARMO",
+   "name": "ARMO BioSciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "7,529,412",
+   "priced_date": "2018-01-26",
+   "offer_usd": 128000004.0
+  },
+  {
+   "ticker": "TORC",
+   "name": "Adicet Bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,666,667",
+   "priced_date": "2018-01-26",
+   "offer_usd": 85000005.0
+  },
+  {
+   "ticker": "AGS",
+   "name": "PlayAGS, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "10,250,000",
+   "priced_date": "2018-01-26",
+   "offer_usd": 164000000.0
+  },
+  {
+   "ticker": "GTES",
+   "name": "Gates Industrial Corp Ltd.",
+   "exchange": "NYSE",
+   "price": "19.00",
+   "shares": "38,500,000",
+   "priced_date": "2018-01-25",
+   "offer_usd": 731500000.0
+  },
+  {
+   "ticker": "GPAQU",
+   "name": "Hall of Fame Resort & Entertainment Co",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2018-01-25",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "EYEN",
+   "name": "HYPERION DEFI, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "2,730,000",
+   "priced_date": "2018-01-25",
+   "offer_usd": 27300000.0
+  },
+  {
+   "ticker": "MNLO",
+   "name": "Yarrow Bioscience, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "7,000,000",
+   "priced_date": "2018-01-25",
+   "offer_usd": 119000000.0
+  },
+  {
+   "ticker": "PAGS",
+   "name": "PagSeguro Digital Ltd.",
+   "exchange": "NYSE",
+   "price": "21.50",
+   "shares": "105,385,555",
+   "priced_date": "2018-01-24",
+   "offer_usd": 2265789433.0
+  },
+  {
+   "ticker": "COLD",
+   "name": "AMERICOLD REALTY TRUST",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "45,300,000",
+   "priced_date": "2018-01-19",
+   "offer_usd": 724800000.0
+  },
+  {
+   "ticker": "NINE",
+   "name": "Nine Energy Service, Inc.",
+   "exchange": "NYSE",
+   "price": "23.00",
+   "shares": "7,000,000",
+   "priced_date": "2018-01-19",
+   "offer_usd": 161000000.0
+  },
+  {
+   "ticker": "ADT",
+   "name": "ADT Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "105,000,000",
+   "priced_date": "2018-01-19",
+   "offer_usd": 1470000000.0
+  },
+  {
+   "ticker": "OMADU",
+   "name": "Ranpak Holdings Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2018-01-18",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "ILPT",
+   "name": "Industrial Logistics Properties Trust",
+   "exchange": "NASDAQ Global Select",
+   "price": "24.00",
+   "shares": "20,000,000",
+   "priced_date": "2018-01-12",
+   "offer_usd": 480000000.0
+  },
+  {
+   "ticker": "LBRT",
+   "name": "Liberty Energy Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "12,731,092",
+   "priced_date": "2018-01-12",
+   "offer_usd": 216428564.0
+  },
+  {
+   "ticker": "EAGLU",
+   "name": "Target Hospitality Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2018-01-12",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "NEBUU",
+   "name": "Nebula Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2018-01-10",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "CUE",
+   "name": "Cue Biopharma, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.50",
+   "shares": "8,820,710",
+   "priced_date": "2018-01-02",
+   "offer_usd": 66155325.0
+  }
+ ]
+}

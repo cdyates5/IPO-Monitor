@@ -1,0 +1,285 @@
+{
+ "month": "2015-06",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "XTLY",
+   "name": "Xactly Corp",
+   "exchange": "New York Stock Exchange",
+   "price": "8.00",
+   "shares": "7,037,500",
+   "priced_date": "2015-06-26",
+   "offer_usd": 56300000.0
+  },
+  {
+   "ticker": "APPF",
+   "name": "APPFOLIO INC",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "6,200,000",
+   "priced_date": "2015-06-26",
+   "offer_usd": 74400000.0
+  },
+  {
+   "ticker": "ALRM",
+   "name": "Alarm.com Holdings, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "7,000,000",
+   "priced_date": "2015-06-26",
+   "offer_usd": 98000000.0
+  },
+  {
+   "ticker": "MCRB",
+   "name": "Seres Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "18.00",
+   "shares": "7,430,555",
+   "priced_date": "2015-06-26",
+   "offer_usd": 133749990.0
+  },
+  {
+   "ticker": "YECO",
+   "name": "Yulong Eco-Materials Ltd",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "6.25",
+   "shares": "2,250,000",
+   "priced_date": "2015-06-26",
+   "offer_usd": 14062500.0
+  },
+  {
+   "ticker": "GPP",
+   "name": "Green Plains Partners LP",
+   "exchange": "Nasdaq National Market",
+   "price": "15.00",
+   "shares": "10,000,000",
+   "priced_date": "2015-06-26",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "MCRN",
+   "name": "Milacron Holdings Corp.",
+   "exchange": "New York Stock Exchange",
+   "price": "20.00",
+   "shares": "14,285,714",
+   "priced_date": "2015-06-25",
+   "offer_usd": 285714280.0
+  },
+  {
+   "ticker": "LNTH",
+   "name": "Lantheus Holdings, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "6.00",
+   "shares": "10,833,334",
+   "priced_date": "2015-06-25",
+   "offer_usd": 65000004.0
+  },
+  {
+   "ticker": "TRU",
+   "name": "TransUnion",
+   "exchange": "New York Stock Exchange",
+   "price": "22.50",
+   "shares": "29,545,455",
+   "priced_date": "2015-06-25",
+   "offer_usd": 664772738.0
+  },
+  {
+   "ticker": "GKOS",
+   "name": "GLAUKOS Corp",
+   "exchange": "New York Stock Exchange",
+   "price": "18.00",
+   "shares": "6,000,000",
+   "priced_date": "2015-06-25",
+   "offer_usd": 108000000.0
+  },
+  {
+   "ticker": "CATB",
+   "name": "Astria Therapeutics, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-06-25",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "GNRT",
+   "name": "Euronav MI II Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "14.00",
+   "shares": "15,000,000",
+   "priced_date": "2015-06-25",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "RTTR",
+   "name": "FF EAI Robotics Ecosystem Inc.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "5.00",
+   "shares": "4,000,000",
+   "priced_date": "2015-06-24",
+   "offer_usd": 20000000.0
+  },
+  {
+   "ticker": "MB",
+   "name": "MINDBODY, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "7,150,000",
+   "priced_date": "2015-06-19",
+   "offer_usd": 100100000.0
+  },
+  {
+   "ticker": "FOGO",
+   "name": "Fogo de Chao, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "20.00",
+   "shares": "4,411,764",
+   "priced_date": "2015-06-19",
+   "offer_usd": 88235280.0
+  },
+  {
+   "ticker": "CAFD",
+   "name": "8point3 Energy Partners LP",
+   "exchange": "Nasdaq National Market",
+   "price": "21.00",
+   "shares": "20,000,000",
+   "priced_date": "2015-06-19",
+   "offer_usd": 420000000.0
+  },
+  {
+   "ticker": "CYAD",
+   "name": "Celyad Oncology SA",
+   "exchange": "Nasdaq National Market",
+   "price": "68.56",
+   "shares": "1,460,000",
+   "priced_date": "2015-06-19",
+   "offer_usd": 100097600.0
+  },
+  {
+   "ticker": "FIT",
+   "name": "FITBIT, INC.",
+   "exchange": "New York Stock Exchange",
+   "price": "20.00",
+   "shares": "36,575,000",
+   "priced_date": "2015-06-18",
+   "offer_usd": 731500000.0
+  },
+  {
+   "ticker": "UNVR",
+   "name": "Univar Solutions Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "22.00",
+   "shares": "35,000,000",
+   "priced_date": "2015-06-18",
+   "offer_usd": 770000000.0
+  },
+  {
+   "ticker": "NVLS",
+   "name": "ALPINE IMMUNE SCIENCES, INC.",
+   "exchange": "Nasdaq National Market",
+   "price": "14.00",
+   "shares": "5,500,000",
+   "priced_date": "2015-06-17",
+   "offer_usd": 77000000.0
+  },
+  {
+   "ticker": "IVTY",
+   "name": "Invuity, Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "12.00",
+   "shares": "4,000,000",
+   "priced_date": "2015-06-15",
+   "offer_usd": 48000000.0
+  },
+  {
+   "ticker": "WING",
+   "name": "Wingstop Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "19.00",
+   "shares": "5,800,000",
+   "priced_date": "2015-06-12",
+   "offer_usd": 110200000.0
+  },
+  {
+   "ticker": "AXON",
+   "name": "Sio Gene Therapies Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "15.00",
+   "shares": "21,000,000",
+   "priced_date": "2015-06-11",
+   "offer_usd": 315000000.0
+  },
+  {
+   "ticker": "ELECU",
+   "name": "Electrum Special Acquisition Corp",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2015-06-11",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "PUB",
+   "name": "Altabancorp",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "14.50",
+   "shares": "2,500,000",
+   "priced_date": "2015-06-11",
+   "offer_usd": 36250000.0
+  },
+  {
+   "ticker": "BITI",
+   "name": "Biotie Therapies Corp.",
+   "exchange": "Nasdaq National Market",
+   "price": "14.888",
+   "shares": "3,761,418",
+   "priced_date": "2015-06-11",
+   "offer_usd": 56007514.0
+  },
+  {
+   "ticker": "WWRB",
+   "name": "Po Yuen Cultural Holdings (Hong Kong) Co., Ltd.",
+   "exchange": "OTCBB",
+   "price": "0.10",
+   "shares": "2,500,000",
+   "priced_date": "2015-06-10",
+   "offer_usd": 250000.0
+  },
+  {
+   "ticker": "EVH",
+   "name": "Evolent Health, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "17.00",
+   "shares": "11,500,000",
+   "priced_date": "2015-06-05",
+   "offer_usd": 195500000.0
+  },
+  {
+   "ticker": "GI",
+   "name": "EndoChoice Holdings, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "15.00",
+   "shares": "6,350,000",
+   "priced_date": "2015-06-05",
+   "offer_usd": 95250000.0
+  },
+  {
+   "ticker": "DTEA",
+   "name": "DAVIDsTEA Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "19.00",
+   "shares": "5,100,000",
+   "priced_date": "2015-06-05",
+   "offer_usd": 96900000.0
+  },
+  {
+   "ticker": "PTXP",
+   "name": "PennTex Midstream Partners, LP",
+   "exchange": "Nasdaq National Market",
+   "price": "20.00",
+   "shares": "11,250,000",
+   "priced_date": "2015-06-04",
+   "offer_usd": 225000000.0
+  }
+ ]
+}

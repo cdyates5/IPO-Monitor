@@ -1,0 +1,105 @@
+{
+ "month": "2019-08",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "JFU",
+   "name": "9F Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "9.50",
+   "shares": "8,900,000",
+   "priced_date": "2019-08-15",
+   "offer_usd": 84550000.0
+  },
+  {
+   "ticker": "CFB",
+   "name": "CROSSFIRST BANKSHARES, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.50",
+   "shares": "7,011,589",
+   "priced_date": "2019-08-15",
+   "offer_usd": 101668041.0
+  },
+  {
+   "ticker": "PLIN",
+   "name": "SANGRIX INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,172,360",
+   "priced_date": "2019-08-14",
+   "offer_usd": 5861800.0
+  },
+  {
+   "ticker": "THBRU",
+   "name": "Thunder Bridge Acquisition II, LTD",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2019-08-09",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "SSPKU",
+   "name": "WM TECHNOLOGY, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2019-08-08",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "INMD",
+   "name": "InMode Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-08-08",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "HKIB",
+   "name": "AMTD IDEA GROUP",
+   "exchange": "NYSE",
+   "price": "8.38",
+   "shares": "20,759,700",
+   "priced_date": "2019-08-05",
+   "offer_usd": 173966286.0
+  },
+  {
+   "ticker": "ORSNU",
+   "name": "Orisun Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2019-08-02",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "KRUS",
+   "name": "KURA SUSHI USA, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "2,900,000",
+   "priced_date": "2019-08-01",
+   "offer_usd": 40600000.0
+  },
+  {
+   "ticker": "DT",
+   "name": "Dynatrace, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "35,609,612",
+   "priced_date": "2019-08-01",
+   "offer_usd": 569753792.0
+  },
+  {
+   "ticker": "SNDL",
+   "name": "SNDL Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "10,000,000",
+   "priced_date": "2019-08-01",
+   "offer_usd": 130000000.0
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "month": "2025-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "NMAX",
+   "name": "Newsmax Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2025-03-31",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "UYSCU",
+   "name": "UY Scuti Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2025-03-31",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "CRWV",
+   "name": "CoreWeave, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "40.00",
+   "shares": "37,500,000",
+   "priced_date": "2025-03-28",
+   "offer_usd": 1500000000.0
+  },
+  {
+   "ticker": "NCT",
+   "name": "Intercont (Cayman) Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "7.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-03-28",
+   "offer_usd": 10500000.0
+  },
+  {
+   "ticker": "WFF",
+   "name": "WF Holding Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-03-27",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "NTHI",
+   "name": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "2,101,313",
+   "priced_date": "2025-03-26",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "EPSM",
+   "name": "Epsium Enterprise Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-03-26",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "LGPS",
+   "name": "LOGPROSTYLE INC.",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-03-25",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "GSHRU",
+   "name": "Gesher Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2025-03-21",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "RCT",
+   "name": "RedCloud Holdings plc",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "4,444,445",
+   "priced_date": "2025-03-21",
+   "offer_usd": 20000003.0
+  },
+  {
+   "ticker": "BIYA",
+   "name": "Baiya International Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2025-03-21",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "QSEAU",
+   "name": "Quartzsea Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,200,000",
+   "priced_date": "2025-03-18",
+   "offer_usd": 72000000.0
+  },
+  {
+   "ticker": "MWYN",
+   "name": "Marwynn Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-03-13",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "MCRP",
+   "name": "Micropolis AI Robotics",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,875,000",
+   "priced_date": "2025-03-07",
+   "offer_usd": 15500000.0
+  },
+  {
+   "ticker": "SAGT",
+   "name": "SAGTEC GLOBAL Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2025-03-07",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "KMTS",
+   "name": "KESTRA MEDICAL TECHNOLOGIES, LTD.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "11,882,352",
+   "priced_date": "2025-03-06",
+   "offer_usd": 201999984.0
+  },
+  {
+   "ticker": "JFB",
+   "name": "JFB Construction Holdings",
+   "exchange": "NASDAQ Capital",
+   "price": "4.125",
+   "shares": "1,250,000",
+   "priced_date": "2025-03-06",
+   "offer_usd": 5162500.0
+  },
+  {
+   "ticker": "TBH",
+   "name": "House of Doge Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,475,000",
+   "priced_date": "2025-03-06",
+   "offer_usd": 5900000.0
+  },
+  {
+   "ticker": "ADVB",
+   "name": "Advanced Biomed Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,640,000",
+   "priced_date": "2025-03-06",
+   "offer_usd": 6560000.0
+  },
+  {
+   "ticker": "CAPS",
+   "name": "Capstone Holding Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-03-06",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "PN",
+   "name": "PN Smart Energy Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-03-04",
+   "offer_usd": 8000000.0
+  }
+ ]
+}

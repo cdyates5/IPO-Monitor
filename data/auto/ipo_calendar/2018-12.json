@@ -1,0 +1,123 @@
+{
+ "month": "2018-12",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "PHCF",
+   "name": "Puhui Wealth Investment Management Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "2,000,000",
+   "priced_date": "2018-12-27",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "AMTB",
+   "name": "Amerant Bancorp Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.00",
+   "shares": "6,300,000",
+   "priced_date": "2018-12-19",
+   "offer_usd": 81900000.0
+  },
+  {
+   "ticker": "APM",
+   "name": "Niki BioSolutions, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "15.80",
+   "shares": "1,898,734",
+   "priced_date": "2018-12-18",
+   "offer_usd": 29999997.0
+  },
+  {
+   "ticker": "QFIN",
+   "name": "Qfin Holdings, Inc.",
+   "exchange": "NASDAQ",
+   "price": "16.50",
+   "shares": "3,100,000",
+   "priced_date": "2018-12-14",
+   "offer_usd": 51150000.0
+  },
+  {
+   "ticker": "CHACU",
+   "name": "Tessera Defense & Homeland Security Inc.",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "7,000,000",
+   "priced_date": "2018-12-14",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "LEGH",
+   "name": "Legacy Housing Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "4,000,000",
+   "priced_date": "2018-12-14",
+   "offer_usd": 48000000.0
+  },
+  {
+   "ticker": "CFFAU",
+   "name": "CF Finance Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2018-12-13",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "TME",
+   "name": "Tencent Music Entertainment Group",
+   "exchange": "NYSE",
+   "price": "13.00",
+   "shares": "82,000,000",
+   "priced_date": "2018-12-12",
+   "offer_usd": 1066000000.0
+  },
+  {
+   "ticker": "SAMAU",
+   "name": "Schultze Special Purpose Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "13,000,000",
+   "priced_date": "2018-12-11",
+   "offer_usd": 130000000.0
+  },
+  {
+   "ticker": "MRNA",
+   "name": "Moderna, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "26,275,993",
+   "priced_date": "2018-12-07",
+   "offer_usd": 604347839.0
+  },
+  {
+   "ticker": "THOR",
+   "name": "Synthorx, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.00",
+   "shares": "11,912,727",
+   "priced_date": "2018-12-07",
+   "offer_usd": 131039997.0
+  },
+  {
+   "ticker": "DMAC",
+   "name": "DiaMedica Therapeutics Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "4,100,000",
+   "priced_date": "2018-12-07",
+   "offer_usd": 16400000.0
+  },
+  {
+   "ticker": "MOGU",
+   "name": "MOGU Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "4,750,000",
+   "priced_date": "2018-12-06",
+   "offer_usd": 66500000.0
+  }
+ ]
+}

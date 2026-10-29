@@ -1,0 +1,186 @@
+{
+ "month": "2019-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "KLDO",
+   "name": "Kaleido Biosciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-02-28",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "DPHCU",
+   "name": "Stark Novus Financial Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2019-02-28",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "SHLLU",
+   "name": "Hyliion Holdings Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2019-02-28",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "SLGG",
+   "name": "Super League Enterprise, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "11.00",
+   "shares": "2,272,727",
+   "priced_date": "2019-02-26",
+   "offer_usd": 24999997.0
+  },
+  {
+   "ticker": "ACAMU",
+   "name": "CarLotz, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2019-02-22",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "SOLY",
+   "name": "Soliton, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,172,591",
+   "priced_date": "2019-02-19",
+   "offer_usd": 10862955.0
+  },
+  {
+   "ticker": "MITO",
+   "name": "Stealth BioTherapeutics Corp",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "6,500,000",
+   "priced_date": "2019-02-15",
+   "offer_usd": 78000000.0
+  },
+  {
+   "ticker": "HOTH",
+   "name": "Rocket One Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.60",
+   "shares": "1,250,000",
+   "priced_date": "2019-02-15",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "TCRR",
+   "name": "TCR2 THERAPEUTICS INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-02-14",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "AVDR",
+   "name": "AVEDRO INC",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-02-14",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "IMAC",
+   "name": "IMAC Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.125",
+   "shares": "850,000",
+   "priced_date": "2019-02-13",
+   "offer_usd": 4360500.0
+  },
+  {
+   "ticker": "ANCN",
+   "name": "Chemomab Therapeutics Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "11.50",
+   "shares": "2,652,174",
+   "priced_date": "2019-02-12",
+   "offer_usd": 30500001.0
+  },
+  {
+   "ticker": "RMG'U",
+   "name": "Romeo Power, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2019-02-08",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "GOSS",
+   "name": "Gossamer Bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "17,250,000",
+   "priced_date": "2019-02-08",
+   "offer_usd": 276000000.0
+  },
+  {
+   "ticker": "HARP",
+   "name": "Harpoon Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "5,400,000",
+   "priced_date": "2019-02-08",
+   "offer_usd": 75600000.0
+  },
+  {
+   "ticker": "MNCLU",
+   "name": "AerSale Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2019-02-07",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "ALEC",
+   "name": "Alector, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "9,250,000",
+   "priced_date": "2019-02-07",
+   "offer_usd": 175750000.0
+  },
+  {
+   "ticker": "HHHHU",
+   "name": "Scienjoy Holding Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2019-02-06",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "INMB",
+   "name": "Inmune Bio, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00\t",
+   "shares": "1020,560",
+   "priced_date": "2019-02-04",
+   "offer_usd": 8164480.0
+  },
+  {
+   "ticker": "GMHIU",
+   "name": "Luminar Technologies, Inc./DE",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "37,500,000",
+   "priced_date": "2019-02-01",
+   "offer_usd": 375000000.0
+  }
+ ]
+}

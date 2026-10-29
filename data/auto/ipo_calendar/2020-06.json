@@ -1,0 +1,330 @@
+{
+ "month": "2020-06",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "ADTX",
+   "name": "Aditxt, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "9.00",
+   "shares": "1,226,668",
+   "priced_date": "2020-06-30",
+   "offer_usd": 11040012.0
+  },
+  {
+   "ticker": "GSAHU",
+   "name": "Mirion Technologies, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "70,000,000",
+   "priced_date": "2020-06-30",
+   "offer_usd": 700000000.0
+  },
+  {
+   "ticker": "PYPD",
+   "name": "PolyPid Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "3,750,000",
+   "priced_date": "2020-06-26",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "ACI",
+   "name": "Albertsons Companies, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "50,000,000",
+   "priced_date": "2020-06-26",
+   "offer_usd": 800000000.0
+  },
+  {
+   "ticker": "API",
+   "name": "Agora, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "17,500,000",
+   "priced_date": "2020-06-26",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "FUSN",
+   "name": "Fusion Pharmaceuticals Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "12,500,000",
+   "priced_date": "2020-06-26",
+   "offer_usd": 212500000.0
+  },
+  {
+   "ticker": "FUSEU",
+   "name": "MONEYLION INC.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,500,000",
+   "priced_date": "2020-06-26",
+   "offer_usd": 305000000.0
+  },
+  {
+   "ticker": "KCACU",
+   "name": "QuantumScape Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-06-26",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "AKUS",
+   "name": "Akouos, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "12,500,000",
+   "priced_date": "2020-06-26",
+   "offer_usd": 212500000.0
+  },
+  {
+   "ticker": "EBON",
+   "name": "Ebang International Holdings Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "5.23",
+   "shares": "19,264,337",
+   "priced_date": "2020-06-26",
+   "offer_usd": 100752483.0
+  },
+  {
+   "ticker": "BRLIU",
+   "name": "T3 Defense Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2020-06-24",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "GTH",
+   "name": "Genetron Holdings Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "16,000,000",
+   "priced_date": "2020-06-19",
+   "offer_usd": 256000000.0
+  },
+  {
+   "ticker": "FMTX",
+   "name": "Forma Therapeutics Holdings, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "20.00",
+   "shares": "13,882,352",
+   "priced_date": "2020-06-19",
+   "offer_usd": 277647040.0
+  },
+  {
+   "ticker": "PROG",
+   "name": "BIORA THERAPEUTICS, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "6,666,667",
+   "priced_date": "2020-06-19",
+   "offer_usd": 100000005.0
+  },
+  {
+   "ticker": "RPTX",
+   "name": "Repare Therapeutics Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "11,000,000",
+   "priced_date": "2020-06-19",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "TREBU",
+   "name": "System1, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "45,000,000",
+   "priced_date": "2020-06-17",
+   "offer_usd": 450000000.0
+  },
+  {
+   "ticker": "RPRX",
+   "name": "Royalty Pharma plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "28.00",
+   "shares": "77,681,670",
+   "priced_date": "2020-06-16",
+   "offer_usd": 2175086760.0
+  },
+  {
+   "ticker": "BNR",
+   "name": "Burning Rock Biotech Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "16.50",
+   "shares": "13,500,000",
+   "priced_date": "2020-06-12",
+   "offer_usd": 222750000.0
+  },
+  {
+   "ticker": "PCVX",
+   "name": "Vaxcyte, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "15,625,000",
+   "priced_date": "2020-06-12",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "AZEK",
+   "name": "AZEK Co Inc.",
+   "exchange": "NYSE",
+   "price": "23.00",
+   "shares": "33,250,000",
+   "priced_date": "2020-06-12",
+   "offer_usd": 764750000.0
+  },
+  {
+   "ticker": "GBIO",
+   "name": "Generation Bio Co.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "10,500,000",
+   "priced_date": "2020-06-12",
+   "offer_usd": 199500000.0
+  },
+  {
+   "ticker": "RNA",
+   "name": "Avidity Biosciences, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "14,400,000",
+   "priced_date": "2020-06-12",
+   "offer_usd": 259200000.0
+  },
+  {
+   "ticker": "LTRN",
+   "name": "Lantern Pharma Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "15.00",
+   "shares": "1,750,000",
+   "priced_date": "2020-06-11",
+   "offer_usd": 26250000.0
+  },
+  {
+   "ticker": "UCL",
+   "name": "uCloudlink Group Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "2,010,000",
+   "priced_date": "2020-06-10",
+   "offer_usd": 36180000.0
+  },
+  {
+   "ticker": "HECCU",
+   "name": "Talkspace, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2020-06-09",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "VRM",
+   "name": "Vroom, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "21,250,000",
+   "priced_date": "2020-06-09",
+   "offer_usd": 467500000.0
+  },
+  {
+   "ticker": "DADA",
+   "name": "Dada Nexus Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-06-05",
+   "offer_usd": 320000000.0
+  },
+  {
+   "ticker": "CALT",
+   "name": "Calliditas Therapeutics AB",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.50",
+   "shares": "4,153,385",
+   "priced_date": "2020-06-05",
+   "offer_usd": 80991008.0
+  },
+  {
+   "ticker": "FOUR",
+   "name": "Shift4 Payments, Inc.",
+   "exchange": "NYSE",
+   "price": "23.00",
+   "shares": "15,000,000",
+   "priced_date": "2020-06-05",
+   "offer_usd": 345000000.0
+  },
+  {
+   "ticker": "MCACU",
+   "name": "Playboy, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2020-06-05",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "AMTI",
+   "name": "Applied Molecular Transport Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "11,000,000",
+   "priced_date": "2020-06-05",
+   "offer_usd": 154000000.0
+  },
+  {
+   "ticker": "ARYBU",
+   "name": "Cerevel Therapeutics Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "13,000,000",
+   "priced_date": "2020-06-05",
+   "offer_usd": 130000000.0
+  },
+  {
+   "ticker": "LEGN",
+   "name": "Legend Biotech Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "18,425,000",
+   "priced_date": "2020-06-05",
+   "offer_usd": 423775000.0
+  },
+  {
+   "ticker": "ZI",
+   "name": "ZoomInfo Technologies Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "44,500,000",
+   "priced_date": "2020-06-04",
+   "offer_usd": 934500000.0
+  },
+  {
+   "ticker": "PLRX",
+   "name": "PLIANT THERAPEUTICS, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "9,000,000",
+   "priced_date": "2020-06-03",
+   "offer_usd": 144000000.0
+  },
+  {
+   "ticker": "WMG",
+   "name": "Warner Music Group Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "25.00",
+   "shares": "77,000,000",
+   "priced_date": "2020-06-03",
+   "offer_usd": 1925000000.0
+  }
+ ]
+}

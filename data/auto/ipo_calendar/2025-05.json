@@ -1,0 +1,330 @@
+{
+ "month": "2025-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "PTNM",
+   "name": "Pitanium Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2025-05-30",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "WTGUU",
+   "name": "Wintergreen Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2025-05-29",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "JENAU",
+   "name": "JENA ACQUISITION Corp II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-05-29",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "KCHVU",
+   "name": "Kochav Defense Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-05-28",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "CHPGU",
+   "name": "ChampionsGate Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,500,000",
+   "priced_date": "2025-05-28",
+   "offer_usd": 65000000.0
+  },
+  {
+   "ticker": "FTRK",
+   "name": "Fast Track Group",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-05-23",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "CRAQU",
+   "name": "Cal Redwood Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-05-23",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "PELIU",
+   "name": "Pelican Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2025-05-23",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "HNGE",
+   "name": "Hinge Health, Inc.",
+   "exchange": "NYSE",
+   "price": "32.00",
+   "shares": "13,666,000",
+   "priced_date": "2025-05-22",
+   "offer_usd": 437312000.0
+  },
+  {
+   "ticker": "OYSEU",
+   "name": "Oyster Enterprises II Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-05-22",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "MNTN",
+   "name": "MNTN, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "11,700,000",
+   "priced_date": "2025-05-22",
+   "offer_usd": 187200000.0
+  },
+  {
+   "ticker": "AACIU",
+   "name": "Armada Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-05-21",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "OFAL",
+   "name": "OFA Group",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-05-21",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "PCAPU",
+   "name": "ProCap Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-05-21",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "WENNU",
+   "name": "WEN Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2025-05-16",
+   "offer_usd": 261000000.0
+  },
+  {
+   "ticker": "CCCMU",
+   "name": "Columbus Circle Capital Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-05-16",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "TVAIU",
+   "name": "Thayer Ventures Acquisition Corp II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2025-05-15",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "RTACU",
+   "name": "Renatus Tactical Acquisition Corp I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "21,000,000",
+   "priced_date": "2025-05-15",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "ARAI",
+   "name": "Arrive AI Inc.",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "29,978,212",
+   "priced_date": "2025-05-15",
+   "offer_usd": 372700000.0
+  },
+  {
+   "ticker": "CCCXU",
+   "name": "Infleqtion, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "36,000,000",
+   "priced_date": "2025-05-14",
+   "offer_usd": 360000000.0
+  },
+  {
+   "ticker": "ANTA",
+   "name": "Antalpha Platform Holding Co",
+   "exchange": "NASDAQ Global",
+   "price": "12.80",
+   "shares": "3,850,000",
+   "priced_date": "2025-05-14",
+   "offer_usd": 49280000.0
+  },
+  {
+   "ticker": "ETOR",
+   "name": "eToro Group Ltd.",
+   "exchange": "NASDAQ Global Select",
+   "price": "52.00",
+   "shares": "11,923,018",
+   "priced_date": "2025-05-14",
+   "offer_usd": 619996936.0
+  },
+  {
+   "ticker": "OMSE",
+   "name": "OMS Energy Technologies Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "9.00",
+   "shares": "3,703,704",
+   "priced_date": "2025-05-13",
+   "offer_usd": 33333336.0
+  },
+  {
+   "ticker": "PMTRU",
+   "name": "Perimeter Acquisition Corp. I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "21,000,000",
+   "priced_date": "2025-05-13",
+   "offer_usd": 210000000.0
+  },
+  {
+   "ticker": "APUS",
+   "name": "Apimeds Pharmaceuticals US, Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,375,000",
+   "priced_date": "2025-05-09",
+   "offer_usd": 13500000.0
+  },
+  {
+   "ticker": "EGHAU",
+   "name": "EGH Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-05-09",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "AII",
+   "name": "American Integrity Insurance Group, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "6,875,000",
+   "priced_date": "2025-05-08",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "AHL",
+   "name": "ASPEN INSURANCE HOLDINGS LTD",
+   "exchange": "NYSE",
+   "price": "30.00",
+   "shares": "13,250,000",
+   "priced_date": "2025-05-08",
+   "offer_usd": 397500000.0
+  },
+  {
+   "ticker": "IPODU",
+   "name": "COLLECTIVE ACQUISITION CORP.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2025-05-07",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "CEPT",
+   "name": "Cantor Equity Partners II, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2025-05-02",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "SDM",
+   "name": "Smart Digital Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-05-02",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "CGCTU",
+   "name": "Factorial Energy Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2025-05-02",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "WSBK",
+   "name": "Winchester Bancorp, Inc./MD/",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "3,997,012",
+   "priced_date": "2025-05-02",
+   "offer_usd": 39970120.0
+  },
+  {
+   "ticker": "GTENU",
+   "name": "Gores Holdings X, Inc. / CI",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "31,200,000",
+   "priced_date": "2025-05-02",
+   "offer_usd": 312000000.0
+  },
+  {
+   "ticker": "COPLU",
+   "name": "Copley Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-05-01",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "RDAGU",
+   "name": "Republic Digital Acquisition Co",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "26,400,000",
+   "priced_date": "2025-05-01",
+   "offer_usd": 264000000.0
+  }
+ ]
+}

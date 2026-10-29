@@ -1,0 +1,231 @@
+{
+ "month": "2018-07",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "WISA",
+   "name": "Datavault AI Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,400,000",
+   "priced_date": "2018-07-27",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "OPRA",
+   "name": "Opera Ltd",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "9,600,000",
+   "priced_date": "2018-07-27",
+   "offer_usd": 115200000.0
+  },
+  {
+   "ticker": "ADIL",
+   "name": "ADIAL PHARMACEUTICALS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,464,000",
+   "priced_date": "2018-07-27",
+   "offer_usd": 7320000.0
+  },
+  {
+   "ticker": "DAVA",
+   "name": "Endava plc",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "6,340,000",
+   "priced_date": "2018-07-27",
+   "offer_usd": 126800000.0
+  },
+  {
+   "ticker": "LQDA",
+   "name": "Liquidia Technologies Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "11.00",
+   "shares": "4,545,455",
+   "priced_date": "2018-07-26",
+   "offer_usd": 50000005.0
+  },
+  {
+   "ticker": "TENB",
+   "name": "Tenable Holdings, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "10,900,000",
+   "priced_date": "2018-07-26",
+   "offer_usd": 250700000.0
+  },
+  {
+   "ticker": "BRY",
+   "name": "Berry Corp (bry)",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "13,043,479",
+   "priced_date": "2018-07-26",
+   "offer_usd": 182608706.0
+  },
+  {
+   "ticker": "PDD",
+   "name": "PDD Holdings Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "85,600,000",
+   "priced_date": "2018-07-26",
+   "offer_usd": 1626400000.0
+  },
+  {
+   "ticker": "CANG",
+   "name": "Cango Inc.",
+   "exchange": "NYSE",
+   "price": "11.00",
+   "shares": "4,000,000",
+   "priced_date": "2018-07-26",
+   "offer_usd": 44000000.0
+  },
+  {
+   "ticker": "JG",
+   "name": "Aurora Mobile Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "8.50",
+   "shares": "9,060,000",
+   "priced_date": "2018-07-26",
+   "offer_usd": 77010000.0
+  },
+  {
+   "ticker": "FOCS",
+   "name": "Focus Financial Partners Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "33.00",
+   "shares": "16,216,217",
+   "priced_date": "2018-07-26",
+   "offer_usd": 535135161.0
+  },
+  {
+   "ticker": "BE",
+   "name": "Bloom Energy Corp",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "18,000,000",
+   "priced_date": "2018-07-25",
+   "offer_usd": 270000000.0
+  },
+  {
+   "ticker": "GLACU",
+   "name": "Greenland Technologies Holding Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2018-07-25",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "AQST",
+   "name": "Aquestive Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "4,500,000",
+   "priced_date": "2018-07-25",
+   "offer_usd": 67500000.0
+  },
+  {
+   "ticker": "PRVB",
+   "name": "Provention Bio, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "16,375,000",
+   "priced_date": "2018-07-24",
+   "offer_usd": 65500000.0
+  },
+  {
+   "ticker": "REPL",
+   "name": "Replimune Group, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "6,700,000",
+   "priced_date": "2018-07-20",
+   "offer_usd": 100500000.0
+  },
+  {
+   "ticker": "MYFW",
+   "name": "First Western Financial Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "1,975,000",
+   "priced_date": "2018-07-19",
+   "offer_usd": 37525000.0
+  },
+  {
+   "ticker": "ESTA",
+   "name": "ESTABLISHMENT LABS HOLDINGS INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "18.00",
+   "shares": "3,715,277",
+   "priced_date": "2018-07-19",
+   "offer_usd": 66874986.0
+  },
+  {
+   "ticker": "TLRY",
+   "name": "Tilray Brands, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "9,000,000",
+   "priced_date": "2018-07-19",
+   "offer_usd": 153000000.0
+  },
+  {
+   "ticker": "CNST",
+   "name": "CONSTELLATION PHARMACEUTICALS INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "4,000,000",
+   "priced_date": "2018-07-19",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "ALLK",
+   "name": "Allakos Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "7,133,333",
+   "priced_date": "2018-07-19",
+   "offer_usd": 128399994.0
+  },
+  {
+   "ticker": "CRNX",
+   "name": "Crinetics Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "6,000,000",
+   "priced_date": "2018-07-18",
+   "offer_usd": 102000000.0
+  },
+  {
+   "ticker": "CCB",
+   "name": "COASTAL FINANCIAL CORP",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.50",
+   "shares": "2,850,000",
+   "priced_date": "2018-07-18",
+   "offer_usd": 41325000.0
+  },
+  {
+   "ticker": "RUBY",
+   "name": "Rubius Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "10,483,000",
+   "priced_date": "2018-07-18",
+   "offer_usd": 241109000.0
+  },
+  {
+   "ticker": "ALGRU",
+   "name": "Allegro Merger Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "13,000,000",
+   "priced_date": "2018-07-03",
+   "offer_usd": 130000000.0
+  }
+ ]
+}

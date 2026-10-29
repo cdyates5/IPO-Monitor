@@ -1,0 +1,204 @@
+{
+ "month": "2016-10",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BL",
+   "name": "BLACKLINE, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "8,600,000",
+   "priced_date": "2016-10-28",
+   "offer_usd": 146200000.0
+  },
+  {
+   "ticker": "QTNA",
+   "name": "ON Semiconductor Connectivity Solutions, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "6,700,000",
+   "priced_date": "2016-10-28",
+   "offer_usd": 107200000.0
+  },
+  {
+   "ticker": "GOLF",
+   "name": "Acushnet Holdings Corp.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "19,333,333",
+   "priced_date": "2016-10-28",
+   "offer_usd": 328666661.0
+  },
+  {
+   "ticker": "GTYHU",
+   "name": "GTY Technology Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "48,000,000",
+   "priced_date": "2016-10-27",
+   "offer_usd": 480000000.0
+  },
+  {
+   "ticker": "ZTO",
+   "name": "ZTO Express (Cayman) Inc.",
+   "exchange": "NYSE",
+   "price": "19.50",
+   "shares": "72,100,000",
+   "priced_date": "2016-10-27",
+   "offer_usd": 1405950000.0
+  },
+  {
+   "ticker": "MYOV",
+   "name": "Myovant Sciences Ltd.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "14,500,000",
+   "priced_date": "2016-10-27",
+   "offer_usd": 217500000.0
+  },
+  {
+   "ticker": "RARX",
+   "name": "Ra Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "7,049,230",
+   "priced_date": "2016-10-26",
+   "offer_usd": 91639990.0
+  },
+  {
+   "ticker": "IRTC",
+   "name": "iRhythm Holdings, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "6,294,118",
+   "priced_date": "2016-10-20",
+   "offer_usd": 107000006.0
+  },
+  {
+   "ticker": "FRTA",
+   "name": "Forterra, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "18,420,000",
+   "priced_date": "2016-10-20",
+   "offer_usd": 331560000.0
+  },
+  {
+   "ticker": "CRSP",
+   "name": "CRISPR Therapeutics AG",
+   "exchange": "NASDAQ Global",
+   "price": "14.00",
+   "shares": "4,000,000",
+   "priced_date": "2016-10-19",
+   "offer_usd": 56000000.0
+  },
+  {
+   "ticker": "TUSK",
+   "name": "MAMMOTH ENERGY SERVICES, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "7,750,000",
+   "priced_date": "2016-10-14",
+   "offer_usd": 116250000.0
+  },
+  {
+   "ticker": "AZRE",
+   "name": "Azure Power Global Ltd",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "3,409,091",
+   "priced_date": "2016-10-12",
+   "offer_usd": 61363638.0
+  },
+  {
+   "ticker": "XOG",
+   "name": "Extraction Oil & Gas, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "33,333,333",
+   "priced_date": "2016-10-12",
+   "offer_usd": 633333327.0
+  },
+  {
+   "ticker": "AHPAU",
+   "name": "Organogenesis Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2016-10-11",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "AZRX",
+   "name": "GridAI Technologies Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.50",
+   "shares": "960,000",
+   "priced_date": "2016-10-11",
+   "offer_usd": 5280000.0
+  },
+  {
+   "ticker": "CWH",
+   "name": "Camping World Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "11,363,636",
+   "priced_date": "2016-10-07",
+   "offer_usd": 249999992.0
+  },
+  {
+   "ticker": "MRAM",
+   "name": "EVERSPIN TECHNOLOGIES INC.",
+   "exchange": "NASDAQ Global",
+   "price": "8.00",
+   "shares": "5,000,000",
+   "priced_date": "2016-10-07",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "WAAS",
+   "name": "AquaVenture Holdings Ltd",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "6,500,000",
+   "priced_date": "2016-10-06",
+   "offer_usd": 117000000.0
+  },
+  {
+   "ticker": "OBLN",
+   "name": "Vyome Holdings, Inc",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "5,000,000",
+   "priced_date": "2016-10-06",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "ADSW",
+   "name": "Advanced Disposal Services, Inc.",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "19,250,000",
+   "priced_date": "2016-10-06",
+   "offer_usd": 346500000.0
+  },
+  {
+   "ticker": "AMMA",
+   "name": "SCWorx Corp.",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "4.50",
+   "shares": "3,333,333",
+   "priced_date": "2016-10-06",
+   "offer_usd": 14999999.0
+  },
+  {
+   "ticker": "COUP",
+   "name": "Coupa Software Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "7,400,000",
+   "priced_date": "2016-10-06",
+   "offer_usd": 133200000.0
+  }
+ ]
+}

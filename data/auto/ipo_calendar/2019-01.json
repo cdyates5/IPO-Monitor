@@ -1,0 +1,60 @@
+{
+ "month": "2019-01",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "NFE",
+   "name": "New Fortress Energy Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "20,000,000",
+   "priced_date": "2019-01-31",
+   "offer_usd": 280000000.0
+  },
+  {
+   "ticker": "PVT'U",
+   "name": "KLDiscovery Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2019-01-31",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ANDAU",
+   "name": "STRYVE FOODS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2019-01-29",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "MDJH",
+   "name": "MDJM LTD",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,241,459",
+   "priced_date": "2019-01-08",
+   "offer_usd": 6207295.0
+  },
+  {
+   "ticker": "MTC",
+   "name": "MMTEC, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,800,000",
+   "priced_date": "2019-01-08",
+   "offer_usd": 7200000.0
+  },
+  {
+   "ticker": "SXTC",
+   "name": "China SXT Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,546,275",
+   "priced_date": "2019-01-04",
+   "offer_usd": 10185100.0
+  }
+ ]
+}

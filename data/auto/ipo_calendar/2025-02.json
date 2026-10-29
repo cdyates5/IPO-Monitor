@@ -1,0 +1,267 @@
+{
+ "month": "2025-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "NHICU",
+   "name": "NewHold Investment Corp. III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2025-02-28",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "LOKVU",
+   "name": "Teamshares Inc",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-02-28",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "FERAU",
+   "name": "Fifth Era Acquisition Corp I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-02-28",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "RAC'U",
+   "name": "Rithm Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-02-27",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "WETO",
+   "name": "Wetour Robotics Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-02-27",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "LZMH",
+   "name": "LZ Technology Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,800,000",
+   "priced_date": "2025-02-27",
+   "offer_usd": 7200000.0
+  },
+  {
+   "ticker": "LUD",
+   "name": "Luda Technology Group Ltd",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2025-02-27",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "STAK",
+   "name": "STAK Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-02-26",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "BMGL",
+   "name": "Basel Medical Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,205,000",
+   "priced_date": "2025-02-25",
+   "offer_usd": 8820000.0
+  },
+  {
+   "ticker": "WGRX",
+   "name": "DataMeds AI, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "888,889",
+   "priced_date": "2025-02-21",
+   "offer_usd": 4000001.0
+  },
+  {
+   "ticker": "NNNN",
+   "name": "Anbio Biotechnology",
+   "exchange": "NASDAQ Global",
+   "price": "5.00",
+   "shares": "1,600,000",
+   "priced_date": "2025-02-19",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "NPB",
+   "name": "NORTHPOINTE BANCSHARES INC",
+   "exchange": "NYSE",
+   "price": "14.50",
+   "shares": "10,420,000",
+   "priced_date": "2025-02-14",
+   "offer_usd": 151090000.0
+  },
+  {
+   "ticker": "SAIL",
+   "name": "SailPoint, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "60,000,000",
+   "priced_date": "2025-02-13",
+   "offer_usd": 1380000000.0
+  },
+  {
+   "ticker": "KRMN",
+   "name": "Karman Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "23,000,000",
+   "priced_date": "2025-02-13",
+   "offer_usd": 506000000.0
+  },
+  {
+   "ticker": "AACBU",
+   "name": "Artius II Acquisition Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-02-13",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "MAYAU",
+   "name": "Inflection Point Acquisition Corp. V",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2025-02-13",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "XHLD",
+   "name": "TEN Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.00",
+   "shares": "1,667,000",
+   "priced_date": "2025-02-13",
+   "offer_usd": 10002000.0
+  },
+  {
+   "ticker": "AARD",
+   "name": "Aardvark Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "5,888,000",
+   "priced_date": "2025-02-13",
+   "offer_usd": 94208000.0
+  },
+  {
+   "ticker": "AGH",
+   "name": "Powerus Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2025-02-12",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "ATIIU",
+   "name": "Archimedes Tech SPAC Partners II Co.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-02-11",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "ODYS",
+   "name": "Odysight.ai Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "6.50",
+   "shares": "3,307,692",
+   "priced_date": "2025-02-11",
+   "offer_usd": 21499998.0
+  },
+  {
+   "ticker": "SION",
+   "name": "Sionna Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "10,588,233",
+   "priced_date": "2025-02-07",
+   "offer_usd": 190588194.0
+  },
+  {
+   "ticker": "TTAM",
+   "name": "Titan America SA",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "24,000,000",
+   "priced_date": "2025-02-07",
+   "offer_usd": 384000000.0
+  },
+  {
+   "ticker": "FBGL",
+   "name": "FBS Global Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.50",
+   "shares": "2,250,000",
+   "priced_date": "2025-02-06",
+   "offer_usd": 10125000.0
+  },
+  {
+   "ticker": "EPWK",
+   "name": "EPWK Holdings Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "4.10",
+   "shares": "2,750,000",
+   "priced_date": "2025-02-06",
+   "offer_usd": 11275000.0
+  },
+  {
+   "ticker": "PLUT",
+   "name": "Plutus Financial Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,100,000",
+   "priced_date": "2025-02-05",
+   "offer_usd": 8400000.0
+  },
+  {
+   "ticker": "HCAI",
+   "name": "Huachen AI Parking Management Technology Holding Co., Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-02-05",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "KFIIU",
+   "name": "K&F GROWTH ACQUISITION CORP. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2025-02-05",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "CJMB",
+   "name": "CALLAN JMB INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,280,000",
+   "priced_date": "2025-02-05",
+   "offer_usd": 5120000.0
+  }
+ ]
+}

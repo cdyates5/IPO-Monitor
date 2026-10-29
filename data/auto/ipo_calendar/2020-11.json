@@ -1,0 +1,384 @@
+{
+ "month": "2020-11",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "SGAMU",
+   "name": "Redbox Entertainment Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2020-11-30",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "SPRQU",
+   "name": "Sunlight Financial Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-11-25",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "FRX'U",
+   "name": "Beachbody Company, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2020-11-25",
+   "offer_usd": 261000000.0
+  },
+  {
+   "ticker": "LIXT",
+   "name": "NOMAD POWER SOLUTIONS, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.75",
+   "shares": "1,200,000",
+   "priced_date": "2020-11-25",
+   "offer_usd": 5700000.0
+  },
+  {
+   "ticker": "OZON",
+   "name": "Ozon Holdings PLC",
+   "exchange": "NASDAQ Global Select",
+   "price": "30.00",
+   "shares": "33,000,000",
+   "priced_date": "2020-11-24",
+   "offer_usd": 990000000.0
+  },
+  {
+   "ticker": "TINVU",
+   "name": "Grindr Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2020-11-24",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "HFEN",
+   "name": "Alset Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "7.00",
+   "shares": "2,160,000",
+   "priced_date": "2020-11-24",
+   "offer_usd": 15120000.0
+  },
+  {
+   "ticker": "VMAR",
+   "name": "Vision Marine Technologies Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "2,400,000",
+   "priced_date": "2020-11-24",
+   "offer_usd": 24000000.0
+  },
+  {
+   "ticker": "GNPKU",
+   "name": "Redwire Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2020-11-24",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "SVSVU",
+   "name": "NUSCALE POWER Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-11-24",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "VCVCU",
+   "name": "10X Capital Venture Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2020-11-24",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "BREZU",
+   "name": "Breeze Holdings Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-11-23",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "SHC",
+   "name": "Sotera Health Co",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "46,600,000",
+   "priced_date": "2020-11-20",
+   "offer_usd": 1071800000.0
+  },
+  {
+   "ticker": "OCA'U",
+   "name": "Omnichannel Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-11-20",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "MRVI",
+   "name": "MARAVAI LIFESCIENCES HOLDINGS, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "27.00",
+   "shares": "60,000,000",
+   "priced_date": "2020-11-20",
+   "offer_usd": 1620000000.0
+  },
+  {
+   "ticker": "KWACU",
+   "name": "Kingswood Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-11-20",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "LSAQ",
+   "name": "Science 37 Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2020-11-20",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "ARBGU",
+   "name": "Aequi Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-11-20",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CAS'U",
+   "name": "Cascade Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-11-20",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CHFWU",
+   "name": "Surrozen, Inc./DE",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "8,000,000",
+   "priced_date": "2020-11-19",
+   "offer_usd": 80000000.0
+  },
+  {
+   "ticker": "OLMA",
+   "name": "Olema Pharmaceuticals, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "11,000,000",
+   "priced_date": "2020-11-19",
+   "offer_usd": 209000000.0
+  },
+  {
+   "ticker": "LNFAU",
+   "name": "ZeroFox Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2020-11-19",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "YSG",
+   "name": "Yatsen Holding Ltd",
+   "exchange": "NYSE",
+   "price": "10.50",
+   "shares": "58,750,000",
+   "priced_date": "2020-11-19",
+   "offer_usd": 616875000.0
+  },
+  {
+   "ticker": "NGMS",
+   "name": "Neo Group Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "4,807,522",
+   "priced_date": "2020-11-19",
+   "offer_usd": 81727874.0
+  },
+  {
+   "ticker": "RTPZU",
+   "name": "Hippo Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-11-19",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "JYAC",
+   "name": "Jiya Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-11-19",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "TLS",
+   "name": "TELOS CORP",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "14,968,859",
+   "priced_date": "2020-11-19",
+   "offer_usd": 254470603.0
+  },
+  {
+   "ticker": "IIACU",
+   "name": "Investindustrial Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2020-11-19",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "PHICU",
+   "name": "Population Health Investment Co., Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2020-11-18",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "DGNS",
+   "name": "CVENT HOLDING CORP.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "24,000,000",
+   "priced_date": "2020-11-17",
+   "offer_usd": 240000000.0
+  },
+  {
+   "ticker": "ZNTEU",
+   "name": "Eve Holding, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-11-17",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "PIPPU",
+   "name": "Pine Island Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-11-17",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "OTRAU",
+   "name": "OTR Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2020-11-17",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "CFACU",
+   "name": "AEye, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-11-13",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "BWACU",
+   "name": "Better World Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "11,000,000",
+   "priced_date": "2020-11-13",
+   "offer_usd": 110000000.0
+  },
+  {
+   "ticker": "DMYIU",
+   "name": "ionQ, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "27,500,000",
+   "priced_date": "2020-11-13",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "HAACU",
+   "name": "Health Assurance Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "50,000,000",
+   "priced_date": "2020-11-13",
+   "offer_usd": 500000000.0
+  },
+  {
+   "ticker": "NOACU",
+   "name": "Natural Order Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2020-11-11",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "STICU",
+   "name": "Bark, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2020-11-11",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "ADOCU",
+   "name": "Edoc Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "9,000,000",
+   "priced_date": "2020-11-10",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "TSIAU",
+   "name": "Latch, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2020-11-10",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "DBDRU",
+   "name": "GPGI, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2020-11-06",
+   "offer_usd": 220000000.0
+  }
+ ]
+}

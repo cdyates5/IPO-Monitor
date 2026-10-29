@@ -1,0 +1,267 @@
+{
+ "month": "2025-01",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "INR",
+   "name": "INFINITY NATURAL RESOURCES, INC.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "13,250,000",
+   "priced_date": "2025-01-31",
+   "offer_usd": 265000000.0
+  },
+  {
+   "ticker": "MTSR",
+   "name": "Metsera, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "15,277,778",
+   "priced_date": "2025-01-31",
+   "offer_usd": 275000004.0
+  },
+  {
+   "ticker": "MAZE",
+   "name": "Maze Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "16.00",
+   "shares": "8,750,000",
+   "priced_date": "2025-01-31",
+   "offer_usd": 140000000.0
+  },
+  {
+   "ticker": "BBNX",
+   "name": "Beta Bionics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "12,000,000",
+   "priced_date": "2025-01-30",
+   "offer_usd": 204000000.0
+  },
+  {
+   "ticker": "SVCCU",
+   "name": "Stellar V Capital Corp. (Cayman Islands)",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-01-30",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "CSAI",
+   "name": "CLOUDASTRUCTURE, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "1,701,338",
+   "priced_date": "2025-01-30",
+   "offer_usd": 3315167.0
+  },
+  {
+   "ticker": "FGMCU",
+   "name": "Boxabl Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "8,000,000",
+   "priced_date": "2025-01-29",
+   "offer_usd": 80000000.0
+  },
+  {
+   "ticker": "SFD",
+   "name": "SMITHFIELD FOODS INC",
+   "exchange": "NASDAQ Global Select",
+   "price": "20.00",
+   "shares": "26,086,958",
+   "priced_date": "2025-01-28",
+   "offer_usd": 521739160.0
+  },
+  {
+   "ticker": "DMAAU",
+   "name": "Drugs Made In America Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-01-28",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "VG",
+   "name": "Venture Global, Inc.",
+   "exchange": "NYSE",
+   "price": "25.00",
+   "shares": "70,000,000",
+   "priced_date": "2025-01-24",
+   "offer_usd": 1750000000.0
+  },
+  {
+   "ticker": "AAPG",
+   "name": "ASCENTAGE PHARMA GROUP INTERNATIONAL",
+   "exchange": "NASDAQ Global",
+   "price": "17.25",
+   "shares": "7,325,000",
+   "priced_date": "2025-01-24",
+   "offer_usd": 126356250.0
+  },
+  {
+   "ticker": "COLAU",
+   "name": "Columbus Acquisition Corp/Cayman Islands",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2025-01-23",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "SKBL",
+   "name": "Skyline Builders Group Holding Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-01-23",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "DXST",
+   "name": "Decent Holding Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-01-22",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "MCTR",
+   "name": "TJGC GROUP Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-01-22",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "DGNX",
+   "name": "Diginex Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.10",
+   "shares": "2,250,000",
+   "priced_date": "2025-01-22",
+   "offer_usd": 9225000.0
+  },
+  {
+   "ticker": "TOPP",
+   "name": "Toppoint Holdings Inc.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2025-01-22",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "HVIIU",
+   "name": "ONE Nuclear Energy Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2025-01-17",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "PCLA",
+   "name": "PicoCELA Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2025-01-16",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "FLOC",
+   "name": "Flowco Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "17,800,000",
+   "priced_date": "2025-01-16",
+   "offer_usd": 427200000.0
+  },
+  {
+   "ticker": "HKPD",
+   "name": "Cellyan Biotechnology Co., Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,403,685",
+   "priced_date": "2025-01-15",
+   "offer_usd": 5614740.0
+  },
+  {
+   "ticker": "RIBBU",
+   "name": "Ribbon Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2025-01-15",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "PLMKU",
+   "name": "Plum Acquisition Corp. IV",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-01-15",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "UFG",
+   "name": "Uni-Fuels Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,100,000",
+   "priced_date": "2025-01-14",
+   "offer_usd": 8400000.0
+  },
+  {
+   "ticker": "MIMI",
+   "name": "Axonex AI Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2025-01-10",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "MASK",
+   "name": "3 E Network Technology Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-01-08",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "ZYBT",
+   "name": "Zhengye Biotechnology Holding Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-01-07",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "CEPO",
+   "name": "Cantor Equity Partners I, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-01-07",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "INLF",
+   "name": "INLIF Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-01-02",
+   "offer_usd": 8000000.0
+  }
+ ]
+}

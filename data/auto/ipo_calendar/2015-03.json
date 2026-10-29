@@ -1,0 +1,105 @@
+{
+ "month": "2015-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "JCAP",
+   "name": "Jernigan Capital, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "20.00",
+   "shares": "5,000,000",
+   "priced_date": "2015-03-27",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "FSB",
+   "name": "Franklin Financial Network Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "21.00",
+   "shares": "2,640,000",
+   "priced_date": "2015-03-26",
+   "offer_usd": 55440000.0
+  },
+  {
+   "ticker": "SEDG",
+   "name": "SOLAREDGE TECHNOLOGIES, INC.",
+   "exchange": "Nasdaq National Market",
+   "price": "18.00",
+   "shares": "7,000,000",
+   "priced_date": "2015-03-26",
+   "offer_usd": 126000000.0
+  },
+  {
+   "ticker": "CLLS",
+   "name": "Cellectis S.A.",
+   "exchange": "Nasdaq National Market",
+   "price": "41.50",
+   "shares": "5,500,000",
+   "priced_date": "2015-03-25",
+   "offer_usd": 228250000.0
+  },
+  {
+   "ticker": "HRMNU",
+   "name": "NextDecade Corp",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2015-03-24",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "TANH",
+   "name": "TANTECH HOLDINGS LTD",
+   "exchange": "Nasdaq SmallCap Market",
+   "price": "4.00",
+   "shares": "3,200,000",
+   "priced_date": "2015-03-24",
+   "offer_usd": 12800000.0
+  },
+  {
+   "ticker": "STDY",
+   "name": "SteadyMed Ltd.",
+   "exchange": "Nasdaq National Market",
+   "price": "8.50",
+   "shares": "4,700,000",
+   "priced_date": "2015-03-20",
+   "offer_usd": 39950000.0
+  },
+  {
+   "ticker": "NCOM",
+   "name": "National Commerce Corp",
+   "exchange": "Nasdaq National Market",
+   "price": "19.50",
+   "shares": "1,700,000",
+   "priced_date": "2015-03-19",
+   "offer_usd": 33150000.0
+  },
+  {
+   "ticker": "SUM",
+   "name": "Summit Materials, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "18.00",
+   "shares": "22,222,222",
+   "priced_date": "2015-03-12",
+   "offer_usd": 399999996.0
+  },
+  {
+   "ticker": "MXPT",
+   "name": "MaxPoint Interactive, Inc.",
+   "exchange": "New York Stock Exchange",
+   "price": "11.50",
+   "shares": "6,500,000",
+   "priced_date": "2015-03-06",
+   "offer_usd": 74750000.0
+  },
+  {
+   "ticker": "SMMT",
+   "name": "Summit Therapeutics Inc.",
+   "exchange": "Nasdaq National Market",
+   "price": "9.90",
+   "shares": "3,450,000",
+   "priced_date": "2015-03-05",
+   "offer_usd": 34155000.0
+  }
+ ]
+}

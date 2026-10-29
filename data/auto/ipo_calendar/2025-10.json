@@ -1,0 +1,357 @@
+{
+ "month": "2025-10",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "NOMA",
+   "name": "Nomadar Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "13,268,718",
+   "priced_date": "2025-10-31",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "VACIU",
+   "name": "NorthStar Earth & Space Enterprises, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-10-31",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "DNMXU",
+   "name": "Dynamix Corp III",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2025-10-30",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "NAVN",
+   "name": "Navan, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "25.00",
+   "shares": "36,924,406",
+   "priced_date": "2025-10-30",
+   "offer_usd": 923110150.0
+  },
+  {
+   "ticker": "DYORU",
+   "name": "Insight Digital Partners II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2025-10-29",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "APXTU",
+   "name": "Apex Treasury Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2025-10-28",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "MPLT",
+   "name": "MapLight Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "14,750,000",
+   "priced_date": "2025-10-27",
+   "offer_usd": 250750000.0
+  },
+  {
+   "ticker": "LAFAU",
+   "name": "LaFayette Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2025-10-24",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "MMTXU",
+   "name": "Miluna Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2025-10-23",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "HAVAU",
+   "name": "Harvard Ave Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "14,500,000",
+   "priced_date": "2025-10-23",
+   "offer_usd": 145000000.0
+  },
+  {
+   "ticker": "ALISU",
+   "name": "Calisa Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2025-10-22",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "NPT",
+   "name": "Texxon Holding Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,900,000",
+   "priced_date": "2025-10-22",
+   "offer_usd": 9500000.0
+  },
+  {
+   "ticker": "AGCC",
+   "name": "Agencia Comercial Spirits Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,750,000",
+   "priced_date": "2025-10-22",
+   "offer_usd": 7000000.0
+  },
+  {
+   "ticker": "MCTA",
+   "name": "Charming Medical Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,600,000",
+   "priced_date": "2025-10-21",
+   "offer_usd": 6400000.0
+  },
+  {
+   "ticker": "BGIN",
+   "name": "BGIN BLOCKCHAIN Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "6.00",
+   "shares": "5,000,000",
+   "priced_date": "2025-10-21",
+   "offer_usd": 30000000.0
+  },
+  {
+   "ticker": "AHMA",
+   "name": "AMBITIONS ENTERPRISE MANAGEMENT CO. L.L.C",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2025-10-21",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "ACCL",
+   "name": "Acco Group Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,400,000",
+   "priced_date": "2025-10-17",
+   "offer_usd": 5600000.0
+  },
+  {
+   "ticker": "OWLS",
+   "name": "OBOOK HOLDINGS INC.",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "4,729,695",
+   "priced_date": "2025-10-16",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "SEV",
+   "name": "Aptera Motors Corp",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "31,741,948",
+   "priced_date": "2025-10-16",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "SLGB",
+   "name": "Smart Logistics Global Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,000,000",
+   "priced_date": "2025-10-15",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "TCGL",
+   "name": "TechCreate Group Ltd.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "2,550,000",
+   "priced_date": "2025-10-15",
+   "offer_usd": 10200000.0
+  },
+  {
+   "ticker": "RPGL",
+   "name": "Republic Power Group Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,120,000",
+   "priced_date": "2025-10-14",
+   "offer_usd": 8480000.0
+  },
+  {
+   "ticker": "LFS",
+   "name": "LEIFRAS Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-10-09",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "YDDL",
+   "name": "One & one Green Technologies. INC",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,000,000",
+   "priced_date": "2025-10-09",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "ALH",
+   "name": "Alliance Laundry Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "37,560,974",
+   "priced_date": "2025-10-09",
+   "offer_usd": 826341428.0
+  },
+  {
+   "ticker": "PXED",
+   "name": "Phoenix Education Partners, Inc.",
+   "exchange": "NYSE",
+   "price": "32.00",
+   "shares": "4,250,000",
+   "priced_date": "2025-10-09",
+   "offer_usd": 136000000.0
+  },
+  {
+   "ticker": "TTRX",
+   "name": "Turn Therapeutics Inc.",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "17,868,760",
+   "priced_date": "2025-10-08",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "POM",
+   "name": "POMDOCTOR Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "4.00",
+   "shares": "5,000,004",
+   "priced_date": "2025-10-08",
+   "offer_usd": 20000016.0
+  },
+  {
+   "ticker": "LKSPU",
+   "name": "Lake Superior Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2025-10-07",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "GIWWU",
+   "name": "GigCapital8 Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,000,000",
+   "priced_date": "2025-10-06",
+   "offer_usd": 220000000.0
+  },
+  {
+   "ticker": "AIIAU",
+   "name": "AI Infrastructure Acquisition Corp.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "12,000,000",
+   "priced_date": "2025-10-03",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "CCHH",
+   "name": "CCH Holdings Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-10-03",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "RNGTU",
+   "name": "Range Capital Acquisition Corp II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2025-10-03",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "CBK",
+   "name": "Commercial Bancgroup, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "24.00",
+   "shares": "7,173,092",
+   "priced_date": "2025-10-02",
+   "offer_usd": 172154208.0
+  },
+  {
+   "ticker": "AGRZ",
+   "name": "Agroz Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,250,000",
+   "priced_date": "2025-10-01",
+   "offer_usd": 5000000.0
+  },
+  {
+   "ticker": "NP",
+   "name": "Neptune Insurance Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "18,421,053",
+   "priced_date": "2025-10-01",
+   "offer_usd": 368421060.0
+  },
+  {
+   "ticker": "KRSPU",
+   "name": "Rice Acquisition Corp 3",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2025-10-01",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "YCYU",
+   "name": "AA Mission Acquisition Corp. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2025-10-01",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "FRMI",
+   "name": "Fermi Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "32,500,000",
+   "priced_date": "2025-10-01",
+   "offer_usd": 682500000.0
+  }
+ ]
+}

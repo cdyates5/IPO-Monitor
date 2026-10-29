@@ -1,0 +1,78 @@
+{
+ "month": "2023-12",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "NBBK",
+   "name": "NB Bancorp, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "40,997,500",
+   "priced_date": "2023-12-28",
+   "offer_usd": 409975000.0
+  },
+  {
+   "ticker": "IROHU",
+   "name": "CN Healthy Food Tech Group Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,100,000",
+   "priced_date": "2023-12-27",
+   "offer_usd": 61000000.0
+  },
+  {
+   "ticker": "LGCB",
+   "name": "Linkage Global Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2023-12-19",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "BAYAU",
+   "name": "Bayview Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-12-15",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "ZKH",
+   "name": "ZKH Group Ltd",
+   "exchange": "NYSE",
+   "price": "15.50",
+   "shares": "4,000,000",
+   "priced_date": "2023-12-15",
+   "offer_usd": 62000000.0
+  },
+  {
+   "ticker": "INHD",
+   "name": "INNO HOLDINGS INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2023-12-14",
+   "offer_usd": 10000000.0
+  },
+  {
+   "ticker": "AFJKU",
+   "name": "Aimei Health Technology Co., Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2023-12-04",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "GSIW",
+   "name": "Garden Stage Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,500,000",
+   "priced_date": "2023-12-01",
+   "offer_usd": 10000000.0
+  }
+ ]
+}

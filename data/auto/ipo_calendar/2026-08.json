@@ -1,0 +1,213 @@
+{
+ "month": "2026-08",
+ "fetched_utc": "2026-10-29T04:56:24Z",
+ "priced": [
+  {
+   "ticker": "IPHXU",
+   "name": "Inflection Point Acquisition Corp. VIII",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2026-08-28",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "RNAQU",
+   "name": "Rainier Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2026-08-27",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "JTTT",
+   "name": "JATT III Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2026-08-26",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "SCATU",
+   "name": "Southern Cross Acquisition II Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2026-08-26",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "ADBT",
+   "name": "Advasa Holdings, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": null,
+   "shares": "94,046,357",
+   "priced_date": "2026-08-25",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "FBDT",
+   "name": "First Breach, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "70,728,866",
+   "priced_date": "2026-08-20",
+   "offer_usd": 0.0
+  },
+  {
+   "ticker": "LYNX",
+   "name": "Lyntris Inc.",
+   "exchange": "NYSE",
+   "price": "17.50",
+   "shares": "17,000,000",
+   "priced_date": "2026-08-19",
+   "offer_usd": 297500000.0
+  },
+  {
+   "ticker": "XTERU",
+   "name": "Xterax Corp II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-08-18",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "NSAIU",
+   "name": "NorthStrive Acquisition Corp I.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-08-18",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "TBCVU",
+   "name": "Thunder Bridge Capital Partners V, Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "26,100,000",
+   "priced_date": "2026-08-13",
+   "offer_usd": 261000000.0
+  },
+  {
+   "ticker": "FOIL",
+   "name": "Londian Wason New Energy Tech Inc.",
+   "exchange": "NYSE",
+   "price": "22.00",
+   "shares": "4,285,714",
+   "priced_date": "2026-08-12",
+   "offer_usd": 94285708.0
+  },
+  {
+   "ticker": "VOGX",
+   "name": "Vogenx, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "13.00",
+   "shares": "6,250,000",
+   "priced_date": "2026-08-12",
+   "offer_usd": 81250000.0
+  },
+  {
+   "ticker": "SNSC",
+   "name": "SunScout Holding Ltd",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "3,100,000",
+   "priced_date": "2026-08-12",
+   "offer_usd": 15500000.0
+  },
+  {
+   "ticker": "TP",
+   "name": "Ticketplus Ltd.",
+   "exchange": "NYSE MKT",
+   "price": "8.00",
+   "shares": "1,875,000",
+   "priced_date": "2026-08-07",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "LTGO",
+   "name": "Latigo Biotherapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "19,200,000",
+   "priced_date": "2026-08-07",
+   "offer_usd": 345600000.0
+  },
+  {
+   "ticker": "BLSM",
+   "name": "BlossomHill Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "9,375,000",
+   "priced_date": "2026-08-07",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "OCLTU",
+   "name": "OceanLight Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-08-07",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "PNAQU",
+   "name": "Pinnacle Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-08-07",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "BRVE",
+   "name": "Braveheart Bio, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "21,250,000",
+   "priced_date": "2026-08-06",
+   "offer_usd": 382500000.0
+  },
+  {
+   "ticker": "TCGX",
+   "name": "TCGX Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2026-08-05",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "ATTO",
+   "name": "Attovia Therapeutics, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "17,000,000",
+   "priced_date": "2026-08-05",
+   "offer_usd": 289000000.0
+  },
+  {
+   "ticker": "THEOU",
+   "name": "BOA Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2026-08-04",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "FJDIU",
+   "name": "ARC Group Securities Acquisition I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,500,000",
+   "priced_date": "2026-08-04",
+   "offer_usd": 105000000.0
+  }
+ ]
+}

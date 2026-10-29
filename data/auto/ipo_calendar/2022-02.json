@@ -1,0 +1,285 @@
+{
+ "month": "2022-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "GSRMU",
+   "name": "Bitcoin Depot Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "27,500,000",
+   "priced_date": "2022-02-25",
+   "offer_usd": 275000000.0
+  },
+  {
+   "ticker": "FGMCU",
+   "name": "iCoreConnect Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,000,000",
+   "priced_date": "2022-02-25",
+   "offer_usd": 70000000.0
+  },
+  {
+   "ticker": "CLINU",
+   "name": "Aedis Energy Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-02-24",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "BWV",
+   "name": "Onconetix, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "9.00",
+   "shares": "2,222,222",
+   "priced_date": "2022-02-18",
+   "offer_usd": 19999998.0
+  },
+  {
+   "ticker": "PWUPU",
+   "name": "Aspire-Lakewood Holdings, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2022-02-18",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "FTIIU",
+   "name": "FutureTech II Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-02-16",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "AXACU",
+   "name": "AXIOS Sustainable Growth Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2022-02-16",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "SMFL",
+   "name": "SMART FOR LIFE, INC.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "1,440,000",
+   "priced_date": "2022-02-16",
+   "offer_usd": 14400000.0
+  },
+  {
+   "ticker": "MHUA",
+   "name": "Meihua International Medical Technologies Co., Ltd.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "3,600,000",
+   "priced_date": "2022-02-16",
+   "offer_usd": 36000000.0
+  },
+  {
+   "ticker": "GENQU",
+   "name": "Genesis Unicorn Capital Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2022-02-15",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "ASCAU",
+   "name": "ASPAC I Acquisition Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2022-02-15",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "HNRAU",
+   "name": "EON Resources Inc.",
+   "exchange": "NYSE MKT",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2022-02-11",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "JGGCU",
+   "name": "Jaguar Global Growth Corp I",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-02-11",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "TCBP",
+   "name": "TC BioPharm (Holdings) plc",
+   "exchange": "NASDAQ Capital",
+   "price": "4.25",
+   "shares": "4,117,648",
+   "priced_date": "2022-02-11",
+   "offer_usd": 17500004.0
+  },
+  {
+   "ticker": "DRCT",
+   "name": "Direct Digital Holdings, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.50",
+   "shares": "2,800,000",
+   "priced_date": "2022-02-11",
+   "offer_usd": 15400000.0
+  },
+  {
+   "ticker": "MDV",
+   "name": "MODIV INDUSTRIAL, INC.",
+   "exchange": "NYSE",
+   "price": "25.00",
+   "shares": "40,000",
+   "priced_date": "2022-02-11",
+   "offer_usd": 1000000.0
+  },
+  {
+   "ticker": "RACYU",
+   "name": "Relativity Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "12,500,000",
+   "priced_date": "2022-02-11",
+   "offer_usd": 125000000.0
+  },
+  {
+   "ticker": "SGHLU",
+   "name": "Signal Hill Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-02-11",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "HTCR",
+   "name": "HeartCore Enterprises, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,000,000",
+   "priced_date": "2022-02-10",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "SKYX",
+   "name": "SKYX Platforms Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "14.00",
+   "shares": "1,650,000",
+   "priced_date": "2022-02-10",
+   "offer_usd": 23100000.0
+  },
+  {
+   "ticker": "EVGRU",
+   "name": "Evergreen Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-02-09",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "CPAQU",
+   "name": "Counter Press Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2022-02-09",
+   "offer_usd": 75000000.0
+  },
+  {
+   "ticker": "BYNOU",
+   "name": "byNordic Acquisition Corp",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2022-02-09",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "LIVBU",
+   "name": "LIV Capital Acquisition Corp. II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2022-02-08",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "ATAKU",
+   "name": "DIH HOLDING US, INC.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-02-07",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "NVCT",
+   "name": "Nuvectis Pharma, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "3,200,000",
+   "priced_date": "2022-02-04",
+   "offer_usd": 16000000.0
+  },
+  {
+   "ticker": "ACLX",
+   "name": "Arcellx, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "8,250,000",
+   "priced_date": "2022-02-04",
+   "offer_usd": 123750000.0
+  },
+  {
+   "ticker": "TGR'U",
+   "name": "Kimbell Tiger Acquisition Corp",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-02-04",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "MURFU",
+   "name": "CDT Equity Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "11,500,000",
+   "priced_date": "2022-02-03",
+   "offer_usd": 115000000.0
+  },
+  {
+   "ticker": "MTEK",
+   "name": "Maris Tech Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.20",
+   "shares": "3,690,477",
+   "priced_date": "2022-02-02",
+   "offer_usd": 15500003.0
+  },
+  {
+   "ticker": "ACAXU",
+   "name": "EnerSyn Global Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "7,500,000",
+   "priced_date": "2022-02-01",
+   "offer_usd": 75000000.0
+  }
+ ]
+}

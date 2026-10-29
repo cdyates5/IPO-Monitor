@@ -1,0 +1,177 @@
+{
+ "month": "2018-03",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "IQ",
+   "name": "iQIYI, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "18.00",
+   "shares": "125,000,000",
+   "priced_date": "2018-03-29",
+   "offer_usd": 2250000000.0
+  },
+  {
+   "ticker": "GNPX",
+   "name": "Genprex, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,280,000",
+   "priced_date": "2018-03-29",
+   "offer_usd": 6400000.0
+  },
+  {
+   "ticker": "UMRX",
+   "name": "Cogent Biosciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "5,770,000",
+   "priced_date": "2018-03-29",
+   "offer_usd": 69240000.0
+  },
+  {
+   "ticker": "FIXX",
+   "name": "Q32 Bio Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "9,000,000",
+   "priced_date": "2018-03-28",
+   "offer_usd": 144000000.0
+  },
+  {
+   "ticker": "BILI",
+   "name": "Bilibili Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.50",
+   "shares": "42,000,000",
+   "priced_date": "2018-03-28",
+   "offer_usd": 483000000.0
+  },
+  {
+   "ticker": "ONE",
+   "name": "Meta Data Ltd",
+   "exchange": "NYSE",
+   "price": "11.00",
+   "shares": "16,300,000",
+   "priced_date": "2018-03-28",
+   "offer_usd": 179300000.0
+  },
+  {
+   "ticker": "OPBK",
+   "name": "OP Bancorp",
+   "exchange": "NASDAQ Global",
+   "price": "11.00",
+   "shares": "2,000,000",
+   "priced_date": "2018-03-28",
+   "offer_usd": 22000000.0
+  },
+  {
+   "ticker": "GHG",
+   "name": "GreenTree Hospitality Group Ltd.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "10,200,000",
+   "priced_date": "2018-03-27",
+   "offer_usd": 142800000.0
+  },
+  {
+   "ticker": "DBX",
+   "name": "DROPBOX, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "36,000,000",
+   "priced_date": "2018-03-23",
+   "offer_usd": 756000000.0
+  },
+  {
+   "ticker": "STG",
+   "name": "Sunlands Technology Group",
+   "exchange": "NYSE",
+   "price": "11.50",
+   "shares": "13,000,000",
+   "priced_date": "2018-03-23",
+   "offer_usd": 149500000.0
+  },
+  {
+   "ticker": "BDRY",
+   "name": "Amplify Commodity Trust",
+   "exchange": "NYSE Arca",
+   "price": "25.00",
+   "shares": "10,000,000",
+   "priced_date": "2018-03-22",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "DNJR",
+   "name": "Bit Digital, Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,550,000",
+   "priced_date": "2018-03-20",
+   "offer_usd": 6200000.0
+  },
+  {
+   "ticker": "ZS",
+   "name": "Zscaler, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "12,000,000",
+   "priced_date": "2018-03-16",
+   "offer_usd": 192000000.0
+  },
+  {
+   "ticker": "AIHS",
+   "name": "Valor Energy Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,000,000",
+   "priced_date": "2018-03-16",
+   "offer_usd": 12000000.0
+  },
+  {
+   "ticker": "TIBRU",
+   "name": "Tiberius Acquisition Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2018-03-16",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "RCUS",
+   "name": "Arcus Biosciences, Inc.",
+   "exchange": "NYSE",
+   "price": "15.00",
+   "shares": "8,000,000",
+   "priced_date": "2018-03-15",
+   "offer_usd": 120000000.0
+  },
+  {
+   "ticker": "OPESU",
+   "name": "BurgerFi International, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2018-03-14",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "BWB",
+   "name": "Bridgewater Bancshares Inc",
+   "exchange": "NASDAQ Global Select",
+   "price": "11.75",
+   "shares": "6,700,000",
+   "priced_date": "2018-03-14",
+   "offer_usd": 78725000.0
+  },
+  {
+   "ticker": "BTAI",
+   "name": "BioXcel Therapeutics, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "11.00",
+   "shares": "5,454,545",
+   "priced_date": "2018-03-08",
+   "offer_usd": 59999995.0
+  }
+ ]
+}

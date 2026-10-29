@@ -1,0 +1,159 @@
+{
+ "month": "2022-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BNRG",
+   "name": "BRENX LTD.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.18",
+   "shares": "3,340,620",
+   "priced_date": "2022-05-25",
+   "offer_usd": 17304412.0
+  },
+  {
+   "ticker": "VEDU",
+   "name": "Visionary Holdings Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "4,250,000",
+   "priced_date": "2022-05-17",
+   "offer_usd": 17000000.0
+  },
+  {
+   "ticker": "OKYO",
+   "name": "OKYO Pharma Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "625,000",
+   "priced_date": "2022-05-17",
+   "offer_usd": 2500000.0
+  },
+  {
+   "ticker": "BGXX",
+   "name": "Bright Green Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "8.00",
+   "shares": "158,249,000",
+   "priced_date": "2022-05-17",
+   "offer_usd": 1265992000.0
+  },
+  {
+   "ticker": "PNACU",
+   "name": "Prime Number Acquisition I Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "6,000,000",
+   "priced_date": "2022-05-13",
+   "offer_usd": 60000000.0
+  },
+  {
+   "ticker": "ASNS",
+   "name": "ACTELIS NETWORKS INC",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "3,750,000",
+   "priced_date": "2022-05-13",
+   "offer_usd": 15000000.0
+  },
+  {
+   "ticker": "PFHC",
+   "name": "ProFrac Holding Corp.",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "16,000,000",
+   "priced_date": "2022-05-13",
+   "offer_usd": 288000000.0
+  },
+  {
+   "ticker": "HNVR",
+   "name": "Hanover Bancorp, Inc. /MD",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "1,275,000",
+   "priced_date": "2022-05-11",
+   "offer_usd": 26775000.0
+  },
+  {
+   "ticker": "MCACU",
+   "name": "ConnectM Technology Solutions, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "8,000,000",
+   "priced_date": "2022-05-11",
+   "offer_usd": 80000000.0
+  },
+  {
+   "ticker": "GBBKU",
+   "name": "Global Blockchain Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "15,000,000",
+   "priced_date": "2022-05-10",
+   "offer_usd": 150000000.0
+  },
+  {
+   "ticker": "IVCAU",
+   "name": "Libity",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "22,500,000",
+   "priced_date": "2022-05-10",
+   "offer_usd": 225000000.0
+  },
+  {
+   "ticker": "PEPG",
+   "name": "PepGen Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "9,000,000",
+   "priced_date": "2022-05-06",
+   "offer_usd": 108000000.0
+  },
+  {
+   "ticker": "RENEU",
+   "name": "Cartesian Growth Corp II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2022-05-06",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "BLCO",
+   "name": "Bausch & Lomb Corp",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "35,000,000",
+   "priced_date": "2022-05-06",
+   "offer_usd": 630000000.0
+  },
+  {
+   "ticker": "EDBL",
+   "name": "Edible Garden AG Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "2,930,000",
+   "priced_date": "2022-05-05",
+   "offer_usd": 14650000.0
+  },
+  {
+   "ticker": "AUST",
+   "name": "Austin Gold Corp.",
+   "exchange": "NYSE MKT",
+   "price": "4.00",
+   "shares": "3,265,000",
+   "priced_date": "2022-05-04",
+   "offer_usd": 13060000.0
+  },
+  {
+   "ticker": "ASCBU",
+   "name": "ASPAC II Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "18,500,000",
+   "priced_date": "2022-05-03",
+   "offer_usd": 185000000.0
+  }
+ ]
+}

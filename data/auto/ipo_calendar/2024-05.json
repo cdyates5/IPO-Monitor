@@ -1,0 +1,132 @@
+{
+ "month": "2024-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "KDLY",
+   "name": "Nakamoto Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.50",
+   "shares": "1,240,910",
+   "priced_date": "2024-05-31",
+   "offer_usd": 6825005.0
+  },
+  {
+   "ticker": "BOW",
+   "name": "Bowhead Specialty Holdings Inc.",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "7,529,412",
+   "priced_date": "2024-05-23",
+   "offer_usd": 128000004.0
+  },
+  {
+   "ticker": "HDL",
+   "name": "SUPER HI INTERNATIONAL HOLDING LTD.",
+   "exchange": "NASDAQ Global",
+   "price": "19.56",
+   "shares": "2,692,700",
+   "priced_date": "2024-05-17",
+   "offer_usd": 52669212.0
+  },
+  {
+   "ticker": "RFAIU",
+   "name": "RF Acquisition Corp II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2024-05-17",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "RAY",
+   "name": "Atlas Trinity Tech Co., Ltd.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "1,500,000",
+   "priced_date": "2024-05-15",
+   "offer_usd": 6000000.0
+  },
+  {
+   "ticker": "JDZG",
+   "name": "JIADE Ltd",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,000,000",
+   "priced_date": "2024-05-15",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "BTOC",
+   "name": "Armlogi Holding Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "5.00",
+   "shares": "1,600,000",
+   "priced_date": "2024-05-14",
+   "offer_usd": 8000000.0
+  },
+  {
+   "ticker": "ZK",
+   "name": "ZEEKR Intelligent Technology Holding Ltd",
+   "exchange": "NYSE",
+   "price": "21.00",
+   "shares": "21,000,000",
+   "priced_date": "2024-05-10",
+   "offer_usd": 441000000.0
+  },
+  {
+   "ticker": "GPATU",
+   "name": "GP-Act III Acquisition Corp.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2024-05-09",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "PAL",
+   "name": "Proficient Auto Logistics, Inc",
+   "exchange": "NASDAQ Global",
+   "price": "15.00",
+   "shares": "14,333,333",
+   "priced_date": "2024-05-09",
+   "offer_usd": 214999995.0
+  },
+  {
+   "ticker": "SVCO",
+   "name": "Silvaco Group, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "6,000,000",
+   "priced_date": "2024-05-09",
+   "offer_usd": 114000000.0
+  },
+  {
+   "ticker": "NNE",
+   "name": "Nano Nuclear Energy Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "4.00",
+   "shares": "2,562,500",
+   "priced_date": "2024-05-08",
+   "offer_usd": 10250000.0
+  },
+  {
+   "ticker": "CCIXU",
+   "name": "Churchill Capital Corp IX/Cayman",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "25,000,000",
+   "priced_date": "2024-05-02",
+   "offer_usd": 250000000.0
+  },
+  {
+   "ticker": "VIK",
+   "name": "Viking Holdings Ltd",
+   "exchange": "NYSE",
+   "price": "24.00",
+   "shares": "64,041,668",
+   "priced_date": "2024-05-01",
+   "offer_usd": 1537000032.0
+  }
+ ]
+}

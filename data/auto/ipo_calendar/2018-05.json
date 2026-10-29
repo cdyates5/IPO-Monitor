@@ -1,0 +1,222 @@
+{
+ "month": "2018-05",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "HJLI",
+   "name": "enVVeno Medical Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,500,000",
+   "priced_date": "2018-05-31",
+   "offer_usd": 7500000.0
+  },
+  {
+   "ticker": "TDACU",
+   "name": "Sports Entertainment Gaming Global Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "10.00",
+   "shares": "17,500,000",
+   "priced_date": "2018-05-30",
+   "offer_usd": 175000000.0
+  },
+  {
+   "ticker": "ITRM",
+   "name": "Iterum Therapeutics plc",
+   "exchange": "NASDAQ Global",
+   "price": "13.00",
+   "shares": "6,150,000",
+   "priced_date": "2018-05-25",
+   "offer_usd": 79950000.0
+  },
+  {
+   "ticker": "SRRK",
+   "name": "Scholar Rock Holding Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "5,360,000",
+   "priced_date": "2018-05-24",
+   "offer_usd": 75040000.0
+  },
+  {
+   "ticker": "CLPS",
+   "name": "CLPS Inc",
+   "exchange": "NASDAQ Capital",
+   "price": "5.25",
+   "shares": "2,000,000",
+   "priced_date": "2018-05-24",
+   "offer_usd": 10500000.0
+  },
+  {
+   "ticker": "KNSA",
+   "name": "Kiniksa Pharmaceuticals International, plc",
+   "exchange": "NASDAQ Global Select",
+   "price": "18.00",
+   "shares": "8,477,777",
+   "priced_date": "2018-05-24",
+   "offer_usd": 152599986.0
+  },
+  {
+   "ticker": "GSKY",
+   "name": "GreenSky, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "23.00",
+   "shares": "38,000,000",
+   "priced_date": "2018-05-24",
+   "offer_usd": 874000000.0
+  },
+  {
+   "ticker": "EVOP",
+   "name": "EVO Payments, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "14,000,000",
+   "priced_date": "2018-05-23",
+   "offer_usd": 224000000.0
+  },
+  {
+   "ticker": "PS",
+   "name": "Pluralsight, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "20,700,000",
+   "priced_date": "2018-05-17",
+   "offer_usd": 310500000.0
+  },
+  {
+   "ticker": "VTIQU",
+   "name": "Nikola Corp",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2018-05-16",
+   "offer_usd": 200000000.0
+  },
+  {
+   "ticker": "TMCXU",
+   "name": "Trinity Merger Corp.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "30,000,000",
+   "priced_date": "2018-05-15",
+   "offer_usd": 300000000.0
+  },
+  {
+   "ticker": "HUYA",
+   "name": "HUYA Inc.",
+   "exchange": "NYSE",
+   "price": "12.00",
+   "shares": "15,000,000",
+   "priced_date": "2018-05-11",
+   "offer_usd": 180000000.0
+  },
+  {
+   "ticker": "EQH",
+   "name": "Equitable Holdings, Inc.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "137,250,000",
+   "priced_date": "2018-05-10",
+   "offer_usd": 2745000000.0
+  },
+  {
+   "ticker": "EVLO",
+   "name": "Evelo Biosciences, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "5,312,500",
+   "priced_date": "2018-05-09",
+   "offer_usd": 85000000.0
+  },
+  {
+   "ticker": "OBNK",
+   "name": "Origin Bancorp, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "34.00",
+   "shares": "3,636,176",
+   "priced_date": "2018-05-09",
+   "offer_usd": 123629984.0
+  },
+  {
+   "ticker": "STXB",
+   "name": "Spirit of Texas Bancshares, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "21.00",
+   "shares": "2,000,000",
+   "priced_date": "2018-05-04",
+   "offer_usd": 42000000.0
+  },
+  {
+   "ticker": "CBLK",
+   "name": "Carbon Black, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "19.00",
+   "shares": "8,000,000",
+   "priced_date": "2018-05-04",
+   "offer_usd": 152000000.0
+  },
+  {
+   "ticker": "BCML",
+   "name": "BayCom Corp",
+   "exchange": "NASDAQ Global Select",
+   "price": "22.00",
+   "shares": "2,851,218",
+   "priced_date": "2018-05-04",
+   "offer_usd": 62726796.0
+  },
+  {
+   "ticker": "ROAD",
+   "name": "Construction Partners, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "12.00",
+   "shares": "11,250,000",
+   "priced_date": "2018-05-04",
+   "offer_usd": 135000000.0
+  },
+  {
+   "ticker": "ASLN",
+   "name": "ASLAN Pharmaceuticals Ltd",
+   "exchange": "NASDAQ Global",
+   "price": "7.03",
+   "shares": "6,000,000",
+   "priced_date": "2018-05-04",
+   "offer_usd": 42180000.0
+  },
+  {
+   "ticker": "XSPL",
+   "name": "Vinco Ventures, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "5.00",
+   "shares": "1,307,120",
+   "priced_date": "2018-05-03",
+   "offer_usd": 6535600.0
+  },
+  {
+   "ticker": "UBX",
+   "name": "Unity Biotechnology, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.00",
+   "shares": "5,000,000",
+   "priced_date": "2018-05-03",
+   "offer_usd": 85000000.0
+  },
+  {
+   "ticker": "INSP",
+   "name": "Inspire Medical Systems, Inc.",
+   "exchange": "NYSE",
+   "price": "16.00",
+   "shares": "6,750,000",
+   "priced_date": "2018-05-03",
+   "offer_usd": 108000000.0
+  },
+  {
+   "ticker": "PRT",
+   "name": "PermRock Royalty Trust",
+   "exchange": "NYSE",
+   "price": "17.00",
+   "shares": "6,250,000",
+   "priced_date": "2018-05-02",
+   "offer_usd": 106250000.0
+  }
+ ]
+}

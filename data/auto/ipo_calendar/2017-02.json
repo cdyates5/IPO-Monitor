@@ -1,0 +1,69 @@
+{
+ "month": "2017-02",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "SACH",
+   "name": "Sachem Capital Corp.",
+   "exchange": "NYSE MKT",
+   "price": "5.00",
+   "shares": "2,600,000",
+   "priced_date": "2017-02-10",
+   "offer_usd": 13000000.0
+  },
+  {
+   "ticker": "FBM",
+   "name": "Foundation Building Materials, Inc.",
+   "exchange": "NYSE",
+   "price": "14.00",
+   "shares": "12,800,000",
+   "priced_date": "2017-02-10",
+   "offer_usd": 179200000.0
+  },
+  {
+   "ticker": "CLPR",
+   "name": "Clipper Realty Inc.",
+   "exchange": "NYSE",
+   "price": "13.50",
+   "shares": "5,700,000",
+   "priced_date": "2017-02-10",
+   "offer_usd": 76950000.0
+  },
+  {
+   "ticker": "KRP",
+   "name": "Kimbell Royalty Partners, LP",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "5,000,000",
+   "priced_date": "2017-02-03",
+   "offer_usd": 90000000.0
+  },
+  {
+   "ticker": "METC",
+   "name": "Ramaco Resources, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "13.50",
+   "shares": "6,000,000",
+   "priced_date": "2017-02-03",
+   "offer_usd": 81000000.0
+  },
+  {
+   "ticker": "INVH",
+   "name": "Invitation Homes Inc.",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "77,000,000",
+   "priced_date": "2017-02-01",
+   "offer_usd": 1540000000.0
+  },
+  {
+   "ticker": "LAUR",
+   "name": "LAUREATE EDUCATION, INC.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "35,000,000",
+   "priced_date": "2017-02-01",
+   "offer_usd": 490000000.0
+  }
+ ]
+}

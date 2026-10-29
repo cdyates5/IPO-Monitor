@@ -1,0 +1,105 @@
+{
+ "month": "2017-08",
+ "fetched_utc": "2026-10-29T04:56:22Z",
+ "priced": [
+  {
+   "ticker": "BAR",
+   "name": "GraniteShares Gold Trust",
+   "exchange": "NYSE Arca",
+   "price": "128.90",
+   "shares": "1,500,000",
+   "priced_date": "2017-08-31",
+   "offer_usd": 193350000.0
+  },
+  {
+   "ticker": "CSSE",
+   "name": "Chicken Soup for the Soul Entertainment, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "12.00",
+   "shares": "2,500,000",
+   "priced_date": "2017-08-18",
+   "offer_usd": 30000000.0
+  },
+  {
+   "ticker": "IAMXU",
+   "name": "SIMPLICITY ESPORTS & GAMING Co",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "5,000,000",
+   "priced_date": "2017-08-17",
+   "offer_usd": 50000000.0
+  },
+  {
+   "ticker": "CIC'U",
+   "name": "Custom Truck One Source, Inc.",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "35,000,000",
+   "priced_date": "2017-08-16",
+   "offer_usd": 350000000.0
+  },
+  {
+   "ticker": "RNGR",
+   "name": "Ranger Energy Services, Inc.",
+   "exchange": "NYSE",
+   "price": "14.50",
+   "shares": "5,862,069",
+   "priced_date": "2017-08-11",
+   "offer_usd": 85000001.0
+  },
+  {
+   "ticker": "YOGA",
+   "name": "YogaWorks, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "5.50",
+   "shares": "7,300,000",
+   "priced_date": "2017-08-11",
+   "offer_usd": 40150000.0
+  },
+  {
+   "ticker": "ZEAL",
+   "name": "Zealand Pharma A/S",
+   "exchange": "NASDAQ Global Select",
+   "price": "17.87",
+   "shares": "4,375,000",
+   "priced_date": "2017-08-09",
+   "offer_usd": 78181250.0
+  },
+  {
+   "ticker": "ATACU",
+   "name": "HF Foods Group Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "4,000,000",
+   "priced_date": "2017-08-09",
+   "offer_usd": 40000000.0
+  },
+  {
+   "ticker": "CIFS",
+   "name": "Freight Technologies, Inc.",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "2,023,146",
+   "priced_date": "2017-08-08",
+   "offer_usd": 20231460.0
+  },
+  {
+   "ticker": "VNTR",
+   "name": "Venator Materials PLC",
+   "exchange": "NYSE",
+   "price": "20.00",
+   "shares": "22,700,000",
+   "priced_date": "2017-08-03",
+   "offer_usd": 454000000.0
+  },
+  {
+   "ticker": "CMTA",
+   "name": "Clementia Pharmaceuticals Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "8,000,000",
+   "priced_date": "2017-08-02",
+   "offer_usd": 120000000.0
+  }
+ ]
+}
