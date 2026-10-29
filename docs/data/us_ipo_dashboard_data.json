@@ -1,7 +1,7 @@
 {
  "as_of": "2026-10-29",
  "as_of_label": "29 Oct 2026",
- "generated_utc": "2026-10-29 04:59 UTC",
+ "generated_utc": "2026-10-29 05:35 UTC",
  "current_quarter": "Q4 2026",
  "window": "Q4 2026 – Q3 2027",
  "sp500_latest": {
@@ -4331,36 +4331,36 @@
   "sources": {
    "calendar": {
     "ok": true,
-    "utc": "2026-10-29T04:56:29Z",
-    "message": "3 month(s) fetched",
-    "last_success_utc": "2026-10-29T04:56:29Z"
+    "utc": "2026-10-29T05:35:24Z",
+    "message": "142 month(s) fetched",
+    "last_success_utc": "2026-10-29T05:35:24Z"
    },
    "spy": {
     "ok": true,
-    "utc": "2026-10-29T04:56:30Z",
-    "message": "709 closes (latest 2026-10-28)",
-    "last_success_utc": "2026-10-29T04:56:30Z"
+    "utc": "2026-10-29T05:35:26Z",
+    "message": "8 closes (latest 2026-10-28)",
+    "last_success_utc": "2026-10-29T05:35:26Z"
    },
    "quotes": {
     "ok": true,
-    "utc": "2026-10-29T04:56:37Z",
+    "utc": "2026-10-29T05:35:33Z",
     "message": "SPCX: first 2026-06-12 @ 160.95, last 2026-10-28 @ 145.23; ANT: not trading",
-    "last_success_utc": "2026-10-29T04:56:37Z"
+    "last_success_utc": "2026-10-29T05:35:33Z"
    },
    "ritter": {
     "ok": true,
-    "utc": "2026-10-29T04:56:38Z",
+    "utc": "2026-10-29T05:35:33Z",
     "message": "unchanged",
-    "last_success_utc": "2026-10-29T04:56:38Z"
+    "last_success_utc": "2026-10-29T05:35:33Z"
    }
   },
-  "last_run_utc": "2026-10-29T04:56:38Z"
+  "last_run_utc": "2026-10-29T05:35:33Z"
  },
  "ritter_watch": {
   "url": "https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf",
   "sha256": "bebaffd7170f8b83324c1543943911565976958a2beb546360ef900fce89473e",
   "bytes": 1360007,
-  "checked_utc": "2026-10-29T04:56:38Z",
+  "checked_utc": "2026-10-29T05:35:33Z",
   "changed_utc": "2026-10-29T04:56:38Z",
   "edition_in_manual": "5 Oct 2026"
  },
