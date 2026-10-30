@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-10-29T05:35:24Z",
+ "fetched_utc": "2026-10-30T01:57:22Z",
  "rows": [
   {
    "ticker": "ASPE",
@@ -36,6 +36,15 @@
    "shares": "7,074,016",
    "expected_date": "2026-10-29",
    "offer_usd": 0.0
+  },
+  {
+   "ticker": "BHAIU",
+   "name": "BHAV Acquisition Corp II",
+   "exchange": "NASDAQ Global",
+   "price_range": "10.00",
+   "shares": "10,000,000",
+   "expected_date": "2026-10-29",
+   "offer_usd": 100000000.0
   }
  ]
 }

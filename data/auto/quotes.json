@@ -4,15 +4,15 @@
   "conflict": false,
   "first_date": "2026-06-12",
   "first_close": 160.95,
-  "last_date": "2026-10-28",
-  "last_close": 145.23,
-  "market_cap": 1972377882458.0,
-  "previous_close": 148.58,
+  "last_date": "2026-10-29",
+  "last_close": 143.89,
+  "market_cap": 1954179257088.0,
+  "previous_close": 145.23,
   "exchange": "NASDAQ-GS",
-  "checked_utc": "2026-10-29T05:35:32Z"
+  "checked_utc": "2026-10-30T01:57:30Z"
  },
  "ANT": {
   "trading": false,
-  "checked_utc": "2026-10-29T05:35:33Z"
+  "checked_utc": "2026-10-30T01:57:32Z"
  }
 }

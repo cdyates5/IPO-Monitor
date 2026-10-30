@@ -146,7 +146,7 @@ Q4 2025,2025,4,historical (Ritter annual),calendar shape,6,8,14,0,14,133.3,0.0,1
 Q1 2026,2026,1,"actual (Nasdaq calendar, calibrated to Ritter)",,5,9,14,0,14,59.4,0.0,59.4,58.37,0.102,0.0,0.102,,21,9.15,"21 calendar deals, $9.2B base proceeds; largest: FPS $1.5B, PAYP $0.9B, JAN $0.8B"
 Q2 2026,2026,2,"actual (Nasdaq calendar, calibrated to Ritter)",,9,16,25,1,26,180.4,2110.0,2290.4,67.03,0.269,3.148,3.417,"SpaceX (SPCX, Nasdaq) $2,110B first-day close",38,27.81,"38 calendar deals, $27.8B base proceeds; largest: CBRS $5.5B, INIO $2.4B, MAIR $2.2B"
 Q3 2026,2026,3,"actual (Nasdaq calendar, calibrated to Ritter)",,4,9,13,0,13,52.1,0.0,52.1,68.45,0.076,0.0,0.076,,19,8.03,"19 calendar deals, $8.0B base proceeds; largest: BSP $1.7B, CSQR $1.1B, JMKE $1.0B; excluded: SKHY $26.5B"
-Q4 2026,2026,4,in progress (quarter-to-date + forecast for remaining days),,3,8,11,1,12,53.0,1750.0,1803.0,69.32,0.076,2.525,2.601,"Anthropic (ANT, Nasdaq) $1,750B est. [range $1,500–2,000B]",4,0.78,"QTD to 2026-10-29: 4 calendar deals, $0.8B (≈2.7 Ritter-eq., $5B mkt cap) + 68% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo)."
-Q1 2027,2027,1,forecast,,4,8,12,0,12,65.0,0.0,65.0,69.32,0.094,0.0,0.094,,,,Seasonally soft Q1.
-Q2 2027,2027,2,forecast,,6,10,16,1,17,95.0,1250.0,1345.0,69.32,0.137,1.803,1.94,"OpenAI (TBD, TBD) $1,250B est. [range $1,000–1,400B]",,,Seasonal Q2 lift.
-Q3 2027,2027,3,forecast,,5,9,14,0,14,80.0,0.0,80.0,69.32,0.115,0.0,0.115,,,,Near the recent Q3 average.
+Q4 2026,2026,4,in progress (quarter-to-date + forecast for remaining days),,3,8,11,1,12,52.3,1750.0,1802.3,69.05,0.076,2.534,2.61,"Anthropic (ANT, Nasdaq) $1,750B est. [range $1,500–2,000B]",4,0.78,"QTD to 2026-10-30: 4 calendar deals, $0.8B (≈2.7 Ritter-eq., $5B mkt cap) + 67% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo)."
+Q1 2027,2027,1,forecast,,4,8,12,0,12,65.0,0.0,65.0,69.05,0.094,0.0,0.094,,,,Seasonally soft Q1.
+Q2 2027,2027,2,forecast,,6,10,16,1,17,95.0,1250.0,1345.0,69.05,0.138,1.81,1.948,"OpenAI (TBD, TBD) $1,250B est. [range $1,000–1,400B]",,,Seasonal Q2 lift.
+Q3 2027,2027,3,forecast,,5,9,14,0,14,80.0,0.0,80.0,69.05,0.116,0.0,0.116,,,,Near the recent Q3 average.
