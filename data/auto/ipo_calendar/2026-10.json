@@ -1,7 +1,25 @@
 {
  "month": "2026-10",
- "fetched_utc": "2026-10-29T04:56:29Z",
+ "fetched_utc": "2026-10-31T01:35:44Z",
  "priced": [
+  {
+   "ticker": "BHAIU",
+   "name": "BHAV Acquisition Corp II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-10-29",
+   "offer_usd": 100000000.0
+  },
+  {
+   "ticker": "GBC",
+   "name": "GEORGIA BANKING CO INC",
+   "exchange": "NASDAQ Capital",
+   "price": null,
+   "shares": "7,074,016",
+   "priced_date": "2026-10-29",
+   "offer_usd": 0.0
+  },
   {
    "ticker": "SCQCU",
    "name": "SPACCircle Acquisition Corp.",
