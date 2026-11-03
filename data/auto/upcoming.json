@@ -1,32 +1,4 @@
 {
- "fetched_utc": "2026-10-31T01:35:44Z",
- "rows": [
-  {
-   "ticker": "ASPE",
-   "name": "Aspen Neuroscience, Inc.",
-   "exchange": "NASDAQ Global Select",
-   "price_range": "15.00",
-   "shares": "9,375,000",
-   "expected_date": "2026-10-30",
-   "offer_usd": 140625000.0
-  },
-  {
-   "ticker": "OPAY",
-   "name": "OPAY Ltd",
-   "exchange": "NYSE",
-   "price_range": "19.00-21.00",
-   "shares": "16,000,000",
-   "expected_date": "2026-10-30",
-   "offer_usd": 386400000.0
-  },
-  {
-   "ticker": "BBTX",
-   "name": "Bambusa Therapeutics, Inc.",
-   "exchange": "NASDAQ Global Select",
-   "price_range": "16.00",
-   "shares": "10,555,555",
-   "expected_date": "2026-10-30",
-   "offer_usd": 168888880.0
-  }
- ]
+ "fetched_utc": "2026-11-03T03:28:16Z",
+ "rows": []
 }

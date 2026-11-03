@@ -1,15 +1,24 @@
 {
  "month": "2026-10",
- "fetched_utc": "2026-10-31T01:35:44Z",
+ "fetched_utc": "2026-11-03T03:28:14Z",
  "priced": [
   {
-   "ticker": "BHAIU",
-   "name": "BHAV Acquisition Corp II",
-   "exchange": "NASDAQ Global",
-   "price": "10.00",
-   "shares": "10,000,000",
-   "priced_date": "2026-10-29",
-   "offer_usd": 100000000.0
+   "ticker": "BBTX",
+   "name": "Bambusa Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "10,555,555",
+   "priced_date": "2026-10-30",
+   "offer_usd": 168888880.0
+  },
+  {
+   "ticker": "ASPE",
+   "name": "Aspen Neuroscience, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "9,375,000",
+   "priced_date": "2026-10-30",
+   "offer_usd": 140625000.0
   },
   {
    "ticker": "GBC",
@@ -19,6 +28,15 @@
    "shares": "7,074,016",
    "priced_date": "2026-10-29",
    "offer_usd": 0.0
+  },
+  {
+   "ticker": "BHAIU",
+   "name": "BHAV Acquisition Corp II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-10-29",
+   "offer_usd": 100000000.0
   },
   {
    "ticker": "SCQCU",
