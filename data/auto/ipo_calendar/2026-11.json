@@ -1,5 +1,15 @@
 {
  "month": "2026-11",
- "fetched_utc": "2026-11-03T03:28:16Z",
- "priced": []
+ "fetched_utc": "2026-11-04T02:19:42Z",
+ "priced": [
+  {
+   "ticker": "NARA",
+   "name": "Narragansett Bancorp, Inc.",
+   "exchange": "NASDAQ Capital",
+   "price": "10.00",
+   "shares": "9,098,800",
+   "priced_date": "2026-11-02",
+   "offer_usd": 90988000.0
+  }
+ ]
 }
