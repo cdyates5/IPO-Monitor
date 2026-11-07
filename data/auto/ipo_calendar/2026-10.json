@@ -1,16 +1,7 @@
 {
  "month": "2026-10",
- "fetched_utc": "2026-11-06T02:25:15Z",
+ "fetched_utc": "2026-11-07T01:54:54Z",
  "priced": [
-  {
-   "ticker": "ASPE",
-   "name": "Aspen Neuroscience, Inc.",
-   "exchange": "NASDAQ Global Select",
-   "price": "15.00",
-   "shares": "9,375,000",
-   "priced_date": "2026-10-30",
-   "offer_usd": 140625000.0
-  },
   {
    "ticker": "BBTX",
    "name": "Bambusa Therapeutics, Inc.",
@@ -21,13 +12,13 @@
    "offer_usd": 168888880.0
   },
   {
-   "ticker": "BHAIU",
-   "name": "BHAV Acquisition Corp II",
-   "exchange": "NASDAQ Global",
-   "price": "10.00",
-   "shares": "10,000,000",
-   "priced_date": "2026-10-29",
-   "offer_usd": 100000000.0
+   "ticker": "ASPE",
+   "name": "Aspen Neuroscience, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "15.00",
+   "shares": "9,375,000",
+   "priced_date": "2026-10-30",
+   "offer_usd": 140625000.0
   },
   {
    "ticker": "GBC",
@@ -37,6 +28,15 @@
    "shares": "7,074,016",
    "priced_date": "2026-10-29",
    "offer_usd": 0.0
+  },
+  {
+   "ticker": "BHAIU",
+   "name": "BHAV Acquisition Corp II",
+   "exchange": "NASDAQ Global",
+   "price": "10.00",
+   "shares": "10,000,000",
+   "priced_date": "2026-10-29",
+   "offer_usd": 100000000.0
   },
   {
    "ticker": "SCQCU",
@@ -84,15 +84,6 @@
    "offer_usd": 100000000.0
   },
   {
-   "ticker": "IAM",
-   "name": "Iambic Therapeutics, Inc.",
-   "exchange": "NASDAQ Global Select",
-   "price": "16.00",
-   "shares": "9,375,000",
-   "priced_date": "2026-10-15",
-   "offer_usd": 150000000.0
-  },
-  {
    "ticker": "AMRO",
    "name": "Amaero Inc.",
    "exchange": "NASDAQ Capital",
@@ -100,6 +91,15 @@
    "shares": "4,705,883",
    "priced_date": "2026-10-15",
    "offer_usd": 20000003.0
+  },
+  {
+   "ticker": "IAM",
+   "name": "Iambic Therapeutics, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "16.00",
+   "shares": "9,375,000",
+   "priced_date": "2026-10-15",
+   "offer_usd": 150000000.0
   },
   {
    "ticker": "FLSC",
@@ -111,15 +111,6 @@
    "offer_usd": 75000000.0
   },
   {
-   "ticker": "TRXB",
-   "name": "TRex Bio, Inc.",
-   "exchange": "NASDAQ Global Select",
-   "price": "14.00",
-   "shares": "8,333,334",
-   "priced_date": "2026-10-09",
-   "offer_usd": 116666676.0
-  },
-  {
    "ticker": "RTSN",
    "name": "Retension Pharmaceuticals, Inc.",
    "exchange": "NASDAQ Capital",
@@ -127,6 +118,15 @@
    "shares": "3,750,000",
    "priced_date": "2026-10-09",
    "offer_usd": 45000000.0
+  },
+  {
+   "ticker": "TRXB",
+   "name": "TRex Bio, Inc.",
+   "exchange": "NASDAQ Global Select",
+   "price": "14.00",
+   "shares": "8,333,334",
+   "priced_date": "2026-10-09",
+   "offer_usd": 116666676.0
   },
   {
    "ticker": "PAXGU",
@@ -138,15 +138,6 @@
    "offer_usd": 100000000.0
   },
   {
-   "ticker": "PORTU",
-   "name": "Southport Acquisition Corp. II",
-   "exchange": "NYSE",
-   "price": "10.00",
-   "shares": "20,000,000",
-   "priced_date": "2026-10-01",
-   "offer_usd": 200000000.0
-  },
-  {
    "ticker": "CHWM",
    "name": "Chilwa Minerals Ltd",
    "exchange": "NASDAQ Capital",
@@ -154,6 +145,15 @@
    "shares": "625,000",
    "priced_date": "2026-10-01",
    "offer_usd": 3500000.0
+  },
+  {
+   "ticker": "PORTU",
+   "name": "Southport Acquisition Corp. II",
+   "exchange": "NYSE",
+   "price": "10.00",
+   "shares": "20,000,000",
+   "priced_date": "2026-10-01",
+   "offer_usd": 200000000.0
   }
  ]
 }

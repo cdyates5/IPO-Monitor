@@ -6,13 +6,13 @@
   "first_close": 160.95,
   "last_date": "2026-11-05",
   "last_close": 123.62,
-  "market_cap": 1683778920535.0,
-  "previous_close": 135.92,
+  "market_cap": 1823529424207.0,
+  "previous_close": 123.62,
   "exchange": "NASDAQ-GS",
-  "checked_utc": "2026-11-06T02:25:24Z"
+  "checked_utc": "2026-11-07T01:55:02Z"
  },
  "ANT": {
   "trading": false,
-  "checked_utc": "2026-11-06T02:25:26Z"
+  "checked_utc": "2026-11-07T01:55:04Z"
  }
 }
