@@ -1,29 +1,29 @@
 {
  "sources": {
   "calendar": {
-   "ok": true,
-   "utc": "2026-11-10T04:06:29Z",
-   "message": "3 month(s) fetched",
+   "ok": false,
+   "utc": "2026-11-11T01:55:39Z",
+   "message": "GET https://api.nasdaq.com/api/ipo/calendar?date=2026-09 failed after 3 tries: HTTP Error 403: Forbidden",
    "last_success_utc": "2026-11-10T04:06:29Z"
   },
   "spy": {
-   "ok": true,
-   "utc": "2026-11-10T04:06:32Z",
-   "message": "11 closes (latest 2026-11-09)",
+   "ok": false,
+   "utc": "2026-11-11T01:55:51Z",
+   "message": "GET https://api.nasdaq.com/api/quote/SPY/historical?assetclass=etf&fromdate=2026-10-30&todate=2026-11-11&limit=9999 failed after 3 tries: HTTP Error 403: Forbidden",
    "last_success_utc": "2026-11-10T04:06:32Z"
   },
   "quotes": {
-   "ok": true,
-   "utc": "2026-11-10T04:06:39Z",
-   "message": "SPCX: first 2026-06-12 @ 160.95, last 2026-11-09 @ 142.07; ANT: not trading",
+   "ok": false,
+   "utc": "2026-11-11T01:56:03Z",
+   "message": "GET https://api.nasdaq.com/api/quote/SPCX/summary?assetclass=stocks failed after 3 tries: HTTP Error 403: Forbidden",
    "last_success_utc": "2026-11-10T04:06:39Z"
   },
   "ritter": {
    "ok": true,
-   "utc": "2026-11-10T04:06:39Z",
+   "utc": "2026-11-11T01:56:04Z",
    "message": "unchanged",
-   "last_success_utc": "2026-11-10T04:06:39Z"
+   "last_success_utc": "2026-11-11T01:56:04Z"
   }
  },
- "last_run_utc": "2026-11-10T04:06:39Z"
+ "last_run_utc": "2026-11-11T01:56:04Z"
 }
