@@ -1,7 +1,7 @@
 {
- "as_of": "2026-11-14",
- "as_of_label": "14 Nov 2026",
- "generated_utc": "2026-11-14 02:26 UTC",
+ "as_of": "2026-11-17",
+ "as_of_label": "17 Nov 2026",
+ "generated_utc": "2026-11-17 04:29 UTC",
  "current_quarter": "Q4 2026",
  "window": "Q4 2026 – Q3 2027",
  "sp500_latest": {
@@ -3694,10 +3694,10 @@
    "nyse": 2,
    "nasdaq": 8,
    "mega_n": 1,
-   "base_mcap": 42.9,
+   "base_mcap": 40.6,
    "mega_mcap": 1750.0,
    "mega_names": "Anthropic (ANT, Nasdaq) $1,750B est. [range $1,500–2,000B]",
-   "note": "QTD to 2026-11-14: 6 calendar deals, $1.1B (≈4.0 Ritter-eq., $7B mkt cap) + 51% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo).",
+   "note": "QTD to 2026-11-17: 6 calendar deals, $1.1B (≈4.0 Ritter-eq., $7B mkt cap) + 48% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo).",
    "cal_count": 6,
    "cal_proceeds_bn": 1.09,
    "status": "in_progress",
@@ -3705,10 +3705,10 @@
    "mega_listed": false,
    "base_count": 10,
    "total_count": 11,
-   "total_mcap": 1792.9,
-   "base_ratio": 0.063,
+   "total_mcap": 1790.6,
+   "base_ratio": 0.06,
    "mega_ratio": 2.59,
-   "total_ratio": 2.654
+   "total_ratio": 2.65
   },
   {
    "q": "Q1 2027",
@@ -4304,36 +4304,36 @@
   "sources": {
    "calendar": {
     "ok": false,
-    "utc": "2026-11-14T02:26:14Z",
+    "utc": "2026-11-17T04:29:28Z",
     "message": "GET https://api.nasdaq.com/api/ipo/calendar?date=2026-09 failed after 3 tries: HTTP Error 403: Forbidden",
     "last_success_utc": "2026-11-10T04:06:29Z"
    },
    "spy": {
     "ok": false,
-    "utc": "2026-11-14T02:26:26Z",
-    "message": "GET https://api.nasdaq.com/api/quote/SPY/historical?assetclass=etf&fromdate=2026-10-30&todate=2026-11-14&limit=9999 failed after 3 tries: HTTP Error 403: Forbidden",
+    "utc": "2026-11-17T04:29:40Z",
+    "message": "GET https://api.nasdaq.com/api/quote/SPY/historical?assetclass=etf&fromdate=2026-10-30&todate=2026-11-17&limit=9999 failed after 3 tries: HTTP Error 403: Forbidden",
     "last_success_utc": "2026-11-10T04:06:32Z"
    },
    "quotes": {
     "ok": false,
-    "utc": "2026-11-14T02:26:38Z",
+    "utc": "2026-11-17T04:29:52Z",
     "message": "GET https://api.nasdaq.com/api/quote/SPCX/summary?assetclass=stocks failed after 3 tries: HTTP Error 403: Forbidden",
     "last_success_utc": "2026-11-10T04:06:39Z"
    },
    "ritter": {
     "ok": true,
-    "utc": "2026-11-14T02:26:39Z",
+    "utc": "2026-11-17T04:29:53Z",
     "message": "unchanged",
-    "last_success_utc": "2026-11-14T02:26:39Z"
+    "last_success_utc": "2026-11-17T04:29:53Z"
    }
   },
-  "last_run_utc": "2026-11-14T02:26:39Z"
+  "last_run_utc": "2026-11-17T04:29:53Z"
  },
  "ritter_watch": {
   "url": "https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf",
   "sha256": "e837de9ae048ad1360fb3c89fddf854309243784d1df967081fb21c7fddc331e",
   "bytes": 1361488,
-  "checked_utc": "2026-11-14T02:26:39Z",
+  "checked_utc": "2026-11-17T04:29:53Z",
   "changed_utc": "2026-11-06T02:25:27Z",
   "edition_in_manual": "5 Oct 2026"
  },
