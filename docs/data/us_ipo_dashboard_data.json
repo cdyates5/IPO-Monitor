@@ -1,12 +1,12 @@
 {
- "as_of": "2026-11-17",
- "as_of_label": "17 Nov 2026",
- "generated_utc": "2026-11-17 04:29 UTC",
+ "as_of": "2026-11-18",
+ "as_of_label": "18 Nov 2026",
+ "generated_utc": "2026-11-18 03:43 UTC",
  "current_quarter": "Q4 2026",
  "window": "Q4 2026 – Q3 2027",
  "sp500_latest": {
-  "date": "2026-11-09",
-  "mktcap_tn": 67.56
+  "date": "2026-11-17",
+  "mktcap_tn": 65.74
  },
  "calibration": {
   "count_ratio": 0.6650519031141868,
@@ -3691,24 +3691,24 @@
    "y": 2026,
    "qn": 4,
    "alloc": "",
-   "nyse": 2,
+   "nyse": 3,
    "nasdaq": 8,
    "mega_n": 1,
-   "base_mcap": 40.6,
+   "base_mcap": 42.1,
    "mega_mcap": 1750.0,
    "mega_names": "Anthropic (ANT, Nasdaq) $1,750B est. [range $1,500–2,000B]",
-   "note": "QTD to 2026-11-17: 6 calendar deals, $1.1B (≈4.0 Ritter-eq., $7B mkt cap) + 48% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo).",
-   "cal_count": 6,
-   "cal_proceeds_bn": 1.09,
+   "note": "QTD to 2026-11-18: 8 calendar deals, $1.4B (≈5.3 Ritter-eq., $9B mkt cap) + 47% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo).",
+   "cal_count": 8,
+   "cal_proceeds_bn": 1.44,
    "status": "in_progress",
-   "sp500": 67.56,
+   "sp500": 65.74,
    "mega_listed": false,
-   "base_count": 10,
-   "total_count": 11,
-   "total_mcap": 1790.6,
-   "base_ratio": 0.06,
-   "mega_ratio": 2.59,
-   "total_ratio": 2.65
+   "base_count": 11,
+   "total_count": 12,
+   "total_mcap": 1792.1,
+   "base_ratio": 0.064,
+   "mega_ratio": 2.662,
+   "total_ratio": 2.726
   },
   {
    "q": "Q1 2027",
@@ -3725,14 +3725,14 @@
    "cal_count": null,
    "cal_proceeds_bn": null,
    "status": "forecast",
-   "sp500": 67.56,
+   "sp500": 65.74,
    "mega_listed": null,
    "base_count": 12,
    "total_count": 12,
    "total_mcap": 65.0,
-   "base_ratio": 0.096,
+   "base_ratio": 0.099,
    "mega_ratio": 0.0,
-   "total_ratio": 0.096
+   "total_ratio": 0.099
   },
   {
    "q": "Q2 2027",
@@ -3749,14 +3749,14 @@
    "cal_count": null,
    "cal_proceeds_bn": null,
    "status": "forecast",
-   "sp500": 67.56,
+   "sp500": 65.74,
    "mega_listed": false,
    "base_count": 16,
    "total_count": 17,
    "total_mcap": 1345.0,
-   "base_ratio": 0.141,
-   "mega_ratio": 1.85,
-   "total_ratio": 1.991
+   "base_ratio": 0.145,
+   "mega_ratio": 1.901,
+   "total_ratio": 2.046
   },
   {
    "q": "Q3 2027",
@@ -3773,14 +3773,14 @@
    "cal_count": null,
    "cal_proceeds_bn": null,
    "status": "forecast",
-   "sp500": 67.56,
+   "sp500": 65.74,
    "mega_listed": null,
    "base_count": 14,
    "total_count": 14,
    "total_mcap": 80.0,
-   "base_ratio": 0.118,
+   "base_ratio": 0.122,
    "mega_ratio": 0.0,
-   "total_ratio": 0.118
+   "total_ratio": 0.122
   }
  ],
  "calendar_quarters": [
@@ -3816,13 +3816,13 @@
   },
   {
    "quarter": "Q4 2026",
-   "calendar_nyse": 0,
-   "calendar_nasdaq": 6,
-   "calendar_proceeds_bn": 1.09,
-   "dropped_by_filter": 12,
+   "calendar_nyse": 1,
+   "calendar_nasdaq": 7,
+   "calendar_proceeds_bn": 1.44,
+   "dropped_by_filter": 13,
    "mega": "",
    "excluded": "",
-   "largest_deals": "LYCA (Nasdaq) $0.32B, CTY (Nasdaq) $0.20B, BBTX (Nasdaq) $0.17B, IAM (Nasdaq) $0.15B, ASPE (Nasdaq) $0.14B"
+   "largest_deals": "LYCA (Nasdaq) $0.32B, CTY (Nasdaq) $0.20B, VVVV (NYSE) $0.17B, WWB (Nasdaq) $0.17B, BBTX (Nasdaq) $0.17B"
   }
  ],
  "annual": [
@@ -4234,7 +4234,7 @@
    "expected_quarter": "Q2 2026",
    "slipped": false,
    "mktcap_used_bn": 2110,
-   "current_mktcap_bn": 1929.5,
+   "current_mktcap_bn": 1865.5,
    "valuation_low_bn": null,
    "valuation_high_bn": null,
    "detail": "Priced $135 on 11 Jun 2026; first-day close $160.95 (+19%); ~13.1B shares -> ~$2.11T. $75B raised ($85.7B incl. greenshoe).",
@@ -4291,49 +4291,49 @@
  ],
  "upcoming": [
   {
-   "ticker": "RZRA",
-   "name": "Rezera Inc.",
-   "exchange": "NASDAQ Global",
-   "price_range": "11.00-13.00",
-   "shares": "16,666,667",
-   "expected_date": "2026-11-12",
-   "offer_usd": 249166671.0
+   "ticker": "ANT",
+   "name": "Anthropic, PBC",
+   "exchange": "NASDAQ Global Select",
+   "price_range": "70.00-78.00",
+   "shares": "825,000,000",
+   "expected_date": "2026-11-19",
+   "offer_usd": 74002500000.0
   }
  ],
  "fetch_log": {
   "sources": {
    "calendar": {
-    "ok": false,
-    "utc": "2026-11-17T04:29:28Z",
-    "message": "GET https://api.nasdaq.com/api/ipo/calendar?date=2026-09 failed after 3 tries: HTTP Error 403: Forbidden",
-    "last_success_utc": "2026-11-10T04:06:29Z"
+    "ok": true,
+    "utc": "2026-11-18T03:43:06Z",
+    "message": "3 month(s) fetched",
+    "last_success_utc": "2026-11-18T03:43:06Z"
    },
    "spy": {
-    "ok": false,
-    "utc": "2026-11-17T04:29:40Z",
-    "message": "GET https://api.nasdaq.com/api/quote/SPY/historical?assetclass=etf&fromdate=2026-10-30&todate=2026-11-17&limit=9999 failed after 3 tries: HTTP Error 403: Forbidden",
-    "last_success_utc": "2026-11-10T04:06:32Z"
+    "ok": true,
+    "utc": "2026-11-18T03:43:08Z",
+    "message": "13 closes (latest 2026-11-17)",
+    "last_success_utc": "2026-11-18T03:43:08Z"
    },
    "quotes": {
-    "ok": false,
-    "utc": "2026-11-17T04:29:52Z",
-    "message": "GET https://api.nasdaq.com/api/quote/SPCX/summary?assetclass=stocks failed after 3 tries: HTTP Error 403: Forbidden",
-    "last_success_utc": "2026-11-10T04:06:39Z"
+    "ok": true,
+    "utc": "2026-11-18T03:43:16Z",
+    "message": "SPCX: first 2026-06-12 @ 160.95, last 2026-11-17 @ 141.7; ANT: summary but no history yet",
+    "last_success_utc": "2026-11-18T03:43:16Z"
    },
    "ritter": {
     "ok": true,
-    "utc": "2026-11-17T04:29:53Z",
+    "utc": "2026-11-18T03:43:17Z",
     "message": "unchanged",
-    "last_success_utc": "2026-11-17T04:29:53Z"
+    "last_success_utc": "2026-11-18T03:43:17Z"
    }
   },
-  "last_run_utc": "2026-11-17T04:29:53Z"
+  "last_run_utc": "2026-11-18T03:43:17Z"
  },
  "ritter_watch": {
   "url": "https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf",
   "sha256": "e837de9ae048ad1360fb3c89fddf854309243784d1df967081fb21c7fddc331e",
   "bytes": 1361488,
-  "checked_utc": "2026-11-17T04:29:53Z",
+  "checked_utc": "2026-11-18T03:43:17Z",
   "changed_utc": "2026-11-06T02:25:27Z",
   "edition_in_manual": "5 Oct 2026"
  },

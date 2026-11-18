@@ -1,7 +1,34 @@
 {
  "month": "2026-11",
- "fetched_utc": "2026-11-04T02:19:42Z",
+ "fetched_utc": "2026-11-18T03:43:06Z",
  "priced": [
+  {
+   "ticker": "MDRN",
+   "name": "Modern Mining Technology Corp.",
+   "exchange": "NYSE MKT",
+   "price": "4.25",
+   "shares": "9,411,764",
+   "priced_date": "2026-11-13",
+   "offer_usd": 39999997.0
+  },
+  {
+   "ticker": "VVVV",
+   "name": "vVARDIS Holding AG",
+   "exchange": "NYSE",
+   "price": "18.00",
+   "shares": "9,722,223",
+   "priced_date": "2026-11-13",
+   "offer_usd": 175000014.0
+  },
+  {
+   "ticker": "WWB",
+   "name": "WINDWARD BIO GROUP AG",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "10,294,117",
+   "priced_date": "2026-11-13",
+   "offer_usd": 174999989.0
+  },
   {
    "ticker": "NARA",
    "name": "Narragansett Bancorp, Inc.",

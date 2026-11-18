@@ -1,14 +1,14 @@
 {
- "fetched_utc": "2026-11-10T04:06:29Z",
+ "fetched_utc": "2026-11-18T03:43:06Z",
  "rows": [
   {
-   "ticker": "RZRA",
-   "name": "Rezera Inc.",
-   "exchange": "NASDAQ Global",
-   "price_range": "11.00-13.00",
-   "shares": "16,666,667",
-   "expected_date": "2026-11-12",
-   "offer_usd": 249166671.0
+   "ticker": "ANT",
+   "name": "Anthropic, PBC",
+   "exchange": "NASDAQ Global Select",
+   "price_range": "70.00-78.00",
+   "shares": "825,000,000",
+   "expected_date": "2026-11-19",
+   "offer_usd": 74002500000.0
   }
  ]
 }
