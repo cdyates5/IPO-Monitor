@@ -1,12 +1,12 @@
 {
- "as_of": "2026-11-18",
- "as_of_label": "18 Nov 2026",
- "generated_utc": "2026-11-18 03:43 UTC",
+ "as_of": "2026-11-19",
+ "as_of_label": "19 Nov 2026",
+ "generated_utc": "2026-11-19 03:25 UTC",
  "current_quarter": "Q4 2026",
  "window": "Q4 2026 – Q3 2027",
  "sp500_latest": {
-  "date": "2026-11-17",
-  "mktcap_tn": 65.74
+  "date": "2026-11-18",
+  "mktcap_tn": 65.54
  },
  "calibration": {
   "count_ratio": 0.6650519031141868,
@@ -3694,21 +3694,21 @@
    "nyse": 3,
    "nasdaq": 8,
    "mega_n": 1,
-   "base_mcap": 42.1,
+   "base_mcap": 41.3,
    "mega_mcap": 1750.0,
    "mega_names": "Anthropic (ANT, Nasdaq) $1,750B est. [range $1,500–2,000B]",
-   "note": "QTD to 2026-11-18: 8 calendar deals, $1.4B (≈5.3 Ritter-eq., $9B mkt cap) + 47% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo).",
+   "note": "QTD to 2026-11-19: 8 calendar deals, $1.4B (≈5.3 Ritter-eq., $9B mkt cap) + 46% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo).",
    "cal_count": 8,
    "cal_proceeds_bn": 1.44,
    "status": "in_progress",
-   "sp500": 65.74,
+   "sp500": 65.54,
    "mega_listed": false,
    "base_count": 11,
    "total_count": 12,
-   "total_mcap": 1792.1,
-   "base_ratio": 0.064,
-   "mega_ratio": 2.662,
-   "total_ratio": 2.726
+   "total_mcap": 1791.3,
+   "base_ratio": 0.063,
+   "mega_ratio": 2.67,
+   "total_ratio": 2.733
   },
   {
    "q": "Q1 2027",
@@ -3725,7 +3725,7 @@
    "cal_count": null,
    "cal_proceeds_bn": null,
    "status": "forecast",
-   "sp500": 65.74,
+   "sp500": 65.54,
    "mega_listed": null,
    "base_count": 12,
    "total_count": 12,
@@ -3749,14 +3749,14 @@
    "cal_count": null,
    "cal_proceeds_bn": null,
    "status": "forecast",
-   "sp500": 65.74,
+   "sp500": 65.54,
    "mega_listed": false,
    "base_count": 16,
    "total_count": 17,
    "total_mcap": 1345.0,
    "base_ratio": 0.145,
-   "mega_ratio": 1.901,
-   "total_ratio": 2.046
+   "mega_ratio": 1.907,
+   "total_ratio": 2.052
   },
   {
    "q": "Q3 2027",
@@ -3773,7 +3773,7 @@
    "cal_count": null,
    "cal_proceeds_bn": null,
    "status": "forecast",
-   "sp500": 65.74,
+   "sp500": 65.54,
    "mega_listed": null,
    "base_count": 14,
    "total_count": 14,
@@ -4234,7 +4234,7 @@
    "expected_quarter": "Q2 2026",
    "slipped": false,
    "mktcap_used_bn": 2110,
-   "current_mktcap_bn": 1865.5,
+   "current_mktcap_bn": 1924.4,
    "valuation_low_bn": null,
    "valuation_high_bn": null,
    "detail": "Priced $135 on 11 Jun 2026; first-day close $160.95 (+19%); ~13.1B shares -> ~$2.11T. $75B raised ($85.7B incl. greenshoe).",
@@ -4291,8 +4291,17 @@
  ],
  "upcoming": [
   {
+   "ticker": "FBLLU",
+   "name": "Football Manager SPAC Inc.",
+   "exchange": "NASDAQ Global",
+   "price_range": "10.00",
+   "shares": "10,000,000",
+   "expected_date": "2026-11-20",
+   "offer_usd": 115000000.0
+  },
+  {
    "ticker": "ANT",
-   "name": "Anthropic, PBC",
+   "name": "ANTHROPIC, PBC",
    "exchange": "NASDAQ Global Select",
    "price_range": "70.00-78.00",
    "shares": "825,000,000",
@@ -4304,36 +4313,36 @@
   "sources": {
    "calendar": {
     "ok": true,
-    "utc": "2026-11-18T03:43:06Z",
+    "utc": "2026-11-19T03:25:25Z",
     "message": "3 month(s) fetched",
-    "last_success_utc": "2026-11-18T03:43:06Z"
+    "last_success_utc": "2026-11-19T03:25:25Z"
    },
    "spy": {
     "ok": true,
-    "utc": "2026-11-18T03:43:08Z",
-    "message": "13 closes (latest 2026-11-17)",
-    "last_success_utc": "2026-11-18T03:43:08Z"
+    "utc": "2026-11-19T03:25:27Z",
+    "message": "8 closes (latest 2026-11-18)",
+    "last_success_utc": "2026-11-19T03:25:27Z"
    },
    "quotes": {
     "ok": true,
-    "utc": "2026-11-18T03:43:16Z",
-    "message": "SPCX: first 2026-06-12 @ 160.95, last 2026-11-17 @ 141.7; ANT: summary but no history yet",
-    "last_success_utc": "2026-11-18T03:43:16Z"
+    "utc": "2026-11-19T03:25:38Z",
+    "message": "SPCX: first 2026-06-12 @ 160.95, last 2026-11-18 @ 143.5; ANT: summary but no history yet",
+    "last_success_utc": "2026-11-19T03:25:38Z"
    },
    "ritter": {
     "ok": true,
-    "utc": "2026-11-18T03:43:17Z",
+    "utc": "2026-11-19T03:25:39Z",
     "message": "unchanged",
-    "last_success_utc": "2026-11-18T03:43:17Z"
+    "last_success_utc": "2026-11-19T03:25:39Z"
    }
   },
-  "last_run_utc": "2026-11-18T03:43:17Z"
+  "last_run_utc": "2026-11-19T03:25:39Z"
  },
  "ritter_watch": {
   "url": "https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf",
   "sha256": "e837de9ae048ad1360fb3c89fddf854309243784d1df967081fb21c7fddc331e",
   "bytes": 1361488,
-  "checked_utc": "2026-11-18T03:43:17Z",
+  "checked_utc": "2026-11-19T03:25:39Z",
   "changed_utc": "2026-11-06T02:25:27Z",
   "edition_in_manual": "5 Oct 2026"
  },

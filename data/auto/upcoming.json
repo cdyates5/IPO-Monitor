@@ -1,9 +1,18 @@
 {
- "fetched_utc": "2026-11-18T03:43:06Z",
+ "fetched_utc": "2026-11-19T03:25:25Z",
  "rows": [
   {
+   "ticker": "FBLLU",
+   "name": "Football Manager SPAC Inc.",
+   "exchange": "NASDAQ Global",
+   "price_range": "10.00",
+   "shares": "10,000,000",
+   "expected_date": "2026-11-20",
+   "offer_usd": 115000000.0
+  },
+  {
    "ticker": "ANT",
-   "name": "Anthropic, PBC",
+   "name": "ANTHROPIC, PBC",
    "exchange": "NASDAQ Global Select",
    "price_range": "70.00-78.00",
    "shares": "825,000,000",
