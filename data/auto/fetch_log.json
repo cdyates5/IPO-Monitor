@@ -2,28 +2,28 @@
  "sources": {
   "calendar": {
    "ok": true,
-   "utc": "2026-11-19T03:25:25Z",
+   "utc": "2026-11-20T03:12:34Z",
    "message": "3 month(s) fetched",
-   "last_success_utc": "2026-11-19T03:25:25Z"
+   "last_success_utc": "2026-11-20T03:12:34Z"
   },
   "spy": {
    "ok": true,
-   "utc": "2026-11-19T03:25:27Z",
-   "message": "8 closes (latest 2026-11-18)",
-   "last_success_utc": "2026-11-19T03:25:27Z"
+   "utc": "2026-11-20T03:12:36Z",
+   "message": "9 closes (latest 2026-11-19)",
+   "last_success_utc": "2026-11-20T03:12:36Z"
   },
   "quotes": {
    "ok": true,
-   "utc": "2026-11-19T03:25:38Z",
-   "message": "SPCX: first 2026-06-12 @ 160.95, last 2026-11-18 @ 143.5; ANT: summary but no history yet",
-   "last_success_utc": "2026-11-19T03:25:38Z"
+   "utc": "2026-11-20T03:12:41Z",
+   "message": "SPCX: first 2026-06-12 @ 160.95, last 2026-11-19 @ 138.43; ANT: first 2026-11-19 @ 97.17, last 2026-11-19 @ 97.17",
+   "last_success_utc": "2026-11-20T03:12:41Z"
   },
   "ritter": {
    "ok": true,
-   "utc": "2026-11-19T03:25:39Z",
+   "utc": "2026-11-20T03:12:42Z",
    "message": "unchanged",
-   "last_success_utc": "2026-11-19T03:25:39Z"
+   "last_success_utc": "2026-11-20T03:12:42Z"
   }
  },
- "last_run_utc": "2026-11-19T03:25:39Z"
+ "last_run_utc": "2026-11-20T03:12:42Z"
 }
