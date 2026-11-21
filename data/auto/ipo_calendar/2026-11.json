@@ -1,7 +1,25 @@
 {
  "month": "2026-11",
- "fetched_utc": "2026-11-18T03:43:06Z",
+ "fetched_utc": "2026-11-21T03:12:24Z",
  "priced": [
+  {
+   "ticker": "ANT",
+   "name": "Anthropic, PBC",
+   "exchange": "NASDAQ Global Select",
+   "price": "83.00",
+   "shares": "980,000,000",
+   "priced_date": "2026-11-19",
+   "offer_usd": 81340000000.0
+  },
+  {
+   "ticker": "WWB",
+   "name": "WINDWARD BIO GROUP AG",
+   "exchange": "NASDAQ Global",
+   "price": "17.00",
+   "shares": "10,294,117",
+   "priced_date": "2026-11-13",
+   "offer_usd": 174999989.0
+  },
   {
    "ticker": "MDRN",
    "name": "Modern Mining Technology Corp.",
@@ -19,15 +37,6 @@
    "shares": "9,722,223",
    "priced_date": "2026-11-13",
    "offer_usd": 175000014.0
-  },
-  {
-   "ticker": "WWB",
-   "name": "WINDWARD BIO GROUP AG",
-   "exchange": "NASDAQ Global",
-   "price": "17.00",
-   "shares": "10,294,117",
-   "priced_date": "2026-11-13",
-   "offer_usd": 174999989.0
   },
   {
    "ticker": "NARA",
