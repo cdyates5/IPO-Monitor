@@ -1,14 +1,4 @@
 {
- "fetched_utc": "2026-11-21T03:12:25Z",
- "rows": [
-  {
-   "ticker": "FBLLU",
-   "name": "Football Manager SPAC Inc.",
-   "exchange": "NASDAQ Global",
-   "price_range": "10.00",
-   "shares": "10,000,000",
-   "expected_date": "2026-11-20",
-   "offer_usd": 115000000.0
-  }
- ]
+ "fetched_utc": "2026-11-24T06:00:10Z",
+ "rows": []
 }
