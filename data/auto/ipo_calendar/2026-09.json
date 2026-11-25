@@ -1,6 +1,6 @@
 {
  "month": "2026-09",
- "fetched_utc": "2026-10-29T04:56:27Z",
+ "fetched_utc": "2026-11-25T04:53:49Z",
  "priced": [
   {
    "ticker": "ACCV",
@@ -16,7 +16,7 @@
    "name": "ROZE AI INC.",
    "exchange": "NASDAQ Capital",
    "price": null,
-   "shares": "13,878,565",
+   "shares": "18,138,565",
    "priced_date": "2026-09-29",
    "offer_usd": 0.0
   },
