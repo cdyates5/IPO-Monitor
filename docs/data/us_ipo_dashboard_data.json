@@ -1,7 +1,7 @@
 {
- "as_of": "2026-11-26",
- "as_of_label": "26 Nov 2026",
- "generated_utc": "2026-11-26 04:09 UTC",
+ "as_of": "2026-11-27",
+ "as_of_label": "27 Nov 2026",
+ "generated_utc": "2026-11-27 04:14 UTC",
  "current_quarter": "Q4 2026",
  "window": "Q4 2026 – Q3 2027",
  "sp500_latest": {
@@ -3694,10 +3694,10 @@
    "nyse": 2,
    "nasdaq": 8,
    "mega_n": 1,
-   "base_mcap": 36.0,
+   "base_mcap": 35.2,
    "mega_mcap": 1285.3722151462498,
    "mega_names": "Anthropic (ANT, Nasdaq) $1,285B first-day close",
-   "note": "QTD to 2026-11-26: 8 calendar deals, $1.4B (≈5.3 Ritter-eq., $9B mkt cap) + 38% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo).",
+   "note": "QTD to 2026-11-27: 8 calendar deals, $1.4B (≈5.3 Ritter-eq., $9B mkt cap) + 37% of forecast (12 IPOs, $70B). Subdued tape: Fed hikes, 19-year-high Treasury yields, late-Q3 postponements (Oura, Holtec, Bamboo).",
    "cal_count": 8,
    "cal_proceeds_bn": 1.44,
    "status": "in_progress",
@@ -3705,10 +3705,10 @@
    "mega_listed": true,
    "base_count": 10,
    "total_count": 11,
-   "total_mcap": 1321.4,
-   "base_ratio": 0.056,
+   "total_mcap": 1320.6,
+   "base_ratio": 0.055,
    "mega_ratio": 1.998,
-   "total_ratio": 2.054
+   "total_ratio": 2.053
   },
   {
    "q": "Q1 2027",
@@ -4294,36 +4294,36 @@
   "sources": {
    "calendar": {
     "ok": true,
-    "utc": "2026-11-26T04:09:02Z",
+    "utc": "2026-11-27T04:14:10Z",
     "message": "3 month(s) fetched",
-    "last_success_utc": "2026-11-26T04:09:02Z"
+    "last_success_utc": "2026-11-27T04:14:10Z"
    },
    "spy": {
     "ok": true,
-    "utc": "2026-11-26T04:09:03Z",
+    "utc": "2026-11-27T04:14:14Z",
     "message": "8 closes (latest 2026-11-25)",
-    "last_success_utc": "2026-11-26T04:09:03Z"
+    "last_success_utc": "2026-11-27T04:14:14Z"
    },
    "quotes": {
     "ok": true,
-    "utc": "2026-11-26T04:09:12Z",
+    "utc": "2026-11-27T04:14:23Z",
     "message": "SPCX: first 2026-06-12 @ 160.95, last 2026-11-25 @ 127.44; ANT: first 2026-11-19 @ 97.17, last 2026-11-25 @ 82.79",
-    "last_success_utc": "2026-11-26T04:09:12Z"
+    "last_success_utc": "2026-11-27T04:14:23Z"
    },
    "ritter": {
     "ok": true,
-    "utc": "2026-11-26T04:09:13Z",
+    "utc": "2026-11-27T04:14:24Z",
     "message": "unchanged",
-    "last_success_utc": "2026-11-26T04:09:13Z"
+    "last_success_utc": "2026-11-27T04:14:24Z"
    }
   },
-  "last_run_utc": "2026-11-26T04:09:13Z"
+  "last_run_utc": "2026-11-27T04:14:24Z"
  },
  "ritter_watch": {
   "url": "https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf",
   "sha256": "e837de9ae048ad1360fb3c89fddf854309243784d1df967081fb21c7fddc331e",
   "bytes": 1361488,
-  "checked_utc": "2026-11-26T04:09:13Z",
+  "checked_utc": "2026-11-27T04:14:24Z",
   "changed_utc": "2026-11-06T02:25:27Z",
   "edition_in_manual": "5 Oct 2026"
  },
