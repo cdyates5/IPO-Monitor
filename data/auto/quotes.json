@@ -6,10 +6,10 @@
   "first_close": 160.95,
   "last_date": "2026-11-25",
   "last_close": 127.44,
-  "market_cap": 1730770759075.0,
-  "previous_close": 125.81,
+  "market_cap": 1814294300885.0,
+  "previous_close": 127.44,
   "exchange": "NASDAQ-GS",
-  "checked_utc": "2026-11-27T04:14:18Z"
+  "checked_utc": "2026-11-28T03:54:51Z"
  },
  "ANT": {
   "trading": true,
@@ -18,9 +18,9 @@
   "first_close": 97.17,
   "last_date": "2026-11-25",
   "last_close": 82.79,
-  "market_cap": 1083445623974.0,
-  "previous_close": 81.905,
+  "market_cap": 1214620732319.0,
+  "previous_close": 82.79,
   "exchange": "NASDAQ-GS",
-  "checked_utc": "2026-11-27T04:14:23Z"
+  "checked_utc": "2026-11-28T03:54:55Z"
  }
 }
